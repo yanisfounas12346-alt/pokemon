@@ -1,0 +1,214 @@
+[
+  {
+    "repere": "VictoryRoad_1F_Text_WallyNotGoingToLoseAnymore",
+    "texte": "Timmy. {PLAYER} !\n\nDepuis Lavandia, Tarsal et moi\navons parcouru toutes ces routes.\n\nJe voudrais te montrer nos progrès.\nEs-tu prêt ?"
+  },
+  {
+    "repere": "VictoryRoad_1F_Text_WallyEntranceDefeat",
+    "texte": "Timmy. Tu as encore gagné,\n{PLAYER}."
+  },
+  {
+    "repere": "VictoryRoad_1F_Text_WallyIntro",
+    "texte": "Timmy. Bonjour, {PLAYER} !\n\nNous avons continué à travailler.\nAffronte-moi de nouveau."
+  },
+  {
+    "repere": "VictoryRoad_1F_Text_WallyDefeat",
+    "texte": "Timmy. Tu nous as encore battus."
+  },
+  {
+    "repere": "VictoryRoad_1F_Text_WallyPostBattle",
+    "texte": "Timmy. Nous allons nous entraîner.\n\nUn jour, nous entrerons aussi\ndans la Ligue Pokémon."
+  },
+  {
+    "repere": "VictoryRoad_1F_Text_EdgarIntro",
+    "texte": "J'ai déjà parcouru cette grotte.\n\nLa dernière partie me paraît\ntoujours aussi longue."
+  },
+  {
+    "repere": "VictoryRoad_1F_Text_EdgarDefeat",
+    "texte": "Je vais devoir faire une pause."
+  },
+  {
+    "repere": "VictoryRoad_1F_Text_EdgarPostBattle",
+    "texte": "Tu peux continuer.\n\nJe retrouverai mes forces ici."
+  },
+  {
+    "repere": "VictoryRoad_1F_Text_AlbertIntro",
+    "texte": "Je suis venu jusqu'à Éternara.\n\nJe veux encore tenter ma chance."
+  },
+  {
+    "repere": "VictoryRoad_1F_Text_AlbertDefeat",
+    "texte": "Je pensais être prêt."
+  },
+  {
+    "repere": "VictoryRoad_1F_Text_AlbertPostBattle",
+    "texte": "Il faudra revoir mon équipe.\n\nLa Ligue attendra."
+  },
+  {
+    "repere": "VictoryRoad_1F_Text_HopeIntro",
+    "texte": "On est presque au bout du chemin.\n\nFaisons un dernier combat."
+  },
+  {
+    "repere": "VictoryRoad_1F_Text_HopeDefeat",
+    "texte": "Tu as bien préparé tes Pokémon."
+  },
+  {
+    "repere": "VictoryRoad_1F_Text_HopePostBattle",
+    "texte": "Bonne route jusqu'à la Ligue."
+  },
+  {
+    "repere": "VictoryRoad_1F_Text_QuincyIntro",
+    "texte": "Tu sais pourquoi cette grotte\nporte ce nom ?"
+  },
+  {
+    "repere": "VictoryRoad_1F_Text_QuincyDefeat",
+    "texte": "Tu as gagné."
+  },
+  {
+    "repere": "VictoryRoad_1F_Text_QuincyPostBattle",
+    "texte": "La Route Victoire est la dernière\népreuve avant la Ligue.\n\nIl faut encore trouver la sortie."
+  },
+  {
+    "repere": "VictoryRoad_1F_Text_KatelynnIntro",
+    "texte": "Nous avons tous traversé Hoenn.\n\nVoyons ce que tu as appris."
+  },
+  {
+    "repere": "VictoryRoad_1F_Text_KatelynnDefeat",
+    "texte": "Je ne peux plus continuer."
+  },
+  {
+    "repere": "VictoryRoad_1F_Text_KatelynnPostBattle",
+    "texte": "Poursuis ton chemin.\n\nLa sortie est plus loin."
+  },
+  {
+    "repere": "VictoryRoad_B1F_Text_SamuelIntro",
+    "texte": "La Ligue est proche.\n\nJe n'arrive plus à penser\nà autre chose."
+  },
+  {
+    "repere": "VictoryRoad_B1F_Text_SamuelDefeat",
+    "texte": "Je n'ai pas trouvé mes gestes."
+  },
+  {
+    "repere": "VictoryRoad_B1F_Text_SamuelPostBattle",
+    "texte": "Je vais retourner au Centre Pokémon.\n\nJ'ai besoin de repos."
+  },
+  {
+    "repere": "VictoryRoad_B1F_Text_ShannonIntro",
+    "texte": "Mes Pokémon me suivent\ndepuis le premier village."
+  },
+  {
+    "repere": "VictoryRoad_B1F_Text_ShannonDefeat",
+    "texte": "Les tiens connaissent tes gestes."
+  },
+  {
+    "repere": "VictoryRoad_B1F_Text_ShannonPostBattle",
+    "texte": "On apprend à se comprendre\nen parcourant les mêmes chemins."
+  },
+  {
+    "repere": "VictoryRoad_B1F_Text_MichelleIntro",
+    "texte": "Ce n'est pas encore la Ligue.\n\nIl reste quelques passages."
+  },
+  {
+    "repere": "VictoryRoad_B1F_Text_MichelleDefeat",
+    "texte": "Tu peux aller plus loin."
+  },
+  {
+    "repere": "VictoryRoad_B1F_Text_MichellePostBattle",
+    "texte": "Tes Pokémon semblent encore\navoir des forces."
+  },
+  {
+    "repere": "VictoryRoad_B1F_Text_MitchellIntro",
+    "texte": "Les pierres brillent ici.\n\nMes Pokémon les regardent souvent."
+  },
+  {
+    "repere": "VictoryRoad_B1F_Text_MitchellDefeat",
+    "texte": "Tu as bien combattu."
+  },
+  {
+    "repere": "VictoryRoad_B1F_Text_MitchellPostBattle",
+    "texte": "Je vais rester près de ces pierres\navant de reprendre la route."
+  },
+  {
+    "repere": "VictoryRoad_B1F_Text_HalleIntro",
+    "texte": "Ne te presse pas.\n\nNous avons le temps de combattre."
+  },
+  {
+    "repere": "VictoryRoad_B1F_Text_HalleDefeat",
+    "texte": "Tu es bien préparé."
+  },
+  {
+    "repere": "VictoryRoad_B1F_Text_HallePostBattle",
+    "texte": "Cette route est faite de pierres\ncomme toutes les autres.\n\nOn peut aussi s'y reposer."
+  },
+  {
+    "repere": "VictoryRoad_B2F_Text_VitoIntro",
+    "texte": "Toute ma famille s'entraîne\nensemble, sur la Route 111.\n\nJe veux leur rapporter une victoire."
+  },
+  {
+    "repere": "VictoryRoad_B2F_Text_VitoDefeat",
+    "texte": "Ils vont être surpris..."
+  },
+  {
+    "repere": "VictoryRoad_B2F_Text_VitoPostBattle",
+    "texte": "Je n'avais encore jamais perdu.\n\nJe vais écrire à ma famille.\nElle attend de mes nouvelles."
+  },
+  {
+    "repere": "VictoryRoad_B2F_Text_OwenIntro",
+    "texte": "On m'a parlé d'un jeune Dresseur\nqui a traversé les huit arènes."
+  },
+  {
+    "repere": "VictoryRoad_B2F_Text_OwenDefeat",
+    "texte": "C'était donc toi."
+  },
+  {
+    "repere": "VictoryRoad_B2F_Text_OwenPostBattle",
+    "texte": "On dit qu'il est passé\npar Clémenti-Ville."
+  },
+  {
+    "repere": "VictoryRoad_B2F_Text_CarolineIntro",
+    "texte": "Tes Pokémon ont-ils encore\nassez de forces ?"
+  },
+  {
+    "repere": "VictoryRoad_B2F_Text_CarolineDefeat",
+    "texte": "Ils tiennent encore debout."
+  },
+  {
+    "repere": "VictoryRoad_B2F_Text_CarolinePostBattle",
+    "texte": "La Ligue est une longue épreuve.\n\nSoigne ton équipe avant d'entrer."
+  },
+  {
+    "repere": "VictoryRoad_B2F_Text_JulieIntro",
+    "texte": "Les badges ouvrent des portes.\n\nIls ne gagnent pas les combats."
+  },
+  {
+    "repere": "VictoryRoad_B2F_Text_JulieDefeat",
+    "texte": "Tu as gagné celui-ci."
+  },
+  {
+    "repere": "VictoryRoad_B2F_Text_JuliePostBattle",
+    "texte": "Regarde encore tes badges.\n\nSouviens-toi de chaque personne\nqui te les a remis."
+  },
+  {
+    "repere": "VictoryRoad_B2F_Text_FelixIntro",
+    "texte": "Je suis arrivé jusqu'ici.\n\nJ'ai pourtant du mal à avancer."
+  },
+  {
+    "repere": "VictoryRoad_B2F_Text_FelixDefeat",
+    "texte": "Il me faut une pause."
+  },
+  {
+    "repere": "VictoryRoad_B2F_Text_FelixPostBattle",
+    "texte": "Je vais m'asseoir un moment.\n\nLa Ligue sera toujours là demain."
+  },
+  {
+    "repere": "VictoryRoad_B2F_Text_DianneIntro",
+    "texte": "Les Dresseurs se retrouvent ici\navant la dernière épreuve."
+  },
+  {
+    "repere": "VictoryRoad_B2F_Text_DianneDefeat",
+    "texte": "Tu es prêt à poursuivre."
+  },
+  {
+    "repere": "VictoryRoad_B2F_Text_DiannePostBattle",
+    "texte": "Bonne route.\n\nIl ne reste plus que quelques pas."
+  }
+]
