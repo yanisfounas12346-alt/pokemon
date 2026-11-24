@@ -1,0 +1,402 @@
+[
+  {
+    "repere": "DewfordTown_Text_TinyIslandCommunity",
+    "texte": "À Myokara, les nouvelles arrivent\navec les bateaux.\n\nLe soir, tout le monde répète\ndéjà les mêmes mots."
+  },
+  {
+    "repere": "DewfordTown_Text_TownSign",
+    "texte": "Myokara. Quartier des traversées.\n\nLes amarres doivent rester libres."
+  },
+  {
+    "repere": "DewfordTown_Text_GymSign",
+    "texte": "Arène de Myokara.\nChampion : Bastien.\n\nRegistre des eaux, deuxième pièce."
+  },
+  {
+    "repere": "DewfordTown_Text_HallSign",
+    "texte": "Centre culturel de Myokara.\n\nLes nouvelles se partagent ici."
+  },
+  {
+    "repere": "DewfordTown_Text_SetSailBackToPetalburg",
+    "texte": "As-tu remis la lettre à Pierre ?\n\nVeux-tu retourner à Clémenti-Ville ?"
+  },
+  {
+    "repere": "DewfordTown_Text_PetalburgWereSettingSail2",
+    "texte": "Cap sur Clémenti-Ville !\n\nPiko, à bord. Je largue les amarres."
+  },
+  {
+    "repere": "DewfordTown_Text_GoDeliverIllBeWaiting",
+    "texte": "Va remettre ta lettre.\n\nJe t'attends près du bateau."
+  },
+  {
+    "repere": "DewfordTown_Text_BrineyLandedInDewford",
+    "texte": "Nous voici à Myokara.\n\nPréviens-moi quand tu voudras\nreprendre la mer."
+  },
+  {
+    "repere": "DewfordTown_Text_WhereAreWeBound",
+    "texte": "Marco. Le bateau est prêt.\n\nOù veux-tu aller ?"
+  },
+  {
+    "repere": "DewfordTown_Text_PetalburgWereSettingSail",
+    "texte": "Clémenti-Ville, alors.\n\nPiko, on lève l'ancre !"
+  },
+  {
+    "repere": "DewfordTown_Text_SlateportWereSettingSail",
+    "texte": "Cap sur Poivressel.\n\nPiko, monte avant que je détache\nla dernière corde."
+  },
+  {
+    "repere": "DewfordTown_Text_JustTellMeWhenYouNeedToSetSail",
+    "texte": "Je reste près du bateau.\nAppelle-moi quand tu veux partir."
+  },
+  {
+    "repere": "DewfordTown_Text_GettingItchToFish",
+    "texte": "Les poissons viennent près du quai.\n\nTu aimerais apprendre à pêcher ?"
+  },
+  {
+    "repere": "DewfordTown_Text_GiveYouOneOfMyRods",
+    "texte": "Tiens, je te donne une Canne.\n\nJ'en ai une autre à la maison."
+  },
+  {
+    "repere": "DewfordTown_Text_ThrowInFishingAdvice",
+    "texte": "Place-toi face à l'eau et utilise\nla Canne.\n\nAppuie sur A quand ça mord.\nIl faut parfois recommencer.\n\nNe tire pas avant de sentir\nla prise."
+  },
+  {
+    "repere": "DewfordTown_Text_ThatsTooBadThen",
+    "texte": "Tu préfères regarder la mer ?\nReviens si tu changes d'avis."
+  },
+  {
+    "repere": "DewfordTown_Text_HowsYourFishing",
+    "texte": "Alors, comment va la pêche ?"
+  },
+  {
+    "repere": "DewfordTown_Text_GreatHaulInSomeBigOnes",
+    "texte": "Bien ! Je te souhaite de bonnes\nprises."
+  },
+  {
+    "repere": "DewfordTown_Text_FishingAdvice",
+    "texte": "Face à l'eau, utilise la Canne.\n\nAppuie sur A quand ça mord.\nRépète si nécessaire pour ramener\nla prise."
+  },
+  {
+    "repere": "DewfordTown_Text_XIsTheBiggestHappeningThingRight",
+    "texte": "Tu as entendu les derniers mots\narrivés sur l'île ?\n\n{STR_VAR_1} ! Tout le monde en parle.\nC'est aussi la mode chez toi ?"
+  },
+  {
+    "repere": "DewfordTown_Text_TellMeWhatsNewAndIn",
+    "texte": "Ah, ce n'est plus la mode ?\n\nDis-moi quels mots circulent\nmaintenant."
+  },
+  {
+    "repere": "DewfordTown_Text_OfCourseIKnowAboutThat",
+    "texte": "{STR_VAR_2} ? Mais oui, bien sûr !\n\n{STR_VAR_1}, c'était hier.\n\nJe vais dire aux autres que c'est\n{STR_VAR_2} maintenant."
+  },
+  {
+    "repere": "DewfordTown_Text_XHuhIThinkYIsCool",
+    "texte": "{STR_VAR_2} ? Je vois.\n\nJe préfère encore {STR_VAR_1}."
+  },
+  {
+    "repere": "DewfordTown_Text_HearOfAnyTrendsComeShareWithMe",
+    "texte": "Si tu entends de nouveaux mots\nsur le continent, rapporte-les ici."
+  },
+  {
+    "repere": "DewfordTown_Text_YeahDefinitionOfInRightNow",
+    "texte": "Oui, {STR_VAR_1} !\n\nC'est ce qu'on entend partout."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_GymGuideAdvice",
+    "texte": "Bastien utilise le type Combat.\n\nIl est efficace contre le type\nNormal. Prépare ton équipe.\n\nL'arène est sombre. Chaque victoire\néclairera un peu plus le chemin."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_GymGuidePostVictory",
+    "texte": "Tout est éclairé maintenant.\n\nTu as trouvé la deuxième pièce."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_TakaoIntro",
+    "texte": "J'ai porté des sacs toute ma vie.\n\nVoyons la force de tes Pokémon."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_TakaoDefeat",
+    "texte": "Mes forces n'ont pas suffi."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_TakaoPostBattle",
+    "texte": "Tu sais mieux répartir tes efforts.\n\nJe vais reprendre l'entraînement."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_JocelynIntro",
+    "texte": "Avant Bastien, tu passes par moi.\n\nPrépare tes Pokémon."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_JocelynDefeat",
+    "texte": "Comment as-tu fait ?\nJe n'ai pas vu venir ce coup."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_JocelynPostBattle",
+    "texte": "Je reviendrai m'entraîner demain.\n\nJ'aimerais devenir championne\nun jour."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_LauraIntro",
+    "texte": "Dans le noir, on entend mieux\nles pas. Je t'ai entendu arriver."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_LauraDefeat",
+    "texte": "J'ai perdu...\nJe croyais connaître ce passage."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_LauraPostBattle",
+    "texte": "Je m'entraîne dans le noir.\n\nJe reconnais Bastien à sa voix,\npas à son visage."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_LilithIntro",
+    "texte": "Attention à la marche.\n\nJe vais te défier ici."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_LilithDefeat",
+    "texte": "Tu as gagné. Passe."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_LilithPostBattle",
+    "texte": "Suis la lumière, sinon tu risques\nde revenir à l'entrée."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_BrendenIntro",
+    "texte": "J'ai appris à me tenir debout\nsur le pont d'un bateau.\n\nVoyons ce que tu sais faire."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_BrendenDefeat",
+    "texte": "Je n'avais pas prévu cette attaque."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_BrendenPostBattle",
+    "texte": "Tu peux te présenter devant\nnotre champion."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_CristianIntro",
+    "texte": "Pour atteindre la salle suivante,\nil faut d'abord me battre."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_CristianDefeat",
+    "texte": "Je n'ai plus rien à ajouter."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_CristianPostBattle",
+    "texte": "Va chercher ton badge.\nLe champion est devant toi."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_BrawlyIntro",
+    "texte": "Bastien. Je garde la deuxième\npièce du registre.\n\nElle est arrivée du continent\ndans une caisse de bouteilles.\n\nAffronte-moi. Après le combat,\ntu pourras la consulter."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_BrawlyDefeat",
+    "texte": "Bastien reprend son souffle.\n\nTu as gagné. Tiens, le Badge Poing.\nJe vais sortir la pièce."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_ReceivedKnuckleBadge",
+    "texte": "{PLAYER} reçoit le Badge Poing !"
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_ExplainBulkUp",
+    "texte": "La CT08 contient Gonflette.\n\nElle augmente l'Attaque et la\nDéfense de celui qui l'utilise."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_RegisteredBrawly",
+    "texte": "Bastien est enregistré\ndans le PokéNav."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_BrawlyPostBattle",
+    "texte": "On parle encore de ton combat\nsur les quais."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_GymStatue",
+    "texte": "Arène Pokémon de Myokara."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_GymStatueCertified",
+    "texte": "Arène Pokémon de Myokara.\n\nDresseur reconnu par Bastien :\n{PLAYER}."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_BrawlyPreRematch",
+    "texte": "Tu es revenu à Myokara.\n\nNous avons continué à nous\nentraîner. Montre-moi tes progrès."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_BrawlyRematchDefeat",
+    "texte": "Tu as encore gagné.\nJe vais devoir revoir mes appuis."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_BrawlyPostRematch",
+    "texte": "Sur la mer comme en combat,\non n'a jamais fini d'apprendre."
+  },
+  {
+    "repere": "DewfordTown_Gym_Text_BrawlyRematchNeedTwoMons",
+    "texte": "Il faut au moins deux Pokémon\naptes au combat pour cette épreuve.\n\nReviens avec ton équipe prête."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_CantImagineLifeWithoutTrend",
+    "texte": "{STR_VAR_1}, bien sûr !\n\nHier encore, personne n'en parlait.\nAujourd'hui, c'est partout."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_GettingBoredOfTrend",
+    "texte": "On parle toujours de {STR_VAR_1}.\n\nJ'aimerais entendre autre chose."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_TeachingMonAboutTrend",
+    "texte": "J'essaie d'apprendre ces mots\nà mon Pokémon : {STR_VAR_1}.\n\nIl me regarde sans comprendre."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_DeepLinkBetweenXAndY",
+    "texte": "Je compare {STR_VAR_1}\net {STR_VAR_2}.\n\nTu crois qu'il y a un lien ?"
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_MyHunchWasRight",
+    "texte": "Ah, j'avais donc raison !\nJe vais le noter dans mon cahier."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_NotEasyToKeepUp",
+    "texte": "Je me suis trompé ?\n\nLes nouvelles changent trop vite."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_TVShowAboutTrend",
+    "texte": "Il y a sûrement une émission\nsur {STR_VAR_1}.\n\nIl faudrait regarder ce soir."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_IsTrendMorePopularAcrossSea",
+    "texte": "Tu crois qu'on parle davantage de\n{STR_VAR_1} sur le continent ?"
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_CollectTrendMerchandise",
+    "texte": "Je collectionne tout ce qui porte\nles mots {STR_VAR_1}.\n\nDes poupées, des habits, des photos.\nJ'ai gardé tous les tickets."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_BooksAboutTrend",
+    "texte": "Des livres sur {STR_VAR_1}.\n\nLes titres se ressemblent tous.\nLes prix, un peu moins."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_TrendsScream",
+    "texte": "Titre : Le cri de {STR_VAR_1}."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_TrendsSmile",
+    "texte": "Titre : Le sourire de {STR_VAR_1}."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_LastTrend",
+    "texte": "Titre : Le dernier {STR_VAR_1}."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_BirthOfTrend",
+    "texte": "Titre : Naissance de {STR_VAR_1}."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_SawTrendCoolestThing",
+    "texte": "J'ai vu {STR_VAR_1} aujourd'hui !\n\nJ'ai couru jusqu'ici pour le dire."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_AllegedTrendNotAuthentic",
+    "texte": "Ce n'était pas le vrai, voyons.\n\nLe vrai {STR_VAR_1} est bien plus\nprécis. Je le reconnaîtrais."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_ComposedTrendThemeSong",
+    "texte": "J'ai écrit une chanson.\nÉcoute un peu.\n\nOh, {STR_VAR_1} !\nReviens demain, {STR_VAR_1} !"
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_WorkOnYourSinging",
+    "texte": "Avant de chanter {STR_VAR_1},\nil faudrait trouver le bon ton."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_OrganizeTrendParty",
+    "texte": "On pourrait organiser une fête\npour {STR_VAR_1}.\n\nIl reste des guirlandes au grenier."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_BrilliantIndeed",
+    "texte": "Bonne idée ! Chacun apportera\nce qu'il sait sur {STR_VAR_1}.\n\nJe réserve la salle."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_TrendHasBecomePartOfLife",
+    "texte": "On disait que {STR_VAR_1}\nne durerait qu'une semaine.\n\nMaintenant, c'est dans toutes\nnos conversations."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_TrendWeighsHeavilyOnMind",
+    "texte": "Tu en sais beaucoup sur\n{STR_VAR_1}.\n\nMême la nuit, j'y pense encore."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_IfWeTeamUpWellBeInvincible",
+    "texte": "On pourrait réunir nos notes\nsur {STR_VAR_1}.\n\nÀ deux, on en saurait davantage."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_WellBeTrendDuo",
+    "texte": "D'accord, nous serons le duo\n{STR_VAR_1} !\n\nJe vais préparer deux cahiers."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_GiveYouSludgeBomb",
+    "texte": "Tu connais Bomb-Beurk ?\n\nJ'ai une CT qui contient cette\ncapacité. Prends-la."
+  },
+  {
+    "repere": "DewfordTown_Hall_Text_LoveSludgeBombButTrendInToo",
+    "texte": "Je préfère encore Bomb-Beurk.\n\nMais {STR_VAR_1}, ça me plaît aussi."
+  },
+  {
+    "repere": "DewfordTown_House1_Text_LotToBeSaidForLivingOnIsland",
+    "texte": "Sur une petite île, on sait\nqui a manqué une traversée.\n\nOn va voir chez lui le lendemain."
+  },
+  {
+    "repere": "DewfordTown_House1_Text_LifeGoesSlowlyOnIsland",
+    "texte": "J'ai quitté Poivressel pour vivre ici.\n\nJe reconnais chaque bateau qui\npasse devant la fenêtre."
+  },
+  {
+    "repere": "DewfordTown_House1_Text_Zigzagoon",
+    "texte": "Zigzaton. Zaaaton !"
+  },
+  {
+    "repere": "DewfordTown_House2_Text_WantYouToHaveSilkScarf",
+    "texte": "Regarde ce Mouch. Soie.\n\nJ'en ai deux. Celui-ci est à toi,\nsi tu en veux."
+  },
+  {
+    "repere": "DewfordTown_House2_Text_NoRoom",
+    "texte": "Tu n'as plus de place dans ton sac.\n\nJe vais le garder pour toi."
+  },
+  {
+    "repere": "DewfordTown_House2_Text_ExplainSilkScarf",
+    "texte": "Le Mouch. Soie renforce les\nattaques de type Normal\n\ndu Pokémon qui le tient."
+  },
+  {
+    "repere": "DewfordTown_House2_Text_BrawlySoCool",
+    "texte": "Tu as traversé pour voir Bastien ?\n\nIl aide parfois à tirer les barques\nquand la marée se retire."
+  },
+  {
+    "repere": "DewfordTown_PokemonCenter_1F_Text_StoneCavern",
+    "texte": "Il y a une grotte près de l'île.\n\nLes chercheurs y trouvent parfois\ndes pierres rares."
+  },
+  {
+    "repere": "DewfordTown_PokemonCenter_1F_Text_FaintedMonCanUseHM",
+    "texte": "Même K.O., un Pokémon peut\nutiliser une CS hors combat.\n\nMais fais-le soigner dès que tu peux."
+  },
+  {
+    "repere": "GraniteCave_1F_Text_GetsDarkAheadHereYouGo",
+    "texte": "Il fait noir plus loin.\n\nPierre est passé avec Flash.\nIl a pu avancer sans difficulté.\n\nPrends cette CS. Je ne veux pas\nque tu te perdes dans les galeries."
+  },
+  {
+    "repere": "GraniteCave_1F_Text_ExplainFlash",
+    "texte": "Apprends Flash à un Pokémon.\n\nAvec le Badge Poing de Myokara,\ntu pourras éclairer les grottes."
+  },
+  {
+    "repere": "GraniteCave_StevensRoom_Text_ThankYouTakeThis",
+    "texte": "Pierre replie la lettre.\n\nMerci d'avoir fait la traversée.\n\nPrends cette CT : Aile d'Acier."
+  },
+  {
+    "repere": "GraniteCave_StevensRoom_Text_CouldBecomeChampionLetsRegister",
+    "texte": "Tes Pokémon semblent bien entraînés.\n\nTu pourras peut-être aller jusqu'à\nla Ligue.\n\nÉchangeons nos numéros de PokéNav.\nJe te dirai si je trouve une piste."
+  },
+  {
+    "repere": "GraniteCave_StevensRoom_Text_RegisteredSteven",
+    "texte": "Pierre est enregistré\ndans le PokéNav."
+  },
+  {
+    "repere": "GraniteCave_StevensRoom_Text_IveGotToHurryAlong",
+    "texte": "Je dois partir avec cette copie.\n\nLe bateau n'attendra pas."
+  },
+  {
+    "repere": "GraniteCave_StevensRoom_Text_OhBagIsFull",
+    "texte": "Ton sac est plein.\n\nJe ne peux pas te donner la CT."
+  },
+  {
+    "repere": "Route104_Text_LandedInDewfordDeliverLetter",
+    "texte": "Marco. Nous voilà à Myokara.\n\nVa porter la lettre à Pierre.\nJe reste près du quai."
+  }
+]
