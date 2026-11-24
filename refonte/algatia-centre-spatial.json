@@ -1,0 +1,206 @@
+[
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_RocketLaunchImminent",
+    "texte": "Le lancement est imminent."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_SuccessfulLaunchNumber",
+    "texte": "Lancement n° {STR_VAR_1} réussi !\n\nLa fusée est partie sans incident."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_HaywireButRocketLaunchImminent",
+    "texte": "Malgré les perturbations,\nle lancement reste imminent."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_HaywireButSuccessfulLaunchNumber",
+    "texte": "Malgré les perturbations,\nla fusée est partie sans incident.\n\nLancement n° {STR_VAR_1} réussi !"
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_RocketLaunchDemandsPerfection",
+    "texte": "Chaque équipe signe ses vérifications.\n\nUne seule pièce mal contrôlée\npeut annuler le départ.\n\nOn recommence jusqu'à ce que\ntout soit en ordre."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_MagmaHaveSightsOnSpaceCenter",
+    "texte": "Les Trumps convoitent nos réserves.\n\nNous devons protéger le personnel\net préparer le lancement."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_FoundThisYouCanHaveIt",
+    "texte": "J'ai trouvé cette pierre sur la plage.\n\nPrends-la si elle te plaît."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_HoennFamousForMeteorShowers",
+    "texte": "Les anciens relevés de Hoenn\nmentionnent des pluies de météores."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_MagmaCantStealFuelTakeThis",
+    "texte": "Les réserves doivent rester ici.\n\nAu fait, j'ai trouvé cette pierre\nsur la plage. Elle est à toi."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_CantStrollOnBeachWithMagma",
+    "texte": "Depuis l'arrivée des Trumps,\nje ne vais plus sur la plage."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_DidPokemonComeFromSpace",
+    "texte": "Certains Pokémon viennent-ils\nde l'espace ?\n\nOn cherche encore des preuves."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_AquaShouldBeatMagma",
+    "texte": "Les Marks pourraient arrêter\nles Trumps.\n\nMais qui déciderait ensuite\nde l'usage des réserves ?"
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_RocketsBoggleMyMind",
+    "texte": "Des tonnes de métal quittent\nle sol grâce au travail de tous.\n\nJ'aimerais voir la Terre de là-haut."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_MagmaWantsToSpoilMyDream",
+    "texte": "Les Trumps veulent interrompre\nle lancement.\n\nJe voudrais que les équipes\npuissent terminer leur travail."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_StevenMagmaCantBeAllowedToTakeFuel",
+    "texte": "Pierre. {PLAYER}, as-tu lu la lettre ?\n\nLes Trumps réclament le carburant.\nIls ne peuvent pas le prendre.\n\nJe vais rester ici pour surveiller.\nTu peux visiter l'île en attendant."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_Grunt3Intro",
+    "texte": "Nous sommes venus chercher\nle carburant, comme annoncé."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_Grunt3Defeat",
+    "texte": "Je n'ai pas réussi à te retenir."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_Grunt3PostBattle",
+    "texte": "Les autres équipes sont à l'étage."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_Grunt1Intro",
+    "texte": "On t'avait demandé de rester\nhors de cette affaire."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_Grunt1Defeat",
+    "texte": "Je n'ai pas prévu cette défaite."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_Grunt1PostBattle",
+    "texte": "La lettre n'a servi à rien."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_Grunt4Intro",
+    "texte": "On nous a demandé d'emporter\nles réserves de carburant."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_Grunt4Defeat",
+    "texte": "Je vais devoir laisser les caisses."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_Grunt4PostBattle",
+    "texte": "Je ne connais pas leur destination.\n\nOn nous l'expliquera au départ."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_Grunt2Intro",
+    "texte": "Max a demandé que personne\nne passe par ici."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_Grunt2Defeat",
+    "texte": "Je ne peux plus te retenir."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_Grunt2PostBattle",
+    "texte": "Dis-lui que je suis resté\nà mon poste."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_1F_Text_MagmaIntentToStealNotice",
+    "texte": "Au personnel du Centre Spatial.\n\nNous viendrons prendre les réserves\nde carburant de votre fusée.\n\nNe cherchez pas à nous arrêter.\nPour les terres nouvelles.\n\nLes Trumps."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_2F_Text_MossdeepIdealForRockets",
+    "texte": "Le ciel est souvent dégagé ici.\n\nLes vents favorisent les départs."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_2F_Text_WhyWouldMagmaStealRocketFuel",
+    "texte": "Pourquoi les Trumps réclament-ils\nnos réserves de carburant ?"
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_2F_Text_WouldveLikedToBeAstronaut",
+    "texte": "J'aurais aimé devenir astronaute.\n\nJe peux encore apprendre."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_2F_Text_MagmaCantGetAwayWithThis",
+    "texte": "Sans carburant, pas de lancement.\n\nDes années de travail seraient\nperdues."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_2F_Text_WishOrdinaryPeopleCouldGoIntoSpace",
+    "texte": "J'espère qu'un jour, le voyage\nne sera pas réservé à quelques-uns."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_2F_Text_DoesMagmaWantToGoToSpace",
+    "texte": "Pourquoi les Trumps ont-ils besoin\nde ce que nous utilisons ici ?"
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_2F_Text_YoureOutnumberedTakeUsOn",
+    "texte": "Nous sommes trois.\n\nVeux-tu vraiment nous affronter ?"
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_2F_Text_GoodAnswer",
+    "texte": "Très bien. Prépare-toi."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_2F_Text_Grunt5Intro",
+    "texte": "Je passe le premier."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_2F_Text_Grunt5Defeat",
+    "texte": "J'ai perdu. Il reste les autres."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_2F_Text_Grunt6Intro",
+    "texte": "C'est à mon tour."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_2F_Text_Grunt6Defeat",
+    "texte": "Je n'ai pas réussi non plus."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_2F_Text_Grunt7Intro",
+    "texte": "Il reste encore un combat."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_2F_Text_Grunt7Defeat",
+    "texte": "Nous aurions dû nous arrêter."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_2F_Text_Grunt6PostBattle",
+    "texte": "Nous étions trois contre toi."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_2F_Text_Grunt7PostBattle",
+    "texte": "Nous n'avons pas réussi à te retenir."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_2F_Text_Grunt5PostBattle",
+    "texte": "Je me demande ce qu'on attend\nencore de nous."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_2F_Text_WellTakeCareOfYou",
+    "texte": "Tu as encore suivi notre équipe.\n\nCette fois, nous allons te retenir."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_2F_Text_StevenAreYouReadyToBattle",
+    "texte": "Pierre. {PLAYER}, aide-moi.\n\nAffrontons-les ensemble.\nTon équipe est-elle prête ?"
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_2F_Text_StevenHurryGetReadyQuickly",
+    "texte": "Prépare vite tes Pokémon.\n\nJe t'attends ici."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_2F_Text_JustWantToExpandLand",
+    "texte": "Je voulais des terres pour\nceux qui n'en avaient pas."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_2F_Text_StevenThankYouComeSeeMeAtHome",
+    "texte": "Merci, {PLAYER}.\n\nJe voudrais te donner quelque chose.\nPasse chez moi, sur cette île."
+  },
+  {
+    "repere": "MossdeepCity_SpaceCenter_Text_TabithaDefeat",
+    "texte": "Je suis resté avec Max.\n\nJe n'ai pas su l'aider."
+  }
+]
