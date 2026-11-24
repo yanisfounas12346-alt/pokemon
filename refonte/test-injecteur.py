@@ -29,7 +29,7 @@ class TestUPS(unittest.TestCase):
         old, new = b"abcdef", b"abXdef!"
         body = b"UPS1" + number(len(old)) + number(len(new))
         body += number(2) + bytes([ord("c") ^ ord("X"), 0])
-        body += number(3) + b"!\0"
+        body += number(2) + b"!\0"
         body += struct.pack("<II", mod.crc(old), mod.crc(new))
         ups = body + struct.pack("<I", mod.crc(body))
         self.assertEqual(mod.apply_ups(old, ups), new)
