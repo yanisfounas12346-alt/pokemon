@@ -36,6 +36,25 @@ jobs:
           python3 refonte/audit-dialogues.py --source source-pokeemerald --rapport rapports/audit.json > rapports/audit.txt
       - name: Préparer le manifeste
         run: python3 refonte/preparer-integration.py --source source-pokeemerald --sortie rapports/manifeste.json
+      - name: Résumer les anomalies dans le journal
+        if: always()
+        run: |
+          python3 - <<'PY'
+          import json
+          from pathlib import Path
+          p = Path("rapports/audit.json")
+          if p.exists():
+              a = json.loads(p.read_text())
+              for c in a["cartes"]:
+                  if c["manquants"]:
+                      print("MANQUANTS", c["carte"], json.dumps(c["manquants"], ensure_ascii=False))
+              from collections import Counter
+              print("VARIABLES", dict(Counter(w["fichier"] for w in a["variables_a_verifier"])))
+              for w in a["variables_a_verifier"]:
+                  print("VAR", w["fichier"], w["repere"], json.dumps(w["origine"], ensure_ascii=False), json.dumps(w["refonte"], ensure_ascii=False))
+              for k in ("lignes_de_plus_de_36_caracteres", "pages_de_plus_de_deux_lignes", "doublons_json", "chevauchements_narratifs", "reperes_inconnus"):
+                  print(k, len(a[k]))
+          PY
       - name: Publier les rapports même en cas d'erreur
         if: always()
         uses: actions/upload-artifact@v4
