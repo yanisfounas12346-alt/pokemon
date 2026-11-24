@@ -37,7 +37,7 @@
   },
   {
     "repere": "Route110_TrickHouseEntrance_Text_TheyCallMeTrickMaster",
-    "texte": "On m'appelle le Maître des Pièges.\n\nJe construis des passages qui\nne mènent pas toujours où l'on croit."
+    "texte": "On m'appelle le Maître des Pièges.\n\nJe construis des passages qui ne\nmènent pas toujours où l'on croit."
   },
   {
     "repere": "Route110_TrickHouseEntrance_Text_ComeToChallengeTrickHouse",
@@ -93,11 +93,11 @@
   },
   {
     "repere": "Route110_TrickHouseEnd_Text_AllNightToPlantTrees",
-    "texte": "J'ai planté ces arbres toute la nuit.\n\nTu as trouvé les bons passages."
+    "texte": "J'ai planté ces arbres toute la\nnuit.\n\nTu as trouvé les bons passages."
   },
   {
     "repere": "Route110_TrickHouseEnd_Text_AllNightToMakeMaze",
-    "texte": "J'ai passé la nuit sur ce plan.\n\nTu as trouvé la sortie du labyrinthe."
+    "texte": "J'ai passé la nuit sur ce plan.\n\nTu as trouvé la sortie du\nlabyrinthe."
   },
   {
     "repere": "Route110_TrickHouseEnd_Text_AllNightToPreparePanels",
@@ -125,7 +125,7 @@
   },
   {
     "repere": "Route110_TrickHouseEnd_Text_FountainOfIdeasRunDry",
-    "texte": "Je n'ai plus d'idées pour les salles.\n\nIl faudrait que je sorte un peu\nde cette maison."
+    "texte": "Je n'ai plus d'idées pour les\nsalles.\n\nIl faudrait que je sorte un peu\nde cette maison."
   },
   {
     "repere": "Route110_TrickHouseEnd_Text_DefeatedMePreferWhichTent",
@@ -353,7 +353,7 @@
   },
   {
     "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz1",
-    "texte": "Quel est le plus cher ?\n\nTrois Lettres Port ou un Anti-Brûle ?"
+    "texte": "Quel est le plus cher ?\n\nTrois Lettres Port ou un Anti-Brûle\n?"
   },
   {
     "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz2",
@@ -361,7 +361,7 @@
   },
   {
     "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz3",
-    "texte": "Un Repousse et un Soda Cool\n\ncoûtent-ils plus qu'une Super Potion ?"
+    "texte": "Un Repousse et un Soda Cool\n\ncoûtent-ils plus qu'une Super Potion\n?"
   },
   {
     "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll4Intro",
@@ -373,7 +373,7 @@
   },
   {
     "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz2",
-    "texte": "À Vermilava, y avait-il plus de\nvieux messieurs ou de vieilles dames ?"
+    "texte": "À Vermilava, y avait-il plus de\nvieux messieurs ou de vieilles dames\n\n?"
   },
   {
     "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz3",
@@ -513,7 +513,7 @@
   },
   {
     "repere": "Route110_TrickHousePuzzle8_Text_VincentPostBattle",
-    "texte": "Tu as battu le Maître de la Ligue ?\n\nAlors tu as déjà vu toutes les portes."
+    "texte": "Tu as battu le Maître de la Ligue ?\n\nAlors tu as déjà vu toutes les\nportes."
   },
   {
     "repere": "Route110_TrickHousePuzzle8_Text_KeiraIntro",

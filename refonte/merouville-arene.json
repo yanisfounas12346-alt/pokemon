@@ -5,7 +5,7 @@
   },
   {
     "repere": "RustboroCity_Text_SneakyLookingManWentAroundCorner",
-    "texte": "Un homme a tourné au coin.\n\nIl serrait une sacoche sous son bras."
+    "texte": "Un homme a tourné au coin.\n\nIl serrait une sacoche sous son\nbras."
   },
   {
     "repere": "RustboroCity_Text_HaveYouChallengedGym",
@@ -37,7 +37,7 @@
   },
   {
     "repere": "RustboroCity_Text_CatchRarePokemonIfIGoToSchool",
-    "texte": "Si je vais à l'école des Dresseurs,\nje saurai attraper des Pokémon rares ?"
+    "texte": "Si je vais à l'école des Dresseurs,\nje saurai attraper des Pokémon rares\n\n?"
   },
   {
     "repere": "RustboroCity_Text_PokemonCanChangeLookFromExp",
@@ -281,7 +281,7 @@
   },
   {
     "repere": "RustboroCity_CuttersHouse_Text_YouCanPutThisHMToGoodUse",
-    "texte": "Tu as l'air de marcher loin.\n\nJ'ai une CS pour dégager les chemins.\nPrends-la, elle te servira."
+    "texte": "Tu as l'air de marcher loin.\n\nJ'ai une CS pour dégager les\nchemins. Prends-la, elle te servira."
   },
   {
     "repere": "RustboroCity_CuttersHouse_Text_ExplainCut",

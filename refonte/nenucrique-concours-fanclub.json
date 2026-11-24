@@ -9,7 +9,7 @@
   },
   {
     "repere": "LilycoveCity_ContestHall_Text_ManWhoWonEarlierHadPokeblocks",
-    "texte": "Le gagnant avait préparé plusieurs\nsortes de {POKEBLOCK}s.\n\nIl connaissait les goûts de son Pokémon."
+    "texte": "Le gagnant avait préparé plusieurs\nsortes de {POKEBLOCK}s.\n\nIl connaissait les goûts de son\nPokémon."
   },
   {
     "repere": "LilycoveCity_ContestHall_Text_IsntThisPlaceHumongous",
@@ -45,11 +45,11 @@
   },
   {
     "repere": "LilycoveCity_ContestHall_Text_AllSeemToUseDifferentMoves",
-    "texte": "Deux Pokémon de la même espèce\npeuvent présenter des capacités\ntrès différentes."
+    "texte": "Deux Pokémon de la même espèce\npeuvent présenter des capacités\n\ntrès différentes."
   },
   {
     "repere": "LilycoveCity_ContestHall_Text_PokemonSmarterThanTrainers",
-    "texte": "Les Pokémon ont parfois l'air\nde mieux comprendre les règles\nque leurs Dresseurs."
+    "texte": "Les Pokémon ont parfois l'air\nde mieux comprendre les règles\n\nque leurs Dresseurs."
   },
   {
     "repere": "LilycoveCity_ContestHall_Text_StillLoveSmartnessContests",
@@ -157,7 +157,7 @@
   },
   {
     "repere": "LilycoveCity_ContestLobby_Text_ShouldITakePaintingToMuseum",
-    "texte": "Que penses-tu de ce portrait ?\n\nLe musée cherche des tableaux ?\nVeux-tu que je lui propose celui-ci ?"
+    "texte": "Que penses-tu de ce portrait ?\n\nLe musée cherche des tableaux ?\nVeux-tu que je lui propose celui-ci\n\n?"
   },
   {
     "repere": "LilycoveCity_ContestLobby_Text_IllTakePaintingToMuseum",
@@ -209,7 +209,7 @@
   },
   {
     "repere": "LilycoveCity_ContestLobby_Text_MadePokeblocksWithFamily",
-    "texte": "On a préparé des {POKEBLOCK}s\navec toute la famille.\n\nChacun a apporté une Baie différente."
+    "texte": "On a préparé des {POKEBLOCK}s\navec toute la famille.\n\nChacun a apporté une Baie\ndifférente."
   },
   {
     "repere": "LilycoveCity_PokemonTrainerFanClub_Text_OhWowItsPlayer",

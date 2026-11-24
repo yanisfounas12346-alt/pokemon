@@ -69,7 +69,7 @@
   },
   {
     "repere": "MtChimney_Text_ArchieIHaveMyHandsFull",
-    "texte": "Arthur. Max est près du cratère.\n\nJe suis retenu par trois adversaires.\nVa jusqu'à lui !"
+    "texte": "Arthur. Max est près du cratère.\n\nJe suis retenu par trois\nadversaires. Va jusqu'à lui !"
   },
   {
     "repere": "MtChimney_Text_MagmaOutnumbersUs",
@@ -81,7 +81,7 @@
   },
   {
     "repere": "MtChimney_Text_MagmasNameSimilar",
-    "texte": "Mon voisin travaille pour les Trumps.\n\nNous attendons tous les deux\nle même logement."
+    "texte": "Mon voisin travaille pour les\nTrumps.\n\nNous attendons tous les deux\nle même logement."
   },
   {
     "repere": "MtChimney_Text_Bushaa",
@@ -105,11 +105,11 @@
   },
   {
     "repere": "MtChimney_Text_MetoriteFittedOnMachine",
-    "texte": "Une météorite est fixée à la machine.\n\nLes câbles vibrent encore."
+    "texte": "Une météorite est fixée à la\nmachine.\n\nLes câbles vibrent encore."
   },
   {
     "repere": "MtChimney_Text_RemoveTheMeteorite",
-    "texte": "Une météorite est fixée à la machine.\n\nVeux-tu la retirer ?"
+    "texte": "Une météorite est fixée à la\nmachine.\n\nVeux-tu la retirer ?"
   },
   {
     "repere": "MtChimney_Text_PlayerRemovedMeteorite",
@@ -261,7 +261,7 @@
   },
   {
     "repere": "JaggedPass_Text_EthanIntro",
-    "texte": "Le sentier Sinuroc est difficile.\n\nC'est un bon endroit pour s'entraîner."
+    "texte": "Le sentier Sinuroc est difficile.\n\nC'est un bon endroit pour\ns'entraîner."
   },
   {
     "repere": "JaggedPass_Text_EthanDefeat",
@@ -345,7 +345,7 @@
   },
   {
     "repere": "LavaridgeTown_Text_HaveEggWillYouTakeIt",
-    "texte": "J'ai gardé cet Oeuf près des sources.\n\nMais il n'a pas éclos.\nIl lui faut une équipe de Pokémon\n\net un peu de chemin à parcourir.\nVeux-tu t'en occuper ?"
+    "texte": "J'ai gardé cet Oeuf près des\nsources.\n\nMais il n'a pas éclos.\nIl lui faut une équipe de Pokémon\n\net un peu de chemin à parcourir.\nVeux-tu t'en occuper ?"
   },
   {
     "repere": "LavaridgeTown_Text_HopeYoullWalkPlentyWithEgg",

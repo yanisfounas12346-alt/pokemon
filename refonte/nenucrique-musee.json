@@ -61,7 +61,7 @@
   },
   {
     "repere": "LilycoveCity_LilycoveMuseum_1F_Text_MustntForgetLoveForFineArts",
-    "texte": "On peut aimer les combats\net prendre le temps de regarder\nun tableau."
+    "texte": "On peut aimer les combats\net prendre le temps de regarder\n\nun tableau."
   },
   {
     "repere": "LilycoveCity_LilycoveMuseum_1F_Text_ThisMuseumIsInspiration",
@@ -97,15 +97,15 @@
   },
   {
     "repere": "LilycoveCity_LilycoveMuseum_2F_Text_ExplainExhibitHall",
-    "texte": "Les murs sont encore vides.\n\nLes tableaux anciens ont leur place\nau rez-de-chaussée.\n\nIci, je voudrais montrer les Pokémon\nque les artistes rencontrent\n\naujourd'hui, dans leur vie ordinaire."
+    "texte": "Les murs sont encore vides.\n\nLes tableaux anciens ont leur place\nau rez-de-chaussée.\n\nIci, je voudrais montrer les Pokémon\nque les artistes rencontrent\n\naujourd'hui, dans leur vie\nordinaire."
   },
   {
     "repere": "LilycoveCity_LilycoveMuseum_2F_Text_PleaseObtainPaintingsForExhibit",
-    "texte": "Tu as beaucoup voyagé.\n\nSi tu rencontres un peintre dont\nune oeuvre pourrait être exposée,\n\ndemande-lui son autorisation.\nNous serions heureux de l'accueillir."
+    "texte": "Tu as beaucoup voyagé.\n\nSi tu rencontres un peintre dont\nune oeuvre pourrait être exposée,\n\ndemande-lui son autorisation. Nous\nserions heureux de l'accueillir."
   },
   {
     "repere": "LilycoveCity_LilycoveMuseum_2F_Text_WishToFillExhibit",
-    "texte": "J'aimerais remplir cette salle\navec des tableaux de Pokémon\n\npeints par les artistes d'aujourd'hui."
+    "texte": "J'aimerais remplir cette salle\navec des tableaux de Pokémon\n\npeints par les artistes\nd'aujourd'hui."
   },
   {
     "repere": "LilycoveCity_LilycoveMuseum_2F_Text_ThanksAddedNewPainting",
@@ -157,7 +157,7 @@
   },
   {
     "repere": "LilycoveCity_LilycoveMuseum_2F_Text_NewPaintingsSurprisedMe",
-    "texte": "Ces tableaux n'étaient pas là\nlors de ma dernière visite.\n\nJ'aimerais faire peindre mon Pokémon."
+    "texte": "Ces tableaux n'étaient pas là\nlors de ma dernière visite.\n\nJ'aimerais faire peindre mon\nPokémon."
   },
   {
     "repere": "LilycoveCity_LilycoveMuseum_2F_Text_NewPaintingsRatherAmusing",

@@ -137,7 +137,7 @@
   },
   {
     "repere": "RustboroCity_Mart_Text_BuyingHealsInCaseOfShroomish",
-    "texte": "Je prends des Antidotes et des\nAnti-Para pour le Bois Clémenti.\n\nLes Balignon peuvent nous surprendre."
+    "texte": "Je prends des Antidotes et des\nAnti-Para pour le Bois Clémenti.\n\nLes Balignon peuvent nous\nsurprendre."
   },
   {
     "repere": "RustboroCity_Mart_Text_ShouldBuySuperPotionsInstead",

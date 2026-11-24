@@ -73,11 +73,11 @@
   },
   {
     "repere": "DewfordTown_Text_FishingAdvice",
-    "texte": "Face à l'eau, utilise la Canne.\n\nAppuie sur A quand ça mord.\nRépète si nécessaire pour ramener\nla prise."
+    "texte": "Face à l'eau, utilise la Canne.\n\nAppuie sur A quand ça mord.\nRépète si nécessaire pour ramener\n\nla prise."
   },
   {
     "repere": "DewfordTown_Text_XIsTheBiggestHappeningThingRight",
-    "texte": "Tu as entendu les derniers mots\narrivés sur l'île ?\n\n{STR_VAR_1} ! Tout le monde en parle.\nC'est aussi la mode chez toi ?"
+    "texte": "Tu as entendu les derniers mots\narrivés sur l'île ?\n\n{STR_VAR_1} ! Tout le monde en\nparle. C'est aussi la mode chez toi\n\n?"
   },
   {
     "repere": "DewfordTown_Text_TellMeWhatsNewAndIn",
@@ -337,7 +337,7 @@
   },
   {
     "repere": "DewfordTown_House1_Text_LifeGoesSlowlyOnIsland",
-    "texte": "J'ai quitté Poivressel pour vivre ici.\n\nJe reconnais chaque bateau qui\npasse devant la fenêtre."
+    "texte": "J'ai quitté Poivressel pour vivre\nici.\n\nJe reconnais chaque bateau qui\npasse devant la fenêtre."
   },
   {
     "repere": "DewfordTown_House1_Text_Zigzagoon",
@@ -365,7 +365,7 @@
   },
   {
     "repere": "DewfordTown_PokemonCenter_1F_Text_FaintedMonCanUseHM",
-    "texte": "Même K.O., un Pokémon peut\nutiliser une CS hors combat.\n\nMais fais-le soigner dès que tu peux."
+    "texte": "Même K.O., un Pokémon peut\nutiliser une CS hors combat.\n\nMais fais-le soigner dès que tu\npeux."
   },
   {
     "repere": "GraniteCave_1F_Text_GetsDarkAheadHereYouGo",

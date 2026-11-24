@@ -109,7 +109,7 @@
   },
   {
     "repere": "LilycoveCity_Harbor_Text_FerryUnavailable",
-    "texte": "Le ferry n'est pas encore en service.\n\nNous attendons la fin des travaux."
+    "texte": "Le ferry n'est pas encore en\nservice.\n\nNous attendons la fin des travaux."
   },
   {
     "repere": "LilycoveCity_Harbor_Text_MayISeeYourTicket",
@@ -153,7 +153,7 @@
   },
   {
     "repere": "LilycoveCity_CoveLilyMotel_1F_Text_GuestsDoubledByMascot",
-    "texte": "Un hôtel a doublé ses réservations\navec une mascotte Pokémon.\n\nJe me demande si elle peut refuser\nquand les clients veulent la toucher."
+    "texte": "Un hôtel a doublé ses réservations\navec une mascotte Pokémon.\n\nJe me demande si elle peut refuser\nquand les clients veulent la\n\ntoucher."
   },
   {
     "repere": "LilycoveCity_CoveLilyMotel_1F_Text_NoGuestsWithTeamAqua",
@@ -245,7 +245,7 @@
   },
   {
     "repere": "LilycoveCity_House3_Text_HappyToHaveQuadruplets",
-    "texte": "Quand les quatre enfants sont nés,\non a dû agrandir la table.\n\nAujourd'hui, elle est toujours pleine."
+    "texte": "Quand les quatre enfants sont nés,\non a dû agrandir la table.\n\nAujourd'hui, elle est toujours\npleine."
   },
   {
     "repere": "LilycoveCity_House3_Text_GoingToWinMultiBattles",
