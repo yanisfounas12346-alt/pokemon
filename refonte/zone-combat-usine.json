@@ -1,0 +1,382 @@
+[
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_WelcomeForSingleBattle",
+    "texte": "Bienvenue à l'Usine de Combat.\n\nInscriptions au Combat Échange Solo."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_TakeSinglesChallenge",
+    "texte": "Participer au Combat Échange Solo ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_ExplainSinglesChallenge",
+    "texte": "Choisissez trois Pokémon prêtés.\n\nVous les utiliserez en Combat Solo.\nAprès une victoire, vous pourrez\n\néchanger l'un d'eux avec un Pokémon\nde l'adversaire battu.\n\nSept victoires de suite rapportent\ndes Points de Combat.\n\nSauvegardez avant d'interrompre\nle défi, sinon vous serez disqualifié."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_LookForwardToNextVisit",
+    "texte": "Revenez pour une prochaine épreuve."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_WhichLevelMode",
+    "texte": "Niveau 50 ou niveau libre ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_OkayToSaveBeforeChallenge",
+    "texte": "Sauvegarder avant de commencer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_WillHoldMonsForSafekeeping",
+    "texte": "Nous garderons vos Pokémon\npendant l'épreuve."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_StepThisWay",
+    "texte": "Veuillez me suivre."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_ReturnMonsSaveResults",
+    "texte": "Nous reprenons les Pokémon prêtés\net vous rendons les vôtres.\n\nEnregistrement des résultats."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_ReturnMons",
+    "texte": "Nous vous rendons vos Pokémon\ncontre les Pokémon prêtés."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_CongratsSevenWins",
+    "texte": "Sept victoires consécutives !"
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_AwardBattlePointsForStreak",
+    "texte": "Voici les Points de Combat\npour vos sept victoires."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_MaxBattlePoints",
+    "texte": "Vous avez atteint le maximum\nde Points de Combat.\n\nUtilisez-en avant de revenir."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_WaitingForYouToResume",
+    "texte": "Nous vous attendions.\n\nSauvegardez avant de reprendre."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_DidntSaveBeforeQuitting",
+    "texte": "Votre défi a été interrompu\nsans sauvegarde.\n\nVous êtes disqualifié."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_WellReturnMons",
+    "texte": "Nous vous rendons vos Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_ReceivedPrizeItem",
+    "texte": "{PLAYER} reçoit\n{STR_VAR_1}."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_WelcomeForDoubleBattle",
+    "texte": "Bienvenue à l'Usine de Combat.\n\nInscriptions au Combat Échange Duo."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_TakeDoublesChallenge",
+    "texte": "Participer au Combat Échange Duo ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_ExplainDoublesChallenge",
+    "texte": "Choisissez trois Pokémon prêtés.\n\nVous les utiliserez en Combat Duo.\nAprès une victoire, vous pourrez\n\néchanger l'un d'eux avec un Pokémon\nde l'adversaire battu.\n\nSept victoires de suite rapportent\ndes Points de Combat.\n\nSauvegardez avant d'interrompre\nle défi pour pouvoir le reprendre."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_CongratsForDefeatingHead",
+    "texte": "Vous avez battu Sam et terminé\nla série de sept combats."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_AwardBattlePoints",
+    "texte": "Voici vos Points de Combat."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_ExchangeMonsAndSave",
+    "texte": "Nous reprenons les Pokémon prêtés\net vous rendons les vôtres.\n\nSauvegarde en cours."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_RecordLastMatch",
+    "texte": "Enregistrer votre dernier combat\nsur le Passe Zone ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_NeedKnowledgeOfMonsMoves",
+    "texte": "On te prête les Pokémon,\nmais pas l'expérience.\n\nIl faut connaître leurs capacités."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_SwappedForWeakMon",
+    "texte": "J'ai choisi un autre Pokémon\naprès mon premier combat.\n\nJe n'avais pas assez réfléchi."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_NeedToCheckOpponentsMons",
+    "texte": "Observe les Pokémon adverses.\n\nTu pourras en choisir un\naprès ta victoire."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_CantFigureOutStaffHints",
+    "texte": "On nous renseigne sur l'adversaire\navant chaque combat.\n\nLes indications restent vagues."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_RentalMonsAreVaried",
+    "texte": "Les Pokémon prêtés changent\nau fil des épreuves."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_RulesAreListed",
+    "texte": "Règlement du Combat Échange."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_ReadWhichHeading",
+    "texte": "Quel chapitre voulez-vous lire ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_ExplainBasicRules",
+    "texte": "Vous disposez de trois Pokémon.\n\nVotre équipe ne peut pas contenir\ndeux Pokémon de la même espèce."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_ExplainSwapPartnerRules",
+    "texte": "Vous pouvez échanger un Pokémon\navec le Dresseur que vous venez\n\nde battre, parmi ceux de son équipe."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNumberRules",
+    "texte": "Un échange est possible après\nchaque victoire, sauf la septième."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNotesRules",
+    "texte": "Les stats du Pokémon à recevoir\nne sont pas visibles avant l'échange.\n\nLes places de votre équipe restent\nles mêmes après chaque échange."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryLobby_Text_ExplainOpenLvRules",
+    "texte": "En niveau libre, tous les Pokémon\nsont de niveau 100."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_HoldMonsChooseFromSelection",
+    "texte": "Nous gardons vos Pokémon.\n\nChoisissez-en trois parmi ceux\nque nous vous prêtons."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_LetUsRestoreMons",
+    "texte": "Nous allons soigner vos Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_SaveAndQuitGame",
+    "texte": "Sauvegarder et quitter le jeu ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_RetireFromChallenge",
+    "texte": "Abandonner le Combat Échange ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_InvestigatedUpcomingOpponent",
+    "texte": "Voici nos observations sur\nvotre prochain adversaire."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerHasNoClearFavorite",
+    "texte": "Aucun type ne semble dominer\nson équipe."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleSlowAndSteady",
+    "texte": "Il semble combattre à un rythme\nlent et régulier."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleEndurance",
+    "texte": "Il privilégie les combats longs."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleHighRisk",
+    "texte": "Il semble prendre de gros risques."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleDependsOnFlow",
+    "texte": "Il semble suivre le cours du combat."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleTotalPreparation",
+    "texte": "Il semble privilégier la préparation."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleWeakenFoe",
+    "texte": "Il semble affaiblir l'adversaire\ndès le début."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleFlexible",
+    "texte": "Il semble adapter sa stratégie\nà la situation."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleImpossibleToPredict",
+    "texte": "Son style reste imprévisible."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleUnrestrained",
+    "texte": "Il semble combattre sans retenue."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_LikeToSwapMon",
+    "texte": "Voulez-vous échanger un Pokémon\navant le prochain combat ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_YourSwapIsComplete",
+    "texte": "L'échange est terminé."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_RightThisWay",
+    "texte": "Veuillez me suivre."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_SavingDataPleaseWait",
+    "texte": "Sauvegarde en cours."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_RecordLatestBattle",
+    "texte": "Enregistrer le dernier combat\nsur le Passe Zone ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_WaitFewMoments",
+    "texte": "Un instant, s'il vous plaît."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_UnderstoodSirWillDo",
+    "texte": "Ah ? Très bien, monsieur."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_MessageFromHeadComeRightNow",
+    "texte": "Le Chef d'Usine vous attend.\n\nIl souhaite vous affronter."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_PreparedToFaceHead",
+    "texte": "Prêt à affronter le Chef d'Usine ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_CantTellAnythingAboutHead",
+    "texte": "Nous n'avons aucune information\nsur son équipe."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor2ndOpponent",
+    "texte": "Combat 2 sur 7.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor3rdOpponent",
+    "texte": "Combat 3 sur 7.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor4thOpponent",
+    "texte": "Combat 4 sur 7.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor5thOpponent",
+    "texte": "Combat 5 sur 7.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor6thOpponent",
+    "texte": "Combat 6 sur 7.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_ReadyFor7thOpponent",
+    "texte": "Combat 7 sur 7.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInNormalType",
+    "texte": "Le Dresseur semble privilégier\nle type Normal."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFireType",
+    "texte": "Le Dresseur semble privilégier\nle type Feu."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInWaterType",
+    "texte": "Le Dresseur semble privilégier\nle type Eau."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInElectricType",
+    "texte": "Le Dresseur semble privilégier\nle type Électrik."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGrassType",
+    "texte": "Le Dresseur semble privilégier\nle type Plante."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInIceType",
+    "texte": "Le Dresseur semble privilégier\nle type Glace."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFightingType",
+    "texte": "Le Dresseur semble privilégier\nle type Combat."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPoisonType",
+    "texte": "Le Dresseur semble privilégier\nle type Poison."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGroundType",
+    "texte": "Le Dresseur semble privilégier\nle type Sol."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInFlyingType",
+    "texte": "Le Dresseur semble privilégier\nle type Vol."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInPsychicType",
+    "texte": "Le Dresseur semble privilégier\nle type Psy."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInBugType",
+    "texte": "Le Dresseur semble privilégier\nle type Insecte."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInRockType",
+    "texte": "Le Dresseur semble privilégier\nle type Roche."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInGhostType",
+    "texte": "Le Dresseur semble privilégier\nle type Spectre."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDragonType",
+    "texte": "Le Dresseur semble privilégier\nle type Dragon."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInDarkType",
+    "texte": "Le Dresseur semble privilégier\nle type Ténèbres."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_TrainerSkilledInSteelType",
+    "texte": "Le Dresseur semble privilégier\nle type Acier."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryBattleRoom_Text_GetAMoveOn",
+    "texte": "Approche !"
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryBattleRoom_Text_NolandImFactoryHead",
+    "texte": "Sam. Je dirige cette usine.\n\nJ'ai lu tes résultats.\nLes livres ne suffisent pas ici.\n\nIl faut savoir travailler avec\nles Pokémon qu'on te confie.\n\nMoi aussi, j'utiliserai une équipe\nde location."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryBattleRoom_Text_ShakeOutKnowledgeBringItOn",
+    "texte": "Montre-moi ce que tu as appris."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryBattleRoom_Text_NolandLetsSeeFrontierPass",
+    "texte": "Sam. Tu as gagné.\n\nPrésente ton Passe Zone."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryBattleRoom_Text_ReceivedKnowledgeSymbol",
+    "texte": "Le Symbole Savoir a été ajouté\nau Passe Zone !"
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryBattleRoom_Text_NextTimeNoHoldsBarred",
+    "texte": "Continue à apprendre.\n\nNous nous reverrons."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryBattleRoom_Text_HarderLookThanLastTime",
+    "texte": "Sam. Te voilà de retour.\n\nJ'ai préparé un nouveau combat.\nVoyons ce que tu as appris."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryBattleRoom_Text_AllRightBringItOn",
+    "texte": "Commençons !"
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryBattleRoom_Text_OutOfMyLeagueLetsSeePass",
+    "texte": "Sam. Tu as encore gagné.\n\nDonne-moi ton Passe Zone."
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryBattleRoom_Text_KnowledgeSymbolTookGoldenShine",
+    "texte": "Le Symbole Savoir devient doré !"
+  },
+  {
+    "repere": "BattleFrontier_BattleFactoryBattleRoom_Text_LastTimeILoseToYou",
+    "texte": "Il me reste des choses à apprendre.\n\nÀ la prochaine revanche."
+  }
+]
