@@ -1,0 +1,390 @@
+[
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_WelcomeToBattlePike",
+    "texte": "Bienvenue au Reptile de Combat.\n\nJe tiens les inscriptions\nau Combat Hasard."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_TakeChallenge",
+    "texte": "Participer au Combat Hasard ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_ExplainBattlePike",
+    "texte": "À chaque étape, choisissez\nl'un des trois chemins.\n\nLe hasard détermine les épreuves\nque vous rencontrerez.\n\nAtteignez la dernière salle pour\ngagner des Points de Combat.\n\nPour interrompre le défi, parlez\nau personnel des grandes salles.\n\nSauvegardez avant de quitter\npour pouvoir reprendre."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_LookForwardToSeeingYou",
+    "texte": "Revenez pour un prochain défi."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_WhichChallengeMode",
+    "texte": "Niveau 50 ou niveau libre ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLv50",
+    "texte": "Il faut trois Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLvOpen",
+    "texte": "Il faut trois Pokémon différents,\navec des objets différents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_PleaseChooseThreeMons",
+    "texte": "Choisissez vos trois Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_SaveBeforeChallenge",
+    "texte": "Sauvegarder avant de commencer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_StepThisWay",
+    "texte": "Veuillez me suivre."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_ChallengeEndedRecordResults",
+    "texte": "Votre défi est terminé.\n\nEnregistrement du résultat."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_PossessLuckInAbundance",
+    "texte": "Vous avez atteint la sortie.\n\nFélicitations !"
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_ShallRecordResults",
+    "texte": "Enregistrement du résultat.\nVeuillez patienter."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_AwardYouTheseBattlePoints2",
+    "texte": "Voici les Points de Combat\npour votre réussite."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_ReachedBattlePointLimit",
+    "texte": "Vous avez atteint le maximum\nde Points de Combat.\n\nUtilisez-en avant de revenir."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_FailedToSaveBeforeQuitting",
+    "texte": "Votre défi a été interrompu\nsans sauvegarde.\n\nVous êtes disqualifié."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_SnatchedVictoryFromQueen",
+    "texte": "Vous avez battu la Reine Venin\net terminé le défi."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_AwardYouTheseBattlePoints",
+    "texte": "Voici vos Points de Combat."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_OneRoomAwayFromGoal",
+    "texte": "Il ne me restait qu'une salle.\n\nMes Pokémon étaient empoisonnés\nou gelés."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_NeverHadToBattleTrainer",
+    "texte": "J'ai terminé dix fois ce parcours\nsans affronter un seul Dresseur."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_ThinkAbilitiesUsefulHere",
+    "texte": "Certaines capacités spéciales\npeuvent protéger des problèmes\nde statut."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_TrainersWhicheverPathIChoose",
+    "texte": "Quel que soit mon chemin,\nje rencontre des Dresseurs."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_RulesAreListed",
+    "texte": "Règlement du Combat Hasard."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_ReadWhichHeading",
+    "texte": "Quel chapitre voulez-vous lire ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_ExplainPokenavBagRules",
+    "texte": "Le sac et le PokéNav ne sont pas\naccessibles pendant le défi."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_ExplainHeldItemRules",
+    "texte": "Une Baie ou une Herbe tenue\nne peut servir qu'une fois."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeLobby_Text_ExplainMonOrderRules",
+    "texte": "L'ordre des Pokémon est fixé\navant le départ.\n\nIl ne peut plus être modifié."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeCorridor_Text_YourChallengeHasBegun",
+    "texte": "Le Combat Hasard commence."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomFinal_Text_CongratsThisWayPlease",
+    "texte": "Vous avez atteint la sortie.\n\nVeuillez me suivre."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreToFullHealth",
+    "texte": "Vous êtes dans une salle de repos.\n\nNous allons soigner vos Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge",
+    "texte": "Bonne route pour la suite."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreOneMon",
+    "texte": "Je vais soigner un de tes Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell",
+    "texte": "Bonne chance pour la suite."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_CareForBattleWillRestoreMons",
+    "texte": "Veux-tu faire un combat ?\n\nJe soignerai tes Pokémon\nsi tu gagnes."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_NowShallWe",
+    "texte": "Très bien. Commençons."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_HowUnsportingOfYou",
+    "texte": "D'accord. Tu peux poursuivre."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreMonsAsPromised",
+    "texte": "Comme promis, je vais soigner\ntoute ton équipe."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_BestOfLuckFarewell2",
+    "texte": "Bonne route."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_WatchOut",
+    "texte": "Attention !"
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_KirliaStop",
+    "texte": "Kirlia ! Arrête !"
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_DusclopsStop",
+    "texte": "Téraclope ! Arrête !"
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedToxic",
+    "texte": "Kirlia utilise Toxik !"
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedHypnosis",
+    "texte": "Kirlia utilise Hypnose !"
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedThunderWave",
+    "texte": "Kirlia utilise Cage-Éclair !"
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_KirliaUsedWillOWisp",
+    "texte": "Kirlia utilise Feu Follet !"
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_DusclopsUsedWillOWisp",
+    "texte": "Téraclope utilise Feu Follet !"
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_DusclopsUsedIceBeam",
+    "texte": "Téraclope utilise Laser Glace !"
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_ThatsEnough",
+    "texte": "Viens ici. Ça suffit."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForKirlia",
+    "texte": "Pardon. Mon Kirlia est de nature\nTimide."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_ApologizeForDusclops",
+    "texte": "Pardon. Mon Téraclope est de nature\nTimide."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_AttacksWhenStartled",
+    "texte": "Il attaque quand il est surpris.\n\nTes Pokémon vont-ils bien ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_ApologizeHopeMonsAreFine",
+    "texte": "Je suis désolé de cet incident.\n\nJ'espère que ton équipe va bien."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_Silence",
+    "texte": "..."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_BattleSomewhatToughTrainer",
+    "texte": "Un Dresseur expérimenté\nvous attend dans cette salle."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_RestoreToFullHealth",
+    "texte": "Vous avez gagné.\n\nNous allons soigner vos Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_EnjoyRestOfChallenge2",
+    "texte": "Bonne route pour la suite."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_ImThePikeQueen",
+    "texte": "Charline. Je dirige ce lieu.\nOn m'appelle la Reine Venin.\n\nTu as trouvé le chemin jusqu'à moi.\nVoyons ce qu'il te reste de forces."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_HopeYouDidntUseUpLuck",
+    "texte": "Il te faudra encore un peu\nde chance."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_LucyShowMeFrontierPass",
+    "texte": "Charline. Présente ton Passe Zone."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_ReceivedLuckSymbol",
+    "texte": "Le Symbole Chance a été ajouté\nau Passe Zone !"
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_AllThereIsDisappear",
+    "texte": "Tu peux poursuivre ton chemin."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_LucyYouAgain",
+    "texte": "Charline. Encore toi.\n\nTu connais les salles maintenant.\nMais les chemins changent.\n\nCommençons."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_NowComeOn",
+    "texte": "Allez, à toi."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_LucyFrontierPass",
+    "texte": "Charline. Ton Passe Zone."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_LuckSymbolTookGoldenShine",
+    "texte": "Le Symbole Chance devient doré !"
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_IWontForget",
+    "texte": "Je me souviendrai de ce combat."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomNoHeal",
+    "texte": "Cette salle ne propose pas de soins.\n\nUne autre aurait pu vous aider."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealOne",
+    "texte": "Cette salle permet de soigner\nun de vos Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_ChoseRoomHealTwo",
+    "texte": "Cette salle permet de soigner\ndeux de vos Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreAllMons",
+    "texte": "Cette salle permet de soigner\ntous vos Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_ShallFetchOurMaster",
+    "texte": "Je vais appeler Charline."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeRoomNormal_Text_WillRestoreTwoMons",
+    "texte": "Je vais soigner deux de tes Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_ContinueWithChallenge",
+    "texte": "Continuer le défi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_SaveChallengeAndQuit",
+    "texte": "Sauvegarder et quitter le jeu ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_RetireFromChallenge",
+    "texte": "Abandonner le Combat Hasard ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_AwaitingReturnSaveBeforeResume",
+    "texte": "Nous vous attendions.\n\nSauvegarde avant la reprise."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_PleaseEnjoyChallenge",
+    "texte": "Bonne chance pour la suite."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_SavingYourData",
+    "texte": "Sauvegarde en cours."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_FindingItDifficultToChoose",
+    "texte": "Hésitez-vous entre les chemins ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_ApologizeForImpertinence",
+    "texte": "Très bien. Je vous laisse choisir."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutRightPath",
+    "texte": "Le chemin de droite m'intrigue..."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutCenterPath",
+    "texte": "Le chemin du milieu m'intrigue..."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_SomethingAboutLeftPath",
+    "texte": "Le chemin de gauche m'intrigue..."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_AromaOfPokemon",
+    "texte": "J'y distingue une odeur de Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_PresenceOfPeople",
+    "texte": "Je crois sentir la présence\nd'un Dresseur."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_HeardWhispering",
+    "texte": "J'entends comme un murmure."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_WaveOfNostaliga",
+    "texte": "Ce chemin me rappelle quelque chose.\n\nUne sensation de nostalgie."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_TerrifyingEvent",
+    "texte": "Quelque chose d'inquiétant\nvous attend plus loin.\n\nRestez sur vos gardes."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_DreadfulPresence",
+    "texte": "Je sens une présence inquiétante\ndans les trois chemins."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom1",
+    "texte": "Salle numéro 1."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom3",
+    "texte": "Salle numéro 3."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom5",
+    "texte": "Salle numéro 5."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom7",
+    "texte": "Salle numéro 7."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom9",
+    "texte": "Salle numéro 9."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom11",
+    "texte": "Salle numéro 11."
+  },
+  {
+    "repere": "BattleFrontier_BattlePikeThreePathRoom_Text_CurrentlyInRoom13",
+    "texte": "Salle numéro 13."
+  },
+  {
+    "repere": "BattleFrontier_BattlePike_Text_PathBlockedNoTurningBack",
+    "texte": "Le passage est bloqué.\n\nImpossible de faire demi-tour."
+  }
+]
