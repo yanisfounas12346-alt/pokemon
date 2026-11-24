@@ -1,0 +1,166 @@
+[
+  {
+    "repere": "RustboroCity_DevonCorp_1F_Text_WelcomeToDevonCorp",
+    "texte": "Bienvenue à la Devon.\n\nL'accueil traite les demandes\net les bons de livraison."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_1F_Text_StaffGotRobbed",
+    "texte": "Un colis de nos chercheurs\na été emporté."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_1F_Text_ThoseShoesAreOurProduct",
+    "texte": "Ces chaussures sortent d'ici !\n\nJ'ai travaillé sur les semelles.\nElles tiennent bien sous la pluie ?"
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_1F_Text_RobberWasntVeryBright",
+    "texte": "Le colis ne contient rien\nqui se revende facilement.\n\nJe me demande ce qu'il cherchait."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_1F_Text_SoundsLikeStolenGoodsRecovered",
+    "texte": "Le Pack Devon a été retrouvé.\n\nLe reçu vient d'être signé."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_1F_Text_OnlyAuthorizedPeopleEnter",
+    "texte": "Désolé, l'accès est réservé\naux personnes autorisées."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_1F_Text_HowCouldWeGetRobbed",
+    "texte": "Comment le colis a-t-il pu sortir ?\n\nOn nous demande de refaire\nl'inventaire depuis ce matin."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_1F_Text_YoureAlwaysWelcomeHere",
+    "texte": "Bonjour. On vous connaît ici.\n\nVous pouvez passer."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_1F_Text_RocksMetalDisplay",
+    "texte": "Vitrine des premières productions.\n\nLa Devon exploitait des mines,\npuis a fabriqué de l'acier.\n\nUn morceau de conduite porte\nle merle à trois pattes."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_1F_Text_ProductDisplay",
+    "texte": "Prototypes de la Devon.\n\nMédicaments, Poké Balls, PokéNav.\n\nSous chaque objet, le prix prévu\net la date de mise en vente."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_2F_Text_DeviceForTalkingToPokemon",
+    "texte": "J'essaie de traduire les cris\ndes Pokémon.\n\nLe même cri change de sens selon\nce que l'animal regarde."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_2F_Text_DevelopingNewBalls",
+    "texte": "Je travaille sur de nouvelles Balls.\n\nIl reste un défaut de fermeture."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_2F_Text_WeFinallyMadeNewBalls",
+    "texte": "La Bis Ball est plus efficace\nsur une espèce déjà capturée.\n\nLa Chrono Ball devient efficace\nà mesure que le combat dure.\n\nNous avons terminé les essais."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_2F_Text_IMadePokenav",
+    "texte": "J'ai conçu le PokéNav.\n\nJe suis content de le voir sortir\ndes ateliers, enfin."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_2F_Text_WowThatsAPokenav",
+    "texte": "C'est un PokéNav de notre atelier.\n\nIl rassemble les cartes et les\nrenseignements utiles aux Dresseurs."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_2F_Text_DeviceToVisualizePokemonDreams",
+    "texte": "Je cherche à voir les rêves\ndes Pokémon sur un écran.\n\nPour l'instant, je n'obtiens\nque des taches."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_2F_Text_DevelopDeviceToResurrectFossils",
+    "texte": "Mon appareil peut faire revivre\nun Pokémon à partir d'un fossile.\n\nLe premier essai a réussi."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_2F_Text_WantToBringFossilBackToLife",
+    "texte": "Tu as un fossile de Pokémon ?\n\nVeux-tu que je le fasse revivre\navec le régénérateur ?"
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_2F_Text_OhIsThatSo",
+    "texte": "Tu préfères le garder ainsi ?\n\nReviens si tu changes d'avis."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_2F_Text_TwoFossilsPickOne",
+    "texte": "Tu as deux fossiles.\n\nLa machine ne traite qu'un fossile\nà la fois.\n\nVeux-tu en choisir un ?"
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_2F_Text_HandedFossilToResearcher",
+    "texte": "Je vais commencer le travail.\n\n{PLAYER} remet {STR_VAR_1}\nau chercheur de la Devon."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_2F_Text_FossilRegeneratorTakesTime",
+    "texte": "La régénération prend du temps.\n\nFais un tour et reviens plus tard."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_2F_Text_FossilizedMonBroughtBackToLife",
+    "texte": "Le Pokémon a repris vie !\n\nTon fossile était celui d'un\n{STR_VAR_2}."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_2F_Text_ReceivedMonFromResearcher",
+    "texte": "{PLAYER} reçoit {STR_VAR_2}\ndu chercheur de la Devon."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_2F_Text_TooManyPokemon",
+    "texte": "Ton équipe est pleine.\nFais une place pour ce Pokémon."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_2F_Text_DevelopNewPokenavFeature",
+    "texte": "Je travaille sur une fonction\nd'appel pour le PokéNav.\n\nLa voix coupe encore par endroits."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_2F_Text_WhatToWorkOnNext",
+    "texte": "La prochaine étude reste à choisir.\n\nOn nous laisse chercher tant que\nles pièces sont livrées à temps."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_3F_Text_MrStoneWantYouToHaveThis",
+    "texte": "Rochard ouvre un tiroir.\n\nJe ne te demande pas de faire\nle voyage les mains vides.\n\nPrends cet appareil."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_3F_Text_ReceivedPokenav",
+    "texte": "{PLAYER} reçoit un PokéNav !"
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_3F_Text_MrStoneExplainPokenavRestUp",
+    "texte": "Le PokéNav contient la carte\nde Hoenn.\n\nTu y trouveras Myokara et Poivressel.\n\nLes Marks et les Trumps circulent\nsur les routes.\n\nRepose-toi avant de repartir."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_3F_Text_MrStoneGoWithCautionAndCare",
+    "texte": "Bonne route, {PLAYER}.\nGarde les papiers au sec."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_3F_Text_CountingOnYou",
+    "texte": "Le capitaine et Pierre attendent\nles documents."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_3F_Text_ThankYouForDeliveringLetter",
+    "texte": "Pierre a reçu la lettre ? Merci.\n\nJ'ai rangé quelque chose pour toi.\nPrends-le."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_3F_Text_ExplainExpShare",
+    "texte": "Le Multi Exp partage l'expérience\ngagnée lors d'un combat.\n\nLe Pokémon qui le tient en reçoit\nmême s'il ne combat pas."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_3F_Text_NotFamiliarWithTrends",
+    "texte": "J'ai passé ma jeunesse à l'usine.\n\nLes jeunes veulent-ils toujours\natteindre la Ligue Pokémon ?"
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_3F_Text_ThisIs3rdFloorWaitHere",
+    "texte": "Nous sommes au deuxième étage.\nLe directeur travaille ici.\n\nMerci d'avoir retrouvé le colis.\n\nIl doit parvenir au chantier naval\nde Poivressel, sans autre détour.\n\nAttends ici un instant."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_3F_Text_WordWithPresidentComeWithMe",
+    "texte": "Le directeur veut te recevoir.\n\nSuis-moi, je te prie."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_3F_Text_PleaseGoAhead",
+    "texte": "Tu peux entrer."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_3F_Text_VisitCaptSternShipyard",
+    "texte": "Au chantier naval de Poivressel,\ndemande le capitaine Poupe."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_3F_Text_RepeatAndTimerHugelyPopular",
+    "texte": "Les commandes de Bis Balls et\nde Chrono Balls augmentent.\n\nOn a ouvert un nouveau registre."
+  },
+  {
+    "repere": "RustboroCity_DevonCorp_3F_Text_RareRocksDisplay",
+    "texte": "Une collection de pierres rares.\n\nChaque étiquette donne la carrière\net le nom du propriétaire."
+  }
+]
