@@ -1,0 +1,586 @@
+[
+  {
+    "repere": "Route110_TrickHouseEntrance_Text_YoureBeingWatched",
+    "texte": "Quelqu'un observe {PLAYER}."
+  },
+  {
+    "repere": "Route110_TrickHouseEntrance_Text_ConcealedBeneathDesk",
+    "texte": "Tu as regardé sous la table !\n\nJ'aurais dû retenir mon souffle."
+  },
+  {
+    "repere": "Route110_TrickHouseEntrance_Text_ConcealedBehindTree",
+    "texte": "Tu m'as trouvé derrière l'arbre !"
+  },
+  {
+    "repere": "Route110_TrickHouseEntrance_Text_ConcealedInDresser",
+    "texte": "Tu as ouvert la commode !\n\nElle n'est pourtant pas à toi."
+  },
+  {
+    "repere": "Route110_TrickHouseEntrance_Text_ConealedBeyondWindow",
+    "texte": "Tu m'as vu près de la fenêtre !"
+  },
+  {
+    "repere": "Route110_TrickHouseEntrance_Text_ConcealedInPlanter",
+    "texte": "Tu as regardé derrière le pot !"
+  },
+  {
+    "repere": "Route110_TrickHouseEntrance_Text_ConcealedInCupboard",
+    "texte": "Tu as trouvé ma cachette\nprès de l'armoire !"
+  },
+  {
+    "repere": "Route110_TrickHouseEntrance_Text_ConcealedBehindWindow",
+    "texte": "Tu m'as repéré à la fenêtre !"
+  },
+  {
+    "repere": "Route110_TrickHouseEntrance_Text_ConcealedBeneathCushion",
+    "texte": "Tu as soulevé le coussin !\n\nJe vais devoir changer de cachette."
+  },
+  {
+    "repere": "Route110_TrickHouseEntrance_Text_TheyCallMeTrickMaster",
+    "texte": "On m'appelle le Maître des Pièges.\n\nJe construis des passages qui\nne mènent pas toujours où l'on croit."
+  },
+  {
+    "repere": "Route110_TrickHouseEntrance_Text_ComeToChallengeTrickHouse",
+    "texte": "Tu veux tenter une épreuve ?\n\nPasse derrière le parchemin.\nJe t'attendrai de l'autre côté."
+  },
+  {
+    "repere": "Route110_TrickHouseEntrance_Text_ItsAScroll",
+    "texte": "Un parchemin couvre le mur."
+  },
+  {
+    "repere": "Route110_TrickHouseEntrance_Text_GoInHoleBehindScroll",
+    "texte": "Un passage derrière le parchemin !\n\nVeux-tu entrer ?"
+  },
+  {
+    "repere": "Route110_TrickHouseEntrance_Text_LeavingOnJourneyNote",
+    "texte": "Un mot : je suis parti chercher\nde nouvelles idées.\n\nLe Maître des Pièges."
+  },
+  {
+    "repere": "Route110_TrickHouseEntrance_Text_NextTimeUseThisTrick",
+    "texte": "Il me reste des charnières\net quelques planches.\n\nLa prochaine salle sera différente."
+  },
+  {
+    "repere": "Route110_TrickHouseEntrance_Text_InMidstOfDevisingNewChallenges",
+    "texte": "Je prépare une nouvelle épreuve.\n\nReviens plus tard, je te prie."
+  },
+  {
+    "repere": "Route110_TrickHouseEntrance_Text_YoureHereToAcceptReward",
+    "texte": "Tu viens chercher ta récompense ?\n\nJe l'ai gardée pour toi."
+  },
+  {
+    "repere": "Route110_TrickHouseEntrance_Text_DidYouNotComeToClaimReward",
+    "texte": "Tu ne viens pas pour ta récompense ?"
+  },
+  {
+    "repere": "Route110_TrickHouseEntrance_Text_MechadollWhichTent",
+    "texte": "MÉCAPOUPÉE 5. RÉCOMPENSE EN ATTENTE.\n\nCHOIX : TENTE ROUGE OU TENTE BLEUE.\nLAQUELLE ?"
+  },
+  {
+    "repere": "Route110_TrickHouseEntrance_Text_ThenFarewell",
+    "texte": "AU REVOIR."
+  },
+  {
+    "repere": "Route110_TrickHouseEntrance_Text_PCFullAgain",
+    "texte": "PC PLEIN. STOCKAGE IMPOSSIBLE."
+  },
+  {
+    "repere": "Route110_TrickHouseEntrance_Text_DoorLockedWriteSecretCodeHere",
+    "texte": "La porte est fermée.\n\nUne inscription : écrire ici\nle code secret."
+  },
+  {
+    "repere": "Route110_TrickHouseEnd_Text_YouveMadeItToMe",
+    "texte": "Tu as trouvé le chemin jusqu'ici !"
+  },
+  {
+    "repere": "Route110_TrickHouseEnd_Text_AllNightToPlantTrees",
+    "texte": "J'ai planté ces arbres toute la nuit.\n\nTu as trouvé les bons passages."
+  },
+  {
+    "repere": "Route110_TrickHouseEnd_Text_AllNightToMakeMaze",
+    "texte": "J'ai passé la nuit sur ce plan.\n\nTu as trouvé la sortie du labyrinthe."
+  },
+  {
+    "repere": "Route110_TrickHouseEnd_Text_AllNightToPreparePanels",
+    "texte": "J'ai posé ces panneaux un par un.\n\nTu as compris leur fonctionnement."
+  },
+  {
+    "repere": "Route110_TrickHouseEnd_Text_AllNightToShoveBoulders",
+    "texte": "J'ai déplacé tous ces rochers\ncette nuit.\n\nTu as trouvé le bon ordre."
+  },
+  {
+    "repere": "Route110_TrickHouseEnd_Text_AllNightToMakeMechadolls",
+    "texte": "J'ai fabriqué les Mécapoupées,\npuis rédigé leurs questions.\n\nTu as répondu correctement."
+  },
+  {
+    "repere": "Route110_TrickHouseEnd_Text_AllNightToInstallDoors",
+    "texte": "J'ai passé la nuit à installer\nces portes.\n\nTu as trouvé le passage."
+  },
+  {
+    "repere": "Route110_TrickHouseEnd_Text_AllNightSettingUpArrows",
+    "texte": "J'ai posé les flèches une à une.\n\nTu as suivi le bon itinéraire."
+  },
+  {
+    "repere": "Route110_TrickHouseEnd_Text_AllNightPolishingFloors",
+    "texte": "J'ai ciré le parquet toute la nuit.\n\nTu es arrivé au bout de mes plans."
+  },
+  {
+    "repere": "Route110_TrickHouseEnd_Text_FountainOfIdeasRunDry",
+    "texte": "Je n'ai plus d'idées pour les salles.\n\nIl faudrait que je sorte un peu\nde cette maison."
+  },
+  {
+    "repere": "Route110_TrickHouseEnd_Text_DefeatedMePreferWhichTent",
+    "texte": "Tu as terminé toutes mes épreuves.\n\nJe voudrais te laisser un souvenir.\n\nUne Tente Rouge ou une Tente Bleue ?\nLaquelle préfères-tu ?"
+  },
+  {
+    "repere": "Route110_TrickHouseEnd_Text_NoRoomInPC",
+    "texte": "Ton PC est plein.\n\nJe garderai la tente ici pour toi."
+  },
+  {
+    "repere": "Route110_TrickHouseEnd_Text_LeavingOnJourney",
+    "texte": "Je pars chercher d'autres idées.\n\nCette fois, je prendrai le chemin\nque je ne connais pas.\n\nÀ bientôt !"
+  },
+  {
+    "repere": "Route110_TrickHouseEnd_Text_YouHaveEarnedThisReward",
+    "texte": "Tu as mérité cette récompense."
+  },
+  {
+    "repere": "Route110_TrickHouseEnd_Text_NoRoomForThis",
+    "texte": "Ton sac est plein.\n\nJe garde ta récompense pour toi."
+  },
+  {
+    "repere": "Route110_TrickHouseEnd_Text_MakeNewTricksToStumpYou",
+    "texte": "Je vais préparer une autre salle.\n\nReviens quand elle sera prête."
+  },
+  {
+    "repere": "Route110_TrickHouseEnd_Text_YoureIgnoringMe",
+    "texte": "Tu pars sans me parler ?\n\nJ'avais encore quelque chose à dire."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle1_Text_SallyIntro",
+    "texte": "Je viens d'apprendre Coupe.\n\nVoyons ce que je sais faire."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle1_Text_SallyDefeat",
+    "texte": "J'ai perdu. Tu avais l'air ailleurs."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle1_Text_SallyPostBattle",
+    "texte": "Je vais essayer Coupe sur les arbres\nqui barrent le chemin."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle1_Text_EddieIntro",
+    "texte": "J'ai trouvé cette maison par hasard.\n\nEt maintenant, je te trouve toi."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle1_Text_EddieDefeat",
+    "texte": "Je me suis perdu et j'ai perdu."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle1_Text_EddiePostBattle",
+    "texte": "Je ne retrouve plus la sortie.\n\nJe vais revenir sur mes pas."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle1_Text_RobinIntro",
+    "texte": "Qui est donc le Maître des Pièges ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle1_Text_RobinDefeat",
+    "texte": "Je pensais à autre chose."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle1_Text_RobinPostBattle",
+    "texte": "Tu sais te battre.\n\nMais je ne connais même pas ton nom."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle2_Text_TedIntro",
+    "texte": "Quel bouton commande quel trou ?\n\nJe vais faire un plan."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle2_Text_TedDefeat",
+    "texte": "Il me faut une pause."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle2_Text_TedPostBattle",
+    "texte": "Tu pourrais essayer les boutons ?\n\nJe ne retrouve plus mon chemin."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle2_Text_PaulIntro",
+    "texte": "C'est ta deuxième épreuve ici ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle2_Text_PaulDefeat",
+    "texte": "Tu connais aussi les combats."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle2_Text_PaulPostBattle",
+    "texte": "Il a construit toute cette maison\nsans aide, paraît-il."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle2_Text_GeorgiaIntro",
+    "texte": "Je voudrais ouvrir une arène.\n\nJe viens étudier les mécanismes."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle2_Text_GeorgiaDefeat",
+    "texte": "Il me reste aussi les combats\nà étudier."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle2_Text_GeorgiaPostBattle",
+    "texte": "Tu pourrais devenir champion.\n\nTu as bien préparé ton équipe."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle3_Text_JustinIntro",
+    "texte": "Je reviens toujours à cette porte."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle3_Text_JustinDefeat",
+    "texte": "Encore un échec.\n\nJe ne trouve même pas la sortie."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle3_Text_JustinPostBattle",
+    "texte": "Il y a trop de portes.\n\nJe vais reprendre depuis le début."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle3_Text_MarthaIntro",
+    "texte": "Je n'aime pas ces couloirs étroits."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle3_Text_MarthaDefeat",
+    "texte": "Je voudrais rentrer."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle3_Text_MarthaPostBattle",
+    "texte": "Je n'ai aucun sens de l'orientation.\n\nJ'aurais dû venir avec une amie."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle3_Text_AlanIntro",
+    "texte": "Je me demande qui a dessiné\nle plan de cette maison."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle3_Text_AlanDefeat",
+    "texte": "Je n'ai pas compris ta stratégie."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle3_Text_AlanPostBattle",
+    "texte": "Combien de pièges y a-t-il ici ?\n\nJe n'ai pas fini de les compter."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle4_Text_CoraIntro",
+    "texte": "Je suis venue pour les combats,\npas pour déplacer des pierres."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle4_Text_CoraDefeat",
+    "texte": "Je préfère quand même les combats."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle4_Text_CoraPostBattle",
+    "texte": "Tu cherches aussi des Dresseurs,\nnon ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle4_Text_YujiIntro",
+    "texte": "Je pourrais pousser ce rocher\nsans l'aide d'un Pokémon !"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle4_Text_YujiDefeat",
+    "texte": "La force ne m'a pas suffi."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle4_Text_YujiPostBattle",
+    "texte": "Il faut réfléchir avant de pousser.\n\nSinon, on bloque tout le passage."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle4_Text_PaulaIntro",
+    "texte": "Chaque salle est plus compliquée."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle4_Text_PaulaDefeat",
+    "texte": "Ah ! J'ai perdu !"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle4_Text_PaulaPostBattle",
+    "texte": "Quelqu'un a-t-il déjà terminé\ntoutes les épreuves ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll1Intro",
+    "texte": "MÉCAPOUPÉE 1. QUESTIONNAIRE.\n\nRÉPONDS CORRECTEMENT POUR ATTEINDRE\nLA MÉCAPOUPÉE 5 ET LE CODE SECRET."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz1",
+    "texte": "MÉCAPOUPÉE 1.\n\nQuel Pokémon ne se trouve pas\nsur la Route 110 ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz2",
+    "texte": "MÉCAPOUPÉE 1.\n\nQuel Pokémon n'est pas de type Eau ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll1Quiz3",
+    "texte": "MÉCAPOUPÉE 1.\n\nQuel Pokémon ne peut pas utiliser\nVampirisme ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_CorrectGoThrough",
+    "texte": "RÉPONSE CORRECTE. PASSAGE AUTORISÉ."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_DisappointmentError",
+    "texte": "BZZZT. RÉPONSE INCORRECTE."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_Wahahahaha",
+    "texte": "CLIC. CLAC. HA HA HA."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_WaitForNextChallenge",
+    "texte": "PROCHAINE ÉPREUVE EN ATTENTE."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll2Intro",
+    "texte": "MÉCAPOUPÉE 2.\nDIFFICULTÉ AUGMENTÉE."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz1",
+    "texte": "Quel Pokémon Timmy a-t-il emprunté\nà ton père ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz2",
+    "texte": "Quel Pokémon poursuivait Seko ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll2Quiz3",
+    "texte": "Quel Pokémon les Marks ont-ils\nutilisé dans le Bois Clémenti ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll3Intro",
+    "texte": "MÉCAPOUPÉE 3. CALCUL DES PRIX."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz1",
+    "texte": "Quel est le plus cher ?\n\nTrois Lettres Port ou un Anti-Brûle ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz2",
+    "texte": "Tu vends une Super Ball et tu\nachètes une Potion.\n\nCombien te reste-t-il ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll3Quiz3",
+    "texte": "Un Repousse et un Soda Cool\n\ncoûtent-ils plus qu'une Super Potion ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll4Intro",
+    "texte": "MÉCAPOUPÉE 4. OBSERVATION."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz1",
+    "texte": "À la maison du bord de mer,\n\ny avait-il plus d'hommes\nou de femmes ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz2",
+    "texte": "À Vermilava, y avait-il plus de\nvieux messieurs ou de vieilles dames ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll4Quiz3",
+    "texte": "Combien d'élèves filles y avait-il\nà l'école des Dresseurs ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll5Intro",
+    "texte": "MÉCAPOUPÉE 5. DERNIÈRE ÉPREUVE."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz1",
+    "texte": "Combien de Pokémon y avait-il\nau Fan Club de Poivressel ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz2",
+    "texte": "Combien de cabanes y avait-il\nà Cimetronelle ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_Mechadoll5Quiz3",
+    "texte": "Combien de triathlètes y avait-il\nsur la piste cyclable ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle6_Text_SophiaIntro",
+    "texte": "On m'a parlé de cette maison.\n\nJe voulais la voir moi-même."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle6_Text_SophiaDefeat",
+    "texte": "Tu es un Dresseur remarquable."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle6_Text_SophiaPostBattle",
+    "texte": "Je reviens à chaque nouvelle salle.\n\nJe ne m'en lasse pas."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle6_Text_BennyIntro",
+    "texte": "Mes Pokémon oiseaux pourraient\npasser au-dessus des murs."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle6_Text_BennyDefeat",
+    "texte": "J'ai tout raté !"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle6_Text_BennyPostBattle",
+    "texte": "J'aurais dû suivre le chemin\ncomme tout le monde."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle6_Text_SebastianIntro",
+    "texte": "Ces portes pivotantes me donnent\nle tournis."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle6_Text_SebastianDefeat",
+    "texte": "Je vais m'asseoir un instant."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle6_Text_SebastianPostBattle",
+    "texte": "Tu n'as pas le vertige, toi ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle7_Text_JoshuaIntro",
+    "texte": "Comment disparaît-il dans la fumée ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle7_Text_JoshuaDefeat",
+    "texte": "Tu m'as surpris !"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle7_Text_JoshuaPostBattle",
+    "texte": "J'aimerais apprendre ce tour\navant de repartir."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle7_Text_PatriciaIntro",
+    "texte": "Je tourne en rond.\n\nJe commence à m'inquiéter."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle7_Text_PatriciaDefeat",
+    "texte": "Encore une mauvaise nouvelle."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle7_Text_PatriciaPostBattle",
+    "texte": "Dix fois au même endroit.\n\nJe vais noter chaque direction."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle7_Text_AlexisIntro",
+    "texte": "Le gagnant passera le premier."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle7_Text_AlexisDefeat",
+    "texte": "D'accord, après toi."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle7_Text_AlexisPostBattle",
+    "texte": "Tu arriveras sûrement au bout\nde toutes les salles."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle7_Text_MarielaIntro",
+    "texte": "Enfin quelqu'un !\n\nIl faut avancer."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle7_Text_MarielaDefeat",
+    "texte": "Tu as gagné. Bien joué !"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle7_Text_MarielaPostBattle",
+    "texte": "Je ne t'en veux pas.\n\nJe vais trouver un autre passage."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle7_Text_AlvaroIntro",
+    "texte": "Je t'ai vu arriver de loin."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle7_Text_AlvaroDefeat",
+    "texte": "Je n'avais pas prévu ça."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle7_Text_AlvaroPostBattle",
+    "texte": "Drôle d'endroit pour rencontrer\nquelqu'un, tu ne trouves pas ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle7_Text_EverettIntro",
+    "texte": "On manque de place ici."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle7_Text_EverettDefeat",
+    "texte": "Je te laisse passer."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle7_Text_EverettPostBattle",
+    "texte": "J'aimerais savoir m'orienter\ncomme toi."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle8_Text_VincentIntro",
+    "texte": "Peu de Dresseurs arrivent ici."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle8_Text_VincentDefeat",
+    "texte": "Je comprends pourquoi tu es là."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle8_Text_VincentPostBattle",
+    "texte": "Tu as battu le Maître de la Ligue ?\n\nAlors tu as déjà vu toutes les portes."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle8_Text_KeiraIntro",
+    "texte": "J'attendais un adversaire ici."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle8_Text_KeiraDefeat",
+    "texte": "Je n'avais jamais perdu ici."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle8_Text_KeiraPostBattle",
+    "texte": "Tu mérites de terminer cette salle."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle8_Text_LeroyIntro",
+    "texte": "Toi aussi, tu veux finir\nla dernière épreuve ?"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle8_Text_LeroyDefeat",
+    "texte": "J'ai beaucoup appris de ce combat."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle8_Text_LeroyPostBattle",
+    "texte": "Le Maître des Pièges sera content\nde te voir arriver."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle1_Text_WroteSecretCodeLockOpened",
+    "texte": "{PLAYER} inscrit le code secret.\n\nLe verrou cède. La porte s'ouvre !"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle2_Text_WroteSecretCodeLockOpened",
+    "texte": "{PLAYER} inscrit le code secret.\n\nLe verrou cède. La porte s'ouvre !"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle3_Text_WroteSecretCodeLockOpened",
+    "texte": "{PLAYER} inscrit le code secret.\n\nLe verrou cède. La porte s'ouvre !"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle4_Text_WroteSecretCodeLockOpened",
+    "texte": "{PLAYER} inscrit le code secret.\n\nLe verrou cède. La porte s'ouvre !"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle5_Text_WroteSecretCodeLockOpened",
+    "texte": "{PLAYER} inscrit le code secret.\n\nLe verrou cède. La porte s'ouvre !"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle6_Text_WroteSecretCodeLockOpened",
+    "texte": "{PLAYER} inscrit le code secret.\n\nLe verrou cède. La porte s'ouvre !"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle7_Text_WroteSecretCodeLockOpened",
+    "texte": "{PLAYER} inscrit le code secret.\n\nLe verrou cède. La porte s'ouvre !"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle8_Text_WroteSecretCodeLockOpened",
+    "texte": "{PLAYER} inscrit le code secret.\n\nLe verrou cède. La porte s'ouvre !"
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle_Text_FoundAScroll",
+    "texte": "{PLAYER} trouve un parchemin."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle_Text_MemorizedSecretCode",
+    "texte": "{PLAYER} mémorise le code secret\ninscrit sur le parchemin."
+  },
+  {
+    "repere": "Route110_TrickHousePuzzle_Text_SecretCodeWrittenOnIt",
+    "texte": "Un code secret est inscrit dessus."
+  }
+]
