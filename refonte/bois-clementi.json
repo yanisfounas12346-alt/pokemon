@@ -1,0 +1,102 @@
+[
+  {
+    "repere": "PetalburgWoods_Text_NotAOneToBeFound",
+    "texte": "Rien ici non plus.\n\nLe relevé restera vide aujourd'hui."
+  },
+  {
+    "repere": "PetalburgWoods_Text_HaveYouSeenShroomish",
+    "texte": "Tu as vu un Balignon dans le bois ?\n\nJ'aime bien les voir sortir\naprès la pluie."
+  },
+  {
+    "repere": "PetalburgWoods_Text_IWasGoingToAmbushYou",
+    "texte": "Le sbire attend depuis longtemps.\n\nTu as pris ton temps. Le dispensaire\nne peut pas attendre les papiers."
+  },
+  {
+    "repere": "PetalburgWoods_Text_YouHaveToHelpMe",
+    "texte": "L'employé serre le registre.\n\nTu as des Pokémon ? Aide-moi,\nje t'en prie."
+  },
+  {
+    "repere": "PetalburgWoods_Text_YoureKiddingMe",
+    "texte": "Je n'ai plus de Pokémon en état.\n\nLe temps qu'on a perdu..."
+  },
+  {
+    "repere": "PetalburgWoods_Text_ThatWasAwfullyClose",
+    "texte": "L'employé vérifie les pages.\n\nL'encre n'a pas coulé. Merci.\nTiens, prends cette Super Ball."
+  },
+  {
+    "repere": "PetalburgWoods_Text_ICantBeWastingTime",
+    "texte": "Il faut porter les pages à la Devon.\n\nJe ne peux pas rester ici."
+  },
+  {
+    "repere": "PetalburgWoods_Text_YoureLoadedWithItems",
+    "texte": "Ton sac est plein.\nJe garde la Super Ball pour toi."
+  },
+  {
+    "repere": "PetalburgWoods_Text_GoBugPokemonTeam",
+    "texte": "J'ai attrapé des Pokémon Insecte.\n\nVoyons ce qu'ils savent faire !"
+  },
+  {
+    "repere": "PetalburgWoods_Text_ICouldntWin",
+    "texte": "J'en avais plusieurs.\nÇa n'a pas suffi."
+  },
+  {
+    "repere": "PetalburgWoods_Text_ImOutOfPokeBalls",
+    "texte": "Il ne me reste plus de Poké Balls.\n\nJe vais devoir rentrer au dépôt."
+  },
+  {
+    "repere": "PetalburgWoods_Text_InstantlyPopularWithBugPokemon",
+    "texte": "À l'école, on me laisse une place\nquand j'apporte mes Pokémon Insecte."
+  },
+  {
+    "repere": "PetalburgWoods_Text_CantBePopularIfILose",
+    "texte": "Ils vont encore me demander\nsi j'ai perdu."
+  },
+  {
+    "repere": "PetalburgWoods_Text_PeopleRespectYou",
+    "texte": "Quand mon Pokémon grandit, les\nautres me laissent passer devant."
+  },
+  {
+    "repere": "PetalburgWoods_Text_IWantRematch1",
+    "texte": "On refera un combat quand mes\nPokémon auront grandi.\n\nJe note ton numéro dans le PokéNav."
+  },
+  {
+    "repere": "PetalburgWoods_Text_IWantRematch2",
+    "texte": "Je veux une revanche un jour.\n\nEnregistrons nos numéros\nsur le PokéNav."
+  },
+  {
+    "repere": "PetalburgWoods_Text_MyPokemonHaveGrown",
+    "texte": "Mon Pokémon Insecte a grandi.\n\nRegarde, il a changé de taille."
+  },
+  {
+    "repere": "PetalburgWoods_Text_CantBePopularIfLose",
+    "texte": "J'espérais leur dire que j'avais\ngagné, cette fois."
+  },
+  {
+    "repere": "PetalburgWoods_Text_IveBeenTrainingHard",
+    "texte": "Je m'entraîne tous les jours.\n\nÀ l'école, j'aimerais qu'ils me\nlaissent une place même sans combat."
+  },
+  {
+    "repere": "PetalburgWoods_Text_StayOutOfTallGrass",
+    "texte": "Si tes Pokémon sont épuisés,\névite les hautes herbes.\n\nTu peux contourner les endroits\noù vivent les Pokémon sauvages."
+  },
+  {
+    "repere": "PetalburgWoods_Text_HiddenItemsExplanation",
+    "texte": "On trouve parfois des objets\ncachés au sol.\n\nJe regarde où je pose mes bottes."
+  },
+  {
+    "repere": "PetalburgWoods_Text_TryUsingThisItem",
+    "texte": "Tu as le badge de Mérouville !\n\nTiens, essaie cet objet.\nJe l'avais gardé pour mon Pokémon."
+  },
+  {
+    "repere": "PetalburgWoods_Text_MiracleSeedExplanation",
+    "texte": "Le Grain Miracl renforce les\nattaques Plante du Pokémon qui le tient.\n\nD'autres objets à tenir donnent\nd'autres avantages."
+  },
+  {
+    "repere": "PetalburgWoods_Text_TrainerTipsExperience",
+    "texte": "Conseil aux Dresseurs.\n\nUn Pokémon ayant participé au combat\npeut gagner de l'expérience.\n\nPlace-le en tête, puis change-le\nsi l'adversaire est trop fort."
+  },
+  {
+    "repere": "PetalburgWoods_Text_TrainerTipsPP",
+    "texte": "Conseil aux Dresseurs.\n\nLes PV mesurent la santé.\nLes PP permettent les attaques.\n\nLe Centre Pokémon restaure les PP."
+  }
+]
