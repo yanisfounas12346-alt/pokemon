@@ -1,0 +1,198 @@
+[
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_BirchAwayOnFieldwork",
+    "texte": "Seko est sorti faire ses relevés.\n\nIl mesure la présence des Pokémon\nprès des points d'eau.\n\nLes chiffres des bureaux et ceux\ndes berges ne concordent pas."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_BirchIsntOneForDeskWork",
+    "texte": "Seko laisse les cartes au mur.\nIl va vérifier les lieux lui-même."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_BirchEnjoysRivalsHelpToo",
+    "texte": "{RIVAL} aide Seko à relever les\nhabitats des Pokémon.\n\nChaque fiche porte le lieu et\nl'heure de l'observation."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_WhyNotGiveNicknameToMon",
+    "texte": "Veux-tu donner un surnom\nà ton {STR_VAR_1} ?"
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_MightBeGoodIdeaToGoSeeRival",
+    "texte": "{RIVAL} sait lire les traces dans\nles herbes.\n\nTu devrais aller à sa rencontre.\nQu'en dis-tu ?"
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_GetRivalToTeachYou",
+    "texte": "Bien. Demande à {RIVAL} comment\nentraîner ton Pokémon.\n\nOn apprend mieux en chemin."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_DontBeThatWay",
+    "texte": "Tu peux changer d'avis.\nVa voir {RIVAL}, je te prie."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_BirchRivalGoneHome",
+    "texte": "{RIVAL} est peut-être à la maison\nou dans les herbes hautes.\n\nSi tes Pokémon sont fatigués,\nLuzia peut les soigner."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_HeardYouBeatRivalTakePokedex",
+    "texte": "J'ai appris que tu as battu {RIVAL}.\n\nUn combat donne deux relevés.\nChacun voit ce que l'autre ignore.\n\nPrends ce Pokédex. J'en ai besoin\npour établir une carte des espèces."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_ReceivedPokedex",
+    "texte": "{PLAYER} reçoit le Pokédex !"
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_ExplainPokedex",
+    "texte": "Le Pokédex note les Pokémon vus\net ceux que tu as attrapés.\n\nEmporte-le. Un animal peut vivre\nlà où la carte ne le prévoit pas.\n\n{RIVAL} me rapporte chaque relevé.\nFais de même si tu le peux."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_CountlessPokemonAwait",
+    "texte": "Il reste beaucoup de Pokémon\nà découvrir.\n\nJe retourne sur les berges. On m'a\nsignalé des traces dans la vase."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_MayGotPokedexTooTakeThese",
+    "texte": "Flora. Tu as ton Pokédex !\n\nTiens, j'ai pris quelques Balls\nde plus pour les sorties."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_CatchCutePokemonWithPokeBalls",
+    "texte": "Flora. Avec les Poké Balls, tu peux\nattraper les Pokémon sauvages.\n\nJe vais relever les espèces\nprès des chemins d'eau."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_OhYourBagsFull",
+    "texte": "Ton sac est plein.\nFais un peu de place, je te prie."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_MayWhereShouldIGoNext",
+    "texte": "Flora. Je ne sais pas encore où\nfaire le prochain relevé."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_BrendanGotPokedexTooTakeThese",
+    "texte": "Brice. Toi aussi, tu as un Pokédex.\n\nTiens, prends ces Balls. J'avais\nprévu une réserve."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_CatchCoolPokemonWithPokeBalls",
+    "texte": "Brice. Les Poké Balls servent à\nattraper les Pokémon sauvages.\n\nJe vais explorer les chemins\nqu'on n'a pas encore recensés."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_HeyYourBagsFull",
+    "texte": "Ton sac est plein. Il faut faire\nun peu de place."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_BrendanWhereShouldIGoNext",
+    "texte": "Brice. Où vais-je faire le prochain\nrelevé de Pokémon ?"
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_SeriousLookingMachine",
+    "texte": "Une machine mesure la qualité\nde l'eau.\n\nLe dernier tube est encore trouble."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_PCUsedForResearch",
+    "texte": "Le PC conserve les relevés.\n\nUne sauvegarde est en cours.\nMieux vaut ne rien toucher."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_CrammedWithBooksOnPokemon",
+    "texte": "Des livres sur les Pokémon.\n\nDes reçus servent de marque-pages."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_BookTooHardToRead",
+    "texte": "Un ouvrage sur les migrations.\n\nArmand reconnaît les noms de lieux,\npas les termes des chercheurs."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_OtherRegionsUpgradeToNational",
+    "texte": "Vos relevés ont changé notre carte.\n\nDes Pokémon d'autres régions\nvivent ici depuis des années.\n\nLe registre de Hoenn ne suffit plus.\n\nDonnez-moi vos Pokédex. Je vais\nactiver le mode NATIONAL."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_MayUpgradeSoCool",
+    "texte": "Flora. Mon Pokédex est à jour !\n\nNos deux carnets racontent des\nchoses qu'un seul aurait manquées."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_BrendanYouCanThankMe",
+    "texte": "Brice. Le mode NATIONAL est prêt.\n\nJ'ai rapporté des relevés de loin.\nIl faudra aussi comparer les tiens."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_OkayAllDone",
+    "texte": "Seko. Voilà, les fiches sont à jour."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_PokedexUpgradedToNational",
+    "texte": "Le Pokédex de {PLAYER} est passé\nen mode NATIONAL !"
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_GrassyPatchWaiting2",
+    "texte": "Tu as le titre de Maître de la Ligue.\n\nLes registres ne s'arrêtent pas\naux portes du Panthéon.\n\nIl reste des espèces à relever,\net des rives où retourner."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_MayTakeBreakFromFieldwork",
+    "texte": "Flora. Je reste au labo un moment.\n\nIl faut mettre les dates au propre\navant que le papier ne sèche."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_BrendanTakeBreakFromFieldwork",
+    "texte": "Brice. Je suspends les sorties.\n\nJe vais aider Seko à classer\nles relevés des dernières semaines."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_CompletedDexChoosePokemon",
+    "texte": "Seko ouvre ton Pokédex.\n\nToutes les espèces de Hoenn sont\nrecensées. Je vais garder un double.\n\nDes collègues m'ont confié trois\nPokémon d'une autre région.\n\nPour te remercier, je t'en donne un.\nChoisis parmi ces trois Pokémon."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_CanHaveAnyOneOfRarePokemon",
+    "texte": "Ces Pokémon viennent de loin.\nTu peux en choisir un parmi les trois."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_YoullTakeCyndaquil",
+    "texte": "Héricendre, le Pokémon Feu.\n\nC'est celui que tu veux emmener ?"
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_YoullTakeTotodile",
+    "texte": "Kaiminus, le Pokémon Eau.\n\nC'est celui que tu veux emmener ?"
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_YoullTakeChikorita",
+    "texte": "Germignon, le Pokémon Plante.\n\nC'est celui que tu veux emmener ?"
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_TakeYourTimeAllInvaluable",
+    "texte": "Prends le temps de les regarder.\nIl n'y a pas de prix sur leurs fiches."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_PickedFinePokemon",
+    "texte": "Seko. Je te confie ce Pokémon."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_ReceivedJohtoStarter",
+    "texte": "{PLAYER} reçoit {STR_VAR_1}\ndu professeur Seko."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_NicknameJohtoStarter",
+    "texte": "Veux-tu donner un surnom\nà ton {STR_VAR_1} ?"
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_GrassyPatchWaiting",
+    "texte": "Tu as rempli le Pokédex de Hoenn.\n\nIl reste des régions à découvrir.\nLes Pokémon ne lisent pas nos cartes."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_BetterLeaveOthersAlone",
+    "texte": "Tu as choisi ton Pokémon.\nLes autres restent au laboratoire."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_DontHaveAnyRoomForPokemon",
+    "texte": "Tu n'as pas de place dans ton équipe\npour ce Pokémon."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_MayWhatNextImStayingHere",
+    "texte": "Flora. Tu vas poursuivre les combats\nou remplir le Pokédex NATIONAL ?\n\nJe reste ici pour aider Seko.\nOn manque de place pour les fiches."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_BrendanPreferCollectingSlowly",
+    "texte": "Brice. Je vais entraîner ceux que\nj'ai déjà plutôt que d'en attraper.\n\nIl faut apprendre à les connaître."
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_MayHaveYouGoneToBattleFrontier",
+    "texte": "Flora. Es-tu allé à la Zone de Combat ?"
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_BrendanHaveYouGoneToBattleFrontier",
+    "texte": "Brice. Es-tu allé à la Zone de Combat ?"
+  },
+  {
+    "repere": "LittlerootTown_ProfessorBirchsLab_Text_ScottAboardSSTidalCall",
+    "texte": "Bip ! Scott à l'appareil.\n\nJe suis à bord du Marina. Le ferry\na repris ses traversées.\n\nJ'ai une invitation pour toi.\nEmbarque à Poivressel ou Nénucrique.\n\nJe t'expliquerai à bord.\nÀ bientôt. Clic !"
+  }
+]
