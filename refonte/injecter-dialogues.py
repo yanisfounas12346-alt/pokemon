@@ -223,6 +223,7 @@ def relocate(current, approved):
     output = bytearray(current)
     output.extend(b"\0" * (BASE_SIZE - len(output)))
     occupied = set()
+    source_spans = [(off, off+len(old)) for _, off, old, _, _ in approved]
     changes = []
     for label, off, old, new, refs in approved:
         if current[off:off+len(old)] != old:
@@ -234,6 +235,8 @@ def relocate(current, approved):
         for pos in refs:
             if pos < 0xc0 or pos + 4 > len(current) or current[pos:pos+4] != pointer(off):
                 raise ValueError("Pointeur invalide : " + label)
+            if any(pos < end and pos+4 > start for start, end in source_spans):
+                raise ValueError("Pointeur chevauchant un texte source : " + label)
             span = set(range(pos, pos+4))
             if occupied & span:
                 raise ValueError("Pointeurs en conflit : " + label)

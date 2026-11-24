@@ -27,9 +27,16 @@ jobs:
           ref: 8baea56025e07db971b68f88aa85370f7432383e
           path: source-pokeemerald
           persist-credentials: false
-          sparse-checkout: data/maps
+          sparse-checkout: |
+            data/maps
+            charmap.txt
+          sparse-checkout-cone-mode: false
       - name: Vérifier la syntaxe Python
         run: python3 -m py_compile refonte/audit-dialogues.py refonte/preparer-integration.py
+      - name: Tester l'injecteur sur des données artificielles
+        env:
+          CHARMAP_REFERENCE: source-pokeemerald/charmap.txt
+        run: python3 refonte/test-injecteur.py
       - name: Générer le rapport d'audit
         run: |
           mkdir -p rapports
