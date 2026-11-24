@@ -68,3 +68,53 @@ Les cinq fiches contiennent **95 répliques**. Chaque lien *Repère FR* ouvre le
 Sur un émulateur GBA, la sortie du camion, le refus sur la Route 101 et l’appel du professeur ont été lus à l’écran. Des accès directs aux salles ont permis de rejouer les huit remises de badge avec leur fanfare et d’afficher les pièces du registre. Le tunnel, le mont Chimnée et le don de Morphéo ont aussi été contrôlés. À la Ligue, la scène qui suit le dernier combat s’est enchaînée jusqu’au Panthéon et au double nœud de Paz. Ces essais couvrent des scènes ciblées. Un parcours continu depuis une nouvelle partie reste à vérifier.
 
 Le patch a été appliqué à la base française puis inversé. Les deux opérations ont reproduit les fichiers attendus octet pour octet. La vérification des événements couvre les 103 références aux 95 répliques. [Référence française des événements](https://github.com/pret/pokeemerald/tree/8baea56025e07db971b68f88aa85370f7432383e)
+
+## Refonte complète en préparation
+
+Le patch publié dans `patch/` reste la version jouable du scénario initial.
+Les fichiers `refonte/La-Part-des-absents-v2-partielle.ups` et
+`refonte/La-Part-des-absents-v3-partielle.ups` sont des versions intermédiaires.
+Les 62 fichiers JSON de refonte contiennent 4 226 entrées de dialogue recensées
+lors de la dernière lecture des fichiers ; ce nombre n'est pas une mesure de
+couverture de la ROM. Les nouvelles répliques ne sont pas encore intégrées
+dans un patch complet.
+
+### Audit reproductible
+
+Le workflow [Audit des dialogues](https://github.com/yanisfounas12346-alt/pokemon/actions/workflows/audit-dialogues.yml)
+récupère la révision française de référence, vérifie les scripts Python,
+produit un rapport de couverture et prépare un manifeste d'intégration.
+On peut le lancer depuis l'onglet Actions, ou exécuter les mêmes commandes
+localement depuis la racine de ce dépôt :
+
+```sh
+git clone https://github.com/pret/pokeemerald.git source-pokeemerald
+git -C source-pokeemerald checkout --detach 8baea56025e07db971b68f88aa85370f7432383e
+mkdir -p rapports
+python3 refonte/audit-dialogues.py --source source-pokeemerald --rapport rapports/audit.json
+python3 refonte/preparer-integration.py --source source-pokeemerald --sortie rapports/manifeste.json
+```
+
+L'archive `audit-dialogues` publiée par Actions contient les rapports de la
+dernière exécution. Le manifeste sépare les répliques narratives (déjà
+intégrées au scénario initial, dont les ajouts après les badges), les
+réécritures de Bourg et de la Ligue déjà présentes dans le patch v3 et les
+nouvelles répliques à intégrer. Les variables modifiées sont signalées pour
+vérification humaine ; les doublons, conflits et repères introuvables
+bloquent la génération d'un manifeste considéré comme valide.
+
+### Avant de publier un nouveau patch
+
+1. Examiner le rapport intégral et résoudre les anomalies ou documenter les
+   exceptions (textes inutilisés, variables volontairement retirées).
+2. Appliquer le patch v3 à une copie de la ROM française compatible, puis
+   vérifier le contenu déjà présent avant toute réécriture.
+3. Résoudre les repères en adresses ROM vérifiées, contrôler les références
+   multiples, l'encodage GBA et les pointeurs. Le manifeste n'est pas un
+   fichier d'injection et ne doit pas être appliqué directement à la ROM.
+4. Contrôler la largeur réelle des textes, les variables développées et les
+   menus dans un émulateur, puis effectuer un parcours complet.
+5. Exporter un UPS final contre la base française d'origine, vérifier les
+   CRC32 et tester l'application et l'inversion du patch.
+
+Aucune ROM commerciale n'est distribuée dans ce dépôt.
