@@ -1,0 +1,410 @@
+[
+  {
+    "repere": "MossdeepCity_Text_WantKingsRockStevenGaveMe",
+    "texte": "Pierre m'a donné cette Roche Royale.\n\nJe ne sais pas m'en servir.\nTu la veux ?"
+  },
+  {
+    "repere": "MossdeepCity_Text_YouCanKeepIt",
+    "texte": "Garde-la si elle peut te servir.\n\nPierre en a d'autres."
+  },
+  {
+    "repere": "MossdeepCity_Text_StevensHouseOverThere",
+    "texte": "La maison de Pierre est là-bas."
+  },
+  {
+    "repere": "MossdeepCity_Text_WhatToDoWithWeirdRock",
+    "texte": "Je ne sais jamais quoi faire\ndes pierres que je ramasse."
+  },
+  {
+    "repere": "MossdeepCity_Text_WailmerWatching",
+    "texte": "Les Wailmer passent près de l'île.\n\nJe note leur nombre chaque matin."
+  },
+  {
+    "repere": "MossdeepCity_Text_SpaceCenterReceivedLetter",
+    "texte": "Le Centre Spatial a reçu une lettre.\n\nLes équipes ne parlent plus\nque de ça."
+  },
+  {
+    "repere": "MossdeepCity_Text_SpaceCenterLaunchingRockets",
+    "texte": "Les fusées partent de cette île.\n\nOn les voit depuis les quais."
+  },
+  {
+    "repere": "MossdeepCity_Text_MossdeepTargetedByMagma",
+    "texte": "Un marin m'a parlé des Marks\nà Nénucrique.\n\nIci, ce sont les Trumps qui menacent\nle Centre Spatial. Va voir là-bas."
+  },
+  {
+    "repere": "MossdeepCity_Text_FeelReliefOnLand",
+    "texte": "Après plusieurs jours en mer,\nje suis heureux de toucher terre.\n\nLe sol ne bouge plus."
+  },
+  {
+    "repere": "MossdeepCity_Text_NiceIfWorldCoveredByFlowers",
+    "texte": "On plante des fleurs ici\npour retenir un peu de terre."
+  },
+  {
+    "repere": "MossdeepCity_Text_LifeNeedsSeaToLive",
+    "texte": "Même ceux qui vivent sur terre\nont besoin de la mer.\n\nLe rivage n'est pas une frontière."
+  },
+  {
+    "repere": "MossdeepCity_Text_SurfExhilarating",
+    "texte": "Avec Surf, on peut voyager\nsans attendre le prochain bateau."
+  },
+  {
+    "repere": "MossdeepCity_Text_SpecialSpaceCenterRock",
+    "texte": "Les équipes du Centre Spatial\nont posé cette pierre ici.\n\nElles souhaitent que chaque fusée\nparte sans accident."
+  },
+  {
+    "repere": "MossdeepCity_Text_ItsAWhiteRock",
+    "texte": "Une pierre blanche."
+  },
+  {
+    "repere": "MossdeepCity_Text_GymSign",
+    "texte": "Arène d'Algatia.\nChampions : Tatia et Lévy.\n\nRegistre des eaux, septième pièce."
+  },
+  {
+    "repere": "MossdeepCity_Text_CitySign",
+    "texte": "Algatia. Quartier des départs."
+  },
+  {
+    "repere": "MossdeepCity_Text_SpaceCenterSign",
+    "texte": "Centre Spatial d'Algatia.\n\nAccueil des visiteurs."
+  },
+  {
+    "repere": "MossdeepCity_Text_ScottSomethingWrongWithTown",
+    "texte": "Scott. Ah, {PLAYER} !\n\nJe suis venu voir les champions.\nMais tout le monde parle d'une\n\nlettre reçue au Centre Spatial."
+  },
+  {
+    "repere": "MossdeepCity_Text_SootopolisNewGymLeader",
+    "texte": "Atalanopolis a un nouveau champion.\n\nIl paraît que c'est l'ancien\nprofesseur de Marc."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_GymGuideAdvice",
+    "texte": "Les champions utilisent le type Psy.\n\nAttention aux types Combat et Poison.\nLe combat se joue à deux Pokémon.\n\nPrépare leurs attaques combinées."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_GymGuidePostVictory",
+    "texte": "Tu as battu les deux champions.\n\nLe registre t'attend."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_PrestonIntro",
+    "texte": "Il faut garder son attention\nsur les deux adversaires."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_PrestonDefeat",
+    "texte": "J'ai perdu ma concentration."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_PrestonPostBattle",
+    "texte": "Observe avant de choisir\nune capacité."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_VirgilIntro",
+    "texte": "Montre-moi ce que tu as appris."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_VirgilDefeat",
+    "texte": "Tu as bien préparé ton équipe."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_VirgilPostBattle",
+    "texte": "Les jumeaux s'entraînent ensemble\ndepuis leur enfance."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_BlakeIntro",
+    "texte": "Je voudrais soulever cette Ball\nsans la toucher.\n\nBon... Commençons le combat."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_BlakeDefeat",
+    "texte": "Rien n'a fonctionné comme prévu."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_BlakePostBattle",
+    "texte": "Je vais essayer avec un grain\nde poussière cette fois."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_HannahIntro",
+    "texte": "J'ai préparé mes Pokémon.\n\nVoyons ce que tu sais faire."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_HannahDefeat",
+    "texte": "Tu as trouvé mes points faibles."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_HannahPostBattle",
+    "texte": "Je vais reprendre mes exercices\ndemain matin."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_SamanthaIntro",
+    "texte": "Je crois pouvoir deviner\nton prochain mouvement."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_SamanthaDefeat",
+    "texte": "Je me suis trompée."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_SamanthaPostBattle",
+    "texte": "Les champions t'attendent.\n\nJe ne peux pas prévoir l'issue."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_MauraIntro",
+    "texte": "Tu viens de loin.\n\nMontre-moi ce que tu as appris."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_MauraDefeat",
+    "texte": "Tu as beaucoup progressé."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_MauraPostBattle",
+    "texte": "Chaque décision laisse une trace.\n\nOn ne les voit pas toutes\nau moment de les prendre."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_SylviaIntro",
+    "texte": "Je veux gagner ce combat."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_SylviaDefeat",
+    "texte": "Je n'avais pas prévu cette défaite."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_SylviaPostBattle",
+    "texte": "Il me faudra revoir ma stratégie."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_NateIntro",
+    "texte": "Voyons comment tu affrontes\nles Pokémon Psy."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_NateDefeat",
+    "texte": "Je n'ai pas su te contrer."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_NatePostBattle",
+    "texte": "Je vais continuer à m'entraîner."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_KathleenIntro",
+    "texte": "On dit que je lis dans les pensées.\n\nVoyons si je peux lire les tiennes."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_KathleenDefeat",
+    "texte": "Je n'ai rien vu venir."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_KathleenPostBattle",
+    "texte": "Tu peux poursuivre ton chemin."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_CliffordIntro",
+    "texte": "Je pratique ces combats\ndepuis longtemps."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_CliffordDefeat",
+    "texte": "Tu as mieux réagi que moi."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_CliffordPostBattle",
+    "texte": "L'expérience ne suffit pas toujours."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_MaceyIntro",
+    "texte": "Je garde le passage.\n\nIl faudra me battre."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_MaceyDefeat",
+    "texte": "Tu m'as surprise."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_MaceyPostBattle",
+    "texte": "Les Pokémon Psy demandent\nune attention particulière."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_NicholasIntro",
+    "texte": "Observe bien mon Pokémon !"
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_NicholasDefeat",
+    "texte": "Déjà terminé ?"
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_NicholasPostBattle",
+    "texte": "Je vais changer mon entraînement."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_TateAndLizaIntro",
+    "texte": "Lévy. Nous sommes deux champions.\nTatia. Et nous gardons une pièce.\n\nLévy. Nous combattons ensemble.\nTatia. À toi de nous affronter."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_TateAndLizaDefeat",
+    "texte": "Lévy. Tu as gagné.\nTatia. Voici ton badge.\n\nLévy. Il reste une page à lire.\nTatia. Nous la lirons ensemble."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_ReceivedMindBadge",
+    "texte": "{PLAYER} reçoit le Badge Esprit !"
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_ExplainCalmMind",
+    "texte": "Lévy. La CT04 contient Plénitude.\n\nTatia. Elle augmente l'Atq. Spé.\net la Déf. Spé."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_RegisteredTateAndLiza",
+    "texte": "Tatia et Lévy sont enregistrés\ndans le PokéNav."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_TateAndLizaPostBattle",
+    "texte": "Lévy. Nous allons rester ici.\nTatia. Tu peux poursuivre ta route."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_TateAndLizaNeedTwoMons",
+    "texte": "Lévy. Tu n'as qu'un Pokémon.\nTatia. Il nous en faut deux.\n\nReviens avec deux Pokémon aptes\nau combat."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_GymStatue",
+    "texte": "Arène Pokémon d'Algatia."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_GymStatueCertified",
+    "texte": "Arène Pokémon d'Algatia.\n\nDresseur reconnu par les jumeaux :\n{PLAYER}."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_TateAndLizaPreRematch",
+    "texte": "Lévy. Nous avons changé l'équipe.\nTatia. Pas notre façon de travailler.\n\nLévy. Prêt pour un autre combat ?\nTatia. Nous le sommes."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_TateAndLizaRematchDefeat",
+    "texte": "Lévy. Encore une défaite.\nTatia. Nous reprendrons demain."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_TateAndLizaPostRematch",
+    "texte": "Lévy. On va s'entraîner encore.\nTatia. Ensemble, comme toujours."
+  },
+  {
+    "repere": "MossdeepCity_Gym_Text_TateAndLizaRematchNeedTwoMons",
+    "texte": "Lévy. Il manque un Pokémon.\nTatia. Reviens avec deux Pokémon\naptes au combat."
+  },
+  {
+    "repere": "MossdeepCity_House1_Text_HmmYourPokemon",
+    "texte": "Voyons ton {STR_VAR_1}..."
+  },
+  {
+    "repere": "MossdeepCity_House1_Text_ItLikesXPokeblocks",
+    "texte": "Ce Pokémon apprécie la saveur\n{STR_VAR_1}."
+  },
+  {
+    "repere": "MossdeepCity_House1_Text_DoesntLikeOrDislikePokeblocks",
+    "texte": "Il ne semble pas avoir de goût\nparticulier pour les {POKEBLOCK}s."
+  },
+  {
+    "repere": "MossdeepCity_House1_Text_HusbandCanTellPokeblockMonLikes",
+    "texte": "Mon mari reconnaît les saveurs\nque préfèrent les Pokémon."
+  },
+  {
+    "repere": "MossdeepCity_House2_Text_SisterMailsBoyfriendInFortree",
+    "texte": "Ma soeur écrit à son ami\nde Cimetronelle.\n\nElle attend le retour de Goélise."
+  },
+  {
+    "repere": "MossdeepCity_House2_Text_PokemonCarriesMailBackAndForth",
+    "texte": "Goélise transporte nos lettres.\n\nJe ne vois pas mon ami souvent,\nmais je reconnais son écriture."
+  },
+  {
+    "repere": "MossdeepCity_House2_Text_Wingull",
+    "texte": "Goélise. Goéééliiise !"
+  },
+  {
+    "repere": "MossdeepCity_House3_Text_YouWantSuperRod",
+    "texte": "J'ai une Méga Canne.\n\nElle permet de pêcher d'autres\nPokémon en mer. Tu en veux une ?"
+  },
+  {
+    "repere": "MossdeepCity_House3_Text_SuperRodIsSuper",
+    "texte": "Tiens, prends cette Méga Canne."
+  },
+  {
+    "repere": "MossdeepCity_House3_Text_TryDroppingRodInWater",
+    "texte": "Lance ta canne dans l'eau.\n\nAttends que ça morde."
+  },
+  {
+    "repere": "MossdeepCity_House3_Text_DontYouLikeToFish",
+    "texte": "Tu ne pêches pas ?\n\nReviens si tu changes d'avis."
+  },
+  {
+    "repere": "MossdeepCity_House3_Text_GoAfterSeafloorPokemon",
+    "texte": "Essaie la Méga Canne dans\ndifférentes eaux."
+  },
+  {
+    "repere": "MossdeepCity_House4_Text_BrotherLikesToFindBases",
+    "texte": "Mon frère cherche les Bases Secrètes\ndes autres Dresseurs."
+  },
+  {
+    "repere": "MossdeepCity_House4_Text_BrotherLikesToVisitBasesAndBattle",
+    "texte": "Il visite les Bases Secrètes\net affronte leurs propriétaires."
+  },
+  {
+    "repere": "MossdeepCity_House4_Text_YouMadeSecretBaseNearX",
+    "texte": "C'est toi qui as aménagé une base\n{STR_VAR_1} ?"
+  },
+  {
+    "repere": "MossdeepCity_House4_Text_MakeSecretBase",
+    "texte": "Aménage une Base Secrète.\n\nJ'essaierai de la retrouver !"
+  },
+  {
+    "repere": "MossdeepCity_House4_Text_Skitty",
+    "texte": "Delcatty. Delcaaah ?"
+  },
+  {
+    "repere": "MossdeepCity_Mart_Text_ReviveIsFantastic",
+    "texte": "Un Rappel ranime un Pokémon K.O.\n\nIl ne restaure pas les PP utilisés."
+  },
+  {
+    "repere": "MossdeepCity_Mart_Text_MaxRepelLastsLongest",
+    "texte": "Le Max Repousse dure plus longtemps\nque les autres Repousses."
+  },
+  {
+    "repere": "MossdeepCity_Mart_Text_NetAndDiveBallsRare",
+    "texte": "La Filet Ball est efficace contre\nles types Eau et Insecte.\n\nLa Scuba Ball est efficace\nsous l'eau."
+  },
+  {
+    "repere": "MossdeepCity_PokemonCenter_1F_Text_GymLeaderDuoFormidable",
+    "texte": "Les deux champions coordonnent\nleurs attaques.\n\nIl faut observer leurs deux Pokémon."
+  },
+  {
+    "repere": "MossdeepCity_PokemonCenter_1F_Text_AbilitiesMightChangeMoves",
+    "texte": "Les capacités spéciales peuvent\nmodifier ou annuler une attaque."
+  },
+  {
+    "repere": "MossdeepCity_PokemonCenter_2F_Text_Woman5",
+    "texte": "Je voudrais rencontrer d'autres\nDresseurs en combat link."
+  },
+  {
+    "repere": "MossdeepCity_StevensHouse_Text_YouveEarnedHMDive",
+    "texte": "Pierre. Merci, {PLAYER}.\n\nPour te remercier, je voudrais\nte donner cette CS Plongée."
+  },
+  {
+    "repere": "MossdeepCity_StevensHouse_Text_ExplainDive",
+    "texte": "Avec Surf, repère les zones d'eau\nplus sombres.\n\nPlongée permet d'y descendre.\nUtilise-la de nouveau pour remonter\n\nlà où le passage est libre."
+  },
+  {
+    "repere": "MossdeepCity_StevensHouse_Text_UnderwateCavernBetweenMossdeepSootopolis",
+    "texte": "Le capitaine Poupe a découvert\nune grotte sous la mer,\n\nentre Algatia et Atalanopolis."
+  },
+  {
+    "repere": "MossdeepCity_StevensHouse_Text_TakeBallContainingBeldum",
+    "texte": "{PLAYER} examine la Poké Ball.\n\nElle contient un Terhal.\nPrendre la Poké Ball ?"
+  },
+  {
+    "repere": "MossdeepCity_StevensHouse_Text_ObtainedBeldum",
+    "texte": "{PLAYER} reçoit un Terhal."
+  },
+  {
+    "repere": "MossdeepCity_StevensHouse_Text_NoSpaceForAnotherMon",
+    "texte": "Il n'y a plus de place dans l'équipe."
+  },
+  {
+    "repere": "MossdeepCity_StevensHouse_Text_LeftPokeBallWhereItWas",
+    "texte": "{PLAYER} laisse la Poké Ball."
+  },
+  {
+    "repere": "MossdeepCity_StevensHouse_Text_LetterFromSteven",
+    "texte": "Pour {PLAYER}.\n\nJe pars poursuivre mon entraînement.\nJe ne rentrerai pas tout de suite.\n\nPrends la Poké Ball sur le bureau.\nElle contient mon Terhal.\n\nJe te le confie.\nPierre Rochard."
+  },
+  {
+    "repere": "MossdeepCity_StevensHouse_Text_CollectionOfRareRocks",
+    "texte": "Des pierres réunies par Pierre.\n\nLes étiquettes indiquent le lieu\nde chaque découverte."
+  }
+]
