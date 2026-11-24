@@ -1,0 +1,166 @@
+[
+  {
+    "repere": "Route104_Text_BrineyLivesInSeasideCottage",
+    "texte": "Marco habite la maison près de l'eau.\n\nAutrefois, il connaissait les ports\nà la couleur de leurs lanternes."
+  },
+  {
+    "repere": "Route104_Text_WhatsItLikeAtBottomOfSea",
+    "texte": "Je me demande ce qui reste au fond\nde la mer après une tempête."
+  },
+  {
+    "repere": "Route104_Text_ThrowBallAtWeakenedPokemon",
+    "texte": "Affaiblis un Pokémon sauvage avant\nde lancer une Poké Ball.\n\nLe sommeil facilite aussi la capture."
+  },
+  {
+    "repere": "Route104_Text_OnlyThrowBallAtWildPokemon",
+    "texte": "Ne lance des Balls que sur les\nPokémon sauvages.\n\nCeux des autres ne sont pas à toi."
+  },
+  {
+    "repere": "Route104_Text_ImNotATrainer",
+    "texte": "Je ne suis pas Dresseur.\n\nSi tu croises le regard de l'un\nd'eux, il te défiera."
+  },
+  {
+    "repere": "Route104_Text_LikeFillingMouthWithSeedsTakeThis",
+    "texte": "Je lançais des graines au loin\nquand je gardais les jardins.\n\nTiens, cette CT apprend à un Pokémon\nà en lancer à son tour."
+  },
+  {
+    "repere": "Route104_Text_TMsAreOneTimeUse",
+    "texte": "Une CT ne sert qu'une fois.\n\nChoisis bien le Pokémon auquel\ntu veux enseigner sa capacité."
+  },
+  {
+    "repere": "Route104_Text_DontNeedThisTakeIt",
+    "texte": "J'ai acheté trop de plants.\n\nIl me reste une Herbeblanche.\nTu la veux ?"
+  },
+  {
+    "repere": "Route104_Text_FlowerShopSellingSaplings",
+    "texte": "J'ai acheté des plants au fleuriste.\n\nIl va falloir trouver de la place\nsur mon rebord de fenêtre."
+  },
+  {
+    "repere": "Route104_Text_MrBrineysCottage",
+    "texte": "Maison de M. Marco.\nLes amarres sont derrière."
+  },
+  {
+    "repere": "Route104_Text_RouteSignPetalburg",
+    "texte": "Route 104\n{RIGHT_ARROW} Clémenti-Ville"
+  },
+  {
+    "repere": "Route104_Text_RouteSignRustboro",
+    "texte": "Route 104\n{UP_ARROW} Mérouville"
+  },
+  {
+    "repere": "Route104_Text_PrettyPetalFlowShop",
+    "texte": "Fleuriste Jolie Fleur.\nLes pots vides sont repris."
+  },
+  {
+    "repere": "Route104_Text_TrainerTipsDoubleBattles",
+    "texte": "Conseil aux Dresseurs.\n\nUn Combat Duo oppose deux Pokémon\nà deux autres Pokémon.\n\nVérifie les deux premières places\nde ton équipe avant de partir."
+  },
+  {
+    "repere": "Route104_Text_MayWeShouldRegister",
+    "texte": "Flora. Ton PokéNav a le Match Phone.\n\nÉchangeons nos numéros. On pourra\nse transmettre les relevés."
+  },
+  {
+    "repere": "Route104_Text_RegisteredMay",
+    "texte": "Flora est enregistrée\nsur le PokéNav de {PLAYER}."
+  },
+  {
+    "repere": "Route104_Text_MayHowsYourPokedex",
+    "texte": "Flora. Où en est ton Pokédex ?"
+  },
+  {
+    "repere": "Route104_Text_MayMinesDecentLetsBattle",
+    "texte": "J'ai rempli quelques pages.\n\nVeux-tu faire un combat ?"
+  },
+  {
+    "repere": "Route104_Text_MayHaventRaisedPokemon",
+    "texte": "Tes Pokémon ont encore besoin\nd'entraînement, je crois.\n\nOn pourra se revoir plus tard."
+  },
+  {
+    "repere": "Route104_Text_MayLetsBattle",
+    "texte": "Flora. Veux-tu faire un combat ?"
+  },
+  {
+    "repere": "Route104_Text_MayIntro",
+    "texte": "Voyons ce que nos Pokémon ont\nappris depuis la dernière fois."
+  },
+  {
+    "repere": "Route104_Text_MayDefeat",
+    "texte": "Tu as fait du chemin depuis\nnotre premier combat."
+  },
+  {
+    "repere": "Route104_Text_MayPostBattle",
+    "texte": "Marco connaît chaque cri de Piko.\nMême sans regarder par la fenêtre.\n\nJ'aimerais savoir faire pareil\navec mes Pokémon."
+  },
+  {
+    "repere": "Route104_Text_BrendanWeShouldRegister",
+    "texte": "Brice. Tu as le Match Phone !\n\nEnregistrons nos numéros sur\nle PokéNav."
+  },
+  {
+    "repere": "Route104_Text_RegisteredBrendan",
+    "texte": "Brice est enregistré\nsur le PokéNav de {PLAYER}."
+  },
+  {
+    "repere": "Route104_Text_BrendanHowsYourPokedex",
+    "texte": "Brice. Tu as rempli d'autres pages\nde ton Pokédex ?"
+  },
+  {
+    "repere": "Route104_Text_BrendanDoingGreatLetsBattle",
+    "texte": "J'ai fait de nouveaux relevés.\n\nTu veux qu'on fasse un combat ?"
+  },
+  {
+    "repere": "Route104_Text_BrendanNoConfidence",
+    "texte": "Tu ne te sens pas prêt ?\nOn peut remettre ça."
+  },
+  {
+    "repere": "Route104_Text_BrendanLetsBattle",
+    "texte": "Brice. Tu veux te battre contre moi ?"
+  },
+  {
+    "repere": "Route104_Text_BrendanIntro",
+    "texte": "Je ne vais pas retenir mes coups.\nPrépare ton équipe."
+  },
+  {
+    "repere": "Route104_Text_BrendanDefeat",
+    "texte": "Tu as bien progressé.\nJe vais devoir reprendre mes notes."
+  },
+  {
+    "repere": "Route104_Text_BrendanPostBattle",
+    "texte": "Marco reconnaît le vol de Piko\navant même de lever la tête.\n\nUn combat ne suffit pas pour\nconnaître son Pokémon."
+  },
+  {
+    "repere": "Route104_MrBrineysHouse_Text_WaitUpPeeko",
+    "texte": "Marco. Attends, Piko !\n\nIl tourne autour de la table\navec un morceau de ficelle."
+  },
+  {
+    "repere": "Route104_MrBrineysHouse_Text_ItsYouLetsSailToDewford",
+    "texte": "C'est toi, {PLAYER} !\n\nPiko est rentré grâce à toi.\nJe te dois une traversée.\n\nUne lettre pour Myokara et un colis\npour Poivressel, c'est bien ça ?\n\nVeux-tu partir pour Myokara ?"
+  },
+  {
+    "repere": "Route104_MrBrineysHouse_Text_SetSailForDewford",
+    "texte": "Cap sur Myokara !\n\nPiko, laisse cette corde tranquille.\nElle doit tenir le bateau."
+  },
+  {
+    "repere": "Route104_MrBrineysHouse_Text_DeclineDeliverySail",
+    "texte": "Pas encore ? Très bien.\n\nReviens quand tu voudras partir."
+  },
+  {
+    "repere": "Route104_MrBrineysHouse_Text_NeedToMakeDeliveriesSailToDewford",
+    "texte": "Tu as une lettre pour Myokara\net un colis pour Poivressel.\n\nOn commence par Myokara ?"
+  },
+  {
+    "repere": "Route104_MrBrineysHouse_Text_NeedToDeliverPackageSailToDewford",
+    "texte": "Le capitaine Poupe attend le colis\nà Poivressel.\n\nOn passe d'abord par Myokara.\nTu veux embarquer ?"
+  },
+  {
+    "repere": "Route104_MrBrineysHouse_Text_WhereAreWeBound",
+    "texte": "Le bateau est prêt.\nQuelle est notre destination ?"
+  },
+  {
+    "repere": "Route104_MrBrineysHouse_Text_TellMeWheneverYouWantToSail",
+    "texte": "Reviens quand tu voudras traverser.\n\nPiko et moi serons ici."
+  },
+  {
+    "repere": "Route104_MrBrineysHouse_Text_Peeko",
+    "texte": "Pii pi-hiorou !\n\nPiko tire sur un bout de sangle."
+  }
+]
