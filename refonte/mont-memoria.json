@@ -1,0 +1,306 @@
+[
+  {
+    "repere": "Route121_Text_AheadLoomsMtPyre",
+    "texte": "Devant nous, le Mont Mémoria.\n\nOn y vient pour ceux qui ne\nrentreront plus à la maison."
+  },
+  {
+    "repere": "Route121_Text_MtPyrePierSign",
+    "texte": "Digue du Mont Mémoria.\n\nLe sel a effacé presque toutes\nles lettres."
+  },
+  {
+    "repere": "Route121_Text_SafariZoneSign",
+    "texte": "Parc Safari.\n\nEntrée et règlement à l'accueil."
+  },
+  {
+    "repere": "MtPyre_1F_Text_TakeThisForYourOwnGood",
+    "texte": "Il y a des Pokémon sauvages\nsur les versants de la montagne.\n\nPrends cette Rune Purif."
+  },
+  {
+    "repere": "MtPyre_1F_Text_ExplainCleanseTag",
+    "texte": "Place en tête un Pokémon qui\nporte la Rune Purif.\n\nLes rencontres seront moins\nfréquentes."
+  },
+  {
+    "repere": "MtPyre_1F_Text_ComeToPayRespects",
+    "texte": "Tu viens saluer les disparus ?\n\nPrends soin de ceux qui marchent\nencore avec toi."
+  },
+  {
+    "repere": "MtPyre_1F_Text_RestingPlaceOfZigzagoon",
+    "texte": "Mon Zigzaton repose ici.\n\nJe viens nettoyer sa pierre."
+  },
+  {
+    "repere": "MtPyre_2F_Text_MemoriesOfSkitty",
+    "texte": "Mon Skitty dormait sur ma veste.\n\nJe la porte encore quand je viens."
+  },
+  {
+    "repere": "MtPyre_2F_Text_TumbledFromFloorAbove",
+    "texte": "Je suis tombé de l'étage du dessus.\n\nAttention aux trous du plancher."
+  },
+  {
+    "repere": "MtPyre_2F_Text_MarkIntro",
+    "texte": "Je cherchais des Pokémon rares.\n\nJe ne pensais pas rencontrer\nun Dresseur ici."
+  },
+  {
+    "repere": "MtPyre_2F_Text_MarkDefeat",
+    "texte": "D'accord, je te laisse passer."
+  },
+  {
+    "repere": "MtPyre_2F_Text_MarkPostBattle",
+    "texte": "Je vais redescendre.\n\nIl y a des gens venus se recueillir."
+  },
+  {
+    "repere": "MtPyre_2F_Text_LukeIntro",
+    "texte": "Karl. Annie et moi formons\nune équipe.\n\nVeux-tu nous affronter ?"
+  },
+  {
+    "repere": "MtPyre_2F_Text_LukeDefeat",
+    "texte": "Karl. Ah, nous avons perdu."
+  },
+  {
+    "repere": "MtPyre_2F_Text_LukePostBattle",
+    "texte": "On réessaiera ensemble, Annie."
+  },
+  {
+    "repere": "MtPyre_2F_Text_LukeNotEnoughMons",
+    "texte": "Il te faut deux Pokémon aptes\nau combat pour nous affronter."
+  },
+  {
+    "repere": "MtPyre_2F_Text_DezIntro",
+    "texte": "Annie. Nous sommes venus ici\nensemble.\n\nJe suis prête pour un combat Duo."
+  },
+  {
+    "repere": "MtPyre_2F_Text_DezDefeat",
+    "texte": "Annie. Je ne m'attendais pas à ça."
+  },
+  {
+    "repere": "MtPyre_2F_Text_DezPostBattle",
+    "texte": "On rentrera ensemble, comme prévu."
+  },
+  {
+    "repere": "MtPyre_2F_Text_DezNotEnoughMons",
+    "texte": "Reviens avec deux Pokémon\naptes au combat."
+  },
+  {
+    "repere": "MtPyre_2F_Text_LeahIntro",
+    "texte": "Ne va pas plus loin sans regarder\noù tu poses les pieds.\n\nPrépare aussi tes Pokémon."
+  },
+  {
+    "repere": "MtPyre_2F_Text_LeahDefeat",
+    "texte": "Tu peux poursuivre ton chemin."
+  },
+  {
+    "repere": "MtPyre_2F_Text_LeahPostBattle",
+    "texte": "Ma famille veille sur ces tombes\ndepuis plusieurs générations."
+  },
+  {
+    "repere": "MtPyre_2F_Text_ZanderIntro",
+    "texte": "Ah ! Tu m'as fait peur !\n\nFaisons un combat."
+  },
+  {
+    "repere": "MtPyre_2F_Text_ZanderDefeat",
+    "texte": "Je tremble encore."
+  },
+  {
+    "repere": "MtPyre_2F_Text_ZanderPostBattle",
+    "texte": "Je croyais pouvoir m'habituer\nà cet endroit.\n\nJe vais m'entraîner ailleurs."
+  },
+  {
+    "repere": "MtPyre_3F_Text_WilliamIntro",
+    "texte": "Je m'entraîne au calme sur\ncette montagne.\n\nVoyons ce que tu sais faire."
+  },
+  {
+    "repere": "MtPyre_3F_Text_WilliamDefeat",
+    "texte": "Je n'ai pas trouvé la bonne attaque."
+  },
+  {
+    "repere": "MtPyre_3F_Text_WilliamPostBattle",
+    "texte": "Il me reste des exercices à faire."
+  },
+  {
+    "repere": "MtPyre_3F_Text_KaylaIntro",
+    "texte": "Tu es venu jusqu'ici ?\n\nAlors, affronte-moi."
+  },
+  {
+    "repere": "MtPyre_3F_Text_KaylaDefeat",
+    "texte": "Je reconnais ma défaite."
+  },
+  {
+    "repere": "MtPyre_3F_Text_KaylaPostBattle",
+    "texte": "Je vais continuer à m'entraîner.\n\nIl me reste beaucoup à apprendre."
+  },
+  {
+    "repere": "MtPyre_3F_Text_GabrielleIntro",
+    "texte": "Qu'est-ce qui t'amène ici ?"
+  },
+  {
+    "repere": "MtPyre_3F_Text_GabrielleDefeat",
+    "texte": "Tu connais bien tes Pokémon."
+  },
+  {
+    "repere": "MtPyre_3F_Text_GabriellePostBattle",
+    "texte": "Les Pokémon qui reposent ici\nont aussi eu leurs habitudes.\n\nQuelqu'un leur préparait à manger.\nQuelqu'un les attendait le soir."
+  },
+  {
+    "repere": "MtPyre_3F_Text_GabrielleRegister",
+    "texte": "J'aimerais revoir tes Pokémon.\n\nÉchangeons nos numéros de PokéNav."
+  },
+  {
+    "repere": "MtPyre_3F_Text_GabrielleRematchIntro",
+    "texte": "Tu es revenu.\n\nTes Pokémon ont-ils progressé ?"
+  },
+  {
+    "repere": "MtPyre_3F_Text_GabrielleRematchDefeat",
+    "texte": "Je suis contente de vous revoir."
+  },
+  {
+    "repere": "MtPyre_3F_Text_GabriellePostRematch",
+    "texte": "Tu prends encore soin d'eux.\n\nJe le vois à leur manière de\nrester près de toi."
+  },
+  {
+    "repere": "MtPyre_5F_Text_AtsushiIntro",
+    "texte": "Mon professeur repose ici.\n\nJe poursuis son entraînement."
+  },
+  {
+    "repere": "MtPyre_5F_Text_AtsushiDefeat",
+    "texte": "Il me reste du travail."
+  },
+  {
+    "repere": "MtPyre_5F_Text_AtsushiPostBattle",
+    "texte": "Il notait mes progrès chaque jour.\n\nJe continue à remplir son cahier."
+  },
+  {
+    "repere": "MtPyre_4F_Text_TashaIntro",
+    "texte": "Le vent passe par les ouvertures.\n\nJ'aime entendre ce bruit étrange."
+  },
+  {
+    "repere": "MtPyre_4F_Text_TashaDefeat",
+    "texte": "J'ai perdu. Quel dommage."
+  },
+  {
+    "repere": "MtPyre_4F_Text_TashaPostBattle",
+    "texte": "Je reste encore un peu ici.\n\nTu peux continuer sans moi."
+  },
+  {
+    "repere": "MtPyre_6F_Text_ValerieIntro",
+    "texte": "Il y a un drôle de silence ici.\n\nMes Pokémon y sont habitués."
+  },
+  {
+    "repere": "MtPyre_6F_Text_ValerieDefeat",
+    "texte": "Je n'arrive plus à me concentrer."
+  },
+  {
+    "repere": "MtPyre_6F_Text_ValeriePostBattle",
+    "texte": "Parfois, j'entends des pas\nalors que personne ne vient."
+  },
+  {
+    "repere": "MtPyre_6F_Text_ValerieRegister",
+    "texte": "Je vais enregistrer ton numéro.\n\nNous nous reverrons peut-être."
+  },
+  {
+    "repere": "MtPyre_6F_Text_ValerieRematchIntro",
+    "texte": "Ah, te voilà de nouveau.\n\nPrêt pour un combat ?"
+  },
+  {
+    "repere": "MtPyre_6F_Text_ValerieRematchDefeat",
+    "texte": "Le silence est revenu."
+  },
+  {
+    "repere": "MtPyre_6F_Text_ValeriePostRematch",
+    "texte": "On croit parfois reconnaître\nun bruit familier dans ces salles."
+  },
+  {
+    "repere": "MtPyre_6F_Text_CedricIntro",
+    "texte": "Tu cherches la sortie ?\n\nFaisons un combat d'abord."
+  },
+  {
+    "repere": "MtPyre_6F_Text_CedricDefeat",
+    "texte": "Tu connaissais donc ton chemin."
+  },
+  {
+    "repere": "MtPyre_6F_Text_CedricPostBattle",
+    "texte": "Je ne devrais pas retenir\nles gens venus se recueillir."
+  },
+  {
+    "repere": "MtPyre_Summit_Text_Grunt1Defeat",
+    "texte": "Je t'avais pris pour un Trump."
+  },
+  {
+    "repere": "MtPyre_Summit_Text_Grunt1PostBattle",
+    "texte": "Les autres sont déjà plus haut."
+  },
+  {
+    "repere": "MtPyre_Summit_Text_Grunt2Intro",
+    "texte": "Les Trumps sont partis.\n\nLes Marks gardent le passage."
+  },
+  {
+    "repere": "MtPyre_Summit_Text_Grunt2Defeat",
+    "texte": "Je n'ai pas réussi à te retenir."
+  },
+  {
+    "repere": "MtPyre_Summit_Text_Grunt2PostBattle",
+    "texte": "Tu ne sais pas ce qu'Arthur\nest venu chercher ici."
+  },
+  {
+    "repere": "MtPyre_Summit_Text_Grunt3Intro",
+    "texte": "Je t'ai vu au Mont Chimnée.\n\nPourquoi es-tu encore sur\nnotre chemin ?"
+  },
+  {
+    "repere": "MtPyre_Summit_Text_Grunt3Defeat",
+    "texte": "Il fallait arrêter les Trumps,\npas nous."
+  },
+  {
+    "repere": "MtPyre_Summit_Text_Grunt3PostBattle",
+    "texte": "Arthur a dû atteindre le sommet.\n\nNous avons gagné assez de temps."
+  },
+  {
+    "repere": "MtPyre_Summit_Text_Grunt4Intro",
+    "texte": "Tu n'es ni Mark ni Trump.\n\nQui t'a envoyé ici ?"
+  },
+  {
+    "repere": "MtPyre_Summit_Text_Grunt4Defeat",
+    "texte": "Personne, alors..."
+  },
+  {
+    "repere": "MtPyre_Summit_Text_Grunt4PostBattle",
+    "texte": "Arthur nous a demandé d'attendre\nici jusqu'à son retour."
+  },
+  {
+    "repere": "MtPyre_Summit_Text_OrbsHaveBeenTaken",
+    "texte": "Les deux Orbes ont été emportés.\n\nIls devaient rester ensemble.\nJe crains ce qui va suivre."
+  },
+  {
+    "repere": "MtPyre_Summit_Text_GroudonKyogreAwakened",
+    "texte": "Groudon et Kyogre sont réveillés ?\n\nLes deux Orbes sont censés\napaiser leur colère.\n\nOn ignore qui en était le premier\ngardien, humain ou Pokémon."
+  },
+  {
+    "repere": "MtPyre_Summit_Text_ThoseTwoMenReturnedOrbs",
+    "texte": "Les deux hommes ont rapporté\nles Orbes de leur plein gré.\n\nIls les ont remis à leur place.\nJe ne leur ai rien demandé."
+  },
+  {
+    "repere": "MtPyre_Summit_Text_SuperAncientPokemonTaughtUs",
+    "texte": "La terre, la mer et le ciel.\n\nLes Pokémon anciens nous ont appris\nque rien ne vit séparément."
+  },
+  {
+    "repere": "MtPyre_Summit_Text_WillYouHearOutMyTale",
+    "texte": "On vient ici pour les disparus.\n\nOn distingue toute la région\ndepuis ce sommet.\n\nVeux-tu entendre un ancien récit\nde Hoenn ?"
+  },
+  {
+    "repere": "MtPyre_Summit_Text_GroudonKyogreTale",
+    "texte": "Autrefois, les Pokémon de la terre\net de la mer se sont affrontés.\n\nL'un dressait des montagnes.\nL'autre ouvrait les océans.\n\nLes tempêtes et les brasiers\nont détruit leurs alentours.\n\nLa lumière des deux Orbes\nles a finalement apaisés.\n\nIls sont retournés au fond\nde la terre et de la mer."
+  },
+  {
+    "repere": "MtPyre_Summit_Text_WellThatTooIsFine",
+    "texte": "Très bien. Une autre fois."
+  },
+  {
+    "repere": "MtPyre_Summit_Text_MaxieSilence",
+    "texte": "Max. {PLAYER}...\n\n..."
+  },
+  {
+    "repere": "MtPyre_Summit_Text_HearTheNewLegendOfHoenn",
+    "texte": "Je dois transmettre les récits\nde Hoenn à ceux qui viendront.\n\nDepuis Atalanopolis, il y a\nun nouveau chapitre.\n\nVeux-tu l'entendre ?"
+  },
+  {
+    "repere": "MtPyre_Summit_Text_HoennTrioTale",
+    "texte": "Les Pokémon de la terre et de la mer\nse sont affrontés autrefois.\n\nLes montagnes se dressaient.\nLes océans débordaient.\n\nLes tempêtes couvraient les terres.\nLes incendies gagnaient les rives.\n\nUn Pokémon vert est descendu\ndu ciel entre les deux adversaires.\n\nIl les a apaisés, puis il est\nremonté au-dessus des nuages."
+  }
+]
