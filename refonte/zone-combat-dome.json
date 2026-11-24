@@ -1,0 +1,454 @@
+[
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_WelcomeSingleBattle",
+    "texte": "Bienvenue au Dôme de Combat.\n\nInscriptions au tournoi Solo."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_TakeSinglesChallenge",
+    "texte": "Participer au tournoi Solo ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_HopeToSeeYouAgain",
+    "texte": "À votre prochaine visite."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_ExplainSinglesChallenge",
+    "texte": "Inscrivez trois Pokémon.\n\nAvant chaque Combat Solo, choisissez\ndeux d'entre eux et gardez le\ntroisième en réserve.\n\nConsultez l'équipe adverse avant\nde choisir vos deux Pokémon.\n\nQuatre victoires remportent\nle tournoi et des Points de Combat.\n\nSauvegardez avant d'interrompre\nle tournoi pour pouvoir le reprendre."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_OkayToSaveBeforeChallenge",
+    "texte": "Sauvegarder avant d'entrer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_WhichLevelMode",
+    "texte": "Niveau 50 ou niveau libre ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_SelectThreeMons",
+    "texte": "Choisissez vos trois Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_NotEnoughValidMonsLvOpen",
+    "texte": "Il faut trois Pokémon différents,\navec des objets différents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_NotEnoughValidMonsLv50",
+    "texte": "Il faut trois Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_ShowYouToBattleDome",
+    "texte": "Veuillez me suivre dans le Dôme."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_DidntSaveBeforeQuitting",
+    "texte": "Le tournoi a été interrompu\nsans sauvegarde.\n\nVous êtes disqualifié."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_CongratsForWinningTourney",
+    "texte": "Vous avez remporté le tournoi !"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_HereIsYourPrize",
+    "texte": "Voici votre prix."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_ReceivedPrize",
+    "texte": "{PLAYER} reçoit\n{STR_VAR_1} en récompense."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_BagFullMakeRoom",
+    "texte": "Votre sac est plein.\n\nFaites de la place et revenez."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_ThankYouForPlaying",
+    "texte": "Merci d'avoir participé."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_RecordWillBeSaved",
+    "texte": "Enregistrement du résultat.\nVeuillez patienter."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_WeveBeenWaitingForYou",
+    "texte": "Nous vous attendions."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_OkayToSaveBeforeChallenge2",
+    "texte": "Sauvegarde avant votre entrée.\nVeuillez patienter."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_WelcomeDoubleBattle",
+    "texte": "Bienvenue au Dôme de Combat.\n\nInscriptions au tournoi Duo."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_TakeDoublesChallenge",
+    "texte": "Participer au tournoi Duo ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_ExplainDoublesChallenge",
+    "texte": "Inscrivez trois Pokémon.\n\nAvant chaque Combat Duo, choisissez\ndeux d'entre eux et gardez le\ntroisième en réserve.\n\nConsultez l'équipe adverse avant\nde choisir vos deux Pokémon.\n\nQuatre victoires remportent\nle tournoi et des Points de Combat.\n\nSauvegardez avant d'interrompre\nle tournoi pour pouvoir le reprendre."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_PrevTourneyResultsSinglesLv50",
+    "texte": "Dernier tournoi Solo, niveau 50."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_PrevTourneyResultsDoublesLv50",
+    "texte": "Dernier tournoi Duo, niveau 50."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_PrevTourneyResultsSinglesLvOpen",
+    "texte": "Dernier tournoi Solo, niveau libre."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_PrevTourneyResultsDoublesLvOpen",
+    "texte": "Dernier tournoi Duo, niveau libre."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_LastWinnerWasTough",
+    "texte": "{STR_VAR_1} a gagné le tournoi.\n\nLes résultats sont sur le panneau\nà côté du PC."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_WinnersGainReputation",
+    "texte": "Les vainqueurs reviennent souvent.\n\nLeurs noms finissent par être connus\nde tous les visiteurs."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_TrashedInFirstRound",
+    "texte": "J'ai perdu dès le premier tour.\n\nMon adversaire connaissait bien\nles règles du Dôme."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_NeedToCheckOpponentCarefully",
+    "texte": "J'ai choisi les mauvais Pokémon.\n\nRegarde bien l'équipe adverse\navant chaque combat."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_CongratsDefeatedTucker",
+    "texte": "Vous avez battu Takim\net remporté le tournoi !"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_AwardTheseBattlePoints",
+    "texte": "Voici vos Points de Combat."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_RecordLastMatch",
+    "texte": "Enregistrer votre dernier combat\nsur le Passe Zone ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_RulesAreListed",
+    "texte": "Règlement du Tournoi de Combat."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_ReadWhichHeading",
+    "texte": "Quel chapitre voulez-vous lire ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_ExplainMatchupRules",
+    "texte": "Les rencontres sont établies\nselon la force des équipes.\n\nLes plus fortes sont séparées\nau début du tournoi."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_ExplainTourneyTree",
+    "texte": "Le guide de la salle d'attente\nvous montre le tableau des matchs.\n\nIl indique les résultats,\nles équipes et leurs styles."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeLobby_Text_ExplainDoubleKORules",
+    "texte": "En cas de double K.O. final,\nles arbitres désignent le vainqueur."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForRound1",
+    "texte": "Premier tour.\n\nPrêt à combattre ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForRound2",
+    "texte": "Deuxième tour.\n\nPrêt à combattre ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForSemifinals",
+    "texte": "Demi-finale.\n\nPrêt à combattre ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForFinals",
+    "texte": "Finale.\n\nPrêt à combattre ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_ChooseTwoMons",
+    "texte": "Choisissez les deux Pokémon\nqui vont combattre."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_RightThisWay",
+    "texte": "Entrez, je vous prie."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_RestoreMonsToFullHealth",
+    "texte": "Nous allons soigner vos Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_Round1Complete",
+    "texte": "Premier tour terminé.\n\nVoici les concurrents qualifiés."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_Round2Complete",
+    "texte": "Deuxième tour terminé.\n\nVoici les concurrents qualifiés."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_SemifinalsComplete",
+    "texte": "Demi-finales terminées.\n\nVoici les finalistes."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForRound2",
+    "texte": "Vous êtes qualifié.\n\nPrêt pour le deuxième tour ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForSemifinals",
+    "texte": "Vous êtes parmi les quatre derniers.\n\nPrêt pour la demi-finale ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_CongratsReadyForFinals",
+    "texte": "Il reste une victoire à remporter.\n\nPrêt pour la finale ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_PlayersNextOpponentIsTrainer",
+    "texte": "Voici le prochain adversaire\nde {PLAYER}."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInRound1",
+    "texte": "Premier tour en cours."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInRound2",
+    "texte": "Deuxième tour en cours."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInSemifinals",
+    "texte": "Demi-finales en cours."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_TourneyInFinals",
+    "texte": "Finale en cours."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_SaveAndQuitGame",
+    "texte": "Sauvegarder et quitter le jeu ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_RetireYourChallenge",
+    "texte": "Abandonner le tournoi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_SavingDataPleaseWait",
+    "texte": "Sauvegarde en cours."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_RecordLastMatch",
+    "texte": "Enregistrer le dernier combat\nsur le Passe Zone ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilver",
+    "texte": "Vous allez affronter Takim,\nla Star du Dôme, en finale.\n\nPrêt à combattre ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGold",
+    "texte": "Vous allez affronter Takim,\nla Star du Dôme, en finale.\n\nPrêt à combattre ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerSilverShort",
+    "texte": "Prêt pour la finale contre Takim ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomePreBattleRoom_Text_ReadyForTuckerGoldShort",
+    "texte": "Prêt pour la finale contre Takim ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_PlayerHasEnteredDome",
+    "texte": "{PLAYER} entre dans le Dôme !"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTrainer",
+    "texte": "{STR_VAR_1} !\n{PLAYER} contre {STR_VAR_2} !\n\nQue le combat commence !"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsWinner",
+    "texte": "Victoire de {PLAYER} !"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_TrainerIsWinner",
+    "texte": "Victoire de {STR_VAR_2} !"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLv50Champ",
+    "texte": "{PLAYER} remporte le tournoi\nde niveau 50 !"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLvOpenChamp",
+    "texte": "{PLAYER} remporte le tournoi\nde niveau libre !"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_RefereeDecisionPleaseWait",
+    "texte": "Double K.O. !\n\nLes arbitres vont désigner\nle vainqueur. Veuillez patienter."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTrainer",
+    "texte": "Les arbitres ont rendu leur décision.\n\nVictoire de {STR_VAR_1} !"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerPlayer",
+    "texte": "Les arbitres ont rendu leur décision.\n\nVictoire de {PLAYER} !"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_BrightNewHope",
+    "texte": "Un nouveau talent ! "
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_RisingStar",
+    "texte": "Une étoile montante ! "
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_WillTheyRaceToChampionship",
+    "texte": "Jusqu'au titre ? "
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_CanAchieveChampionFirstTry",
+    "texte": "Un titre dès le premier essai ? "
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_CanLossBeAvenged",
+    "texte": "L'heure de la revanche ? "
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_OnFireForChampionship",
+    "texte": "En quête d'un premier titre ! "
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_WinHereAdvancesToFinal",
+    "texte": "Une victoire pour la finale ! "
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_WillLongHeldDreamComeTrue",
+    "texte": "Le titre est à portée de main ! "
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_TheInvincibleChampion",
+    "texte": "Notre champion invaincu ! "
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_CanAnyoneHopeToBeatTrainer",
+    "texte": "Qui saura lui résister ? "
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_DoBattlesExistSolelyForTrainer",
+    "texte": "Un talent pour le combat ! "
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_CurrentChampAimingToRetainTitle",
+    "texte": "Le champion défend son titre ! "
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_FormerChampHasReturned",
+    "texte": "L'ancien champion revient ! "
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_FormerToughnessReturned",
+    "texte": "Le retour en forme ! "
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_WillDoExpectedAdvanceToFinals",
+    "texte": "La finale en vue ? "
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_WillFormerChampRegainGlory",
+    "texte": "Retrouvera-t-il son titre ? "
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_FeelGlowOfTrueMaster",
+    "texte": "Voici le maître du Dôme !"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_MakeWayForDomeAceTucker",
+    "texte": "Face à {PLAYER}, accueillez\nla Star du Dôme : Takim !"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_SpectatorTuckerChant",
+    "texte": "Le public. Takim ! Takim ! Takim !"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_TuckerSilverIntro",
+    "texte": "Takim. Tu entends le public ?\n\nIls sont venus voir un combat.\nNous allons leur en donner un.\n\nJ'ai préparé mon équipe.\nAs-tu bien choisi la tienne ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_LetsSeeYourStrategy",
+    "texte": "Montre-moi ta tactique !"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_IncredibleVictorIsPlayer",
+    "texte": "La victoire revient à {PLAYER} !"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_WinnerIsTucker",
+    "texte": "Takim remporte la finale !\n\nLa Star du Dôme conserve son titre."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_SeeYourFrontierPass",
+    "texte": "Takim. Présente ton Passe Zone."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_ReceivedTacticsSymbol",
+    "texte": "Le Symbole Tactique a été ajouté\nau Passe Zone !"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_WontUnderestimateYouNextTime",
+    "texte": "J'ai mal évalué ton équipe.\n\nJe m'en souviendrai."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_CanWinStreakBeStretched",
+    "texte": "Une nouvelle victoire en vue ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_LegendHasReturnedDomeAceTucker",
+    "texte": "Le public attend ce moment.\n\nAccueillez la Star du Dôme : Takim !"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_TuckerGoldIntro",
+    "texte": "Takim. Ils sont revenus nous voir.\n\nJ'entends les mêmes voix\nau premier rang.\n\nCette fois, j'ai revu ma tactique.\nCommençons."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_UnleashAllPowerIPossess",
+    "texte": "Je vais jouer toutes mes chances !"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_NeverLostWhenPowerUnleashed",
+    "texte": "Takim. Tu as encore gagné.\n\nDonne-moi ton Passe Zone."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_TacticsSymbolTookGoldenShine",
+    "texte": "Le Symbole Tactique devient doré !"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_LookForwardToNextEncounter",
+    "texte": "J'ai aimé ce combat.\n\nNous nous retrouverons au Dôme."
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLv50Champ2",
+    "texte": "{PLAYER} remporte le tournoi\nde niveau 50 !"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_PlayerIsLvOpenChamp2",
+    "texte": "{PLAYER} remporte le tournoi\nde niveau libre !"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_PlayerVersusTucker",
+    "texte": "Finale : {PLAYER} contre Takim !\n\nQue le combat commence !"
+  },
+  {
+    "repere": "BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTucker",
+    "texte": "Les arbitres ont rendu leur décision.\n\nTakim remporte la finale !"
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_LongDreamedAboutBattleFrontier",
+    "texte": "J'ai attendu longtemps l'ouverture\nde la Zone de Combat."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_BattleDomeSign2",
+    "texte": "Dôme de Combat.\n\nTournois Solo et Duo."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_QuestionMarkUnderConstruction",
+    "texte": "Chantier en cours.\nAccès interdit."
+  }
+]
