@@ -61,6 +61,13 @@ class TestCodec(unittest.TestCase):
             with self.subTest(bad=bad), self.assertRaises(ValueError):
                 self.codec.encode(bad)
 
+    def test_double_source_terminator(self):
+        self.assertEqual(self.codec.encode("AB$", True), bytes.fromhex("BB BC FF FF"))
+        self.assertEqual(self.codec.encode("AB"), bytes.fromhex("BB BC FF"))
+        for bad in ("A$B$", "AB$$", "AB", "$"):
+            with self.subTest(bad=bad), self.assertRaises(ValueError):
+                self.codec.encode(bad, True)
+
     def test_real_charmap(self):
         path = os.environ.get("CHARMAP_REFERENCE")
         if not path:

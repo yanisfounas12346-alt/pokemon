@@ -94,10 +94,13 @@ class Codec:
 
     def encode(self, text, source=False):
         text = unicodedata.normalize("NFC", text)
+        terminators = 1
         if source:
-            if not text.endswith("$") or "$" in text[:-1]:
+            body = text.rstrip("$")
+            terminators = len(text) - len(body)
+            if terminators not in (1, 2) or "$" in body or not body:
                 raise ValueError("Terminaison source non standard")
-            text = text[:-1]
+            text = body
         else:
             if "$" in text or "\\" in text:
                 raise ValueError("Contrôle brut non autorisé")
@@ -132,7 +135,7 @@ class Codec:
                 raise ValueError("Caractère non encodable : " + repr(char))
             result.extend(self.chars[char])
             i += 1
-        return bytes(result) + b"\xff"
+        return bytes(result) + b"\xff" * terminators
 
 def hits(data, pattern, limit=65):
     found, start = [], 0
