@@ -1,0 +1,1378 @@
+[
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PleaseFindPartner",
+    "texte": "Choisissez un Dresseur\npour faire équipe avec vous."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_QuitLookingForPartner",
+    "texte": "{PLAYER}, vous n'avez pas encore\nchoisi de partenaire.\n\nRetourner au guichet d'inscription ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PleaseFindPartner2",
+    "texte": "Choisissez un partenaire\nparmi les Dresseurs présents."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_ThankYouForChoosingPartner",
+    "texte": "Votre partenaire est inscrit.\n\nSuivez-moi vers la salle Multi."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Intro",
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Mon1",
+    "texte": "Sur les conseils de {STR_VAR_1},\nj'ai un {STR_VAR_3} avec\n{STR_VAR_2} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Mon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu faire équipe avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Accept",
+    "texte": "Merci ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Reject",
+    "texte": "Une autre fois, {PLAYER}.\n\nBonne chance pour ton défi."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Intro",
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Mon1",
+    "texte": "Sur les conseils de {STR_VAR_1},\nj'ai un {STR_VAR_3} avec\n{STR_VAR_2} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Mon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu faire équipe avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Accept",
+    "texte": "Merci ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Reject",
+    "texte": "Une autre fois, {PLAYER}.\n\nBonne chance pour ton défi."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Intro",
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJ'ai encore le trac."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Mon1",
+    "texte": "{STR_VAR_3} m'a conseillé.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Mon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu faire équipe avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Accept",
+    "texte": "Merci ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Reject",
+    "texte": "D'accord. Bonne chance pour la suite."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice2Intro",
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJe suis prêt à essayer !"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice2Mon1",
+    "texte": "{STR_VAR_3} m'a conseillé.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice2Mon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nOn essaie un combat ensemble ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice2Accept",
+    "texte": "D'accord ! Je vais au guichet."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice2Reject",
+    "texte": "Une autre fois, {PLAYER}.\n\nBonne chance pour ton défi."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice3Intro",
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJ'ai beaucoup travaillé."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice3Mon1",
+    "texte": "{STR_VAR_3} m'a conseillé.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice3Mon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nQu'en dis-tu ? On fait équipe ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice3Accept",
+    "texte": "Parfait. Je m'occupe de l'inscription."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice3Reject",
+    "texte": "Une autre fois, {PLAYER}.\n\nBonne chance pour ton défi."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice4Intro",
+    "texte": "Je suis {STR_VAR_3}.\nApprentie n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nMerci de venir me parler."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice4Mon1",
+    "texte": "{STR_VAR_3} m'a conseillé.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice4Mon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nSi nos équipes se complètent,\nveux-tu combattre avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice4Accept",
+    "texte": "Très bien. Retrouvons-nous ici."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice4Reject",
+    "texte": "Je comprends. Bonne route."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice5Intro",
+    "texte": "Je suis {STR_VAR_3}.\nApprentie n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJe voudrais faire un bon combat."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice5Mon1",
+    "texte": "{STR_VAR_3} m'a conseillé.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice5Mon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu être mon partenaire ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice5Accept",
+    "texte": "On fait équipe ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice5Reject",
+    "texte": "Je vais revoir mon équipe."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice6Intro",
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJe m'entraîne aussi à la course."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice6Mon1",
+    "texte": "{STR_VAR_3} m'a conseillé.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice6Mon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nÇa te convient pour un Combat Multi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice6Accept",
+    "texte": "Merci. Je reviens après l'inscription."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice6Reject",
+    "texte": "À une prochaine épreuve."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Intro",
+    "texte": "Je suis {STR_VAR_3}.\nApprentie n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nRavie de te rencontrer."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Mon1",
+    "texte": "{STR_VAR_3} m'a conseillé.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Mon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu faire équipe avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Accept",
+    "texte": "Merci ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Reject",
+    "texte": "D'accord. Bonne chance pour la suite."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice8Intro",
+    "texte": "Je suis {STR_VAR_3}.\nApprentie n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJ'ai préparé mes notes."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice8Mon1",
+    "texte": "{STR_VAR_3} m'a conseillé.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice8Mon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nOn essaie un combat ensemble ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice8Accept",
+    "texte": "D'accord ! Je vais au guichet."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice8Reject",
+    "texte": "Une autre fois, {PLAYER}.\n\nBonne chance pour ton défi."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Intro",
+    "texte": "Je suis {STR_VAR_3}.\nApprentie n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJe suis contente que tu sois là."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Mon1",
+    "texte": "{STR_VAR_3} m'a conseillé.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Mon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nQu'en dis-tu ? On fait équipe ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Accept",
+    "texte": "Parfait. Je m'occupe de l'inscription."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Reject",
+    "texte": "Une autre fois, alors."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice10Intro",
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJe viens de finir mes exercices."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice10Mon1",
+    "texte": "{STR_VAR_3} m'a conseillé.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice10Mon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nSi nos équipes se complètent,\nveux-tu combattre avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice10Accept",
+    "texte": "Très bien. Retrouvons-nous ici."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice10Reject",
+    "texte": "Une autre fois, {PLAYER}.\n\nBonne chance pour ton défi."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Intro",
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJ'ai oublié mon numéro... Non, ça va."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Mon1",
+    "texte": "{STR_VAR_3} m'a conseillé.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Mon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu être mon partenaire ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Accept",
+    "texte": "On fait équipe ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Reject",
+    "texte": "Je vais revoir mon équipe."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice12Intro",
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJe suis marin. J'aime chanter."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice12Mon1",
+    "texte": "{STR_VAR_3} m'a conseillé.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice12Mon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nÇa te convient pour un Combat Multi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice12Accept",
+    "texte": "Merci. Je reviens après l'inscription."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice12Reject",
+    "texte": "Une autre fois, {PLAYER}.\n\nBonne chance pour ton défi."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice13Intro",
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nAh, quelqu'un vient enfin !"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice13Mon1",
+    "texte": "{STR_VAR_3} m'a conseillé.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice13Mon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu faire équipe avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice13Accept",
+    "texte": "Merci ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice13Reject",
+    "texte": "Une autre fois, {PLAYER}.\n\nBonne chance pour ton défi."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice14Intro",
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJ'ai pris froid. Mes Pokémon vont bien."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice14Mon1",
+    "texte": "{STR_VAR_3} m'a conseillé.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice14Mon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nOn essaie un combat ensemble ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice14Accept",
+    "texte": "D'accord ! Je vais au guichet."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice14Reject",
+    "texte": "Une autre fois, {PLAYER}.\n\nBonne chance pour ton défi."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice15Intro",
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nIl y a beaucoup de monde ici."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice15Mon1",
+    "texte": "{STR_VAR_3} m'a conseillé.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice15Mon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nQu'en dis-tu ? On fait équipe ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice15Accept",
+    "texte": "Parfait. Je m'occupe de l'inscription."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice15Reject",
+    "texte": "Une autre fois, alors."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice16Intro",
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJ'ai préparé mon équipe."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice16Mon1",
+    "texte": "{STR_VAR_3} m'a conseillé.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice16Mon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nSi nos équipes se complètent,\nveux-tu combattre avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice16Accept",
+    "texte": "Très bien. Retrouvons-nous ici."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice16Reject",
+    "texte": "Je comprends. Bonne route."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_LassIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe viens de commencer les combats."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_LassMon1",
+    "texte": "Voici mon équipe.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_LassMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu faire équipe avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_LassAccept",
+    "texte": "Merci ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_LassReject",
+    "texte": "D'accord. Bonne chance pour la suite."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_YoungsterIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe m'entraîne après l'école."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_YoungsterMon1",
+    "texte": "J'ai choisi ces Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_YoungsterMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nOn essaie un combat ensemble ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_YoungsterAccept",
+    "texte": "D'accord ! Je vais au guichet."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_YoungsterReject",
+    "texte": "Je vais attendre un autre partenaire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_HikerIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe connais les sentiers de Hoenn."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_HikerMon1",
+    "texte": "Regarde mes Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_HikerMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nQu'en dis-tu ? On fait équipe ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_HikerAccept",
+    "texte": "Parfait. Je m'occupe de l'inscription."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_HikerReject",
+    "texte": "Une autre fois, alors."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BeautyIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJ'aime les Concours et les combats."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BeautyMon1",
+    "texte": "Je voyage avec deux Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BeautyMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nSi nos équipes se complètent,\nveux-tu combattre avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BeautyAccept",
+    "texte": "Très bien. Retrouvons-nous ici."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BeautyReject",
+    "texte": "Je comprends. Bonne route."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_FishermanIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe passe mes journées à pêcher."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_FishermanMon1",
+    "texte": "J'ai préparé ces deux Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_FishermanMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu être mon partenaire ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_FishermanAccept",
+    "texte": "On fait équipe ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_FishermanReject",
+    "texte": "Je vais revoir mon équipe."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_LadyIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJ'ai préparé mon équipe ce matin."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_LadyMon1",
+    "texte": "Pour ce combat, je propose :\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_LadyMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nÇa te convient pour un Combat Multi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_LadyAccept",
+    "texte": "Merci. Je reviens après l'inscription."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_LadyReject",
+    "texte": "À une prochaine épreuve."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteFIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe parcours Hoenn à vélo."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteFMon1",
+    "texte": "Voici mon équipe.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteFMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu faire équipe avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteFAccept",
+    "texte": "Merci ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteFReject",
+    "texte": "D'accord. Bonne chance pour la suite."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugCatcherIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJ'observe les Pokémon Insecte."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugCatcherMon1",
+    "texte": "J'ai choisi ces Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugCatcherMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nOn essaie un combat ensemble ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugCatcherAccept",
+    "texte": "D'accord ! Je vais au guichet."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugCatcherReject",
+    "texte": "Je vais attendre un autre partenaire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidMIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe révise les types après les cours."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidMMon1",
+    "texte": "Regarde mes Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidMMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nQu'en dis-tu ? On fait équipe ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidMAccept",
+    "texte": "Parfait. Je m'occupe de l'inscription."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidMReject",
+    "texte": "Une autre fois, alors."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RichBoyIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe suis venu avec mon équipe."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RichBoyMon1",
+    "texte": "Je voyage avec deux Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RichBoyMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nSi nos équipes se complètent,\nveux-tu combattre avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RichBoyAccept",
+    "texte": "Très bien. Retrouvons-nous ici."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RichBoyReject",
+    "texte": "Je comprends. Bonne route."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BlackBeltIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe m'entraîne au dojo."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BlackBeltMon1",
+    "texte": "J'ai préparé ces deux Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BlackBeltMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu être mon partenaire ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BlackBeltAccept",
+    "texte": "On fait équipe ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BlackBeltReject",
+    "texte": "Je vais revoir mon équipe."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberFIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJ'aime nager près du rivage."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberFMon1",
+    "texte": "Pour ce combat, je propose :\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberFMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nÇa te convient pour un Combat Multi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberFAccept",
+    "texte": "Merci. Je reviens après l'inscription."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberFReject",
+    "texte": "À une prochaine épreuve."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJ'étudie les Pokémon mystérieux."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacMon1",
+    "texte": "Voici mon équipe.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu faire équipe avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacAccept",
+    "texte": "Merci ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacReject",
+    "texte": "D'accord. Bonne chance pour la suite."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederMIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe m'occupe de jeunes Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederMMon1",
+    "texte": "J'ai choisi ces Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederMMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nOn essaie un combat ensemble ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederMAccept",
+    "texte": "D'accord ! Je vais au guichet."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederMReject",
+    "texte": "Je vais attendre un autre partenaire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteFIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe cours tous les matins."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteFMon1",
+    "texte": "Regarde mes Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteFMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nQu'en dis-tu ? On fait équipe ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteFAccept",
+    "texte": "Parfait. Je m'occupe de l'inscription."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteFReject",
+    "texte": "Une autre fois, alors."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteMIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe m'entraîne à la course."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteMMon1",
+    "texte": "Je voyage avec deux Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteMMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nSi nos équipes se complètent,\nveux-tu combattre avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteMAccept",
+    "texte": "Très bien. Retrouvons-nous ici."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteMReject",
+    "texte": "Je comprends. Bonne route."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BattleGirlIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJ'ai appris les arts martiaux."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BattleGirlMon1",
+    "texte": "J'ai préparé ces deux Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BattleGirlMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu être mon partenaire ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BattleGirlAccept",
+    "texte": "On fait équipe ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BattleGirlReject",
+    "texte": "Je vais revoir mon équipe."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteMIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe voyage à vélo."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteMMon1",
+    "texte": "Pour ce combat, je propose :\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteMMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nÇa te convient pour un Combat Multi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteMAccept",
+    "texte": "Merci. Je reviens après l'inscription."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteMReject",
+    "texte": "À une prochaine épreuve."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberMIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe viens de la plage."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberMMon1",
+    "texte": "Voici mon équipe.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberMMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu faire équipe avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberMAccept",
+    "texte": "Merci ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberMReject",
+    "texte": "D'accord. Bonne chance pour la suite."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_GuitaristIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe joue de la guitare."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_GuitaristMon1",
+    "texte": "J'ai choisi ces Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_GuitaristMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nOn essaie un combat ensemble ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_GuitaristAccept",
+    "texte": "D'accord ! Je vais au guichet."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_GuitaristReject",
+    "texte": "Je vais attendre un autre partenaire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_GentlemanIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe voyage depuis des années."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_GentlemanMon1",
+    "texte": "Regarde mes Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_GentlemanMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nQu'en dis-tu ? On fait équipe ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_GentlemanAccept",
+    "texte": "Parfait. Je m'occupe de l'inscription."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_GentlemanReject",
+    "texte": "Une autre fois, alors."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanMIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe ne me lasse pas des Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanMMon1",
+    "texte": "Je voyage avec deux Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanMMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nSi nos équipes se complètent,\nveux-tu combattre avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanMAccept",
+    "texte": "Très bien. Retrouvons-nous ici."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanMReject",
+    "texte": "Je comprends. Bonne route."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertMIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe combats depuis longtemps."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertMMon1",
+    "texte": "J'ai préparé ces deux Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertMMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu être mon partenaire ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertMAccept",
+    "texte": "On fait équipe ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertMReject",
+    "texte": "Je vais revoir mon équipe."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertFIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe transmets ce que j'ai appris."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertFMon1",
+    "texte": "Pour ce combat, je propose :\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertFMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nÇa te convient pour un Combat Multi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertFAccept",
+    "texte": "Merci. Je reviens après l'inscription."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertFReject",
+    "texte": "À une prochaine épreuve."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_DragonTamerIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJ'étudie les Pokémon Dragon."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_DragonTamerMon1",
+    "texte": "Voici mon équipe.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_DragonTamerMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu faire équipe avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_DragonTamerAccept",
+    "texte": "Merci ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_DragonTamerReject",
+    "texte": "D'accord. Bonne chance pour la suite."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BirdKeeperIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe soigne des Pokémon oiseaux."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BirdKeeperMon1",
+    "texte": "J'ai choisi ces Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BirdKeeperMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nOn essaie un combat ensemble ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BirdKeeperAccept",
+    "texte": "D'accord ! Je vais au guichet."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BirdKeeperReject",
+    "texte": "Je vais attendre un autre partenaire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_NinjaBoyIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe m'entraîne à passer inaperçu."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_NinjaBoyMon1",
+    "texte": "Regarde mes Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_NinjaBoyMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nQu'en dis-tu ? On fait équipe ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_NinjaBoyAccept",
+    "texte": "Parfait. Je m'occupe de l'inscription."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_NinjaBoyReject",
+    "texte": "Une autre fois, alors."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_ParasolLadyIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe marche même sous la pluie."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_ParasolLadyMon1",
+    "texte": "Je voyage avec deux Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_ParasolLadyMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nSi nos équipes se complètent,\nveux-tu combattre avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_ParasolLadyAccept",
+    "texte": "Très bien. Retrouvons-nous ici."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_ParasolLadyReject",
+    "texte": "Je comprends. Bonne route."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugManiacIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJ'étudie les Pokémon Insecte."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugManiacMon1",
+    "texte": "J'ai préparé ces deux Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugManiacMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu être mon partenaire ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugManiacAccept",
+    "texte": "On fait équipe ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugManiacReject",
+    "texte": "Je vais revoir mon équipe."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SailorIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe travaille sur les bateaux."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SailorMon1",
+    "texte": "Pour ce combat, je propose :\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SailorMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nÇa te convient pour un Combat Multi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SailorAccept",
+    "texte": "Merci. Je reviens après l'inscription."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SailorReject",
+    "texte": "À une prochaine épreuve."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CollectorIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe recherche des Pokémon rares."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CollectorMon1",
+    "texte": "Voici mon équipe.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CollectorMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu faire équipe avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CollectorAccept",
+    "texte": "Merci ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CollectorReject",
+    "texte": "D'accord. Bonne chance pour la suite."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerMIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe protège les Pokémon sauvages."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerMMon1",
+    "texte": "J'ai choisi ces Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerMMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nOn essaie un combat ensemble ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerMAccept",
+    "texte": "D'accord ! Je vais au guichet."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerMReject",
+    "texte": "Je vais attendre un autre partenaire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerFIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe travaille avec les Pokémon sauvages."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerFMon1",
+    "texte": "Regarde mes Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerFMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nQu'en dis-tu ? On fait équipe ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerFAccept",
+    "texte": "Parfait. Je m'occupe de l'inscription."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerFReject",
+    "texte": "Une autre fois, alors."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_AromaLadyIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe cultive des plantes odorantes."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_AromaLadyMon1",
+    "texte": "Je voyage avec deux Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_AromaLadyMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nSi nos équipes se complètent,\nveux-tu combattre avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_AromaLadyAccept",
+    "texte": "Très bien. Retrouvons-nous ici."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_AromaLadyReject",
+    "texte": "Je comprends. Bonne route."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RuinManiacIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe relève les traces du passé."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RuinManiacMon1",
+    "texte": "J'ai préparé ces deux Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RuinManiacMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu être mon partenaire ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RuinManiacAccept",
+    "texte": "On fait équipe ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RuinManiacReject",
+    "texte": "Je vais revoir mon équipe."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerMIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJ'ai parcouru les arènes de Hoenn."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerMMon1",
+    "texte": "Pour ce combat, je propose :\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerMMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nÇa te convient pour un Combat Multi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerMAccept",
+    "texte": "Merci. Je reviens après l'inscription."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerMReject",
+    "texte": "À une prochaine épreuve."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerFIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe reviens de la Ligue."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerFMon1",
+    "texte": "Voici mon équipe.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerFMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu faire équipe avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerFAccept",
+    "texte": "Merci ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerFReject",
+    "texte": "D'accord. Bonne chance pour la suite."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokemaniacIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe tiens un carnet sur les Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokemaniacMon1",
+    "texte": "J'ai choisi ces Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokemaniacMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nOn essaie un combat ensemble ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokemaniacAccept",
+    "texte": "D'accord ! Je vais au guichet."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokemaniacReject",
+    "texte": "Je vais attendre un autre partenaire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_KindlerIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe fais des spectacles de rue."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_KindlerMon1",
+    "texte": "Regarde mes Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_KindlerMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nQu'en dis-tu ? On fait équipe ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_KindlerAccept",
+    "texte": "Parfait. Je m'occupe de l'inscription."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_KindlerReject",
+    "texte": "Une autre fois, alors."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe dors souvent sous la tente."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperMon1",
+    "texte": "Je voyage avec deux Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nSi nos équipes se complètent,\nveux-tu combattre avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperAccept",
+    "texte": "Très bien. Retrouvons-nous ici."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CamperReject",
+    "texte": "Je comprends. Bonne route."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PicnickerIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe voyage avec mon panier."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PicnickerMon1",
+    "texte": "J'ai préparé ces deux Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PicnickerMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu être mon partenaire ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PicnickerAccept",
+    "texte": "On fait équipe ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PicnickerReject",
+    "texte": "Je vais revoir mon équipe."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicMIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJ'étudie les capacités Psy."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicMMon1",
+    "texte": "Pour ce combat, je propose :\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicMMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nÇa te convient pour un Combat Multi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicMAccept",
+    "texte": "Merci. Je reviens après l'inscription."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicMReject",
+    "texte": "À une prochaine épreuve."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicFIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe m'exerce à la télékinésie."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicFMon1",
+    "texte": "Voici mon équipe.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicFMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu faire équipe avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicFAccept",
+    "texte": "Merci ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicFReject",
+    "texte": "D'accord. Bonne chance pour la suite."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidFIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe prends des notes à l'école."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidFMon1",
+    "texte": "J'ai choisi ces Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidFMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nOn essaie un combat ensemble ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidFAccept",
+    "texte": "D'accord ! Je vais au guichet."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidFReject",
+    "texte": "Je vais attendre un autre partenaire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederFIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJ'élève des Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederFMon1",
+    "texte": "Regarde mes Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederFMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nQu'en dis-tu ? On fait équipe ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederFAccept",
+    "texte": "Parfait. Je m'occupe de l'inscription."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederFReject",
+    "texte": "Une autre fois, alors."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanFIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nMes Pokémon voyagent avec moi."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanFMon1",
+    "texte": "Je voyage avec deux Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanFMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nSi nos équipes se complètent,\nveux-tu combattre avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanFAccept",
+    "texte": "Très bien. Retrouvons-nous ici."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokefanFReject",
+    "texte": "Je comprends. Bonne route."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerFIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe traverse souvent les chenaux."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerFMon1",
+    "texte": "J'ai préparé ces deux Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerFMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu être mon partenaire ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerFAccept",
+    "texte": "On fait équipe ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerFReject",
+    "texte": "Je vais revoir mon équipe."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteMIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe m'entraîne en mer."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteMMon1",
+    "texte": "Pour ce combat, je propose :\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteMMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nÇa te convient pour un Combat Multi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteMAccept",
+    "texte": "Merci. Je reviens après l'inscription."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteMReject",
+    "texte": "À une prochaine épreuve."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteFIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe nage chaque matin."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteFMon1",
+    "texte": "Voici mon équipe.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteFMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nVeux-tu faire équipe avec moi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteFAccept",
+    "texte": "Merci ! Je vais nous inscrire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteFReject",
+    "texte": "D'accord. Bonne chance pour la suite."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerMIntro",
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe connais bien les courants."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerMMon1",
+    "texte": "J'ai choisi ces Pokémon.\n\nUn {STR_VAR_2} avec\n{STR_VAR_1} et"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerMMon2Ask",
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nOn essaie un combat ensemble ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerMAccept",
+    "texte": "D'accord ! Je vais au guichet."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerMReject",
+    "texte": "Je vais attendre un autre partenaire."
+  }
+]
