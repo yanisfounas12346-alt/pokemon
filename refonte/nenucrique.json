@@ -1,0 +1,214 @@
+[
+  {
+    "repere": "LilycoveCity_Text_MayShoppingLetsBattle",
+    "texte": "Flora. Ah, {PLAYER} !\n\nJe viens de faire mes courses.\nMes Pokémon ont encore progressé.\n\nVeux-tu faire un combat ?"
+  },
+  {
+    "repere": "LilycoveCity_Text_MayNotRaisingPokemon",
+    "texte": "Tu n'es pas prêt ?\n\nJe peux attendre que tu aies\nsoigné tes Pokémon."
+  },
+  {
+    "repere": "LilycoveCity_Text_MayBattleMe",
+    "texte": "Flora. Alors, on fait ce combat ?"
+  },
+  {
+    "repere": "LilycoveCity_Text_MayWontBeBeaten",
+    "texte": "J'ai préparé mon équipe.\n\nÀ toi de jouer, {PLAYER} !"
+  },
+  {
+    "repere": "LilycoveCity_Text_MayDefeat",
+    "texte": "Tu te souviens de la Route 103 ?\n\nDepuis ce premier combat,\ntu as beaucoup changé."
+  },
+  {
+    "repere": "LilycoveCity_Text_MayGoingBackToLittleroot",
+    "texte": "Je vais bientôt rentrer\nà Bourg-en-Vol.\n\nPapa attend mes relevés du Pokédex.\nJ'ai de quoi remplir ses cahiers."
+  },
+  {
+    "repere": "LilycoveCity_Text_MayYouGoingToCollectBadges",
+    "texte": "Tu vas chercher les derniers badges ?\n\nMoi, je vais compléter mon Pokédex.\nOn se reverra, {PLAYER}."
+  },
+  {
+    "repere": "LilycoveCity_Text_MayYouGoingToPokemonLeague",
+    "texte": "Tu as les badges pour la Ligue ?\n\nJe continue mes relevés.\nBonne chance, {PLAYER}."
+  },
+  {
+    "repere": "LilycoveCity_Text_MayYouGoingToBattleFrontier",
+    "texte": "Tu vas essayer la Zone de Combat ?\n\nMoi, j'ai encore des espèces\nà relever dans mon Pokédex."
+  },
+  {
+    "repere": "LilycoveCity_Text_BrendanShoppingLetsBattle",
+    "texte": "Brice. Ah, {PLAYER} !\n\nJe fais une course pour mon père.\nOn a le temps pour un combat ?"
+  },
+  {
+    "repere": "LilycoveCity_Text_BrendanNoConfidence",
+    "texte": "Tu préfères attendre ?\n\nJe reste ici."
+  },
+  {
+    "repere": "LilycoveCity_Text_BrendanBattleMe",
+    "texte": "Alors, on compare nos équipes ?"
+  },
+  {
+    "repere": "LilycoveCity_Text_BrendanWontBeBeaten",
+    "texte": "J'ai entraîné mes Pokémon.\n\nVoyons ce que tu sais faire."
+  },
+  {
+    "repere": "LilycoveCity_Text_BrendanDefeat",
+    "texte": "Tu as vraiment progressé.\n\nJe ne pensais pas perdre."
+  },
+  {
+    "repere": "LilycoveCity_Text_BrendanGoingBackToLittleroot",
+    "texte": "Je vais rentrer à Bourg-en-Vol.\n\nMon père attend mes relevés.\nJ'ai presque rempli son cahier."
+  },
+  {
+    "repere": "LilycoveCity_Text_BrendanYouGoingToCollectBadges",
+    "texte": "Tu vas chercher les derniers badges ?\n\nJe pense reprendre le même chemin\nquand j'aurai terminé mes relevés."
+  },
+  {
+    "repere": "LilycoveCity_Text_BrendanYouGoingToPokemonLeague",
+    "texte": "Tu comptes affronter la Ligue ?\n\nJe vais poursuivre l'entraînement.\nOn se retrouvera, {PLAYER}."
+  },
+  {
+    "repere": "LilycoveCity_Text_BrendanYouGoingToBattleFrontier",
+    "texte": "Tu as terminé la Ligue.\n\nTu pourrais essayer la Zone\nde Combat maintenant.\n\nMoi, je vais continuer à voyager."
+  },
+  {
+    "repere": "LilycoveCity_Text_MovedLootIntoHideoutToday",
+    "texte": "On a rentré de nouvelles caisses\nà la planque ce matin.\n\nHein ? Je ne t'avais pas entendu."
+  },
+  {
+    "repere": "LilycoveCity_Text_ChanceToDoBigThings",
+    "texte": "Je ne connais pas tout le plan.\n\nLes Marks m'ont donné du travail.\nC'est déjà beaucoup."
+  },
+  {
+    "repere": "LilycoveCity_Text_DontGoNearCaveInCove",
+    "texte": "La grotte de la crique est fermée.\n\nOn nous a demandé de la garder."
+  },
+  {
+    "repere": "LilycoveCity_Text_IfWorldBecomesOurs",
+    "texte": "Arthur dit que les Pokémon auront\nplus de place si la mer avance.\n\nJe voudrais savoir où iront\nles gens de la première rue."
+  },
+  {
+    "repere": "LilycoveCity_Text_GetLostMessingUpTraining",
+    "texte": "Laisse les Wailmer terminer\nleur entraînement.\n\nLe passage est fermé."
+  },
+  {
+    "repere": "LilycoveCity_Text_ContestHallInTown",
+    "texte": "Des Dresseurs viennent de loin\npour les Concours Pokémon.\n\nOn prépare les costumes et les\naccessoires dans la salle voisine."
+  },
+  {
+    "repere": "LilycoveCity_Text_StrangeCaveInCove",
+    "texte": "Tu as vu la grotte au bout\nde la crique ?\n\nDes caisses entrent chaque nuit."
+  },
+  {
+    "repere": "LilycoveCity_Text_GoingToMoveDeleterForHMs",
+    "texte": "Je veux préparer mon Pokémon\npour un Concours.\n\nL'effaceur de capacités peut lui\nfaire oublier certaines CS."
+  },
+  {
+    "repere": "LilycoveCity_Text_ImFromKanto",
+    "texte": "Je viens de Kanto.\n\nJe voudrais observer les Pokémon\nqu'on ne trouve qu'à Hoenn."
+  },
+  {
+    "repere": "LilycoveCity_Text_TeamAquaBeenTrainingWailmer",
+    "texte": "Les Marks entraînent leurs Wailmer\nà l'entrée de la crique.\n\nNos bateaux restent à quai.\nOn nous paie à la traversée."
+  },
+  {
+    "repere": "LilycoveCity_Text_SomeonePuntedTeamAquaOut",
+    "texte": "Les Wailmer ont quitté la crique.\n\nOn peut enfin reprendre la mer.\nJ'ai prévenu mon équipage."
+  },
+  {
+    "repere": "LilycoveCity_Text_SomeoneStoleMyPokemon",
+    "texte": "Je dormais sur la plage.\n\nEn me réveillant, je n'ai pas\nretrouvé mon Pokémon.\n\nJe ne sais pas qui l'a emmené."
+  },
+  {
+    "repere": "LilycoveCity_Text_MissingPokemonCameBack",
+    "texte": "Mon Pokémon est revenu !\n\nIl s'est couché à côté de moi\nsans faire de bruit."
+  },
+  {
+    "repere": "LilycoveCity_Text_ImArtDealer",
+    "texte": "J'achète et je vends des tableaux.\n\nJe suis venu voir les oeuvres\ndu musée de Nénucrique."
+  },
+  {
+    "repere": "LilycoveCity_Text_SeaRemainsForeverYoung",
+    "texte": "Mes mains ont vieilli.\n\nJe reconnais pourtant la même mer\nquand je descends au rivage."
+  },
+  {
+    "repere": "LilycoveCity_Text_SixtyYearsAgoHusbandProposed",
+    "texte": "Il y a soixante ans, mon mari\nm'a demandé de l'épouser ici.\n\nLe banc n'est plus le même."
+  },
+  {
+    "repere": "LilycoveCity_Text_TeamAquaRenovatedCavern",
+    "texte": "C'était une grotte naturelle.\n\nLes Marks ont installé des portes,\ndes câbles et des machines.\n\nLe sable a changé de couleur."
+  },
+  {
+    "repere": "LilycoveCity_Text_TeamAquaLotGoneForGood",
+    "texte": "La grotte est vide maintenant.\n\nIl reste des traces de roues\net des câbles sur le sol."
+  },
+  {
+    "repere": "LilycoveCity_Text_CitySign",
+    "texte": "Nénucrique. Quartier des vitrines.\n\nLe port est au bout de la rue."
+  },
+  {
+    "repere": "LilycoveCity_Text_ContestHallSign",
+    "texte": "Concours Pokémon.\n\nInscriptions à l'accueil."
+  },
+  {
+    "repere": "LilycoveCity_Text_MotelSign",
+    "texte": "Hôtel Crique Crack.\n\nChambres et accueil des voyageurs."
+  },
+  {
+    "repere": "LilycoveCity_Text_MuseumSign",
+    "texte": "Musée de Nénucrique.\n\nCollection de tableaux Pokémon."
+  },
+  {
+    "repere": "LilycoveCity_Text_MuseumSignPlayersExhibit",
+    "texte": "Musée de Nénucrique.\n\nCollection Pokémon de {PLAYER}."
+  },
+  {
+    "repere": "LilycoveCity_Text_HarborSignUnderConstruction",
+    "texte": "Embarcadère de Nénucrique.\n\nLe ferry Marina est en construction\nà Poivressel."
+  },
+  {
+    "repere": "LilycoveCity_Text_HarborSign",
+    "texte": "Embarcadère de Nénucrique.\n\nTraversées du Marina."
+  },
+  {
+    "repere": "LilycoveCity_Text_TrainerFanClubSign",
+    "texte": "Fan Club des Dresseurs Pokémon.\n\nDes noms sont inscrits au tableau."
+  },
+  {
+    "repere": "LilycoveCity_Text_DepartmentStoreSign",
+    "texte": "Centre commercial de Nénucrique.\n\nLes étages sont indiqués à l'entrée."
+  },
+  {
+    "repere": "LilycoveCity_Text_MoveDeletersHouseSign",
+    "texte": "Maison de l'effaceur de capacités.\n\nOubli des capacités sur demande."
+  },
+  {
+    "repere": "LilycoveCity_Text_DoYouKnowAboutBerryBlender",
+    "texte": "Tu connais le Mixeur de Baies ?"
+  },
+  {
+    "repere": "LilycoveCity_Text_FasterSpinBetterPokeblocks",
+    "texte": "À plusieurs, on peut faire tourner\nle Mixeur plus vite.\n\nLes {POKEBLOCK}s seront meilleurs."
+  },
+  {
+    "repere": "LilycoveCity_Text_ExplainBerryBlender",
+    "texte": "Le Mixeur fabrique des {POKEBLOCK}s.\n\nIls améliorent la condition\ndes Pokémon qui les mangent."
+  },
+  {
+    "repere": "LilycoveCity_Text_HeardTowerCalledSkyPillar",
+    "texte": "On parle d'une tour au-delà\nde la mer.\n\nOn l'appelle le Pilier Céleste."
+  },
+  {
+    "repere": "LilycoveCity_Text_SawTallTowerOnRoute131",
+    "texte": "J'ai aperçu une tour immense\nprès du chenal 131."
+  },
+  {
+    "repere": "LilycoveCity_Text_JustArrivedAndSawRarePokemon",
+    "texte": "Nous venons d'arriver pour\nnotre voyage de noces.\n\nUn immense Pokémon Dragon\nest passé au-dessus du port."
+  },
+  {
+    "repere": "LilycoveCity_Text_HoneymoonVowToSeeRarePokemon",
+    "texte": "Nous voulions voir le plus possible\nde Pokémon pendant ce voyage.\n\nCelui du ciel, je ne l'oublierai pas."
+  }
+]
