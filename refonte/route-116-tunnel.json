@@ -1,0 +1,142 @@
+[
+  {
+    "repere": "Route116_Text_ScoundrelMadeOffWithPeeko",
+    "texte": "Marco tient la sangle vide.\n\nUn homme est parti avec Piko.\nIl a couru vers le tunnel.\n\nJe n'arrive pas à le rappeler."
+  },
+  {
+    "repere": "Route116_Text_WantToDigTunnel",
+    "texte": "Il ne reste que quelques mètres.\n\nJe voudrais finir ce passage."
+  },
+  {
+    "repere": "Route116_Text_DiggingTunnelWhenGoonOrderedMeOut",
+    "texte": "On m'a chassé du tunnel.\n\nLes Pokémon supportent mal le bruit.\nC'est pour ça que je creuse à la main.\n\nJ'espère qu'il ne les effraiera pas."
+  },
+  {
+    "repere": "Route116_Text_GoonHightailedItOutOfTunnel",
+    "texte": "L'homme est sorti en courant.\n\nJe vais pouvoir reprendre mon travail."
+  },
+  {
+    "repere": "Route116_Text_ThankYouTokenOfAppreciation",
+    "texte": "Le colis est arrivé à Poivressel.\nPoupe nous a envoyé le reçu.\n\nMerci pour les deux livraisons.\n\nLa Devon a mis au point une Ball.\nTiens, je t'en ai gardé une."
+  },
+  {
+    "repere": "Route116_Text_NewBallAvailableAtMart",
+    "texte": "La nouvelle Ball sera vendue\nà la boutique de Mérouville.\n\nTu peux l'essayer quand tu veux."
+  },
+  {
+    "repere": "Route116_Text_BagIsJamPacked",
+    "texte": "Ton sac est plein.\nLa Bis Ball ne rentre pas."
+  },
+  {
+    "repere": "Route116_Text_TokenOfAppreciation",
+    "texte": "J'ai gardé une nouvelle Poké Ball\npour te remercier des livraisons."
+  },
+  {
+    "repere": "Route116_Text_CanYouHelpMeFindGlasses",
+    "texte": "J'ai perdu mes lunettes.\nTu peux m'aider à les retrouver ?"
+  },
+  {
+    "repere": "Route116_Text_MayISeeThoseGlasses",
+    "texte": "Tu as trouvé des lunettes ?\nPuis-je les voir ?"
+  },
+  {
+    "repere": "Route116_Text_NotWhatImLookingForMaybeTheyArentHere",
+    "texte": "Des Lunet.Noires... Pas les miennes.\n\nJ'ai dû les perdre plus loin."
+  },
+  {
+    "repere": "Route116_Text_CantFindGlassesNotHere",
+    "texte": "Je ne vois rien par ici.\n\nIl faudrait chercher ailleurs."
+  },
+  {
+    "repere": "Route116_Text_NotWhatImLookingFor",
+    "texte": "Ce sont des Lunet.Noires.\nCe ne sont pas les miennes."
+  },
+  {
+    "repere": "Route116_Text_RouteSignRustboro",
+    "texte": "Route 116\n{LEFT_ARROW} Mérouville"
+  },
+  {
+    "repere": "Route116_Text_RusturfTunnelSign",
+    "texte": "Tunnel Mérazon.\nMérouville - Vergazon.\n\nTravaux suspendus. Passage fermé."
+  },
+  {
+    "repere": "Route116_Text_TunnelersRestHouse",
+    "texte": "Refuge des foreurs.\nDéposez les outils à l'entrée."
+  },
+  {
+    "repere": "Route116_Text_TrainerTipsBToStopEvolution",
+    "texte": "Conseil aux Dresseurs.\n\nPour interrompre une évolution,\nappuie sur B pendant celle-ci."
+  },
+  {
+    "repere": "Route116_Text_TrainerTipsBagHasPockets",
+    "texte": "Conseil aux Dresseurs.\n\nLe sac comporte plusieurs poches.\nLes objets y sont rangés par type."
+  },
+  {
+    "repere": "Route116_TunnelersRestHouse_Text_WeHadToStopBoring",
+    "texte": "On a arrêté les grosses machines.\nLes Pokémon fuyaient le bruit.\n\nDepuis, les ouvriers attendent.\nLe café est froid depuis midi."
+  },
+  {
+    "repere": "Route116_TunnelersRestHouse_Text_ManDiggingHisWayToVerdanturf",
+    "texte": "Un homme creuse seul vers Vergazon.\n\nIl avance sans machine, pour ne pas\ndéranger les Pokémon.\n\nOn lui garde une place à table."
+  },
+  {
+    "repere": "Route116_TunnelersRestHouse_Text_GetToVerdanturfWithoutTunnel",
+    "texte": "Sans le tunnel, passe par Myokara,\nPoivressel, puis Lavandia.\n\nC'est un long détour."
+  },
+  {
+    "repere": "Route116_TunnelersRestHouse_Text_TunnelHasGoneThrough",
+    "texte": "Le passage vers Vergazon est ouvert !\n\nOn a ressorti le plan du chantier.\nIl y a des traces de tasse dessus."
+  },
+  {
+    "repere": "RusturfTunnel_Text_ComeAndGetSome",
+    "texte": "Tu m'as suivi jusque-là ?"
+  },
+  {
+    "repere": "RusturfTunnel_Text_Peeko",
+    "texte": "Pii pikooo !"
+  },
+  {
+    "repere": "RusturfTunnel_Text_GruntDefeat",
+    "texte": "Je ne peux plus me battre.\n\nIl va falloir rentrer sans le colis."
+  },
+  {
+    "repere": "RusturfTunnel_Text_ThankYouLetsGoHomePeeko",
+    "texte": "Je m'appelle Marco. Merci, {PLAYER}.\n\nSi tu as besoin de traverser,\nviens chez moi près du Bois Clémenti.\n\nAllez, Piko. On rentre."
+  },
+  {
+    "repere": "RusturfTunnel_Text_WhyCantTheyKeepDigging",
+    "texte": "Sylvie habite de l'autre côté.\n\nSi le tunnel était ouvert,\non pourrait dîner ensemble.\n\nJe creuse quand j'ai du temps."
+  },
+  {
+    "repere": "RusturfTunnel_Text_ToGetToVerdanturf",
+    "texte": "Pour aller à Vergazon sans tunnel,\npasse par Myokara et Poivressel,\n\npuis par Lavandia."
+  },
+  {
+    "repere": "RusturfTunnel_Text_YouShatteredBoulderTakeHM",
+    "texte": "Tu as dégagé le passage !\n\nTiens, prends cette CS.\nElle te sera utile ailleurs."
+  },
+  {
+    "repere": "RusturfTunnel_Text_ExplainStrength",
+    "texte": "Cette CS contient Force.\n\nUn Pokémon qui l'apprend peut\ndéplacer de gros rochers."
+  },
+  {
+    "repere": "RusturfTunnel_Text_WandaReunion",
+    "texte": "Sylvie ! On peut enfin passer.\n\nSylvie. Viens te reposer chez moi.\nJ'ai gardé ta chaise."
+  },
+  {
+    "repere": "RusturfTunnel_Text_BoyfriendOnOtherSideOfRock",
+    "texte": "Il est de l'autre côté du rocher.\n\nIl ne creuse pas que pour moi.\nD'autres font le détour chaque jour."
+  },
+  {
+    "repere": "RusturfTunnel_Text_MikeIntro",
+    "texte": "Mes Pokémon vivent dans la roche.\n\nTu veux voir comment ils se battent ?"
+  },
+  {
+    "repere": "RusturfTunnel_Text_MikeDefeat",
+    "texte": "Ils n'ont plus de forces.\nOn va prendre une pause."
+  },
+  {
+    "repere": "RusturfTunnel_Text_MikePostBattle",
+    "texte": "Les travaux ont été suspendus\npour protéger les Pokémon.\n\nOn peut creuser sans tout réveiller."
+  }
+]
