@@ -1,0 +1,134 @@
+[
+  {
+    "repere": "PetalburgCity_Text_WhereIsWally",
+    "texte": "Tu n'aurais pas vu Timmy ?\n\nOn doit bientôt partir pour Vergazon.\nSa valise est prête depuis hier."
+  },
+  {
+    "repere": "PetalburgCity_Text_AreYouRookieTrainer",
+    "texte": "Tu débutes comme Dresseur ?\n\nDans chaque ville, repère l'arène.\nJe peux te montrer celle d'ici."
+  },
+  {
+    "repere": "PetalburgCity_Text_ThisIsPetalburgGym",
+    "texte": "Voilà l'arène de Clémenti-Ville.\n\nOn y tient aussi les audiences."
+  },
+  {
+    "repere": "PetalburgCity_Text_ThisIsGymSign",
+    "texte": "Ce signe indique une arène Pokémon.\n\nTu le retrouveras dans les autres\nvilles qui en possèdent une."
+  },
+  {
+    "repere": "PetalburgCity_Text_WaterReflection",
+    "texte": "Quand l'eau est calme, je vois\njusqu'aux coutures de mon col.\n\nArmand garde les yeux sur ses pieds."
+  },
+  {
+    "repere": "PetalburgCity_Text_FullPartyExplanation",
+    "texte": "Une équipe contient six Pokémon.\n\nSi tu en attrapes un septième,\nil rejoint une boîte du PC."
+  },
+  {
+    "repere": "PetalburgCity_Text_GymSign",
+    "texte": "Arène de Clémenti-Ville.\nChampion : Norman.\n\nLe registre est consultable ici."
+  },
+  {
+    "repere": "PetalburgCity_Text_CitySign",
+    "texte": "Clémenti-Ville. Quartier des actes.\n\nLes copies se demandent au guichet."
+  },
+  {
+    "repere": "PetalburgCity_Text_WallyHouseSign",
+    "texte": "Maison de Timmy.\nMerci de frapper doucement."
+  },
+  {
+    "repere": "PetalburgCity_Text_AreYouATrainer",
+    "texte": "Excuse-moi. Je m'appelle Scott.\n\nTu es Dresseur de Pokémon ?"
+  },
+  {
+    "repere": "PetalburgCity_Text_WellMaybeNot",
+    "texte": "Tes chaussures sont encore neuves.\n\nTu n'as peut-être pas beaucoup\ncombattu."
+  },
+  {
+    "repere": "PetalburgCity_Text_ImLookingForTalentedTrainers",
+    "texte": "Je cherche des Dresseurs de talent.\n\nJe repasserai quand les combats\nauront usé un peu tes semelles."
+  },
+  {
+    "repere": "PetalburgCity_House1_Text_TravelingIsWonderful",
+    "texte": "J'ai travaillé sur les bateaux.\n\nJe savais reconnaître un port à\nl'odeur de ses cordages."
+  },
+  {
+    "repere": "PetalburgCity_House1_Text_GoOnAdventure",
+    "texte": "Je voudrais partir avec un Pokémon.\n\nJ'ai mis une chemise de rechange\ndans mon sac, pour voir.\n\nMa mère n'a pas encore défait\nles ourlets."
+  },
+  {
+    "repere": "PetalburgCity_House2_Text_NormanBecameGymLeader",
+    "texte": "Norman dirige l'arène depuis peu.\n\nIl est arrivé de loin. Les anciens\nregistres l'attendaient déjà."
+  },
+  {
+    "repere": "PetalburgCity_House2_Text_BattledNormanOnce",
+    "texte": "J'ai affronté Norman une fois.\n\nIl a remis ses Pokémon en place\navant même de me serrer la main."
+  },
+  {
+    "repere": "PetalburgCity_Mart_Text_WeakWillGrowStronger",
+    "texte": "Un Pokémon faible peut progresser.\n\nOn ne juge pas une paire de bras\navant de lui avoir laissé du repos."
+  },
+  {
+    "repere": "PetalburgCity_Mart_Text_RepelIsUseful",
+    "texte": "Le Repousse éloigne les Pokémon\nsauvages de niveau inférieur.\n\nUtile quand on a un trajet pressé."
+  },
+  {
+    "repere": "PetalburgCity_Mart_Text_TakeSomeAntidotesWithYou",
+    "texte": "Un Pokémon empoisonné perd des PV\nen marchant, jusqu'au K.O.\n\nGarde un Antidote dans ton sac."
+  },
+  {
+    "repere": "PetalburgCity_PokemonCenter_1F_Text_PCStorageSystem",
+    "texte": "Avec le PC, on retrouve ses Pokémon\nmême en changeant de ville.\n\nDommage que les dossiers de soins\nne circulent pas aussi bien."
+  },
+  {
+    "repere": "PetalburgCity_PokemonCenter_1F_Text_OranBerryRegainedHP",
+    "texte": "Une Baie Oran rend des PV.\n\nMon Pokémon la garde dans ses pattes\njusqu'à ce qu'il en ait besoin."
+  },
+  {
+    "repere": "PetalburgCity_PokemonCenter_1F_Text_ManyTypesOfPokemon",
+    "texte": "Chaque type de Pokémon a ses forces\net ses faiblesses.\n\nChoisis tes attaques en tenant compte\ndu type de ton adversaire."
+  },
+  {
+    "repere": "PetalburgCity_PokemonCenter_1F_Text_TreeckoIsGrassType",
+    "texte": "Arcko est de type Plante.\n\nIl est fort contre les types Eau\net Sol, mais faible face au Feu."
+  },
+  {
+    "repere": "PetalburgCity_PokemonCenter_1F_Text_TorchicIsFireType",
+    "texte": "Poussifeu est de type Feu.\n\nIl est fort contre les types Plante\net Insecte, mais faible face à l'Eau."
+  },
+  {
+    "repere": "PetalburgCity_PokemonCenter_1F_Text_MudkipIsWaterType",
+    "texte": "Gobou est de type Eau.\n\nIl est fort contre le Feu, mais\nfaible face à Plante et Électrik."
+  },
+  {
+    "repere": "PetalburgCity_WallysHouse_Text_ThanksForPlayingWithWally",
+    "texte": "Tu es {PLAYER} ? Merci pour Timmy.\n\nIl tousse depuis qu'il est petit.\nÀ Vergazon, l'air est meilleur.\n\nIl est parti chez des parents.\nJ'espère qu'il a pris son écharpe."
+  },
+  {
+    "repere": "PetalburgCity_WallysHouse_Text_WonderHowWallyIsDoing",
+    "texte": "Je me demande comment va Timmy.\n\nSon bol est encore sur l'étagère."
+  },
+  {
+    "repere": "PetalburgCity_WallysHouse_Text_PleaseExcuseUs",
+    "texte": "Merci d'être venu, {PLAYER}.\n\nÀ Vergazon, Timmy reprend des forces.\nIl parle encore du Pokémon attrapé.\n\nSon père sort une enveloppe.\nTiens, je voulais te donner ça."
+  },
+  {
+    "repere": "PetalburgCity_WallysHouse_Text_SurfGoAllSortsOfPlaces",
+    "texte": "Avec Surf, ton Pokémon pourra\nt'emmener par-delà les berges."
+  },
+  {
+    "repere": "PetalburgCity_WallysHouse_Text_WallyIsComingHomeSoon",
+    "texte": "Timmy va bientôt revenir.\n\nJ'ai lavé les draps de son lit."
+  },
+  {
+    "repere": "PetalburgCity_WallysHouse_Text_YouMetWallyInEverGrandeCity",
+    "texte": "Tu as vu Timmy à Éternara ?\n\nIl va mieux, mais si loin...\nIl aurait pu nous envoyer un mot."
+  },
+  {
+    "repere": "PetalburgCity_WallysHouse_Text_WallyWasReallyHappy",
+    "texte": "Timmy nous a montré sa Poké Ball.\n\nIl a souri pendant tout le repas.\nIl n'avait pas toussé une fois."
+  },
+  {
+    "repere": "PetalburgCity_WallysHouse_Text_WallyLeftWithoutTelling",
+    "texte": "Timmy est parti de Vergazon.\nNe le dis pas à mon mari.\n\nIl est plus courageux qu'on le croit.\nJe laisse la lumière pour son retour."
+  }
+]
