@@ -1,0 +1,174 @@
+[
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_WelcomeToLilycoveMuseum",
+    "texte": "Bienvenue au musée de Nénucrique.\n\nLes salles sont ouvertes à tous."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_ImCuratorHaveYouViewedOurPaintings",
+    "texte": "Je suis le conservateur du musée.\n\nAs-tu déjà vu notre collection ?"
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_NotDisturbYouTakeYourTime",
+    "texte": "Je te laisse regarder.\n\nPrends tout le temps nécessaire."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_HaveYouAnInterestInPaintings",
+    "texte": "Tu voyages avec des Pokémon.\n\nLa peinture t'intéresse-t-elle ?"
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_HonoredYoudVisitInSpiteOfThat",
+    "texte": "Je comprends. Merci tout de même\nd'être venu nous voir."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_ExcellentCanYouComeWithMe",
+    "texte": "Alors, viens avec moi.\n\nJ'ai une salle à te montrer."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_VeryOldPainting",
+    "texte": "Un tableau très ancien.\n\nLa peinture se détache du bois\nprès du cadre."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_OddLandscapeFantasticScenery",
+    "texte": "Un paysage aux lignes étranges.\n\nLa mer occupe presque toute\nla toile. Une maison dépasse."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfBeautifulWoman",
+    "texte": "Une femme tient un Pokémon\nsur ses genoux.\n\nSes mains portent des traces\nde peinture."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfLegendaryPokemon",
+    "texte": "Un Pokémon légendaire tel que\nle peintre l'imaginait.\n\nAucun témoin n'est cité."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfGrassPokemon",
+    "texte": "Des Pokémon Plante dans un champ.\n\nLe vent incline toutes les tiges\ndans la même direction."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_PaintingOfBerries",
+    "texte": "Des Baies sur une table.\n\nUne seule a été coupée en deux."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_BigPokeBallCarvedFromStone",
+    "texte": "Une Poké Ball taillée dans\nune pierre noire.\n\nOn la portait autrefois lors\ndes fêtes du village."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_StoneTabletWithAncientText",
+    "texte": "Des Pokémon sont gravés\nsur cette plaque de pierre.\n\nLe texte ancien reste indéchiffré."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_WorksOfMagnificence",
+    "texte": "Je reviens souvent devant ce cadre.\n\nJe remarque chaque fois un détail."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_MustntForgetLoveForFineArts",
+    "texte": "On peut aimer les combats\net prendre le temps de regarder\nun tableau."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_ThisMuseumIsInspiration",
+    "texte": "Je suis peintre.\n\nLe conservateur me laisse étudier\nles tableaux de près."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_ThisLadyIsPretty",
+    "texte": "Elle ressemble à maman !"
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_ThisPokemonIsAdorable",
+    "texte": "Ce Pokémon me rappelle\nnotre petit garçon."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_HeardMuseumGotNewPaintings",
+    "texte": "On m'a parlé de nouveaux tableaux.\n\nSont-ils exposés à l'étage ?"
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_CuratorHasBeenCheerful",
+    "texte": "Le conservateur a ressorti\nles cadres de sa réserve.\n\nIl a l'air content."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_AimToSeeGreatPaintings",
+    "texte": "Je viens apprendre en regardant\nles tableaux des autres.\n\nUn jour, j'aimerais en accrocher\nun des miens ici."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_1F_Text_MuseumTouristDestination",
+    "texte": "Les visiteurs sont plus nombreux.\n\nLes tableaux de l'étage représentent\nles Pokémon d'un même Dresseur."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_2F_Text_ThisIsExhibitHall",
+    "texte": "Voici la salle des oeuvres modernes."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_2F_Text_ExplainExhibitHall",
+    "texte": "Les murs sont encore vides.\n\nLes tableaux anciens ont leur place\nau rez-de-chaussée.\n\nIci, je voudrais montrer les Pokémon\nque les artistes rencontrent\n\naujourd'hui, dans leur vie ordinaire."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_2F_Text_PleaseObtainPaintingsForExhibit",
+    "texte": "Tu as beaucoup voyagé.\n\nSi tu rencontres un peintre dont\nune oeuvre pourrait être exposée,\n\ndemande-lui son autorisation.\nNous serions heureux de l'accueillir."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_2F_Text_WishToFillExhibit",
+    "texte": "J'aimerais remplir cette salle\navec des tableaux de Pokémon\n\npeints par les artistes d'aujourd'hui."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_2F_Text_ThanksAddedNewPainting",
+    "texte": "Un nouveau tableau est arrivé.\n\nOn m'a dit que c'était ton Pokémon.\nMerci de nous l'avoir confié."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_2F_Text_ItsYouPlayer",
+    "texte": "Ah, {PLAYER} ! Te voilà."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_2F_Text_PaintingsAttractedMoreGuests",
+    "texte": "Les cinq tableaux sont exposés.\n\nDes familles reviennent les voir.\nCertaines reconnaissent un Pokémon\n\nqu'elles ont connu en chemin.\nMerci, {PLAYER}."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_2F_Text_TokenOfGratitude",
+    "texte": "Voici un cadeau du musée."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_2F_Text_KeepThisForYou",
+    "texte": "Je garderai le cadeau ici\njusqu'à ta prochaine visite."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_2F_Text_HonorToHaveYouVisit",
+    "texte": "Content de te revoir, {PLAYER}.\n\nLes tableaux sont toujours là.\nPrends le temps de les regarder."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_2F_Text_ItsPinkPictureFrame",
+    "texte": "Un cadre aux ornements roses."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_2F_Text_ItsYellowPictureFrame",
+    "texte": "Un cadre aux ornements jaunes."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_2F_Text_ItsBluePictureFrame",
+    "texte": "Un cadre aux ornements bleus."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_2F_Text_ItsRedPictureFrame",
+    "texte": "Un cadre aux ornements rouges."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_2F_Text_ItsGreenPictureFrame",
+    "texte": "Un cadre aux ornements verts."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_2F_Text_ItsPaintingOfPokemon",
+    "texte": "Un portrait de Pokémon."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_2F_Text_NewPaintingsSurprisedMe",
+    "texte": "Ces tableaux n'étaient pas là\nlors de ma dernière visite.\n\nJ'aimerais faire peindre mon Pokémon."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_2F_Text_NewPaintingsRatherAmusing",
+    "texte": "Chaque portrait montre une attitude\ndifférente.\n\nOn dirait qu'ils vont bouger."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_2F_Text_ThesePaintingsOfYourPokemon",
+    "texte": "Ce sont tes Pokémon ?\n\nJe comprends maintenant pourquoi\nils ont tous des gestes différents."
+  },
+  {
+    "repere": "LilycoveCity_LilycoveMuseum_Text_BirdPokemonSculptureReplica",
+    "texte": "Réplique d'une sculpture ancienne.\n\nUn Pokémon oiseau aux ailes\nrepliées contre le corps."
+  }
+]
