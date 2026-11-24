@@ -1,0 +1,170 @@
+[
+  {
+    "repere": "SlateportCity_BattleTentLobby_Text_CouldntFindMonForMe",
+    "texte": "Je n'ai pas trouvé de Pokémon\nqui me convienne parmi les prêts.\n\nOn m'a dit de revoir ma stratégie.\nTiens, prends cette CT."
+  },
+  {
+    "repere": "SlateportCity_BattleTentLobby_Text_ExplainTorment",
+    "texte": "La CT41 contient Tourmente.\n\nElle empêche l'adversaire d'utiliser\nla même capacité deux fois de suite."
+  },
+  {
+    "repere": "SlateportCity_BattleTentLobby_Text_IllTryUsingBugMons",
+    "texte": "Je connais mal les Pokémon Insecte.\n\nJe vais en emprunter un ici.\nC'est l'occasion d'apprendre."
+  },
+  {
+    "repere": "SlateportCity_BattleTentLobby_Text_BattleEvenWithoutToughMons",
+    "texte": "Ici, on te prête des Pokémon\npour les combats.\n\nPas besoin d'avoir ta propre équipe."
+  },
+  {
+    "repere": "SlateportCity_BattleTentLobby_Text_NiceIfMoreSelection",
+    "texte": "J'aimerais qu'il y ait davantage\nde Pokémon à emprunter."
+  },
+  {
+    "repere": "SlateportCity_House_Text_NatureToDoWithStatGains",
+    "texte": "Mon Pokémon est de nature Pressé.\n\nSa nature favorise sa Vitesse\nmais réduit sa Défense."
+  },
+  {
+    "repere": "SlateportCity_House_Text_MustBeGoingToBattleTent",
+    "texte": "Tu es Dresseur ?\n\nLa Tente de Combat est ouverte.\nOn y prête des équipes."
+  },
+  {
+    "repere": "SlateportCity_Mart_Text_SomeItemsOnlyAtMart",
+    "texte": "Le marché a ses propres produits.\n\nPour certains remèdes, il faut\nvenir à la boutique Pokémon."
+  },
+  {
+    "repere": "SlateportCity_Mart_Text_GreatBallIsBetter",
+    "texte": "Une Super Ball est plus efficace\nqu'une Poké Ball ordinaire.\n\nJ'en prends une pour demain."
+  },
+  {
+    "repere": "SlateportCity_NameRatersHouse_Text_PleasedToRateMonNickname",
+    "texte": "Je suis le spécialiste des noms.\n\nVeux-tu que j'examine le surnom\nde l'un de tes Pokémon ?"
+  },
+  {
+    "repere": "SlateportCity_NameRatersHouse_Text_CritiqueWhichMonNickname",
+    "texte": "De quel Pokémon veux-tu\nexaminer le surnom ?"
+  },
+  {
+    "repere": "SlateportCity_NameRatersHouse_Text_FineNameSuggestBetterOne",
+    "texte": "{STR_VAR_1}, c'est un joli nom.\n\nVeux-tu lui en donner un autre ?"
+  },
+  {
+    "repere": "SlateportCity_NameRatersHouse_Text_WhatShallNewNameBe",
+    "texte": "Quel sera son nouveau surnom ?"
+  },
+  {
+    "repere": "SlateportCity_NameRatersHouse_Text_MonShallBeKnownAsName",
+    "texte": "Désormais, il s'appellera\n{STR_VAR_1}.\n\nJe l'inscris sur sa fiche."
+  },
+  {
+    "repere": "SlateportCity_NameRatersHouse_Text_DoVisitAgain",
+    "texte": "Très bien. Reviens si nécessaire."
+  },
+  {
+    "repere": "SlateportCity_NameRatersHouse_Text_NameNoDifferentYetSuperior",
+    "texte": "{STR_VAR_1}, comme auparavant.\n\nLe nom est confirmé."
+  },
+  {
+    "repere": "SlateportCity_NameRatersHouse_Text_MagnificentName",
+    "texte": "{STR_VAR_1} est un très beau nom.\n\nIl vaut mieux le conserver.\nPrends bien soin de ton Pokémon."
+  },
+  {
+    "repere": "SlateportCity_NameRatersHouse_Text_ThatIsMerelyAnEgg",
+    "texte": "Ce n'est encore qu'un Œuf.\n\nIl faut attendre qu'il éclose."
+  },
+  {
+    "repere": "SlateportCity_PokemonCenter_1F_Text_RaiseDifferentTypesOfPokemon",
+    "texte": "Entraîne plusieurs types de Pokémon.\n\nUn seul Pokémon fort risque de\nrencontrer un adversaire trop fort\n\ncontre son propre type."
+  },
+  {
+    "repere": "SlateportCity_PokemonCenter_1F_Text_TradedMonWithFriend",
+    "texte": "J'échange des Pokémon avec mes amis.\n\nParfois, on glisse un petit objet\navec le Pokémon qu'on confie."
+  },
+  {
+    "repere": "SlateportCity_PokemonFanClub_Text_MeetChairman",
+    "texte": "Je préside le Fan Club Pokémon.\n\nLes Concours permettent de montrer\nle travail fait avec ses Pokémon.\n\nComme ils ont lieu loin d'ici,\non se retrouve aussi dans cette salle."
+  },
+  {
+    "repere": "SlateportCity_PokemonFanClub_Text_LikeToSeeEnteredContestPokemon",
+    "texte": "J'aimerais voir un Pokémon qui\ns'est présenté à un Concours."
+  },
+  {
+    "repere": "SlateportCity_PokemonFanClub_Text_AllowMeToExamineYourPokemon",
+    "texte": "Tu as participé à un Concours !\n\nPuis-je examiner tes Pokémon\net voir comment ils progressent ?"
+  },
+  {
+    "repere": "SlateportCity_PokemonFanClub_Text_HowIsYourPokemonGrowing",
+    "texte": "Comment ton Pokémon progresse-t-il ?\nLaisse-moi l'examiner."
+  },
+  {
+    "repere": "SlateportCity_PokemonFanClub_Text_HmHmISee",
+    "texte": "Hum... Je vois."
+  },
+  {
+    "repere": "SlateportCity_PokemonFanClub_Text_GiveMonMorePokeblocks",
+    "texte": "Il peut encore progresser.\n\nEssaie de lui donner davantage\nde {POKEBLOCK}s adaptés à ses goûts."
+  },
+  {
+    "repere": "SlateportCity_PokemonFanClub_Text_NoSpaceForReward",
+    "texte": "Ton Pokémon a bien progressé.\n\nMais ton sac est plein.\nJe garde ta récompense ici."
+  },
+  {
+    "repere": "SlateportCity_PokemonFanClub_Text_MonMostImpressiveGiveItThis",
+    "texte": "Ton {STR_VAR_1} a bien progressé.\n\nJe te confie un foulard pour lui."
+  },
+  {
+    "repere": "SlateportCity_PokemonFanClub_Text_ExplainRedScarf",
+    "texte": "Le Foul. Rouge met en valeur\nle Sang-froid en Concours."
+  },
+  {
+    "repere": "SlateportCity_PokemonFanClub_Text_ExplainBlueScarf",
+    "texte": "Le Foul. Bleu met en valeur\nla Beauté en Concours."
+  },
+  {
+    "repere": "SlateportCity_PokemonFanClub_Text_ExplainPinkScarf",
+    "texte": "Le Foul. Rose met en valeur\nla Grâce en Concours."
+  },
+  {
+    "repere": "SlateportCity_PokemonFanClub_Text_ExplainGreenScarf",
+    "texte": "Le Foul. Vert met en valeur\nl'Intelligence en Concours."
+  },
+  {
+    "repere": "SlateportCity_PokemonFanClub_Text_ExplainYellowScarf",
+    "texte": "Le Foul. Jaune met en valeur\nla Robustesse en Concours."
+  },
+  {
+    "repere": "SlateportCity_PokemonFanClub_Text_NothingElseToGiveYou",
+    "texte": "Je n'ai plus de foulards pour toi.\n\nContinue à t'occuper de tes Pokémon."
+  },
+  {
+    "repere": "SlateportCity_PokemonFanClub_Text_ShowMePokemonThatLoveYou",
+    "texte": "J'aime voir les Pokémon qui ont\nconfiance en leur Dresseur.\n\nReviens me voir quand votre lien\nsera plus fort."
+  },
+  {
+    "repere": "SlateportCity_PokemonFanClub_Text_PokemonAdoresYou",
+    "texte": "Ton Pokémon a confiance en toi.\n\nVoici un cadeau du Fan Club."
+  },
+  {
+    "repere": "SlateportCity_PokemonFanClub_Text_TreatPokemonWithLove",
+    "texte": "Un Pokémon apprend à te connaître\nà force de gestes répétés.\n\nPrends soin de lui chaque jour."
+  },
+  {
+    "repere": "SlateportCity_PokemonFanClub_Text_PokemonDontLikeFainting",
+    "texte": "Quand un Pokémon tombe K.O.,\nsa confiance peut diminuer.\n\nEssaie de le rappeler à temps."
+  },
+  {
+    "repere": "SlateportCity_PokemonFanClub_Text_MonEnjoyedProtein",
+    "texte": "Mes Pokémon aiment les Protéines.\n\nJe vérifie toujours leur fiche\navant de leur en donner."
+  },
+  {
+    "repere": "SlateportCity_PokemonFanClub_Text_Skitty",
+    "texte": "Skitty. Skiiittyyy..."
+  },
+  {
+    "repere": "SlateportCity_PokemonFanClub_Text_Zigzagoon",
+    "texte": "Zigzaton. Zigzaaatooon..."
+  },
+  {
+    "repere": "SlateportCity_PokemonFanClub_Text_Azumarill",
+    "texte": "Azumarill. Azuumaariill ?"
+  }
+]
