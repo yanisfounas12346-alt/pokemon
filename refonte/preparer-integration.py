@@ -23,6 +23,43 @@ NARRATIVE = re.compile(
 )
 APPLIED_V3 = {"bourg.json", "ligue.json"}
 
+# Source figée : ces cartes contiennent des restes de Rubis/Saphir,
+# explicitement marqués inutilisés dans leurs fichiers de texte.
+UNUSED_PREFIXES = {
+    "FallarborTown_BattleTentCorridor": "FallarborTown_ContestHall_Text_",
+    "SlateportCity_BattleTentCorridor": "SlateportCity_ContestHall_Text_",
+    "MossdeepCity_GameCorner_1F": "RS_MysteryEventsHouse_Text_",
+}
+ORIGINAL_BOARD = "Route124_DivingTreasureHuntersHouse_Text_ShardTradeBoard"
+NAME_TOKENS = {"{PLAYER}", "{KUN}"}
+PROTECTED_LEAGUE = "EverGrandeCity_ChampionsRoom_Text_BirchArriveRatePokedex"
+
+def omission_reason(name, label):
+    prefix = UNUSED_PREFIXES.get(name)
+    if prefix and label.startswith(prefix):
+        return "Texte inutilisé hérité de Rubis/Saphir, conservé sans modification."
+    if label == ORIGINAL_BOARD:
+        return "Panneau original conservé : codes CLEAR_TO et flèches de mise en page."
+    return None
+
+def variable_decision(label, original, revised):
+    before, after = variables(original), variables(revised)
+    if before == after:
+        return None
+    if label == PROTECTED_LEAGUE and set(before) - set(after) <= NAME_TOKENS | {"{RIVAL}"} and not (set(after) - set(before)):
+        return "narration_ligue_v3_a_preserver"
+    if not (set(after) - set(before)) and (set(before) - set(after)) <= NAME_TOKENS:
+        if all(before[k] == after[k] for k in (set(before) | set(after)) - NAME_TOKENS):
+            return "nom_ou_suffixe_allege"
+        if all(after[k] <= before[k] for k in set(after)):
+            return "repetitions_reduites"
+    # Une répétition supplémentaire d'une variable déjà présente
+    # n'introduit pas une nouvelle valeur, mais reste à vérifier en jeu.
+    if set(before) == set(after):
+        return "repetitions_modifiees"
+    return "verification_requise"
+
+
 def main():
     parser = argparse.ArgumentParser(description=__doc__)
     parser.add_argument("--source", required=True, type=Path)
@@ -101,10 +138,14 @@ def main():
                 continue
             name, original, line = locations[label][0]
             status = "deja_integre_v3_a_verifier" if path.name in APPLIED_V3 else "a_integrer"
-            if variables(original) != variables(text):
+            decision = variable_decision(label, original, text)
+            if decision:
                 warnings.append({"repere": label, "origine": dict(variables(original)),
-                                 "refonte": dict(variables(text))})
-                status = "verification_variables_requise"
+                                 "refonte": dict(variables(text)), "decision": decision})
+                if decision == "verification_requise":
+                    status = "verification_variables_requise"
+                elif path.name not in APPLIED_V3:
+                    status = "a_integrer_controle_variables"
             ordinary[label] = {
                 "repere": label, "carte": name, "ligne_source": line,
                 "origine_assembleur": original, "texte": text,
@@ -115,6 +156,15 @@ def main():
     covered = set(narrative) | set(ordinary)
     missing = {name: sorted(set(rows) - covered) for name, rows in source.items()
                if set(rows) - covered}
+    exclusions = []
+    unexpected = {}
+    for name, labels in missing.items():
+        for label in labels:
+            reason = omission_reason(name, label)
+            if reason:
+                exclusions.append({"carte": name, "repere": label, "raison": reason})
+            else:
+                unexpected.setdefault(name, []).append(label)
     report = {
         "reference": REF, "base": "BPEF / patch v3 partiel",
         "avertissement": "Manifeste logique, sans adresses ROM ni encodage GBA. Ne pas appliquer directement.",
@@ -123,12 +173,18 @@ def main():
         "erreurs_bloquantes": errors,
         "variables_a_verifier": warnings,
         "reperes_sans_refonte": missing,
+        "textes_conserves_intentionnellement": exclusions,
+        "reperes_manquants_non_expliques": unexpected,
         "statistiques": {
             "cartes_lues": len(source), "cartes_inventaire": len(inventory),
             "narratives": len(narrative), "secondaires": len(ordinary),
             "a_integrer": sum(r["etat_v3"] == "a_integrer" for r in ordinary.values()),
             "erreurs": len(errors), "avertissements_variables": len(warnings),
             "cartes_avec_reperes_manquants": len(missing),
+            "textes_conserves_intentionnellement": len(exclusions),
+            "cartes_avec_manquants_non_expliques": len(unexpected),
+            "variables_par_decision": dict(collections.Counter(w["decision"] for w in warnings)),
+            "a_integrer_controle_variables": sum(r["etat_v3"] == "a_integrer_controle_variables" for r in ordinary.values()),
         },
     }
     args.sortie.parent.mkdir(parents=True, exist_ok=True)
