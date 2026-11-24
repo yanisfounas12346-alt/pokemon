@@ -1,0 +1,310 @@
+[
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_WouldYouLikeToEnter",
+    "texte": "Musée océanographique.\n\nL'entrée coûte 50¥.\nVoulez-vous entrer ?"
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_PleaseEnjoyYourself",
+    "texte": "Bonne visite. Les maquettes sont\nà l'étage."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_NotEnoughMoney",
+    "texte": "Désolée, il vous manque de l'argent\npour l'entrée."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_CatchUpWithYourGroup",
+    "texte": "Votre groupe est déjà entré.\n\nVous pouvez le rejoindre."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_OurBossIsntHere",
+    "texte": "On nous a demandé de venir ici.\n\nArthur n'est pas encore arrivé."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_WouldStuffHereMakeMeRich",
+    "texte": "Combien vaudrait cette machine\nsi on la revendait ?\n\nOn pourrait acheter des remèdes."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_CanLearnForNefariousDeeds",
+    "texte": "Je relève les indications sur\nles courants et les profondeurs.\n\nÇa nous servira pour les traversées."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_RustboroBungled",
+    "texte": "Si le colis était arrivé jusqu'à\nnous à Mérouville,\n\non ne serait pas tous ici."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_DidntHaveMoney",
+    "texte": "Je n'avais pas les 50¥.\n\nLa dame de l'accueil m'a laissé\nentrer avec le groupe."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_LearnAboutSeaForBattling",
+    "texte": "Je veux comprendre les courants\navant d'entraîner mes Pokémon Eau."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_SternIsRoleModel",
+    "texte": "J'aimerais travailler avec Poupe.\n\nIl dessine ses relevés lui-même."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_MustBePokemonWeDontKnow",
+    "texte": "On ignore encore beaucoup de choses\nsur les Pokémon des profondeurs.\n\nCertains n'ont jamais vu nos quais."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_WantSeaPokemon",
+    "texte": "J'aimerais rencontrer un Pokémon\nde la mer.\n\nJe ne sais pas encore lequel."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_RememberMeTakeThis",
+    "texte": "Tu te souviens du tunnel Mérazon ?\nC'était moi, avec le Goélise.\n\nTiens, prends cette CT.\nJe n'ai plus besoin de la garder."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_HopeINeverSeeYouAgain",
+    "texte": "Cette CT te servira mieux qu'à moi.\n\nJe vais retourner au dispensaire."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_YouHaveToTakeThis",
+    "texte": "Prends-la, je t'en prie.\nIl faut que je reparte."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_WhirlpoolExperiment",
+    "texte": "Un liquide bleu tourne en spirale.\n\nLa machine reproduit un tourbillon\nà l'aide d'un souffle d'air."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_WaterfallExperiment",
+    "texte": "Une balle rouge monte et descend\nentre deux parois de verre.\n\nLa maquette illustre une cascade."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_OceanSoilDisplay",
+    "texte": "Échantillon de sédiments marins.\n\nLes restes des êtres vivants\ns'accumulent en couches.\n\nLeur étude permet de lire le passé."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_BeachSandDisplay",
+    "texte": "Échantillon de sable de plage.\n\nL'érosion des roches produit\nles grains emportés par les rivières."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact1",
+    "texte": "Pourquoi la mer paraît-elle bleue ?\n\nL'eau absorbe davantage la lumière\nrouge que la lumière bleue.\n\nLa lumière bleue nous revient."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact2",
+    "texte": "Pourquoi la mer est-elle salée ?\n\nLes eaux transportent vers la mer\ndes sels dissous issus des roches."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact3",
+    "texte": "La mer couvre environ 70 pour cent\nde la surface de la planète.\n\nSur cette carte, les terres seules\nsont coloriées en brun."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_FossilDisplay",
+    "texte": "Une roche porte des rides fossiles.\n\nElles gardent la trace des courants\nqui remuaient autrefois le sable."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_1F_Text_DepthMeasuringMachine",
+    "texte": "Un instrument de sondage.\n\nLes graduations permettent de\nrelever la profondeur de l'eau."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_ThankYouForTheParts",
+    "texte": "Poupe. Tu apportes le Pack Devon ?\n\nMerci. Les pièces vont servir\nà préparer notre expédition."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_WellTakeThoseParts",
+    "texte": "Attendez ! Ces pièces-là,\nnous en avons besoin aussi."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_SternWhoAreYou",
+    "texte": "Poupe serre le colis.\n\nQui vous a envoyés ?"
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_Grunt1Defeat",
+    "texte": "Je n'ai plus de Pokémon en état.\n\nOn ne va pas pouvoir repartir."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_BossGoingToBeFurious",
+    "texte": "Arthur attend ces pièces.\n\nQu'est-ce qu'on va lui dire ?"
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_LetMeTakeCareOfThis",
+    "texte": "Laisse. Je vais essayer à mon tour."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_Grunt2Defeat",
+    "texte": "Moi non plus, je n'ai pas réussi."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_MeddlingKid",
+    "texte": "Sans les pièces, le départ sera\nrepoussé.\n\nIl faudra trouver une autre solution."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_CameToSeeWhatsTakingSoLong",
+    "texte": "Arthur monte les dernières marches.\n\nOn vous attend depuis une heure.\nQu'est-ce qui vous retient ?"
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_SternThankYouForSavingUs",
+    "texte": "Merci, {PLAYER}.\n\nPoupe vérifie le contenu du colis.\nLes pièces sont toutes là."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_SternIveGotToGo",
+    "texte": "Il faut que je rejoigne l'équipe.\nL'expédition ne peut pas attendre.\n\nTu peux rester visiter le musée."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_RemindsMeOfAbandonedShip",
+    "texte": "Cette maquette me rappelle l'épave\nprès de Myokara.\n\nJe reconnais la forme du pont."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_DontRunInMuseum",
+    "texte": "Ne cours pas entre les vitrines.\n\nIl y a des objets fragiles ici."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_WantToRideSubmarine",
+    "texte": "Je voudrais entrer dans ce\nsous-marin, même une minute !"
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_WaterQualitySample1",
+    "texte": "Échantillon pour analyse de l'eau.\n\nLe lieu et la date du prélèvement\nsont inscrits sous le flacon."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_WaterQualitySample2",
+    "texte": "Échantillon pour analyse de l'eau.\n\nLa salinité varie selon les lieux\net les apports d'eau douce."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_PressureExperiment",
+    "texte": "La balle se déforme sous pression.\n\nPlus on descend dans l'eau,\nplus la pression augmente."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_HoennModel",
+    "texte": "Maquette de Hoenn.\n\nLe quartier des pompes tient\nsous l'ongle d'Armand."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_DeepSeawaterDisplay",
+    "texte": "Courants des profondeurs.\n\nLes différences de température\net de salinité déplacent l'eau."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_SurfaceSeawaterDisplay",
+    "texte": "Courants de surface.\n\nLe vent contribue à leur mouvement."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_SSTidalReplica",
+    "texte": "Le Marina. Maquette du ferry\nconstruit au chantier de Poupe.\n\nLes cabines sont encore vides."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_SubmarineReplica",
+    "texte": "Sous-marin d'exploration 1.\n\nUne étiquette indique la capacité\ndes batteries."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_SumbersibleReplica",
+    "texte": "Capsule submersible.\n\nDeux places. Un hublot."
+  },
+  {
+    "repere": "SlateportCity_OceanicMuseum_2F_Text_SSAnneReplica",
+    "texte": "L'Océane, paquebot de voyage.\n\nSur le modèle, les fenêtres des\ncabines sont toutes identiques."
+  },
+  {
+    "repere": "SlateportCity_SternsShipyard_1F_Text_CantMakeHeadsOrTails",
+    "texte": "Où va cette pièce ?\n\nLes deux plans ne donnent pas\nla même mesure."
+  },
+  {
+    "repere": "SlateportCity_SternsShipyard_1F_Text_MeetDockDeliverToStern",
+    "texte": "Je suis Archibald. Je conçois\nle ferry pour le capitaine Poupe.\n\nTu as le Pack Devon ?\nPoupe est sorti.\n\nVa le chercher pour lui remettre\nle colis en personne."
+  },
+  {
+    "repere": "SlateportCity_SternsShipyard_1F_Text_CouldYouFindStern",
+    "texte": "Le capitaine n'est pas ici.\n\nPourrais-tu le trouver et lui\nremettre le Pack Devon ?"
+  },
+  {
+    "repere": "SlateportCity_SternsShipyard_1F_Text_CouldUseAdviceFromVeteran",
+    "texte": "Les calculs ne suffisent pas\npour construire un bateau.\n\nIl me faudrait quelqu'un qui\nconnaisse les courants."
+  },
+  {
+    "repere": "SlateportCity_SternsShipyard_1F_Text_BrineyJoinedUs",
+    "texte": "Marco nous a rejoints.\n\nIl a corrigé deux mesures sur\nle plan du pont."
+  },
+  {
+    "repere": "SlateportCity_SternsShipyard_1F_Text_FerryIsReady",
+    "texte": "Le Marina est terminé !\n\nIl reste des choses à améliorer,\nmais le bateau peut naviguer."
+  },
+  {
+    "repere": "SlateportCity_SternsShipyard_1F_Text_DecidedToHelpDock",
+    "texte": "Marco. Ah, {PLAYER} !\n\nJ'aide Archibald à finir le ferry.\nIl pourra transporter plus de monde.\n\nOn a refait ensemble les plans\ndu pont et des amarres."
+  },
+  {
+    "repere": "SlateportCity_SternsShipyard_1F_Text_SeaIsLikeLivingThing",
+    "texte": "Le vent, les marées, les saisons...\n\nIl faut les prendre en compte\navant chaque départ."
+  },
+  {
+    "repere": "SlateportCity_SternsShipyard_1F_Text_GetSeasickEasily",
+    "texte": "J'ai facilement le mal de mer.\n\nJe préfère aider à terre."
+  },
+  {
+    "repere": "SlateportCity_SternsShipyard_2F_Text_ShipDesignMoreLikeBuilding",
+    "texte": "Construire un grand bateau,\nc'est aussi construire des pièces.\n\nIl faut prévoir où chacun dormira."
+  },
+  {
+    "repere": "SlateportCity_SternsShipyard_2F_Text_FloatsBecauseBuoyancy",
+    "texte": "Même en acier, un bateau flotte\ns'il déplace assez d'eau.\n\nC'est le principe de flottabilité."
+  },
+  {
+    "repere": "Route109_SeashoreHouse_Text_SeashoreHouseIntro",
+    "texte": "Je tiens la maison du bord de mer.\nOn m'appelle M. Mer.\n\nBats tous les Dresseurs d'ici.\nJe t'offrirai une récompense."
+  },
+  {
+    "repere": "Route109_SeashoreHouse_Text_ShowMeSomeHotMatches",
+    "texte": "Montre-moi de beaux combats.\n\nLes Dresseurs viennent ici pour ça."
+  },
+  {
+    "repere": "Route109_SeashoreHouse_Text_TakeTheseSodaPopBottles",
+    "texte": "Tu as battu tous les Dresseurs !\n\nTiens, six bouteilles de Soda Cool.\nElles sont pour tes Pokémon."
+  },
+  {
+    "repere": "Route109_SeashoreHouse_Text_BagFull",
+    "texte": "Ton sac est plein.\n\nJe garde les bouteilles au frais."
+  },
+  {
+    "repere": "Route109_SeashoreHouse_Text_WantToBuySodaPop",
+    "texte": "Une bouteille de Soda Cool\ncoûte 300¥.\n\nTu en veux une ?"
+  },
+  {
+    "repere": "Route109_SeashoreHouse_Text_HereYouGo",
+    "texte": "Voilà ta bouteille."
+  },
+  {
+    "repere": "Route109_SeashoreHouse_Text_NotEnoughMoney",
+    "texte": "Il te manque de l'argent."
+  },
+  {
+    "repere": "Route109_SeashoreHouse_Text_ThatsTooBad",
+    "texte": "D'accord, une autre fois."
+  },
+  {
+    "repere": "Route109_SeashoreHouse_Text_DwayneIntro",
+    "texte": "Je suis marin. Je m'entraîne ici\nentre deux traversées.\n\nPrêt pour un combat ?"
+  },
+  {
+    "repere": "Route109_SeashoreHouse_Text_DwayneDefeated",
+    "texte": "Bien joué, matelot.\nJe reconnais ma défaite."
+  },
+  {
+    "repere": "Route109_SeashoreHouse_Text_DwaynePostBattle",
+    "texte": "Je viens ici pour les combats\net le Soda Cool."
+  },
+  {
+    "repere": "Route109_SeashoreHouse_Text_JohannaIntro",
+    "texte": "Je veux un combat qui nous fasse\nprogresser, tous les deux."
+  },
+  {
+    "repere": "Route109_SeashoreHouse_Text_JohannaDefeated",
+    "texte": "Je n'ai pas vu le temps passer."
+  },
+  {
+    "repere": "Route109_SeashoreHouse_Text_JohannaPostBattle",
+    "texte": "J'ai soif. Je vais prendre\nun Soda Cool."
+  },
+  {
+    "repere": "Route109_SeashoreHouse_Text_SimonIntro",
+    "texte": "Regarde ce que mes Pokémon\nsavent faire !"
+  },
+  {
+    "repere": "Route109_SeashoreHouse_Text_SimonDefeated",
+    "texte": "J'ai perdu.\n\nJe ne vais pas pleurer."
+  },
+  {
+    "repere": "Route109_SeashoreHouse_Text_SimonPostBattle",
+    "texte": "Quand un Pokémon saura me porter\nsur l'eau, je rangerai ma bouée."
+  }
+]
