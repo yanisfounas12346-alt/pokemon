@@ -1,0 +1,134 @@
+[
+  {
+    "repere": "MauvilleCity_GameCorner_Text_ThisIsMauvilleGameCorner",
+    "texte": "Casino de Lavandia."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_NeedCoinCaseForCoins",
+    "texte": "Il faut une Boîte Jetons\npour ranger les jetons."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_WereYouLookingForCoins",
+    "texte": "Les 50 jetons coûtent 1000¥.\n\nCombien en voulez-vous ?"
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_ThankYouHereAreYourCoins",
+    "texte": "Voici vos jetons."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_DontHaveEnoughMoney",
+    "texte": "Vous n'avez pas assez d'argent."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_CoinCaseIsFull",
+    "texte": "Votre Boîte Jetons est pleine."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_DontNeedCoinsThen",
+    "texte": "Très bien. Bonne journée."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_ExchangeCoinsForPrizes",
+    "texte": "Les jetons peuvent être échangés\ncontre les objets de cette vitrine."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_WhichPrize",
+    "texte": "Quel objet souhaitez-vous ?"
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_SoYourChoiceIsTheTMX",
+    "texte": "Vous choisissez {STR_VAR_1}\n{STR_VAR_2} ?"
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_SendToYourHomePC",
+    "texte": "L'objet sera envoyé sur votre PC."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_NotEnoughCoins",
+    "texte": "Vous n'avez pas assez de jetons."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_NoRoomForPlacingDecor",
+    "texte": "Il n'y a plus de place pour\n{STR_VAR_1}."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_OhIsThatSo",
+    "texte": "Merci de votre visite."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_SoYourChoiceIsX",
+    "texte": "Vous choisissez {STR_VAR_1} ?"
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_HereYouGo",
+    "texte": "Voici votre objet."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_CantCarryAnyMore",
+    "texte": "Votre sac est plein."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_GotTwoOfSameDollWantOne",
+    "texte": "J'ai deux poupées identiques.\n\nTu veux prendre celle-ci ?"
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_HereYouGo2",
+    "texte": "Tiens, elle est à toi."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_YouWantItButNotNow",
+    "texte": "Tu la veux plus tard ?"
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_DontBeNegative",
+    "texte": "Je peux te la donner.\n\nJ'en ai déjà une à la maison."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_CantWinJackpot",
+    "texte": "Je voulais un prix de la vitrine.\n\nJ'ai dépensé plus que prévu."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_NeedCoinCaseGoNextDoor",
+    "texte": "Il faut une Boîte Jetons.\n\nLa femme de la maison voisine\nen a peut-être une."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_LuckOnlyLastSoLongTakeCoins",
+    "texte": "Je vais m'arrêter ici.\n\nTiens, prends les jetons qui restent."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_MauvilleSomethingForEveryone",
+    "texte": "Je viens ici après mon service.\n\nDehors, la nuit est déjà tombée."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_RouletteTablesDifferentRates",
+    "texte": "Les tables de roulette n'ont pas\ntoutes la même mise.\n\nLes tarifs sont affichés."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_EasyToLoseTrackOfTime",
+    "texte": "J'ai perdu la notion de l'heure.\n\nIl faut que je retourne travailler."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_CoinsAreNeededToPlay",
+    "texte": "Les machines utilisent des jetons."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_RouletteOnlyLuck",
+    "texte": "La roulette dépend du hasard.\n\nOn ne peut pas prévoir le résultat."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_UpTo3CoinsCanBeUsed",
+    "texte": "Ces machines acceptent jusqu'à\ntrois jetons par partie."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_DifficultToStopOn7",
+    "texte": "Le jeu bonus Reel Time peut\ndonner des jetons supplémentaires."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_HeresSomeSlotsInfo",
+    "texte": "Les machines affichent leurs règles.\n\nLes gains ne sont jamais garantis."
+  },
+  {
+    "repere": "MauvilleCity_GameCorner_Text_CantPlayWithNoCoinCase",
+    "texte": "Il faut une Boîte Jetons\npour utiliser les machines."
+  }
+]
