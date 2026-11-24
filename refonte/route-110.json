@@ -1,0 +1,190 @@
+[
+  {
+    "repere": "Route110_Text_WeCantTalkAboutAquaActivities",
+    "texte": "Les Marks ne donnent pas les détails\nde la mission avant le départ."
+  },
+  {
+    "repere": "Route110_Text_KickUpARuckus",
+    "texte": "J'aimerais retourner à Poivressel.\n\nOn y attend encore des nouvelles."
+  },
+  {
+    "repere": "Route110_Text_MyFirstJobInAqua",
+    "texte": "C'est ma première mission avec\nles Marks.\n\nJ'ai peur d'oublier une consigne."
+  },
+  {
+    "repere": "Route110_Text_AquaActionsBringSmiles",
+    "texte": "Quand les livraisons arriveront,\non pourra rouvrir le dispensaire."
+  },
+  {
+    "repere": "Route110_Text_MayLetsBattle",
+    "texte": "Flora. {PLAYER}, te voilà !\n\nMes Pokémon ont progressé depuis\nla dernière fois. Faisons un combat."
+  },
+  {
+    "repere": "Route110_Text_MayDefeated",
+    "texte": "Tu as bien entraîné ton équipe.\nJe n'avais pas prévu ça."
+  },
+  {
+    "repere": "Route110_Text_MayTakeThis",
+    "texte": "Flora. Tu as fait du chemin.\n\nTiens, j'ai un objet pour toi."
+  },
+  {
+    "repere": "Route110_Text_MayExplainItemfinder",
+    "texte": "C'est un Cherch'Objet.\n\nIl émet un son quand il détecte\nun objet caché près de toi.\n\nEssaie-le en chemin. À bientôt !"
+  },
+  {
+    "repere": "Route110_Text_BrendanLetsBattle",
+    "texte": "Brice. Ah, {PLAYER} !\n\nVoyons ce que ton équipe a appris\ndepuis notre dernier combat."
+  },
+  {
+    "repere": "Route110_Text_BrendanDefeated",
+    "texte": "Tu t'es bien entraîné.\nJe le vois."
+  },
+  {
+    "repere": "Route110_Text_BrendanTakeThis",
+    "texte": "Brice. Tu mérites bien ça.\n\nTiens, prends cet appareil."
+  },
+  {
+    "repere": "Route110_Text_BrendanExplainItemfinder",
+    "texte": "C'est un Cherch'Objet.\n\nIl signale les objets cachés\npar un son.\n\nJe vais poursuivre mes relevés."
+  },
+  {
+    "repere": "Route110_Text_RideBikeAtFullSpeed",
+    "texte": "J'aimerais rouler sur la piste\ncyclable sans avoir à m'arrêter."
+  },
+  {
+    "repere": "Route110_Text_HairStreamsBehindMe",
+    "texte": "J'ai laissé pousser mes cheveux.\n\nÀ vélo, je sens le vent dedans."
+  },
+  {
+    "repere": "Route110_Text_YouGotBikeFromRydel",
+    "texte": "C'est un vélo de Rodolphe !\n\nSon nom est peint sur le cadre,\nle garde-boue et même la selle.\n\nOn ne risque pas de l'oublier."
+  },
+  {
+    "repere": "Route110_Text_TwoRoads",
+    "texte": "Il y a deux routes superposées.\n\nLes vélos passent au-dessus.\nEn bas, on marche dans les herbes."
+  },
+  {
+    "repere": "Route110_Text_WalkOnTheLowRoad",
+    "texte": "Je n'ai pas de vélo.\n\nJe prends le chemin du dessous."
+  },
+  {
+    "repere": "Route110_Text_BikeTechniques",
+    "texte": "Avec certaines techniques à vélo,\non peut atteindre des endroits\n\nqui restent inaccessibles à pied."
+  },
+  {
+    "repere": "Route110_Text_WhichShouldIChoose",
+    "texte": "Je peux gagner Lavandia à vélo\npar la piste cyclable.\n\nOu prendre le chemin du bas\net observer les Pokémon."
+  },
+  {
+    "repere": "Route110_Text_CyclingChallengeResultSummary",
+    "texte": "Collisions : {STR_VAR_1}\nTemps total : {STR_VAR_2}"
+  },
+  {
+    "repere": "Route110_Text_ChallengeReactionBest",
+    "texte": "Excellent trajet !\n\nTu maîtrises très bien ton vélo."
+  },
+  {
+    "repere": "Route110_Text_ChallengeReactionGood",
+    "texte": "Bon trajet. Ralentis un peu\npour éviter les collisions."
+  },
+  {
+    "repere": "Route110_Text_ChallengeReactionOk",
+    "texte": "Tu progresses.\n\nPrends le temps de bien maîtriser\nles virages."
+  },
+  {
+    "repere": "Route110_Text_ChallengeReactionBad",
+    "texte": "Il te faut encore de la pratique.\n\nEssaie de mieux tenir ta trajectoire."
+  },
+  {
+    "repere": "Route110_Text_ChallengeReactionWorst",
+    "texte": "Le trajet a été difficile.\n\nEntraîne-toi à faible vitesse\navant de recommencer."
+  },
+  {
+    "repere": "Route110_Text_RatedForNumberOfCollisions",
+    "texte": "Avec le Vélo Course, descends\nla piste de Lavandia à Poivressel.\n\nOn mesurera ton temps\net le nombre de collisions."
+  },
+  {
+    "repere": "Route110_Text_AlwaysAimHigher",
+    "texte": "Tu peux tenter d'améliorer\nton résultat quand tu le voudras."
+  },
+  {
+    "repere": "Route110_Text_AcroBikesDoNotQualify",
+    "texte": "Le chronométrage est réservé\nau Vélo Course.\n\nLe Vélo Cross ne participe pas\nà cette épreuve."
+  },
+  {
+    "repere": "Route110_Text_SlateportCitySign",
+    "texte": "Route 110\n{DOWN_ARROW} Poivressel"
+  },
+  {
+    "repere": "Route110_Text_CyclingRoadSign",
+    "texte": "Piste cyclable du bord de mer."
+  },
+  {
+    "repere": "Route110_Text_AquaWasHere",
+    "texte": "Sur le panneau : Vive les Marks !\n\nQuelqu'un a peint par-dessus :\nLes Trumps paient le samedi."
+  },
+  {
+    "repere": "Route110_Text_Route103Sign",
+    "texte": "Route 110\n{LEFT_ARROW} Route 103"
+  },
+  {
+    "repere": "Route110_Text_SeasideParkingSign",
+    "texte": "Parking du bord de mer."
+  },
+  {
+    "repere": "Route110_Text_MauvilleCitySign",
+    "texte": "Route 110\n{UP_ARROW} Lavandia"
+  },
+  {
+    "repere": "Route110_Text_TrainerTipsPrlzSleep",
+    "texte": "Conseil aux Dresseurs.\n\nParalyser ou endormir un adversaire\npeut faciliter un combat."
+  },
+  {
+    "repere": "Route110_Text_TrainerTipsRegisterItems",
+    "texte": "Conseil aux Dresseurs.\n\nAppuie sur SELECT dans le sac\npour réorganiser les objets."
+  },
+  {
+    "repere": "Route110_Text_TrickHouseSign",
+    "texte": "Maison des Pièges.\n\nTrois pas {RIGHT_ARROW}, deux pas {UP_ARROW}."
+  },
+  {
+    "repere": "Route110_Text_BestRecord",
+    "texte": "Record de la piste cyclable.\n\nCollisions : {STR_VAR_1}\nTemps : {STR_VAR_2}"
+  },
+  {
+    "repere": "Route110_Text_ThereIsNoRecord",
+    "texte": "Record de la piste cyclable.\n\nAucun trajet enregistré."
+  },
+  {
+    "repere": "Route110_Text_ImagineSeeingYouHere",
+    "texte": "Seko. Ah, {PLAYER} !\n\nTu n'as pas vu {RIVAL} en chemin ?"
+  },
+  {
+    "repere": "Route110_Text_HeardYouInstallMatchCall",
+    "texte": "Vous voyagez séparément ?\n\nTon PokéNav a le Match Phone.\nJe vais enregistrer ton numéro.\n\nJe pourrai suivre tes relevés\nmême à distance."
+  },
+  {
+    "repere": "Route110_Text_RegisteredBirchInPokenav",
+    "texte": "Le professeur Seko est enregistré\ndans le PokéNav."
+  },
+  {
+    "repere": "Route110_Text_KeepAnEyeOutForRival",
+    "texte": "Si tu croises {RIVAL}, dis-lui\nque j'attends ses relevés.\n\nÀ bientôt, {PLAYER}."
+  },
+  {
+    "repere": "Route110_SeasideCyclingRoadNorthEntrance_Text_GoAllOutOnCyclingRoad",
+    "texte": "La piste est réservée aux vélos.\n\nAttention aux autres usagers."
+  },
+  {
+    "repere": "Route110_SeasideCyclingRoadNorthEntrance_Text_TooDangerousToWalk",
+    "texte": "Les piétons ne peuvent pas entrer.\n\nReviens avec un vélo."
+  },
+  {
+    "repere": "Route110_SeasideCyclingRoadSouthEntrance_Text_GoAllOutOnCyclingRoad",
+    "texte": "Tu peux rouler sur cette piste.\n\nReste attentif aux collisions."
+  },
+  {
+    "repere": "Route110_SeasideCyclingRoadSouthEntrance_Text_TooDangerousToWalk",
+    "texte": "Le passage à pied est interdit.\n\nIl te faut un vélo."
+  }
+]
