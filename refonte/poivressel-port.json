@@ -1,0 +1,402 @@
+[
+  {
+    "repere": "SlateportCity_Text_EnergyGuruSellWhatYouNeed",
+    "texte": "Je tiens le stand des fortifiants.\n\nRegarde ce dont tes Pokémon ont\nbesoin avant d'acheter."
+  },
+  {
+    "repere": "SlateportCity_Text_OhYourPokemon",
+    "texte": "Oh, ton {STR_VAR_1}...\nLaisse-moi voir sa fiche."
+  },
+  {
+    "repere": "SlateportCity_Text_PleaseGiveItThisEffortRibbon",
+    "texte": "Il a beaucoup travaillé.\n\nVoici un Ruban pour ton Pokémon."
+  },
+  {
+    "repere": "SlateportCity_Text_ReceivedEffortRibbon",
+    "texte": "{PLAYER} reçoit le Ruban !"
+  },
+  {
+    "repere": "SlateportCity_Text_PutEffortRibbonOnMon",
+    "texte": "{PLAYER} remet le Ruban\nà {STR_VAR_1}."
+  },
+  {
+    "repere": "SlateportCity_Text_GoForItLittleHarder",
+    "texte": "Il reste de l'entraînement à faire.\n\nReviens avec ton Pokémon plus tard."
+  },
+  {
+    "repere": "SlateportCity_Text_EffortRibbonLooksGoodOnIt",
+    "texte": "Ce Ruban va bien à {STR_VAR_1}.\n\nIl l'a mérité."
+  },
+  {
+    "repere": "SlateportCity_Text_WonderIfLighthouseStartlesPokemon",
+    "texte": "Le phare porte loin sur la mer.\n\nJe me demande si les Pokémon\ns'habituent à sa lumière."
+  },
+  {
+    "repere": "SlateportCity_Text_SeaweedFullOfLife",
+    "texte": "Ces algues sont encore fraîches.\n\nOn les a ramenées à l'aube."
+  },
+  {
+    "repere": "SlateportCity_Text_HowTownIsBornAndGrows",
+    "texte": "Quand l'eau est propre, les paniers\narrivent pleins au marché.\n\nQuand elle ne l'est plus, les mêmes\nétals restent ouverts à crédit."
+  },
+  {
+    "repere": "SlateportCity_Text_SlateportWonderfulPlace",
+    "texte": "J'aime faire mes achats au port.\n\nOn entend les bateaux derrière\nles marchands."
+  },
+  {
+    "repere": "SlateportCity_Text_BuyBricksSoDecorWontGetDirty",
+    "texte": "Je vais acheter des briques pour\nsurélever mes poupées et coussins.\n\nLe sol de la maison prend l'humidité."
+  },
+  {
+    "repere": "SlateportCity_Text_GoingToCompeteInBattleTent",
+    "texte": "Je veux participer à la Tente\n de Combat.\n\nIl me faut d'abord une équipe."
+  },
+  {
+    "repere": "SlateportCity_Text_BushedHikingFromMauville",
+    "texte": "Je viens de Lavandia à pied.\n\nJ'aurais dû prendre un vélo."
+  },
+  {
+    "repere": "SlateportCity_Text_EveryoneCallsHimCaptStern",
+    "texte": "Poupe a fondé le musée et dirige\nles explorations sous-marines.\n\nIci, on l'appelle le capitaine."
+  },
+  {
+    "repere": "SlateportCity_Text_WhatsLongLineOverThere",
+    "texte": "Pourquoi tant de monde devant\nle musée aujourd'hui ?"
+  },
+  {
+    "repere": "SlateportCity_Text_VisitedMuseumOften",
+    "texte": "Enfant, je venais voir les maquettes.\n\nJe cherchais toujours la cabine\noù j'aurais pu dormir."
+  },
+  {
+    "repere": "SlateportCity_Text_QuitPushing",
+    "texte": "Ne pousse pas !\n\nOn attend tous depuis ce matin."
+  },
+  {
+    "repere": "SlateportCity_Text_BossIsBrilliant",
+    "texte": "Arthur a demandé qu'on vienne ici.\n\nJe ne sais pas encore ce qu'il\nattend du musée."
+  },
+  {
+    "repere": "SlateportCity_Text_WhatsNewSchemeIWonder",
+    "texte": "On ne nous a pas donné la suite\ndes consignes.\n\nJ'espère que le chef arrivera vite."
+  },
+  {
+    "repere": "SlateportCity_Text_ShouldTakeItAll",
+    "texte": "Il y a sûrement du matériel utile\nau musée.\n\nReste à savoir ce qu'on emporte."
+  },
+  {
+    "repere": "SlateportCity_Text_DontButtIn",
+    "texte": "Hé ! La queue commence derrière."
+  },
+  {
+    "repere": "SlateportCity_Text_RemindsMeOfLongLineForGames",
+    "texte": "J'ai attendu dans des files comme\ncelle-ci pour acheter des jeux.\n\nOn avançait à peine plus vite."
+  },
+  {
+    "repere": "SlateportCity_Text_WhyAreWeLiningUp",
+    "texte": "Pourquoi faut-il payer pour entrer ?\n\nOn vient chercher du matériel."
+  },
+  {
+    "repere": "SlateportCity_Text_WhatDoYouWant",
+    "texte": "Tu veux quelque chose ?"
+  },
+  {
+    "repere": "SlateportCity_Text_IllReadSignForYou",
+    "texte": "Tu veux lire le panneau ?\nJe vais te le lire."
+  },
+  {
+    "repere": "SlateportCity_Text_SaysSomethingLikeSeaIsEndless",
+    "texte": "Il est question de la mer\net des êtres qui y vivent.\n\nLes petits caractères sont effacés."
+  },
+  {
+    "repere": "SlateportCity_Text_ShouldveBroughtMyGameBoy",
+    "texte": "J'aurais dû apporter ma Game Boy.\n\nLa file n'avance plus."
+  },
+  {
+    "repere": "SlateportCity_Text_HotSpringsAfterOperation",
+    "texte": "Après cette mission, on doit aller\naux sources chaudes.\n\nJ'ai déjà mis une serviette au sac."
+  },
+  {
+    "repere": "SlateportCity_Text_SeaIsSoWet",
+    "texte": "La mer est immense.\n\nJe me demande combien de seaux\nil faudrait pour en mesurer le sel."
+  },
+  {
+    "repere": "SlateportCity_Text_SinkOldBoats",
+    "texte": "On immerge parfois les vieux bateaux\npour abriter les Pokémon marins.\n\nIl faut d'abord retirer ce qui\npourrait salir l'eau."
+  },
+  {
+    "repere": "SlateportCity_Text_BuyTooMuch",
+    "texte": "Je viens avec une liste.\n\nJe repars toujours avec un panier\nplus lourd que prévu."
+  },
+  {
+    "repere": "SlateportCity_Text_GetNameRaterToHelpYou",
+    "texte": "Pour changer un surnom de Pokémon,\nva voir le spécialiste des noms."
+  },
+  {
+    "repere": "SlateportCity_Text_CantChangeTradeMonName",
+    "texte": "Un Pokémon échangé garde le nom\nque lui a donné son ancien Dresseur."
+  },
+  {
+    "repere": "SlateportCity_Text_BattleTentBuiltRecently",
+    "texte": "La Tente de Combat vient d'ouvrir.\n\nSes règles diffèrent des arènes.\nVa te renseigner à l'accueil."
+  },
+  {
+    "repere": "SlateportCity_Text_CaptSternBeingInterviewed",
+    "texte": "C'est Poupe devant les caméras !\n\nJe croyais qu'il était encore en mer."
+  },
+  {
+    "repere": "SlateportCity_Text_InterviewerSoCool",
+    "texte": "La journaliste pose des questions\nsans regarder son cahier.\n\nJe voudrais faire ce métier."
+  },
+  {
+    "repere": "SlateportCity_Text_SternSaysDiscoveredSomething",
+    "texte": "Poupe dit avoir trouvé quelque chose\nau fond de la mer.\n\nIl n'a pas encore dit quoi."
+  },
+  {
+    "repere": "SlateportCity_Text_CaptainComeBackWithBigFish",
+    "texte": "Le capitaine est revenu du large.\n\nTout le port attend des nouvelles."
+  },
+  {
+    "repere": "SlateportCity_Text_AmIOnTV",
+    "texte": "Tu crois qu'on me voit à l'écran ?"
+  },
+  {
+    "repere": "SlateportCity_Text_CaptainsACelebrity",
+    "texte": "Poupe passe à la télévision !\n\nDemain, on en parlera aux ateliers."
+  },
+  {
+    "repere": "SlateportCity_Text_BigSmileForCamera",
+    "texte": "Guy. Capitaine, regardez par ici.\nUn sourire pour la caméra !"
+  },
+  {
+    "repere": "SlateportCity_Text_MostInvaluableExperience",
+    "texte": "Inès. Vos observations sont donc\nprécieuses pour les recherches ?"
+  },
+  {
+    "repere": "SlateportCity_Text_SternMoveAheadWithExploration",
+    "texte": "Poupe. Oui. Nous allons poursuivre\nles relevés sous-marins."
+  },
+  {
+    "repere": "SlateportCity_Text_GabbyWonderfulThanksForInterview",
+    "texte": "Inès. Merci, capitaine Poupe.\n\nNous reviendrons quand vous aurez\nde nouvelles observations."
+  },
+  {
+    "repere": "SlateportCity_Text_SternWhewFirstInterview",
+    "texte": "Poupe essuie son front.\n\nC'était ma première interview.\nJe préfère encore le sous-marin."
+  },
+  {
+    "repere": "SlateportCity_Text_OhPlayerWeMadeDiscovery",
+    "texte": "Ah, {PLAYER} ! Nous avons trouvé\nune grotte sous le chenal 128.\n\nUn Pokémon qu'on croyait disparu\npourrait y vivre."
+  },
+  {
+    "repere": "SlateportCity_Text_SternWhatWasAllThat",
+    "texte": "Poupe tourne la tête.\n\nCette voix venait d'un haut-parleur.\nMais lequel ?"
+  },
+  {
+    "repere": "SlateportCity_Text_FromHarborTryingToTakeSub",
+    "texte": "Ça vient de l'embarcadère !\n\nIls essaient de prendre le sous-marin !"
+  },
+  {
+    "repere": "SlateportCity_Text_PleaseComeWithMe",
+    "texte": "Viens avec moi, {PLAYER} !"
+  },
+  {
+    "repere": "SlateportCity_Text_BattleTentSign",
+    "texte": "Tente de Combat de Poivressel.\n\nInscriptions à l'accueil."
+  },
+  {
+    "repere": "SlateportCity_Text_SternsShipyardWantedSign",
+    "texte": "Chantier naval de Poupe.\n\nRecherche marin expérimenté."
+  },
+  {
+    "repere": "SlateportCity_Text_SternsShipyardNearsCompletion",
+    "texte": "Chantier naval de Poupe.\n\nLe Marina reliera Poivressel\net Nénucrique. Travaux en cours."
+  },
+  {
+    "repere": "SlateportCity_Text_SternsShipyardFerryComplete",
+    "texte": "Chantier naval de Poupe.\n\nLe Marina est en service.\nEmbarquement au port."
+  },
+  {
+    "repere": "SlateportCity_Text_PokemonFanClubSign",
+    "texte": "Fan Club Pokémon.\n\nLes visiteurs sont les bienvenus."
+  },
+  {
+    "repere": "SlateportCity_Text_OceanicMuseumSign",
+    "texte": "Musée océanographique.\n\nLa mer nourrit les deux rives."
+  },
+  {
+    "repere": "SlateportCity_Text_CitySign",
+    "texte": "Poivressel. Quartier des quais.\n\nLivraisons du matin au soir."
+  },
+  {
+    "repere": "SlateportCity_Text_MarketSign",
+    "texte": "Marché de Poivressel.\n\nLes prix sont affichés aux étals."
+  },
+  {
+    "repere": "SlateportCity_Text_HarborFerryUnderConstruction",
+    "texte": "Embarcadère de Poivressel.\n\nLe ferry Marina est en construction."
+  },
+  {
+    "repere": "SlateportCity_Text_HarborSign",
+    "texte": "Embarcadère de Poivressel.\n\nDéparts du Marina au guichet."
+  },
+  {
+    "repere": "SlateportCity_Text_NameRatersHouseSign",
+    "texte": "Spécialiste des noms.\n\nConseil en surnoms de Pokémon."
+  },
+  {
+    "repere": "SlateportCity_Text_ExplainBerries",
+    "texte": "Les Pokémon se soignent avec\ncertaines Baies sauvages.\n\nOn peut les broyer pour fabriquer\ndes médicaments.\n\nTiens, j'ai quelque chose pour toi."
+  },
+  {
+    "repere": "SlateportCity_Text_ExplainBerryPowder",
+    "texte": "Les Centres Pokémon ont des\nbroyeurs dans la salle Link Direct.\n\nRapporte-moi de la Poudre Baie.\nJe pourrai préparer des remèdes."
+  },
+  {
+    "repere": "SlateportCity_Text_BroughtMeSomeBerryPowder",
+    "texte": "Tu m'as rapporté de la Poudre Baie ?"
+  },
+  {
+    "repere": "SlateportCity_Text_ExchangeWhatWithIt",
+    "texte": "Contre quoi veux-tu l'échanger ?"
+  },
+  {
+    "repere": "SlateportCity_Text_ExchangeBerryPowderForItem",
+    "texte": "Je te donne 1 {STR_VAR_1}\ncontre la Poudre Baie."
+  },
+  {
+    "repere": "SlateportCity_Text_DontHaveEnoughBerryPowder",
+    "texte": "Il te manque de la Poudre Baie\npour cet échange."
+  },
+  {
+    "repere": "SlateportCity_Text_FineBerryPowderTradeSomethingElse",
+    "texte": "Cette poudre est de bonne qualité.\n\nVeux-tu échanger le reste\ncontre autre chose ?"
+  },
+  {
+    "repere": "SlateportCity_Text_WhenYouGetMoreBringItToMe",
+    "texte": "Reviens quand tu en auras davantage."
+  },
+  {
+    "repere": "SlateportCity_Text_ComeBackToTradeBerryPowder",
+    "texte": "Je suis toujours au marché.\n\nRapporte de la Poudre Baie\nsi tu veux d'autres remèdes."
+  },
+  {
+    "repere": "SlateportCity_Text_YouDroveTeamAquaAway",
+    "texte": "Scott. On s'est déjà rencontrés.\n\nJ'ai vu les Marks quitter le musée.\nC'est toi qui les as fait partir ?"
+  },
+  {
+    "repere": "SlateportCity_Text_MaybeThisTrainer",
+    "texte": "Scott examine sa liste de noms.\n\nIl sort un crayon."
+  },
+  {
+    "repere": "SlateportCity_Text_LetsRegisterEachOther",
+    "texte": "Échangeons nos numéros de PokéNav.\n\nJ'aimerais suivre tes progrès."
+  },
+  {
+    "repere": "SlateportCity_Text_RegisteredScott",
+    "texte": "Scott est enregistré\ndans le PokéNav."
+  },
+  {
+    "repere": "SlateportCity_Text_KeepEyeOnTrainersBeSeeingYou",
+    "texte": "Je vais continuer mes recherches\ndans les autres villes.\n\nÀ bientôt, {PLAYER}."
+  },
+  {
+    "repere": "SlateportCity_Text_TakingBattleTentChallenge",
+    "texte": "Scott. Tu viens essayer la Tente\nde Combat, {PLAYER} ?\n\nLes bons Dresseurs y apprennent\nbeaucoup. Bonne chance !"
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_FerryServiceUnavailable",
+    "texte": "Le ferry n'est pas encore en service.\n\nDésolée, il faut attendre."
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_MayISeeYourTicket",
+    "texte": "Bonjour. Pour le ferry ?\nPuis-je voir votre Passe Bateau ?"
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_YouMustHaveTicket",
+    "texte": "{PLAYER} n'a pas de Passe Bateau.\n\nIl en faut un pour embarquer."
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_FlashedTicketWhereTo",
+    "texte": "{PLAYER} présente son Passe Bateau.\n\nTout est en règle.\nQuelle est votre destination ?"
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_SailAnotherTime",
+    "texte": "Revenez quand vous le souhaitez."
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_LilycoveItIs",
+    "texte": "Destination Nénucrique.\n\nVous confirmez ?"
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_BattleFrontierItIs",
+    "texte": "Destination Zone de Combat.\n\nVous confirmez ?"
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_PleaseBoardFerry",
+    "texte": "Veuillez monter à bord\net attendre le départ."
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_WhereWouldYouLikeToGo",
+    "texte": "Quelle est votre destination ?"
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_LoveToGoDeepUnderwaterSomeday",
+    "texte": "Je voudrais voir le fond de la mer.\n\nPour l'instant, je ne connais\nque les cartes du capitaine."
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_AbnormalWeather",
+    "texte": "Avant de partir, on consulte\nles bulletins du Centre Météo.\n\nOn nous signale des anomalies\nimportantes un peu partout.\n\nVa au Centre Météo te renseigner."
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_SubTooSmallForMe",
+    "texte": "Je voulais partir avec Poupe.\n\nIl n'y avait pas de place pour moi\ndans le sous-marin."
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_SameThugsTriedToRobAtMuseum",
+    "texte": "Poupe. Ce sont les mêmes Marks\nqui voulaient le colis au musée."
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_TeamAquaLeftNeedDive",
+    "texte": "Ils sont partis sous l'eau.\n\nPour les suivre, il faudrait un\nPokémon connaissant Plongée.\n\nÀ Algatia, des plongeurs pourront\npeut-être t'aider."
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_NeedDiveToCatchSub",
+    "texte": "Un bateau ne rattrapera pas\nce sous-marin.\n\nIl faut apprendre Plongée.\nRenseigne-toi à Algatia."
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_WontBeLongBeforeWeFinishFerry",
+    "texte": "Marco est venu au chantier.\n\nAvec lui, le ferry devrait bientôt\nêtre prêt."
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_FinishedMakingFerry",
+    "texte": "Le Marina est enfin prêt !\n\nMarco nous a beaucoup aidés.\nTu peux maintenant embarquer."
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_WouldYouTradeScanner",
+    "texte": "Tu as un Scanner !\n\nVeux-tu l'échanger contre une\nDent Océan ou une Écailleocéan ?"
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_IfYouWantToTradeLetMeKnow",
+    "texte": "Tu préfères le garder ? D'accord.\n\nReviens si tu changes d'avis."
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_TradeForDeepSeaTooth",
+    "texte": "Tu veux l'échanger contre\nla Dent Océan ?"
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_TradeForDeepSeaScale",
+    "texte": "Tu veux l'échanger contre\nl'Écailleocéan ?"
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_WhichOneDoYouWant",
+    "texte": "Lequel veux-tu ?"
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_HandedScannerToStern",
+    "texte": "{PLAYER} remet le Scanner\nau capitaine Poupe."
+  },
+  {
+    "repere": "SlateportCity_Harbor_Text_ThisWillHelpResearch",
+    "texte": "Merci. Nous pourrons reprendre\nles relevés avec cet appareil."
+  }
+]
