@@ -1,0 +1,106 @@
+[
+  {
+    "repere": "Route114_Text_AllMyMonDoesIsRoarTakeThis",
+    "texte": "Mon Pokémon hurle dès qu'on approche.\n\nTiens, prends cette CT.\nElle contient Hurlement."
+  },
+  {
+    "repere": "Route114_Text_ExplainRoar",
+    "texte": "La CT05 contient Hurlement.\n\nElle force un Pokémon adverse\nà quitter le terrain."
+  },
+  {
+    "repere": "Route114_Text_Poochyena",
+    "texte": "Bouh ! Bouhou !"
+  },
+  {
+    "repere": "Route114_Text_MeteorFallsSign",
+    "texte": "Site Météore.\nVers Mérouville."
+  },
+  {
+    "repere": "Route114_Text_FossilManiacsHouseSign",
+    "texte": "Maison du collectionneur de fossiles.\n\nEntrée libre."
+  },
+  {
+    "repere": "Route114_Text_LanettesHouse",
+    "texte": "Maison d'Annette."
+  },
+  {
+    "repere": "Route114_FossilManiacsHouse_Text_HaveThisToDigLikeMyBrother",
+    "texte": "Mon frère collectionne les fossiles.\n\nIl a creusé lui-même cette galerie.\nTiens, je te donne la CT Tunnel."
+  },
+  {
+    "repere": "Route114_FossilManiacsHouse_Text_DigReturnsYouToEntrance",
+    "texte": "Dans une grotte, utilise Tunnel\npour revenir à l'entrée."
+  },
+  {
+    "repere": "Route114_FossilManiacsHouse_Text_RocksFillDisplayCase",
+    "texte": "Des pierres de formes étranges.\n\nChaque étiquette donne la profondeur\nà laquelle on les a trouvées."
+  },
+  {
+    "repere": "Route114_FossilManiacsHouse_Text_CrammedWithBooks",
+    "texte": "Livres sur les couches de roche,\nla pluie et l'érosion.\n\nDes notes débordent des pages."
+  },
+  {
+    "repere": "Route114_FossilManiacsTunnel_Text_LookInDesertForFossils",
+    "texte": "Je collectionne les fossiles.\n\nCeux d'ici sont déjà rangés\ndans mes vitrines.\n\nCherche dans le désert. Il en reste\npeut-être sous le sable."
+  },
+  {
+    "repere": "Route114_FossilManiacsTunnel_Text_DevonCorpRevivingFossils",
+    "texte": "Tu as trouvé un fossile ?\n\nLa Devon sait faire revivre\nles Pokémon fossilisés.\n\nMoi, je préfère garder les pierres\ncomme je les ai trouvées."
+  },
+  {
+    "repere": "Route114_FossilManiacsTunnel_Text_FossilsAreWonderful",
+    "texte": "Une empreinte dans la pierre.\n\nIl y a longtemps, quelqu'un\nmarchait ici."
+  },
+  {
+    "repere": "Route114_FossilManiacsTunnel_Text_NotSafeThatWay",
+    "texte": "Le mur s'est effondré pendant\nque je creusais.\n\nIl y a une grande cavité derrière.\nJe n'ai pas osé y entrer."
+  },
+  {
+    "repere": "Route114_LanettesHouse_Text_EverythingClutteredKeepThis",
+    "texte": "Annette. Bonjour, {PLAYER} !\n\nExcuse le désordre. J'ai passé\nla nuit à vérifier mes données.\n\nTiens, garde ça en souvenir."
+  },
+  {
+    "repere": "Route114_LanettesHouse_Text_OrganizeYourBoxes",
+    "texte": "Tu peux organiser les boîtes\npour retrouver tes Pokémon.\n\nDonne à chacune un nom utile."
+  },
+  {
+    "repere": "Route114_LanettesHouse_Text_ResearchNotesPage1",
+    "texte": "Notes d'Annette.\n\nPrévoir 30 Pokémon par boîte.\nQuatorze boîtes, soit 420 places.\n\nContinuer à lire ?"
+  },
+  {
+    "repere": "Route114_LanettesHouse_Text_ResearchNotesPage2",
+    "texte": "Ajouter des marques de classement.\n\nPermettre de modifier le nom\net le fond de chaque boîte.\n\nContinuer à lire ?"
+  },
+  {
+    "repere": "Route114_LanettesHouse_Text_ResearchNotesPage3",
+    "texte": "Tout nouveau Pokémon rejoint\nla dernière boîte ouverte.\n\nSi elle est pleine, le système\nl'envoie dans la suivante."
+  },
+  {
+    "repere": "Route114_LanettesHouse_Text_ClosedTheNotebook",
+    "texte": "{PLAYER} ferme le cahier."
+  },
+  {
+    "repere": "Route114_LanettesHouse_Text_EmailFromBill",
+    "texte": "Un message de Léo.\n\nTon système est plus simple à\nutiliser que mon ancien programme.\n\nJe suis heureux d'avoir participé.\nContinue tes recherches.\n\nLéo."
+  },
+  {
+    "repere": "MeteorFalls_1F_1R_Text_ArchieSeenYouBefore",
+    "texte": "Arthur. On s'est vus au musée.\n\nAlors, tu t'appelles {PLAYER}.\n\nLes Trumps veulent gagner des\nterrains sur la mer.\n\nNous ne les laisserons pas décider\nseuls de ce qui sera englouti."
+  },
+  {
+    "repere": "MeteorFalls_1F_1R_Text_BossWeShouldChaseMagma",
+    "texte": "Chef, il faut les suivre.\n\nIls ont emporté la météorite."
+  },
+  {
+    "repere": "MeteorFalls_1F_1R_Text_ArchieFarewell",
+    "texte": "Arthur. Garde un oeil sur les Trumps,\n{PLAYER}.\n\nNous partons vers le Mont Chimnée."
+  },
+  {
+    "repere": "MeteorFalls_1F_1R_Text_MeetProfCozmo",
+    "texte": "Je suis Kosmo, le professeur.\n\nLes Trumps m'ont demandé de leur\nmontrer le gisement.\n\nIls ont pris la météorite.\nPuis les Marks sont arrivés.\n\nQue veulent-ils en faire\nau Mont Chimnée ?"
+  },
+  {
+    "repere": "MeteorFalls_1F_1R_Text_WhatsTeamMagmaDoingAtMtChimney",
+    "texte": "Kosmo. Que comptent faire les Trumps\navec la météorite au Mont Chimnée ?"
+  }
+]
