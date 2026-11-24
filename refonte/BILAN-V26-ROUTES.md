@@ -1,0 +1,7 @@
+# V26 — routes et lieux
+
+Sur la V25 locale (CRC32 65800176), seize compositions originales à cinq pistes et 24 mesures ont été intégrées en réaffectant les entrées M4A d'origine 359, 360, 361, 401, 402, 409, 418, 365, 411, 366, 406, 432, 430, 429, 433 et 408. Les routes partageant un identifiant conservent un thème commun ; les scènes et cartes qui emploient ces mêmes identifiants sont également concernées. Les nouvelles affectations spécifiques des cercles V24 et le sélecteur des combats V25 sont inchangés.
+
+Thèmes : Les pas du merle, Les faubourgs, Le chemin des pluies, Les haies du clos, Les hautes herbes, La poussière, Les cendres, Les rives, Sous les eaux, Les galeries, Le treuil, Les noms effacés, Les entrepôts, Le dernier passage, Le quai des enfants, Les vitrines.
+
+CRC32 cible 75204B25 ; UPS 440829 octets ; SHA256 7ffc08279464616122c6e42bc369ea165e0a2277756f87a1d9bc743092932c71. Application et inversion UPS octet par octet contrôlées, reconstruction depuis V25 limitée aux séquences ajoutées et seize pointeurs. Les seize morceaux ont produit des captures non silencieuses sur mGBA à partir de copies de diagnostic jouant chaque musique à l'écran-titre, avec extraits de 20 secondes. Ce n'est pas un parcours réel des cartes, ni une validation de la qualité artistique ou des boucles complètes. Le total est de 42 compositions intégrées, sans remplacement exhaustif de toutes les musiques et fanfares du jeu. Les fichiers musicaux et patch sont fournis localement au propriétaire ; aucune ROM publiée sur le dépôt.
