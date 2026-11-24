@@ -1,0 +1,350 @@
+[
+  {
+    "repere": "SeafloorCavern_Entrance_Text_HearMagmaNearMossdeep",
+    "texte": "Je te reconnais. Tu suis les Marks.\n\nOn a aperçu les Trumps près\nd'Algatia. Ils cherchent autre chose."
+  },
+  {
+    "repere": "SeafloorCavern_Entrance_Text_HearMagmaNearMossdeepShort",
+    "texte": "Les Trumps sont près d'Algatia.\n\nTu devrais aller voir là-bas."
+  },
+  {
+    "repere": "SeafloorCavern_Room1_Text_Grunt1Intro",
+    "texte": "On nous a demandé de garder\nl'entrée de cette grotte."
+  },
+  {
+    "repere": "SeafloorCavern_Room1_Text_Grunt1Defeat",
+    "texte": "Je voudrais rentrer."
+  },
+  {
+    "repere": "SeafloorCavern_Room1_Text_Grunt1PostBattle",
+    "texte": "J'attendais une promotion.\n\nJe ne sais plus à quoi elle servirait."
+  },
+  {
+    "repere": "SeafloorCavern_Room1_Text_Grunt2Intro",
+    "texte": "Le sous-marin était trop étroit.\n\nJ'ai encore mal aux épaules."
+  },
+  {
+    "repere": "SeafloorCavern_Room1_Text_Grunt2Defeat",
+    "texte": "Je n'ai pas réussi à te retenir."
+  },
+  {
+    "repere": "SeafloorCavern_Room1_Text_Grunt2PostBattle",
+    "texte": "Le sous-marin de Poivressel\nn'était pas prévu pour autant de gens."
+  },
+  {
+    "repere": "SeafloorCavern_Room3_Text_ShellyIntro",
+    "texte": "Tu as trouvé la grotte sans bateau.\n\nDepuis le Centre Météo, je savais\nque tu reviendrais.\n\nCette fois, je garde le passage."
+  },
+  {
+    "repere": "SeafloorCavern_Room3_Text_ShellyDefeat",
+    "texte": "Tu as encore gagné."
+  },
+  {
+    "repere": "SeafloorCavern_Room3_Text_ShellyPostBattle",
+    "texte": "Arthur nous a promis un autre monde.\n\nJe ne sais pas si tu aurais voulu\ny vivre."
+  },
+  {
+    "repere": "SeafloorCavern_Room3_Text_Grunt5Intro",
+    "texte": "On nous a dit que les Pokémon\npourraient rendre l'eau aux champs.\n\nPourquoi veux-tu nous arrêter ?"
+  },
+  {
+    "repere": "SeafloorCavern_Room3_Text_Grunt5Defeat",
+    "texte": "Je ne peux plus continuer."
+  },
+  {
+    "repere": "SeafloorCavern_Room3_Text_Grunt5PostBattle",
+    "texte": "Je n'ai jamais demandé à Arthur\nce qui arriverait aux maisons\n\nconstruites au bord de la mer."
+  },
+  {
+    "repere": "SeafloorCavern_Room4_Text_Grunt3Intro",
+    "texte": "Comment as-tu trouvé le passage ?"
+  },
+  {
+    "repere": "SeafloorCavern_Room4_Text_Grunt3Defeat",
+    "texte": "Je me suis trompé."
+  },
+  {
+    "repere": "SeafloorCavern_Room4_Text_Grunt3PostBattle",
+    "texte": "Je ne retrouve plus la sortie.\n\nLes couloirs se ressemblent."
+  },
+  {
+    "repere": "SeafloorCavern_Room4_Text_Grunt4Intro",
+    "texte": "Tu n'es pas de notre équipe."
+  },
+  {
+    "repere": "SeafloorCavern_Room4_Text_Grunt4Defeat",
+    "texte": "Tu peux passer."
+  },
+  {
+    "repere": "SeafloorCavern_Room4_Text_Grunt4PostBattle",
+    "texte": "La carte est restée dans le bateau.\n\nPersonne ne veut retourner la chercher."
+  },
+  {
+    "repere": "SeafloorCavern_Room9_Text_ArchieHoldItRightThere",
+    "texte": "Arthur. Attends !"
+  },
+  {
+    "repere": "SeafloorCavern_Room9_Text_ArchieSoItWasYou",
+    "texte": "Arthur. C'était donc toi."
+  },
+  {
+    "repere": "SeafloorCavern_Room9_Text_ArchieYouMustDisappear",
+    "texte": "Tu as fait tout ce chemin.\n\nJe ne peux pas te laisser\ninterrompre ce que j'ai commencé."
+  },
+  {
+    "repere": "SeafloorCavern_Room9_Text_ArchieDefeat",
+    "texte": "Tu m'as battu..."
+  },
+  {
+    "repere": "SeafloorCavern_Room9_Text_RedOrbShinesByItself",
+    "texte": "L'Orbe Rouge se met à briller\nsans que personne le touche."
+  },
+  {
+    "repere": "SeafloorCavern_Room9_Text_ArchieWhereDidKyogreGo",
+    "texte": "Arthur. Je n'ai rien fait.\n\nPourquoi l'Orbe s'est-il allumé ?\nOù est Kyogre ?"
+  },
+  {
+    "repere": "SeafloorCavern_Room9_Text_ArchieAMessageFromOutside",
+    "texte": "Arthur. Un appel de l'équipe\nrestée à la surface."
+  },
+  {
+    "repere": "SeafloorCavern_Room9_Text_ArchieWhyDidKyogreDisappear",
+    "texte": "L'Orbe devait me permettre\nde lui donner des ordres.\n\nIl est parti sans m'écouter."
+  },
+  {
+    "repere": "SeafloorCavern_Room9_Text_MaxieWeDontHaveTimeToArgue",
+    "texte": "Max. Remontons à la surface.\n\nTu verras ce qui se passe."
+  },
+  {
+    "repere": "SeafloorCavern_Room9_Text_MaxieComeOnPlayer",
+    "texte": "Max. Viens, {PLAYER}.\n\nNous devons quitter cette grotte."
+  },
+  {
+    "repere": "Underwater_SeafloorCavern_Text_SubExplorer1",
+    "texte": "Sur la coque : Exploration 1.\n\nC'est le sous-marin de Poivressel.\nLes Marks sont arrivés jusqu'ici."
+  },
+  {
+    "repere": "CaveOfOrigin_B1F_Text_WhereIsRayquaza",
+    "texte": "Marc. {PLAYER}, sais-tu où trouver\nRayquaza ?"
+  },
+  {
+    "repere": "CaveOfOrigin_B1F_Text_ButWereInCaveOfOrigin",
+    "texte": "La Grotte Origine ? Nous y sommes.\n\nIl faut chercher ailleurs."
+  },
+  {
+    "repere": "CaveOfOrigin_B1F_Text_OldLadyDidntMentionThat",
+    "texte": "Au Mont Mémoria ?\n\nLa gardienne ne m'en a pas parlé.\nEssaie de te souvenir."
+  },
+  {
+    "repere": "CaveOfOrigin_B1F_Text_CantYouRememberSomehow",
+    "texte": "Tu ne sais plus ?\n\nRepense aux gens que tu as croisés."
+  },
+  {
+    "repere": "CaveOfOrigin_B1F_Text_WellHeadToSkyPillar",
+    "texte": "Le Pilier Céleste ! C'est possible.\n\nAllons-y sans attendre."
+  },
+  {
+    "repere": "SkyPillar_Outside_Text_DoorIsClosed",
+    "texte": "La porte est fermée."
+  },
+  {
+    "repere": "SkyPillar_Outside_Text_OpenedDoorToSkyPillar",
+    "texte": "Marc. Je suis arrivé avant toi.\n\nJ'ai ouvert le Pilier Céleste.\nAllons-y, {PLAYER}."
+  },
+  {
+    "repere": "SkyPillar_Outside_Text_EarthquakeNotMomentToWaste",
+    "texte": "Le sol tremble !\n\nIl faut nous hâter."
+  },
+  {
+    "repere": "SkyPillar_Outside_Text_SituationGettingWorse",
+    "texte": "Marc. Le temps se dégrade encore."
+  },
+  {
+    "repere": "SkyPillar_Outside_Text_GotToGoBackForSootopolis",
+    "texte": "Les effets se font sentir jusqu'ici.\n\nRayquaza doit être plus haut.\nJe retourne à Atalanopolis.\n\nJe compte sur toi, {PLAYER}."
+  },
+  {
+    "repere": "SootopolisCity_Text_GymSign",
+    "texte": "Arène d'Atalanopolis.\nChampion : Juan.\n\nRegistre des eaux, huitième pièce."
+  },
+  {
+    "repere": "SootopolisCity_Text_CitySign",
+    "texte": "Atalanopolis. Quartier du cratère."
+  },
+  {
+    "repere": "SootopolisCity_Text_DoorIsClosed",
+    "texte": "La porte est fermée."
+  },
+  {
+    "repere": "SootopolisCity_Text_PhysicallyFitLivingHere",
+    "texte": "Ici, on monte des escaliers\npour aller chercher son pain.\n\nOn finit par ne plus les compter."
+  },
+  {
+    "repere": "SootopolisCity_Text_GiantPokemonSuddenlyAppeared",
+    "texte": "Ils sont apparus au milieu de l'eau.\n\nLes bateaux ont quitté le bassin."
+  },
+  {
+    "repere": "SootopolisCity_Text_WhatIsThatGreenPokemon",
+    "texte": "Regarde ! Un Pokémon vert\ndescend du ciel !"
+  },
+  {
+    "repere": "SootopolisCity_Text_WhereDidLegendariesGo",
+    "texte": "Groudon et Kyogre sont partis.\n\nJ'espère qu'ils ne feront pas\nd'autres dégâts ailleurs."
+  },
+  {
+    "repere": "SootopolisCity_Text_TwoPokemonArentAngry",
+    "texte": "Ils ne semblent pas en colère.\n\nOn dirait qu'ils ne savent plus\narrêter leur propre puissance."
+  },
+  {
+    "repere": "SootopolisCity_Text_FlyingMonStoppedRampage",
+    "texte": "Le Pokémon du ciel les a arrêtés.\n\nLe bassin est redevenu calme."
+  },
+  {
+    "repere": "SootopolisCity_Text_WonderWhatWorldIsLike",
+    "texte": "Je n'ai jamais quitté le cratère.\n\nJe me demande où mène la mer."
+  },
+  {
+    "repere": "SootopolisCity_Text_ThisIsWicked",
+    "texte": "Les vitres tremblent !"
+  },
+  {
+    "repere": "SootopolisCity_Text_ThatWasWicked",
+    "texte": "Les vitres ont cessé de trembler."
+  },
+  {
+    "repere": "SootopolisCity_Text_GoRedAndBlueMon",
+    "texte": "Le rouge avance ! Le bleu recule !\n\nPourquoi personne ne les arrête ?"
+  },
+  {
+    "repere": "SootopolisCity_Text_DoYouKnowMonNames",
+    "texte": "Tu connais les noms de ces deux\nPokémon ?"
+  },
+  {
+    "repere": "SootopolisCity_Text_GreenOneSettlesThings",
+    "texte": "Le vert est arrivé entre eux.\n\nNi le rouge ni le bleu n'a gagné."
+  },
+  {
+    "repere": "SootopolisCity_Text_SeeingLegendWithOwnEyes",
+    "texte": "On racontait que la terre et la mer\nétaient nées de leur combat.\n\nJe croyais que c'était une légende."
+  },
+  {
+    "repere": "SootopolisCity_Text_SawLegendWithOwnEyes",
+    "texte": "On racontait que la terre et la mer\nétaient nées de leur combat.\n\nJe les ai vus de mes propres yeux."
+  },
+  {
+    "repere": "SootopolisCity_Text_BigPokemonFighting",
+    "texte": "Deux Pokémon se battent au milieu\nde la ville.\n\nIl faut éloigner les habitants."
+  },
+  {
+    "repere": "SootopolisCity_Text_PrettyMonCameFromSky",
+    "texte": "Le Pokémon vert est descendu.\n\nIl ne s'est pas arrêté sur l'eau."
+  },
+  {
+    "repere": "SootopolisCity_Text_SootopolisWillBeWrecked",
+    "texte": "L'eau monte près des maisons !"
+  },
+  {
+    "repere": "SootopolisCity_Text_SootopolisDidntGetWrecked",
+    "texte": "Les maisons sont encore debout.\n\nIl faudra vérifier les fondations."
+  },
+  {
+    "repere": "SootopolisCity_Text_NoOrdinaryTourist",
+    "texte": "Tu as traversé la mer pour venir.\n\nPeu de voyageurs arrivent jusqu'ici."
+  },
+  {
+    "repere": "SootopolisCity_Text_CityRegainedCalm",
+    "texte": "La ville a retrouvé son calme."
+  },
+  {
+    "repere": "SootopolisCity_Text_CaveOfOriginPleaseLeave",
+    "texte": "C'est la Grotte Origine.\n\nOn raconte que les disparus du\nMont Mémoria y reprennent vie.\n\nL'accès est fermé pour le moment."
+  },
+  {
+    "repere": "SootopolisCity_Text_LeadSuperiorTrainerToCave",
+    "texte": "Marc m'a demandé de conduire ici\nun Dresseur expérimenté.\n\nIl attend de l'aide dans la grotte."
+  },
+  {
+    "repere": "SootopolisCity_Text_AwakenedPokemonClash",
+    "texte": "Un troisième Pokémon est arrivé.\n\nLes deux autres ont cessé\nde combattre."
+  },
+  {
+    "repere": "SootopolisCity_Text_CaveOfOriginSleepsToo",
+    "texte": "La Grotte Origine est calme.\n\nNous allons fermer l'accès."
+  },
+  {
+    "repere": "SootopolisCity_Text_SootopolisSkyBeautiful",
+    "texte": "Le bord du cratère découpe\nun cercle dans le ciel.\n\nOn voit les nuages entrer\net sortir de ce cercle."
+  },
+  {
+    "repere": "SootopolisCity_Text_GiganticPokemonFight",
+    "texte": "Nos Pokémon ne peuvent pas\narrêter ces deux géants."
+  },
+  {
+    "repere": "SootopolisCity_Text_FearedWorstWhenPokemonFlewDown",
+    "texte": "Quand le troisième est arrivé,\nj'ai cru que tout allait empirer."
+  },
+  {
+    "repere": "SootopolisCity_Text_NightSkyFavoriteScenery",
+    "texte": "La nuit, les étoiles apparaissent\nau-dessus du bord du cratère.\n\nJe les regarde depuis mon escalier."
+  },
+  {
+    "repere": "SootopolisCity_Text_WeatherWentWild",
+    "texte": "Ce matin, le ciel était clair.\n\nPuis les nuages ont tout couvert.\nLes relevés changent sans arrêt."
+  },
+  {
+    "repere": "SootopolisCity_Text_YouBroughtFlyingMon",
+    "texte": "C'est toi qui as trouvé\nle Pokémon du ciel ?"
+  },
+  {
+    "repere": "SootopolisCity_Text_GroudonPleaseStop",
+    "texte": "Max. Groudon, arrête !\n\nLes maisons sont encore habitées.\nTu vas tout détruire !"
+  },
+  {
+    "repere": "SootopolisCity_Text_KyogreCalmDown",
+    "texte": "Arthur. Kyogre ! Regarde l'Orbe !\n\nIl ne tourne même pas la tête."
+  },
+  {
+    "repere": "SootopolisCity_Text_InvolvedWithCrisisComeWithMe",
+    "texte": "Pierre. Groudon et Kyogre ont été\nréveillés.\n\nPersonne ne maîtrise leur puissance.\nJe voudrais te présenter quelqu'un.\n\nSuis-moi, {PLAYER}."
+  },
+  {
+    "repere": "SootopolisCity_Text_DoesThisMakeYourFearPokemon",
+    "texte": "Pierre. Ce que tu vois ici\nn'est pas leur faute à eux seuls.\n\nN'oublie pas qui les a réveillés."
+  },
+  {
+    "repere": "SootopolisCity_Text_HereWereAreHelpWallace",
+    "texte": "Pierre. Nous voici arrivés.\n\nMarc est à l'intérieur.\nIl a besoin de ton aide."
+  },
+  {
+    "repere": "SootopolisCity_Text_KnowWhatsNeededToHelpHim",
+    "texte": "Marc t'attend dans la grotte."
+  },
+  {
+    "repere": "SootopolisCity_Text_NeverBeenToSkyPillar",
+    "texte": "Le Pilier Céleste ?\n\nJe ne connais pas le chemin."
+  },
+  {
+    "repere": "SootopolisCity_Text_SoThatsRayquaza",
+    "texte": "Pierre. C'était donc Rayquaza.\n\nLes deux autres ont cessé\nde se battre en le voyant."
+  },
+  {
+    "repere": "SootopolisCity_Text_MaxieArchieLeft",
+    "texte": "Max et Arthur sont partis.\n\nIls ont peut-être rapporté\nles Orbes au Mont Mémoria."
+  },
+  {
+    "repere": "SootopolisCity_Text_HaventYouScaledSkyPillar",
+    "texte": "Marc. Tu n'as pas encore atteint\nle sommet du Pilier Céleste ?"
+  },
+  {
+    "repere": "SootopolisCity_Text_ThankYouForHelpAcceptThis",
+    "texte": "Marc. Merci, {PLAYER}.\n\nLes habitants peuvent rentrer.\nJe voudrais te remettre ceci."
+  },
+  {
+    "repere": "SootopolisCity_Text_ExplainWaterfallGoToGym",
+    "texte": "Cette CS contient Cascade.\n\nAvec le Badge Pluie, tu pourras\nremonter les chutes d'eau.\n\nJuan t'attend derrière cette porte."
+  },
+  {
+    "repere": "SootopolisCity_Text_DazzledByMentor",
+    "texte": "Juan m'a appris à combattre.\n\nObserve bien ses Pokémon."
+  }
+]
