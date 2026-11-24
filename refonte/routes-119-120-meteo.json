@@ -1,0 +1,234 @@
+[
+  {
+    "repere": "Route119_Text_MayIntro",
+    "texte": "Flora. Ah, {PLAYER} !\n\nJe te cherchais depuis le pont.\nFaisons un combat."
+  },
+  {
+    "repere": "Route119_Text_MayDefeat",
+    "texte": "Tu as continué à t'entraîner.\n\nJe vois que tu n'as pas ralenti."
+  },
+  {
+    "repere": "Route119_Text_MayPresentForYou",
+    "texte": "Tiens, j'ai quelque chose pour toi.\n\nÇa te fera gagner du temps."
+  },
+  {
+    "repere": "Route119_Text_MayExplainFly",
+    "texte": "La CS Vol permet de retourner\ndans une ville déjà visitée.\n\nIl faut le Badge Plume pour\nl'utiliser hors combat.\n\nTu pourras revoir Bourg-en-Vol\nquand tu le voudras."
+  },
+  {
+    "repere": "Route119_Text_BrendanIntro",
+    "texte": "Brice. {PLAYER}, te voilà !\n\nVoyons ce que tu as appris\ndepuis notre dernier combat."
+  },
+  {
+    "repere": "Route119_Text_BrendanDefeat",
+    "texte": "Tu as sacrément progressé."
+  },
+  {
+    "repere": "Route119_Text_BrendanIllGiveYouThis",
+    "texte": "Je crois que tu sauras utiliser ça.\n\nTiens, prends cette CS."
+  },
+  {
+    "repere": "Route119_Text_BrendanExplainFly",
+    "texte": "Vol te permet de retourner\ndans une ville déjà visitée.\n\nIl faut le badge de Cimetronelle\npour l'utiliser hors combat.\n\nJe continue mes relevés. À bientôt."
+  },
+  {
+    "repere": "Route119_Text_ScottWayToGoBeSeeingYou",
+    "texte": "Scott. Bien joué, {PLAYER} !\n\nJ'ai croisé ton dernier adversaire.\nIl ne m'a pas dit grand-chose.\n\nTu vas à l'arène de Cimetronelle ?\nJe suivrai tes résultats."
+  },
+  {
+    "repere": "Route119_Text_ScottYouWonAtFortreeGym",
+    "texte": "Bip ! Scott à l'appareil.\n\nTu as gagné à Cimetronelle,\n{PLAYER} !\n\nJe crois que je commence à trouver\nle Dresseur que je cherchais.\n\nClic !"
+  },
+  {
+    "repere": "Route119_Text_StayAwayFromWeatherInstitute",
+    "texte": "Le Centre Météo est fermé.\n\nOn nous a demandé de garder\nle passage."
+  },
+  {
+    "repere": "Route119_Text_DontGoNearWeatherInstitute",
+    "texte": "Les Marks sont à l'intérieur.\n\nN'approche pas du bâtiment."
+  },
+  {
+    "repere": "Route119_Text_ThoughtFlyByCatchingBirdMons",
+    "texte": "Je croyais qu'il fallait plusieurs\nPokémon oiseaux pour nous porter.\n\nUne seule CS Vol peut suffire."
+  },
+  {
+    "repere": "Route119_Text_TallGrassSnaresBikeTires",
+    "texte": "Les herbes sont trop hautes.\n\nElles se prennent dans les roues\ndu vélo."
+  },
+  {
+    "repere": "Route119_Text_CanYourMonMakeSecretBase",
+    "texte": "Avec Force Cachée, un Pokémon\npeut aménager une Base Secrète\n\ndans certains grands tas d'herbe."
+  },
+  {
+    "repere": "Route119_Text_RouteSignFortree",
+    "texte": "Route 119\n{RIGHT_ARROW} Cimetronelle"
+  },
+  {
+    "repere": "Route119_Text_WeatherInstitute",
+    "texte": "Centre Météo.\n\nRelevés de pluie et de température."
+  },
+  {
+    "repere": "Route119_Text_TrainerTipsDecoration",
+    "texte": "Conseil aux Dresseurs.\n\nUne Base Secrète peut contenir\njusqu'à seize décorations."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_1F_Text_Grunt1Intro",
+    "texte": "Arthur veut les relevés de pluie.\n\nOn ne peut pas te laisser passer."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_1F_Text_Grunt1Defeat",
+    "texte": "Je n'ai pas réussi à te retenir."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_1F_Text_Grunt1PostBattle",
+    "texte": "On nous a donné une liste.\n\nJe ne sais pas à quoi serviront\nles relevés une fois rapportés."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_1F_Text_Grunt4Intro",
+    "texte": "Tu n'es pas sur la liste\ndes personnes autorisées !"
+  },
+  {
+    "repere": "Route119_WeatherInstitute_1F_Text_Grunt4Defeat",
+    "texte": "J'ai perdu ? Déjà ?"
+  },
+  {
+    "repere": "Route119_WeatherInstitute_1F_Text_Grunt4PostBattle",
+    "texte": "Je vais devoir expliquer ça\naux autres."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_1F_Text_EveryoneWentUpstairs",
+    "texte": "Je dormais pendant mon service.\n\nTout le monde est monté à l'étage."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_1F_Text_WowYoureStrong",
+    "texte": "Tu as réussi à les faire partir.\n\nJ'aimerais apprendre à diriger\nmes Pokémon comme toi."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_1F_Text_ProfStudyingRain",
+    "texte": "Le professeur étudie la pluie.\n\nTrop peu d'eau, les champs sèchent.\nTrop d'eau, ils sont submergés.\n\nIl mesure les deux."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_1F_Text_NoticingAbnormalWeather",
+    "texte": "À l'étage, on relève le climat\nde toute la région de Hoenn.\n\nDes sécheresses brèves précèdent\nparfois de fortes pluies.\n\nLes relevés ne concordent plus."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_1F_Text_WhatWereAquasUpTo",
+    "texte": "Merci de nous avoir aidés.\n\nLes Marks cherchaient-ils les cartes\nou les données du laboratoire ?"
+  },
+  {
+    "repere": "Route119_WeatherInstitute_1F_Text_TakeRestInBed",
+    "texte": "Un lit est disponible.\n\nJe vais me reposer."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_2F_Text_Grunt2Intro",
+    "texte": "Ils ont créé un Pokémon qui réagit\nau temps qu'il fait.\n\nLes Marks veulent l'étudier."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_2F_Text_Grunt2Defeat",
+    "texte": "On ne pourra pas l'emporter."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_2F_Text_Grunt2PostBattle",
+    "texte": "Si ce Pokémon pouvait modifier\nle temps,\n\non aurait peut-être de l'eau\npendant les sécheresses."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_2F_Text_Grunt3Intro",
+    "texte": "On est venus chercher les résultats\ndes expériences du Centre Météo."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_2F_Text_Grunt3Defeat",
+    "texte": "Tu as gagné. Je recule."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_2F_Text_Grunt3PostBattle",
+    "texte": "Arthur nous attend.\n\nJe ne peux pas t'en dire davantage."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_2F_Text_Grunt5Intro",
+    "texte": "Tu es venu chercher ce Pokémon,\ntoi aussi ?"
+  },
+  {
+    "repere": "Route119_WeatherInstitute_2F_Text_Grunt5Defeat",
+    "texte": "Mes Pokémon n'en peuvent plus."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_2F_Text_Grunt5PostBattle",
+    "texte": "Ce qu'il nous faut vraiment,\nce n'est pas dans ces éprouvettes."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_2F_Text_ShellyDefeat",
+    "texte": "Tu as gagné.\n\nJe ne m'attendais pas à ça."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_2F_Text_NoRoomForPokemon",
+    "texte": "Ton équipe est pleine.\n\nIl faut une place pour ce Pokémon."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_2F_Text_PlayerReceivedCastform",
+    "texte": "{PLAYER} reçoit Morphéo !"
+  },
+  {
+    "repere": "Route119_WeatherInstitute_2F_Text_PokemonChangesWithWeather",
+    "texte": "Morphéo change de forme\nselon les conditions météo.\n\nNous en étudions plusieurs ici."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_2F_Text_ChangingWeatherRidiculous",
+    "texte": "Je relève les pluies depuis des ans.\n\nJe ne crois pas qu'on puisse\ncommander le ciel avec une machine."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_2F_Text_GroudonWeather",
+    "texte": "Nous relevons une sécheresse\nanormale sur :\n{STR_VAR_1}.\n\nIl faut vérifier sur place."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_2F_Text_KyogreWeather",
+    "texte": "Nous relevons des pluies anormales\nsur :\n{STR_VAR_1}.\n\nIl faut vérifier sur place."
+  },
+  {
+    "repere": "Route119_WeatherInstitute_2F_Text_NoAbnormalWeather",
+    "texte": "Aucune anomalie météo signalée.\n\nLes dernières pluies ont suffi\nà remplir les réservoirs."
+  },
+  {
+    "repere": "Route120_Text_StevenGreeting",
+    "texte": "Pierre. Bonjour, {PLAYER}.\n\nQuelque chose bloque ce passage.\nJ'ai un appareil pour le révéler.\n\nTes Pokémon sont-ils prêts ?"
+  },
+  {
+    "repere": "Route120_Text_StevenIllWaitHere",
+    "texte": "Je t'attendrai ici.\n\nPrépare ton équipe."
+  },
+  {
+    "repere": "Route120_Text_StevenReadyForBattle",
+    "texte": "Tes Pokémon sont-ils prêts ?"
+  },
+  {
+    "repere": "Route120_Text_StevenShowMeYourPower",
+    "texte": "Voyons comment tu réagis,\n{PLAYER}."
+  },
+  {
+    "repere": "Route120_Text_StevenUsedDevonScope",
+    "texte": "Pierre utilise le Devon Scope.\n\nUn Pokémon devient visible.\nSurpris, il attaque !"
+  },
+  {
+    "repere": "Route120_Text_StevenGoodbye",
+    "texte": "Tes Pokémon ont bien progressé.\n\nNous nous reverrons plus loin."
+  },
+  {
+    "repere": "Route120_Text_RouteSignFortree",
+    "texte": "Route 120\n{LEFT_ARROW} Cimetronelle"
+  },
+  {
+    "repere": "Route120_Text_RouteSign121",
+    "texte": "{RIGHT_ARROW} Route 121\n{LEFT_ARROW} Route 120"
+  },
+  {
+    "repere": "Kecleon_Text_SomethingUnseeable",
+    "texte": "Quelque chose bloque le passage.\n\nOn ne distingue pas sa forme."
+  },
+  {
+    "repere": "Kecleon_Text_WantToUseDevonScope",
+    "texte": "Quelque chose bloque le passage.\n\nUtiliser le Devon Scope ?"
+  },
+  {
+    "repere": "Kecleon_Text_UseDevonScopeMonAttacked",
+    "texte": "{PLAYER} utilise le Devon Scope.\n\nUn Pokémon devient visible.\nSurpris, il attaque !"
+  }
+]
