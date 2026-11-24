@@ -1,0 +1,82 @@
+# Intégration locale des dialogues BPEF
+
+## État
+
+L'audit logique des textes est distinct de la localisation des données dans une ROM.
+Le script `injecter-dialogues.py` est un prototype conservateur. Il ne prouve pas
+qu'un candidat trouvé est un véritable texte d'événement : une correspondance
+d'octets peut être une fin de chaîne ou une donnée sans rapport. Ne jamais
+approuver les candidats automatiquement.
+
+## Prérequis
+
+- Python 3, copie personnelle de Pokémon Émeraude FR, 16 Mio, code BPEF,
+  CRC32 `A3FDCCB1`. Ne pas envoyer ni committer cette ROM.
+- La référence française de pret/pokeemerald au commit indiqué dans le README,
+  avec `charmap.txt`.
+- Le manifeste produit par le dernier audit et le patch v3 partiel du dépôt.
+
+## 1. Repérage en lecture seule
+
+Depuis la racine du dépôt :
+
+```sh
+python3 refonte/injecter-dialogues.py reperer \
+  --rom /chemin/emerald-fr.gba \
+  --manifeste rapports/manifeste.json \
+  --charmap source-pokeemerald/charmap.txt \
+  --sortie rapports/reperage.json
+```
+
+Le script contrôle le CRC de la base et ceux du patch UPS v3, applique ce dernier
+en mémoire et compare les textes originaux encodés à la ROM. Les dialogues
+narratifs et les entrées déjà intégrées à la v3 ne sont pas candidats. Les
+textes courts, partagés, ambigus, modifiés ou non encodables nécessitent une
+autre méthode de repérage.
+
+## 2. Vérification humaine des adresses
+
+Pour chaque candidat, vérifier dans HexManiacAdvance que le texte débute
+réellement à l'offset indiqué, qu'il appartient à la bonne carte et que
+**toutes** les occurrences des pointeurs sont de véritables références vers
+ce texte. Contrôler notamment les usages indirects, les fragments concaténés,
+les menus, les chaînes qui se chevauchent et les dialogues déjà protégés.
+Le repérage brut ne décode pas les scripts d'événements.
+
+Construire un fichier d'approbations distinct contenant les trois empreintes
+exactes du repérage et uniquement les entrées validées. Chaque entrée doit
+porter les champs `repere`, `offset` (entier décimal), `pointeurs` (liste
+d'entiers décimaux), `verification` (description de la vérification humaine).
+Ne pas recopier les valeurs d'un autre fichier ou d'une autre ROM.
+
+Commencer par quelques répliques simples. Toute variable modifiée doit
+également être relue en contexte, même si le manifeste classe l'écart comme
+une répétition ou une suppression de nom.
+
+## 3. Injection expérimentale
+
+```sh
+python3 refonte/injecter-dialogues.py injecter \
+  --rom /chemin/emerald-fr.gba \
+  --manifeste rapports/manifeste.json \
+  --charmap source-pokeemerald/charmap.txt \
+  --approbations rapports/approbations.json \
+  --sortie /chemin/essai-local.gba
+```
+
+Le script recalcule le repérage, refuse les approbations périmées et les
+pointeurs incomplets. Il déplace les nouveaux textes au-delà des 16 Mio
+originaux, produit une copie expérimentale de 32 Mio et un journal JSON des
+modifications. Il ne réécrit pas la ROM source et ne fabrique pas encore le
+patch UPS final.
+
+Tester chaque dialogue modifié en émulateur, puis les événements qui
+l'utilisent. La compatibilité de l'extension et le rendu des caractères restent
+à vérifier sur une vraie ROM BPEF.
+
+## 4. Limites
+
+Les tests automatiques utilisent des données artificielles ; ils ne valident
+ni les adresses françaises réelles ni le scénario en jeu. Les textes
+ambigus, les codes spéciaux non pris en charge et les références indirectes
+doivent être traités séparément. Aucun patch complet n'est publié à cette étape.
