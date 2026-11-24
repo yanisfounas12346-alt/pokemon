@@ -1,0 +1,33 @@
+name: Compiler le moteur de test GBA local
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'refonte/emulation/**'
+      - '.github/workflows/emulateur-local.yml'
+permissions:
+  contents: read
+jobs:
+  build:
+    runs-on: ubuntu-22.04
+    timeout-minutes: 15
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/checkout@v4
+        with:
+          repository: mgba-emu/mgba
+          ref: 26b7884bc25a5933960f3cdcd98bac1ae14d42e2
+          path: refonte/emulation/mgba-source
+          persist-credentials: false
+      - run: |
+          cmake -S refonte/emulation -B build-smoke -DCMAKE_BUILD_TYPE=Release
+          cmake --build build-smoke --target gba-smoke -j 4
+          mkdir -p kit
+          cp build-smoke/gba-smoke kit/
+          cp refonte/emulation/mgba-source/LICENSE kit/
+          ldd kit/gba-smoke
+      - uses: actions/upload-artifact@v4
+        with:
+          name: moteur-gba-local-sans-rom
+          path: kit/
+          retention-days: 14
