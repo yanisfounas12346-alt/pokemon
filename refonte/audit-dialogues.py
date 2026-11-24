@@ -53,6 +53,8 @@ def main():
     written = collections.defaultdict(list)
     invalid_rows = []
     variable_warnings = []
+    long_lines = []
+    long_pages = []
     files = sorted((ROOT / "refonte").glob("*.json"))
     for path in files:
         try:
@@ -68,6 +70,14 @@ def main():
                 continue
             label, text = row["repere"], row["texte"]
             written[label].append(path.name)
+            for number, line in enumerate(text.splitlines(), 1):
+                if len(line) > 36:
+                    long_lines.append({"repere": label, "fichier": path.name,
+                        "ligne": number, "caracteres": len(line), "texte": line})
+            for number, page in enumerate(text.split("\n\n"), 1):
+                if len(page.splitlines()) > 2:
+                    long_pages.append({"repere": label, "fichier": path.name,
+                        "page": number, "lignes": len(page.splitlines())})
             if label in locations and variables(text) != variables(locations[label][0][1]):
                 variable_warnings.append({"repere": label, "fichier": path.name,
                     "origine": dict(variables(locations[label][0][1])), "refonte": dict(variables(text))})
@@ -101,6 +111,9 @@ def main():
         "doublons_json": {k:v for k,v in written.items() if len(v)>1},
         "chevauchements_narratifs": sorted(set(written) & set(narrative)),
         "liens_narratifs_non_resolus": unresolved, "variables_a_verifier": variable_warnings,
+        "lignes_de_plus_de_36_caracteres": long_lines,
+        "pages_de_plus_de_deux_lignes": long_pages,
+        "note_affichage": "Contrôle indicatif : la largeur réelle dépend de la police et des variables développées.",
         "cartes": per_map,
     }
     print(json.dumps(report, ensure_ascii=False, indent=2))
