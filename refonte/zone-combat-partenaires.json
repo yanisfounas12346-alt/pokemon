@@ -21,7 +21,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Mon1",
-    "texte": "Sur les conseils de {STR_VAR_1},\nj'ai un {STR_VAR_3} avec\n{STR_VAR_2} et"
+    "texte": "Conseil de {STR_VAR_1} :\n{STR_VAR_3} avec {STR_VAR_2} et"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Mon2Ask",
@@ -41,7 +41,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Mon1",
-    "texte": "Sur les conseils de {STR_VAR_1},\nj'ai un {STR_VAR_3} avec\n{STR_VAR_2} et"
+    "texte": "Conseil de {STR_VAR_1} :\n{STR_VAR_3} avec {STR_VAR_2} et"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Mon2Ask",
