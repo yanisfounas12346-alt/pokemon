@@ -15,7 +15,12 @@ Sur le mur, Cimetière Nord de Manille.
 Cet air...
 
 Le même que dans le livret à musique
-des vignes de Beaune. Mara ?
+des vignes de Beaune.
+
+Mara ? Au lavoir, elle lui tenait
+la tête hors de l'eau.
+
+Il attend qu'elle réponde.
 
 La gardienne lui défait sa serviette
 de table. Ici, monsieur,
@@ -83,7 +88,8 @@ J'ai mon lacet à refaire.
 L'eau clapote. Armand revoit le
 lavoir.
 
-Il serre les poings dans ses poches.
+Ses mains tremblent. Vite, dans
+les poches.
 
 Vous êtes payés pour ça, je crois.
 
