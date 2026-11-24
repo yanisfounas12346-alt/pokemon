@@ -1,0 +1,210 @@
+[
+  {
+    "repere": "MagmaHideout_1F_Text_Grunt1Intro",
+    "texte": "Les Trumps nous ont répartis\npar équipes à l'arrivée.\n\nJe suis affecté à cette entrée."
+  },
+  {
+    "repere": "MagmaHideout_1F_Text_Grunt1Defeat",
+    "texte": "Je suis arrivé en retard\nà l'entraînement aussi."
+  },
+  {
+    "repere": "MagmaHideout_1F_Text_Grunt1PostBattle",
+    "texte": "Il faudra que je m'entraîne\navant ma prochaine garde."
+  },
+  {
+    "repere": "MagmaHideout_1F_Text_Grunt2Intro",
+    "texte": "Max nous a demandé de creuser\nsous le Mont Chimnée.\n\nOn a découvert quelque chose.\nTu veux aller voir ?"
+  },
+  {
+    "repere": "MagmaHideout_1F_Text_Grunt2Defeat",
+    "texte": "Tu as gagné."
+  },
+  {
+    "repere": "MagmaHideout_1F_Text_Grunt2PostBattle",
+    "texte": "Je te laisse découvrir ce qu'on\na trouvé. C'est plus loin."
+  },
+  {
+    "repere": "MagmaHideout_2F_1R_Text_Grunt14Intro",
+    "texte": "Je vérifie les laissez-passer.\n\nTu ne portes pas notre uniforme."
+  },
+  {
+    "repere": "MagmaHideout_2F_1R_Text_Grunt14Defeat",
+    "texte": "Je n'ai pas rempli ma tâche."
+  },
+  {
+    "repere": "MagmaHideout_2F_1R_Text_Grunt14PostBattle",
+    "texte": "On nous a promis du chauffage\npour les maisons du quartier."
+  },
+  {
+    "repere": "MagmaHideout_2F_1R_Text_Grunt3Intro",
+    "texte": "Attends ! On m'a demandé\nde garder ce passage."
+  },
+  {
+    "repere": "MagmaHideout_2F_1R_Text_Grunt3Defeat",
+    "texte": "D'accord, tu peux passer."
+  },
+  {
+    "repere": "MagmaHideout_2F_1R_Text_Grunt3PostBattle",
+    "texte": "Je n'avais aucune raison\nde te retenir aussi longtemps."
+  },
+  {
+    "repere": "MagmaHideout_2F_1R_Text_Grunt4Intro",
+    "texte": "Quelqu'un est entré !"
+  },
+  {
+    "repere": "MagmaHideout_2F_1R_Text_Grunt4Defeat",
+    "texte": "Je n'ai pas réussi."
+  },
+  {
+    "repere": "MagmaHideout_2F_1R_Text_Grunt4PostBattle",
+    "texte": "Dois-je continuer ma ronde\nou prévenir le chef ?"
+  },
+  {
+    "repere": "MagmaHideout_2F_1R_Text_Grunt5Intro",
+    "texte": "Tu n'es pas de notre équipe."
+  },
+  {
+    "repere": "MagmaHideout_2F_1R_Text_Grunt5Defeat",
+    "texte": "Encore une défaite."
+  },
+  {
+    "repere": "MagmaHideout_2F_1R_Text_Grunt5PostBattle",
+    "texte": "Je suis venu pour creuser,\npas pour combattre."
+  },
+  {
+    "repere": "MagmaHideout_2F_2R_Text_Grunt15Intro",
+    "texte": "Je n'ai rien contre toi.\n\nOn m'a demandé de garder la salle."
+  },
+  {
+    "repere": "MagmaHideout_2F_2R_Text_Grunt15Defeat",
+    "texte": "Tu peux passer."
+  },
+  {
+    "repere": "MagmaHideout_2F_2R_Text_Grunt15PostBattle",
+    "texte": "Nous avons trouvé un Pokémon.\n\nL'Orbe Bleu est arrivé ce matin.\nMax est descendu avec lui."
+  },
+  {
+    "repere": "MagmaHideout_2F_2R_Text_Grunt6Intro",
+    "texte": "La chaleur est difficile ici.\n\nJe regrette mon ancien travail\nsur les quais."
+  },
+  {
+    "repere": "MagmaHideout_2F_2R_Text_Grunt6Defeat",
+    "texte": "Il faut que je sorte prendre l'air."
+  },
+  {
+    "repere": "MagmaHideout_2F_2R_Text_Grunt6PostBattle",
+    "texte": "L'air de la mer me manque."
+  },
+  {
+    "repere": "MagmaHideout_2F_2R_Text_Grunt7Intro",
+    "texte": "Le sol tremble parfois sous nos pieds.\n\nOn dit que c'est Grou... Oublie ça."
+  },
+  {
+    "repere": "MagmaHideout_2F_2R_Text_Grunt7Defeat",
+    "texte": "Je n'ai pas su te retenir."
+  },
+  {
+    "repere": "MagmaHideout_2F_2R_Text_Grunt7PostBattle",
+    "texte": "Max attend ce jour depuis longtemps.\n\nLes équipes sont déjà en place."
+  },
+  {
+    "repere": "MagmaHideout_2F_2R_Text_Grunt8Intro",
+    "texte": "Quelqu'un a perdu le Sceau Magma.\n\nC'est comme ça que tu es entré ?"
+  },
+  {
+    "repere": "MagmaHideout_2F_2R_Text_Grunt8Defeat",
+    "texte": "Il faudra prévenir les autres."
+  },
+  {
+    "repere": "MagmaHideout_2F_2R_Text_Grunt8PostBattle",
+    "texte": "Les consignes changent chaque jour.\n\nJe ne sais plus ce qu'on doit faire."
+  },
+  {
+    "repere": "MagmaHideout_3F_1R_Text_Grunt9Intro",
+    "texte": "On m'a laissé ici toute la journée.\n\nLa roche est chaude jusque dans\nle mur derrière moi."
+  },
+  {
+    "repere": "MagmaHideout_3F_1R_Text_Grunt9Defeat",
+    "texte": "Il faut que je m'asseye."
+  },
+  {
+    "repere": "MagmaHideout_3F_1R_Text_Grunt9PostBattle",
+    "texte": "Nos uniformes ont été distribués\navant qu'on descende ici.\n\nIls ne sont pas faits pour ce lieu."
+  },
+  {
+    "repere": "MagmaHideout_3F_1R_Text_Grunt16Intro",
+    "texte": "On nous a montré des plans\npour de nouvelles maisons.\n\nJe veux qu'ils soient réalisés."
+  },
+  {
+    "repere": "MagmaHideout_3F_1R_Text_Grunt16Defeat",
+    "texte": "Je ne peux plus te retenir."
+  },
+  {
+    "repere": "MagmaHideout_3F_1R_Text_Grunt16PostBattle",
+    "texte": "Les Marks promettent aussi\nd'aider nos familles.\n\nJe voudrais savoir qui tiendra\nsa promesse."
+  },
+  {
+    "repere": "MagmaHideout_3F_2R_Text_Grunt10Intro",
+    "texte": "J'ai rejoint les Trumps pour\ntravailler sur les logements.\n\nDepuis, on vole des météorites.\nCe n'était pas dans le contrat."
+  },
+  {
+    "repere": "MagmaHideout_3F_2R_Text_Grunt10Defeat",
+    "texte": "Je me demande ce que je fais ici."
+  },
+  {
+    "repere": "MagmaHideout_3F_2R_Text_Grunt10PostBattle",
+    "texte": "Quand je reverrai Max, je lui\nmontrerai la première feuille\n\nqu'on nous a fait signer."
+  },
+  {
+    "repere": "MagmaHideout_4F_Text_Grunt11Intro",
+    "texte": "J'aimerais voir Groudon moi aussi.\n\nIls me laissent garder les caisses."
+  },
+  {
+    "repere": "MagmaHideout_4F_Text_Grunt11Defeat",
+    "texte": "Je pensais à autre chose."
+  },
+  {
+    "repere": "MagmaHideout_4F_Text_Grunt11PostBattle",
+    "texte": "Je n'ai vu que son nom écrit\nsur une fiche de chantier."
+  },
+  {
+    "repere": "MagmaHideout_4F_Text_Grunt12Intro",
+    "texte": "Max va bientôt commencer.\n\nTout est prêt au fond."
+  },
+  {
+    "repere": "MagmaHideout_4F_Text_Grunt12Defeat",
+    "texte": "Je n'ai pas gagné assez de temps."
+  },
+  {
+    "repere": "MagmaHideout_4F_Text_Grunt12PostBattle",
+    "texte": "Max ! Quelqu'un arrive !"
+  },
+  {
+    "repere": "MagmaHideout_4F_Text_Grunt13Intro",
+    "texte": "Il reste une dernière garde.\n\nC'est moi."
+  },
+  {
+    "repere": "MagmaHideout_4F_Text_Grunt13Defeat",
+    "texte": "Je n'ai pas pu t'arrêter."
+  },
+  {
+    "repere": "MagmaHideout_4F_Text_Grunt13PostBattle",
+    "texte": "Je vais attendre les autres."
+  },
+  {
+    "repere": "MagmaHideout_4F_Text_TabithaIntro",
+    "texte": "Groudon dort un peu plus loin.\n\nMax a apporté l'Orbe Bleu.\nIl doit déjà être près de lui."
+  },
+  {
+    "repere": "MagmaHideout_4F_Text_TabithaDefeat",
+    "texte": "Je n'ai pas réussi à te retenir."
+  },
+  {
+    "repere": "MagmaHideout_4F_Text_TabithaPostBattle",
+    "texte": "Max doit avoir commencé.\n\nTu n'arriveras peut-être pas à temps."
+  },
+  {
+    "repere": "MagmaHideout_4F_Text_MaxieDefeat",
+    "texte": "Max regarde ses Pokémon.\n\nComment as-tu appris à combattre\nainsi ?"
+  }
+]
