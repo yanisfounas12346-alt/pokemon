@@ -1,0 +1,322 @@
+[
+  {
+    "repere": "LilycoveCity_DepartmentStore_1F_Text_WelcomeToDeptStore",
+    "texte": "Bienvenue au centre commercial\nde Nénucrique."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStore_1F_Text_IBuyAllSortsOfThings",
+    "texte": "Je suis venue pour une Potion.\n\nJ'ai déjà rempli mon panier."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStore_1F_Text_MomBuyingMeFurniture",
+    "texte": "Maman va m'acheter une poupée.\n\nJ'ai gardé une place sur l'étagère."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStore_1F_Text_BuyingSomethingForAzumarill",
+    "texte": "Mon Azumarill a gagné un Concours.\n\nJe voudrais lui offrir un cadeau."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStore_1F_Text_Azumarill",
+    "texte": "Azumarill. Mamarill !"
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStore_1F_Text_FloorNamesSign",
+    "texte": "RC : Accueil et loterie.\n1{SUPER_ER} étage : Dresseurs.\n\n2{SUPER_E} étage : Objets de combat.\n3{SUPER_E} étage : CT.\n\n4{SUPER_E} étage : Décorations.\nToit : Terrasse."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStore_2F_Text_LearnToUseItemsProperly",
+    "texte": "Il faut savoir quand utiliser\nles objets que l'on achète."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStore_2F_Text_GoodGiftForHusband",
+    "texte": "Mon mari m'attend à la maison.\n\nJe cherche quelque chose\nqui lui sera utile."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStore_2F_Text_StockUpOnItems",
+    "texte": "Je pars demain pour un long voyage.\n\nJ'ai préparé la liste de mes achats."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStore_3F_Text_ItemsBestForTougheningPokemon",
+    "texte": "Les Protéines renforcent l'Attaque.\n\nLe Calcium renforce l'Attaque\nSpéciale. Il y a des limites."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStore_3F_Text_WantMoreEndurance",
+    "texte": "Le Fer améliore la Défense.\nLe Zinc, la Défense Spéciale.\n\nJe regarde la fiche de mon Pokémon."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStore_3F_Text_GaveCarbosToSpeedUpMon",
+    "texte": "J'ai donné du Carbone à mon Pokémon.\n\nSa Vitesse a augmenté."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStore_4F_Text_AttackOrDefenseTM",
+    "texte": "Une capacité pour attaquer,\nune autre pour se protéger...\n\nJe n'ai pas encore choisi ma CT."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStore_4F_Text_FiftyDifferentTMs",
+    "texte": "Le catalogue recense cinquante CT.\n\nJe les coche une à une."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStore_4F_Text_PokemonOnlyHaveFourMoves",
+    "texte": "Un Pokémon ne peut connaître\nque quatre capacités à la fois.\n\nIl faut parfois renoncer à l'une."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStore_5F_Text_PlaceFullOfCuteDolls",
+    "texte": "Je venais acheter une poupée\npour les enfants.\n\nJ'en ai trouvé une pour moi aussi."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStore_5F_Text_GettingDollInsteadOfPokemon",
+    "texte": "Je suis trop petite pour voyager\navec un Pokémon.\n\nJ'ai choisi cette poupée."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStore_5F_Text_SellManyCuteMatsHere",
+    "texte": "Je cherche un tapis pour couvrir\nles planches de ma Base Secrète."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStore_5F_Text_ClosedRooftopForWeather",
+    "texte": "La terrasse a été fermée\nà cause du mauvais temps."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStoreRooftop_Text_SetDatesForClearOutSales",
+    "texte": "Les dates du déstockage seront\nannoncées à la télévision.\n\nJe regarde les annonces chaque soir."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStoreRooftop_Text_BeenWaitingForClearOutSale",
+    "texte": "Le déstockage a enfin commencé.\n\nCertains objets ne sont vendus\nque pendant ces journées."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStoreRooftop_Text_BoneDryThirsty",
+    "texte": "J'ai soif après tous ces escaliers."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStoreRooftop_Text_WhichDrinkWouldYouLike",
+    "texte": "Distributeur de boissons.\n\nQuelle boisson veux-tu ?"
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStoreRooftop_Text_CanOfDrinkDroppedDown",
+    "texte": "Clang !\n{STR_VAR_1} tombe."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStoreRooftop_Text_ExtraCanOfDrinkDroppedDown",
+    "texte": "Clang ! Une boisson offerte !\n{STR_VAR_1} tombe."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStoreRooftop_Text_NotEnoughMoney",
+    "texte": "Pas assez d'argent."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStoreRooftop_Text_DecidedAgainstBuyingDrink",
+    "texte": "Aucune boisson achetée."
+  },
+  {
+    "repere": "LilycoveCity_Harbor_Text_FerryUnavailable",
+    "texte": "Le ferry n'est pas encore en service.\n\nNous attendons la fin des travaux."
+  },
+  {
+    "repere": "LilycoveCity_Harbor_Text_MayISeeYourTicket",
+    "texte": "Bonjour. Puis-je voir\nvotre Passe Bateau ?"
+  },
+  {
+    "repere": "LilycoveCity_Harbor_Text_NoTicket",
+    "texte": "{PLAYER} n'a pas de Passe Bateau.\n\nIl est nécessaire pour embarquer."
+  },
+  {
+    "repere": "LilycoveCity_Harbor_Text_FlashTicketWhereTo",
+    "texte": "{PLAYER} présente le Passe Bateau.\n\nTout est en règle.\nQuelle est votre destination ?"
+  },
+  {
+    "repere": "LilycoveCity_Harbor_Text_SailAnotherTime",
+    "texte": "Revenez quand vous voudrez."
+  },
+  {
+    "repere": "LilycoveCity_Harbor_Text_SlateportItIs",
+    "texte": "Destination : Poivressel."
+  },
+  {
+    "repere": "LilycoveCity_Harbor_Text_BattleFrontierItIs",
+    "texte": "Destination : Zone de Combat."
+  },
+  {
+    "repere": "LilycoveCity_Harbor_Text_PleaseBoard",
+    "texte": "Veuillez embarquer\net attendre le départ."
+  },
+  {
+    "repere": "LilycoveCity_Harbor_Text_WhereWouldYouLikeToGo",
+    "texte": "Quelle est votre destination ?"
+  },
+  {
+    "repere": "LilycoveCity_Harbor_Text_SailorFerryUnavailable",
+    "texte": "On attend la livraison du Marina.\n\nSans ferry, pas de traversée.\nSans traversée, pas de salaire."
+  },
+  {
+    "repere": "LilycoveCity_Harbor_Text_SailorFerryAvailable",
+    "texte": "Le Marina est enfin à quai.\n\nLes ouvriers de Poivressel ont fini.\nÀ nous de prendre le relais."
+  },
+  {
+    "repere": "LilycoveCity_CoveLilyMotel_1F_Text_GuestsDoubledByMascot",
+    "texte": "Un hôtel a doublé ses réservations\navec une mascotte Pokémon.\n\nJe me demande si elle peut refuser\nquand les clients veulent la toucher."
+  },
+  {
+    "repere": "LilycoveCity_CoveLilyMotel_1F_Text_NoGuestsWithTeamAqua",
+    "texte": "Depuis l'arrivée des Marks,\nles chambres restent vides.\n\nJe laisse la télévision allumée."
+  },
+  {
+    "repere": "LilycoveCity_CoveLilyMotel_1F_Text_CantSeeTheTV",
+    "texte": "Pousse-toi un peu, s'il te plaît.\n\nJe regarde les nouvelles du port."
+  },
+  {
+    "repere": "LilycoveCity_CoveLilyMotel_1F_Text_MonFoundLostItem",
+    "texte": "Un Pokémon a retrouvé un objet\nperdu par un voyageur !\n\nJe garde une boîte pour les objets\noubliés dans les chambres."
+  },
+  {
+    "repere": "LilycoveCity_CoveLilyMotel_1F_Text_HeardAquaHideoutBusted",
+    "texte": "Les Marks sont partis de la grotte.\n\nUn groupe vient de réserver.\nGame... quelque chose."
+  },
+  {
+    "repere": "LilycoveCity_CoveLilyMotel_1F_Text_HouseSittingMonCaughtBurglar",
+    "texte": "Un Pokémon de garde a arrêté\nun voleur, paraît-il.\n\nJe voudrais que les voyageurs\npuissent dormir tranquilles."
+  },
+  {
+    "repere": "LilycoveCity_CoveLilyMotel_1F_Text_BetterGetWorkingOnGuestsDinner",
+    "texte": "Le groupe de Game Freak est arrivé.\n\nJ'ai posé les clefs sur le comptoir.\nIl faut préparer leur dîner."
+  },
+  {
+    "repere": "LilycoveCity_CoveLilyMotel_2F_Text_ShowMeCompletedDex",
+    "texte": "Je suis concepteur de jeux.\n\nTu complètes ton Pokédex ?\nReviens me voir quand il sera plein."
+  },
+  {
+    "repere": "LilycoveCity_CoveLilyMotel_2F_Text_FilledPokedexGiveYouThis",
+    "texte": "Tu as rempli ton Pokédex !\n\nToutes ces pages représentent\nbeaucoup de chemin parcouru.\n\nVoici une récompense."
+  },
+  {
+    "repere": "LilycoveCity_CoveLilyMotel_2F_Text_ImTheProgrammer",
+    "texte": "Je suis programmeur.\n\nJe regarde comment les machines\net les menus fonctionnent ici."
+  },
+  {
+    "repere": "LilycoveCity_CoveLilyMotel_2F_Text_ImTheGraphicArtist",
+    "texte": "Je suis graphiste.\n\nJ'observe les formes et les couleurs\ndes Pokémon de Hoenn."
+  },
+  {
+    "repere": "LilycoveCity_CoveLilyMotel_2F_Text_GirlsAreCute",
+    "texte": "J'aime dessiner les Dresseurs.\n\nLes combats Duo demandent\nbeaucoup d'animation."
+  },
+  {
+    "repere": "LilycoveCity_CoveLilyMotel_2F_Text_SeaBreezeTicklesHeart",
+    "texte": "J'ai ouvert la fenêtre.\n\nEnfin, un peu d'air marin."
+  },
+  {
+    "repere": "LilycoveCity_CoveLilyMotel_2F_Text_NeverLeaveWithoutGameBoy",
+    "texte": "Je garde ma Game Boy Advance\navec moi pendant les voyages.\n\nOn trouve parfois un adversaire."
+  },
+  {
+    "repere": "LilycoveCity_CoveLilyMotel_2F_Text_SnoozingPreferBattles",
+    "texte": "Scott. Zzz... Oh, {PLAYER} !\n\nJ'étais venu voir les Concours.\nJe préfère encore les combats.\n\nMais chaque épreuve apprend\nquelque chose de différent."
+  },
+  {
+    "repere": "LilycoveCity_CoveLilyMotel_2F_Text_ContestsDoTakeStrategy",
+    "texte": "Les Concours demandent aussi\nune bonne stratégie.\n\nObserve les autres concurrents."
+  },
+  {
+    "repere": "LilycoveCity_House1_Text_PokemonPartnersNotTools",
+    "texte": "Les Pokémon travaillent avec nous.\n\nCela ne veut pas dire qu'on\npeut disposer d'eux à notre guise."
+  },
+  {
+    "repere": "LilycoveCity_House1_Text_Kecleon",
+    "texte": "Kecleon. Kécléééon ?"
+  },
+  {
+    "repere": "LilycoveCity_House2_Text_NotAwakeYetHaveThis",
+    "texte": "Oh... Je dormais encore.\n\nTiens, prends ça. Je n'en ai\npas besoin ce matin."
+  },
+  {
+    "repere": "LilycoveCity_House2_Text_SleepIsEssential",
+    "texte": "Je travaille de nuit.\n\nIl faut bien que je dorme\nquand les autres se lèvent."
+  },
+  {
+    "repere": "LilycoveCity_House3_Text_LearnFromMasterOfPokeblocks",
+    "texte": "Je prépare des {POKEBLOCK}s\npour les Pokémon de la maison.\n\nVeux-tu apprendre à en faire\nde meilleurs ?"
+  },
+  {
+    "repere": "LilycoveCity_House3_Text_OhAreYouSure",
+    "texte": "D'accord. Reviens si tu veux\nme poser des questions."
+  },
+  {
+    "repere": "LilycoveCity_House3_Text_ExplainPokeblocks",
+    "texte": "Un bon {POKEBLOCK} a un niveau\nélevé et une faible onctuosité.\n\nPlus ce chiffre est bas, plus\nun Pokémon peut en manger.\n\nUtilise différentes Baies et\nmixe-les avec plusieurs personnes.\n\nChoisis aussi les saveurs que\nton Pokémon apprécie."
+  },
+  {
+    "repere": "LilycoveCity_House3_Text_HappyToHaveQuadruplets",
+    "texte": "Quand les quatre enfants sont nés,\non a dû agrandir la table.\n\nAujourd'hui, elle est toujours pleine."
+  },
+  {
+    "repere": "LilycoveCity_House3_Text_GoingToWinMultiBattles",
+    "texte": "Nous allons faire des Combats Multi.\n\nJe prépare mon équipe."
+  },
+  {
+    "repere": "LilycoveCity_House3_Text_LikeMixingAtRecordCorner",
+    "texte": "On va échanger des données\nau Centre de données.\n\nJ'ai choisi mes records."
+  },
+  {
+    "repere": "LilycoveCity_House3_Text_MakePokeblocksWithBerryBlender",
+    "texte": "On va préparer des {POKEBLOCK}s\navec le Mixeur de Baies."
+  },
+  {
+    "repere": "LilycoveCity_House3_Text_GoingToEnterContest",
+    "texte": "Mon Pokémon et moi allons\nparticiper à un Concours."
+  },
+  {
+    "repere": "LilycoveCity_House4_Text_MysteriesAtBottomOfSea",
+    "texte": "Les cartes marines ne montrent\nqu'une partie du fond de l'océan.\n\nIl reste des endroits inconnus."
+  },
+  {
+    "repere": "LilycoveCity_House4_Text_UnderwaterTrenchMossdeepSootopolis",
+    "texte": "Il existe une fosse sous-marine\nentre Algatia et Atalanopolis.\n\nLes marins en parlent souvent."
+  },
+  {
+    "repere": "LilycoveCity_MoveDeletersHouse_Text_ICanMakeMonForgetMove",
+    "texte": "Je suis l'effaceur de capacités.\n\nVeux-tu que j'aide un Pokémon\nà oublier une capacité ?"
+  },
+  {
+    "repere": "LilycoveCity_MoveDeletersHouse_Text_WhichMonShouldForget",
+    "texte": "Quel Pokémon doit l'oublier ?"
+  },
+  {
+    "repere": "LilycoveCity_MoveDeletersHouse_Text_WhichMoveShouldBeForgotten",
+    "texte": "Quelle capacité doit-il oublier ?"
+  },
+  {
+    "repere": "LilycoveCity_MoveDeletersHouse_Text_MonOnlyKnowsOneMove",
+    "texte": "{STR_VAR_1} ne connaît\nqu'une seule capacité."
+  },
+  {
+    "repere": "LilycoveCity_MoveDeletersHouse_Text_MonsMoveShouldBeForgotten",
+    "texte": "{STR_VAR_1} doit oublier\n{STR_VAR_2}.\n\nTu confirmes ?"
+  },
+  {
+    "repere": "LilycoveCity_MoveDeletersHouse_Text_MonHasForgottenMove",
+    "texte": "{STR_VAR_1} a oublié\n{STR_VAR_2}."
+  },
+  {
+    "repere": "LilycoveCity_MoveDeletersHouse_Text_ComeAgain",
+    "texte": "Reviens si tu as besoin\nde mon aide."
+  },
+  {
+    "repere": "LilycoveCity_MoveDeletersHouse_Text_EggCantForgetMoves",
+    "texte": "Un Oeuf ne connaît pas encore\nde capacité à oublier."
+  },
+  {
+    "repere": "LilycoveCity_MoveDeletersHouse_Text_CantForgetSurf",
+    "texte": "{STR_VAR_1} ne veut pas\noublier Surf."
+  },
+  {
+    "repere": "LilycoveCity_PokemonCenter_1F_Text_HowManyKindsOfPokemon",
+    "texte": "Combien de Pokémon vivent\nau-delà de cette mer ?\n\nJ'aimerais un jour traverser\nles océans pour les rencontrer."
+  },
+  {
+    "repere": "LilycoveCity_PokemonCenter_1F_Text_HeardAboutRottenScoundrels",
+    "texte": "J'ai entendu parler de Pokémon\net de météorites dérobés.\n\nLes nouvelles changent chaque jour."
+  },
+  {
+    "repere": "LilycoveCity_PokemonCenter_1F_Text_HaventSeenRottenScoundrels",
+    "texte": "Je n'ai plus vu ces gens ici.\n\nLes bateaux reprennent la mer."
+  }
+]
