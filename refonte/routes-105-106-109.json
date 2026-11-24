@@ -1,0 +1,78 @@
+[
+  {
+    "repere": "Route104_Text_DadPokenavCall",
+    "texte": "Bip ! Armand, c'est ton père.\n\nRochard m'a parlé de ton PokéNav.\nJ'entends le vent dans le combiné.\n\nTu es déjà en mer ? Fais attention.\n\nClic !"
+  },
+  {
+    "repere": "Route104_Text_RegisteredDadInPokenav",
+    "texte": "Norman est enregistré\ndans le PokéNav."
+  },
+  {
+    "repere": "Route106_Text_TrainerTips",
+    "texte": "Conseil aux Dresseurs.\n\nAvec la Canne, appuie sur A\nquand un Pokémon mord."
+  },
+  {
+    "repere": "DewfordTown_Text_BrineyLandedInSlateportDeliverGoods",
+    "texte": "Marco. Nous sommes à Poivressel.\n\nLe capitaine Poupe attend\nle Pack Devon au chantier naval."
+  },
+  {
+    "repere": "Route109_Text_BrineySailToDewfordQuestion",
+    "texte": "Tu vas remettre le Pack Devon ?\n\nOu veux-tu retourner à Myokara ?"
+  },
+  {
+    "repere": "Route109_Text_BrineyDewfordItIs",
+    "texte": "Cap sur Myokara !\n\nPiko, monte à bord."
+  },
+  {
+    "repere": "Route109_Text_BrineyDeliverDevonGoods",
+    "texte": "Va remettre le Pack Devon.\n\nJe t'attends près du bateau."
+  },
+  {
+    "repere": "DewfordTown_Text_BrineyLandedInSlateport",
+    "texte": "Nous voici à Poivressel.\n\nPréviens-moi quand tu voudras\nreprendre la mer."
+  },
+  {
+    "repere": "Route109_Text_BrineyWhereAreWeBound",
+    "texte": "Marco. Les amarres sont prêtes.\n\nOù veux-tu aller ?"
+  },
+  {
+    "repere": "Route109_Text_BrineyTellMeWhenYouNeedToSail",
+    "texte": "Je reste près du bateau.\nAppelle-moi quand tu voudras partir."
+  },
+  {
+    "repere": "Route109_Text_ChillAtMyPapasSpot",
+    "texte": "Mon papa est le meilleur Dresseur !\n\nIl m'a promis de m'apprendre\nà nager après son service."
+  },
+  {
+    "repere": "Route109_Text_LittleKidsDartAround",
+    "texte": "Les enfants courent partout.\n\nMon Pokémon surveille le mien.\nJ'espère qu'il ne perd pas sa trace."
+  },
+  {
+    "repere": "Route109_Text_SandCastleTakingLongTime",
+    "texte": "Notre château de sable n'est\npas encore terminé.\n\nL'eau a emporté la première tour."
+  },
+  {
+    "repere": "Route109_Text_YouCanHaveThis",
+    "texte": "Tiens, c'est pour toi !"
+  },
+  {
+    "repere": "Route109_Text_WereGoingToMakeBigCastle",
+    "texte": "On va bâtir un château immense.\n\nOn sera le roi et la reine.\nTu pourras porter les seaux."
+  },
+  {
+    "repere": "Route109_Text_ZigzagoonPicksUpLitter",
+    "texte": "Mon Zigzaton ramène des déchets\ndu bord de l'eau.\n\nCe qu'on jette en mer finit aussi\ndans nos rivières.\n\nJe lui ai appris à déposer ses\ntrouvailles dans un panier."
+  },
+  {
+    "repere": "Route109_Text_ZigzagoonCry",
+    "texte": "Zigzaton. Ziiiig ?"
+  },
+  {
+    "repere": "Route109_Text_SeashoreHouseSign",
+    "texte": "Maison du bord de mer.\n\nCombats de Dresseurs à l'intérieur."
+  },
+  {
+    "repere": "Route109_Text_TrainerTipsSign",
+    "texte": "Conseil aux Dresseurs.\n\nDeux Pokémon de même niveau\npeuvent avoir des stats différentes.\n\nL'entraînement au combat améliore\nleurs capacités."
+  }
+]
