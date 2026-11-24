@@ -1,0 +1,198 @@
+[
+  {
+    "repere": "PlayersHouse_1F_Text_MoversPokemonGoSetClock",
+    "texte": "Les Vigoroth ont monté tes caisses.\nOn les paie au poids, pas au temps.\n\nTa chambre est à l'étage. Remets\nl'horloge à l'heure avant de sortir."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_ArentYouInterestedInRoom",
+    "texte": "Monte, Armand. J'ai laissé la clef\nsur le bureau."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_GoSetTheClock",
+    "texte": "L'horloge est arrêtée. Monte la\nrégler, il faut une heure de départ."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_OhComeQuickly",
+    "texte": "Armand ! Viens vite. Ils passent\nles images à la télévision."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_MaybeDadWillBeOn",
+    "texte": "Clémenti-Ville. C'est l'arène.\nOn annonce un entretien avec ton père."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_GoIntroduceYourselfNextDoor",
+    "texte": "Seko connaît le quartier.\nIl note qui vient et qui repart.\n\nVa chez lui, dans la maison voisine.\nOn te dira où le trouver."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_SeeYouHoney",
+    "texte": "Luzia. Je serai là à ton retour."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_DidYouMeetProfBirch",
+    "texte": "Tu as trouvé Seko ? Il oublie parfois\nqu'on l'attend."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_YouShouldRestABit",
+    "texte": "Assieds-toi, Armand. Tes Pokémon\naussi ont besoin de dormir."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_TakeCareHoney",
+    "texte": "Tes Pokémon ont repris des forces.\nN'oublie pas de manger, toi aussi."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_GotDadsBadgeHeresSomethingFromMom",
+    "texte": "Tu as le badge de ton père ?\nTiens, je t'avais mis ça de côté."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_DontPushYourselfTooHard",
+    "texte": "Le tissu de tes poches s'use.\nTu peux revenir ici pour te reposer."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_IsThatAPokenav",
+    "texte": "La Devon t'a donné un PokéNav ?\n\nEnregistre mon numéro. Si la ligne\ncoupe, rappelle une fois."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_RegisteredMom",
+    "texte": "Le numéro de Luzia est enregistré\ndans le PokéNav."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_Vigoroth1",
+    "texte": "Vigooooh...\nIl frotte son épaule contre le mur."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_Vigoroth2",
+    "texte": "Gorooooh...\nIl attend qu'on ouvre la porte."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_ReportFromPetalburgGym",
+    "texte": "Fin de notre reportage devant\nl'arène de Clémenti-Ville."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_TheresAMovieOnTV",
+    "texte": "Deux hommes dansent sur un piano.\n\nLuzia a laissé le son très bas.\nOn entend le moteur du frigo."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_RunningShoesManual",
+    "texte": "Notice des chaussures de sport.\n\nMaintiens B en marchant dehors\npour courir.\n\nAu dos, une pointure est barrée."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_TicketFromBrineyCameForYou",
+    "texte": "Ton père tient une enveloppe.\n\nM. Marco me l'a remise pour toi.\nIl a payé le timbre lui-même."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_PortsInSlateportLilycove",
+    "texte": "C'est un passe pour le ferry.\n\nLes embarcadères sont à Poivressel\net à Nénucrique."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_BetterGetBackToGym",
+    "texte": "Je retourne à l'arène de\nClémenti-Ville.\n\nLuzia, laisse ma tasse sur la table."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_DadShouldStayLonger",
+    "texte": "Luzia reprend la tasse.\n\nIl la veut toujours au même endroit.\nIl ne la boit jamais jusqu'au fond."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_IsThatABreakingStory",
+    "texte": "Attends. Ils ont coupé le film."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_LatiEmergencyNewsFlash",
+    "texte": "Bulletin spécial. Un Pokémon volant\na été vu au-dessus de Hoenn.\n\nSa couleur serait... BZZT...\n\nLes témoins sont priés de rappeler.\nRetour à notre programme."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_WhatColorDidTheySay",
+    "texte": "Tu as entendu la couleur ?\nLa radio grésille aussi."
+  },
+  {
+    "repere": "PlayersHouse_1F_Text_StillUnknownPokemon",
+    "texte": "Ils vont devoir compléter la fiche.\nOn n'avait jamais relevé cet oiseau."
+  },
+  {
+    "repere": "PlayersHouse_2F_Text_ClockIsStopped",
+    "texte": "L'horloge s'est arrêtée.\nIl faut la mettre à l'heure."
+  },
+  {
+    "repere": "PlayersHouse_2F_Text_HowDoYouLikeYourRoom",
+    "texte": "Luzia entre sans frapper.\n\nLes déménageurs ont fini en bas.\nVérifie ce qu'on a mis sur ton bureau.\n\nLe tiroir du haut ferme mal."
+  },
+  {
+    "repere": "PlayersHouse_2F_Text_Notebook",
+    "texte": "{PLAYER} ouvre un cahier.\n\nSTART ouvre le menu.\nChoisis SAUVER pour sauvegarder.\n\nLes pages suivantes sont blanches.\nLa première a été arrachée."
+  },
+  {
+    "repere": "Common_Text_LookCloserAtMap",
+    "texte": "{PLAYER} examine la carte de Hoenn.\n\nLes routes y portent toutes un nom."
+  },
+  {
+    "repere": "PlayersHouse_2F_Text_ItsAGameCube",
+    "texte": "Une GameCube. Une Game Boy Advance\nlui sert de manette.\n\nUn fil manque à la prise du mur."
+  },
+  {
+    "repere": "RivalsHouse_1F_Text_OhYoureTheNewNeighbor",
+    "texte": "Tu loges chez Luzia ? Entre.\n\n{STR_VAR_1} a ton âge.\nOn est en train de ranger les relevés.\n\nMonte à l'étage, si tu veux."
+  },
+  {
+    "repere": "RivalsHouse_1F_Text_LikeChildLikeFather",
+    "texte": "Seko et son enfant ramènent des\nbottes pleines de boue.\n\nJ'ai fini par laisser un seau\nprès de la porte."
+  },
+  {
+    "repere": "RivalsHouse_1F_Text_TooBusyToNoticeVisit",
+    "texte": "{RIVAL} ! On a de la visite !\n\nLes fiches sont partout là-haut.\nIl faut parfois appeler deux fois."
+  },
+  {
+    "repere": "RivalsHouse_1F_Text_WentOutToRoute103",
+    "texte": "{RIVAL} est sur la Route 103.\n\nLe carnet du jour n'est pas ici.\nC'est comme ça que je le sais."
+  },
+  {
+    "repere": "RivalsHouse_1F_Text_ShouldGoHomeEverySoOften",
+    "texte": "On peut partir longtemps avec des\nPokémon et ne manquer de rien.\n\nLaisse tout de même un mot à Luzia.\nElle compte les assiettes."
+  },
+  {
+    "repere": "RivalsHouse_1F_Text_MayWhoAreYou",
+    "texte": "Flora. Tu es le nouveau voisin ?\n\nSeko m'a parlé de toi. Je relève\nles Pokémon près des pompes.\n\nJe dois le retrouver dehors.\nOn se reverra sur la route."
+  },
+  {
+    "repere": "RivalsHouse_1F_Text_BrendanWhoAreYou",
+    "texte": "Brice. Tu loges à côté, c'est ça ?\n\nSeko m'a parlé de toi. Tu n'as pas\nencore de Pokémon ?\n\nJe vais l'aider sur le terrain.\nOn se reverra dehors."
+  },
+  {
+    "repere": "RivalsHouse_1F_Text_DoYouHavePokemon",
+    "texte": "Tu as déjà un Pokémon à toi ?\nOn peut te prêter une gamelle."
+  },
+  {
+    "repere": "RivalsHouse_2F_Text_MayWhoAreYou",
+    "texte": "Flora. Tu viens d'arriver ?\n\nJe classe les relevés de Seko.\nIl m'a demandé de l'aider dehors.\n\nJe te montrerai où on travaille.\nÀ plus tard !"
+  },
+  {
+    "repere": "RivalsHouse_2F_Text_MayGettingReady",
+    "texte": "Pokémon soignés, carnet rangé...\nOh, je ne t'avais pas entendu !"
+  },
+  {
+    "repere": "RivalsHouse_2F_Text_BrendanWhoAreYou",
+    "texte": "Brice. Tu viens de chez Luzia ?\n\nJ'ai encore des relevés à faire.\nSeko m'attend dehors.\n\nSi tu n'as pas de Pokémon, viens\nnous voir plus tard."
+  },
+  {
+    "repere": "RivalsHouse_2F_Text_BrendanGettingReady",
+    "texte": "Pokémon soignés, matériel rangé...\nAh, tu es là !"
+  },
+  {
+    "repere": "RivalsHouse_2F_Text_ItsRivalsPokeBall",
+    "texte": "La Poké Ball de {RIVAL}.\n\nElle a sa place sur l'étagère.\n{PLAYER} la laisse là."
+  },
+  {
+    "repere": "RivalsHouse_2F_Text_MayJustCheckingMyPokedex",
+    "texte": "Flora. Je relis mon Pokédex.\n\nJ'ai vu plus de Pokémon que je n'en\nai attrapés.\n\nJe cherche les formes qui manquent\nentre deux relevés."
+  },
+  {
+    "repere": "RivalsHouse_2F_Text_MayWhereShouldIGoNext",
+    "texte": "Flora. Je vais chercher une route\nque je n'ai pas encore parcourue.\n\nOn se croisera peut-être."
+  },
+  {
+    "repere": "RivalsHouse_2F_Text_BrendanJustCheckingMyPokedex",
+    "texte": "Brice. Je relis mon Pokédex.\n\nIl manque encore des espèces.\nJ'ai envie de repartir les chercher."
+  },
+  {
+    "repere": "RivalsHouse_2F_Text_BrendanWhereShouldIGoNext",
+    "texte": "Brice. Je ne sais pas encore où\nfaire le prochain relevé.\n\nSi on se croise, on fera un combat.\nÇa nous dira où on en est."
+  }
+]
