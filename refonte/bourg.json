@@ -1,0 +1,66 @@
+[
+  {
+    "repere": "LittlerootTown_Text_WaitPlayer",
+    "texte": "Armand ! Attends. Tu perds quelque\nchose à chaque pas."
+  },
+  {
+    "repere": "LittlerootTown_Text_WearTheseRunningShoes",
+    "texte": "Tes semelles se décollent. Prends\nces chaussures de sport. Ici, le\n\ncordonnier garde des paires pour\nceux qui arrivent."
+  },
+  {
+    "repere": "LittlerootTown_Text_SwitchShoesWithRunningShoes",
+    "texte": "{PLAYER} pose ses souliers vernis\nsous le banc. La paire de sport lui\n\nva."
+  },
+  {
+    "repere": "LittlerootTown_Text_ExplainRunningShoes",
+    "texte": "Dehors, maintiens B pour courir.\nEssaie jusqu'au portail. Je veux\n\nvoir si le talon frotte."
+  },
+  {
+    "repere": "LittlerootTown_Text_ComeHomeIfAnythingHappens",
+    "texte": "Si tu rentres tard, soulève la porte\nen tournant la poignée. Elle coince\n\ndepuis les pluies. Je te garde du\nriz."
+  },
+  {
+    "repere": "LittlerootTown_Text_CanUsePCToStoreItems",
+    "texte": "Le PC garde tes objets et tes\nPokémon. Moi, j'y laisse une Potion\n\npour le jour où ma mère me dira que\ntout va bien."
+  },
+  {
+    "repere": "LittlerootTown_Text_BirchSpendsDaysInLab",
+    "texte": "Chez Seko, on met toujours une\nassiette de trop. Quand il quitte le\n\nlabo pour les marais, personne ne\nsait pour combien de repas."
+  },
+  {
+    "repere": "LittlerootTown_Text_IfYouGoInGrassPokemonWillJumpOut",
+    "texte": "Regarde au ras des herbes. Quand\ndeux tiges s'écartent à la fois, un\n\nPokémon sauvage est déjà tout\nprès."
+  },
+  {
+    "repere": "LittlerootTown_Text_DangerousIfYouDontHavePokemon",
+    "texte": "Seul dans ces herbes ? Même les\nporteurs qui connaissent la route\n\nprennent un Pokémon avec eux."
+  },
+  {
+    "repere": "LittlerootTown_Text_CanYouGoSeeWhatsHappening",
+    "texte": "Tu entends ? Quelqu'un crie là-haut.\nJe reste avec le petit. Va voir sur\n\nla route, je t'en prie."
+  },
+  {
+    "repere": "LittlerootTown_Text_YouSavedBirch",
+    "texte": "Seko est rentré. Sa soupe aussi\nétait froide. Il a mangé debout en\n\nracontant comment tu avais ouvert\nson sac."
+  },
+  {
+    "repere": "LittlerootTown_Text_GoodLuckCatchingPokemon",
+    "texte": "Si tu ramènes un Pokémon, passe me\nle montrer. Mon frère les dessine de\n\nmémoire et leur met toujours trop\nde pattes."
+  },
+  {
+    "repere": "LittlerootTown_Text_ProfBirchsLab",
+    "texte": "Labo de Seko. Essuyez la boue avant\nd'entrer. Les empreintes sous la\n\nvitre sont des échantillons."
+  },
+  {
+    "repere": "LittlerootTown_Text_PlayersHouse",
+    "texte": "Chambre de {PLAYER}. Quelqu'un a\nretourné l'étiquette au dos du nom\n\nprécédent."
+  },
+  {
+    "repere": "LittlerootTown_Text_ProfBirchsHouse",
+    "texte": "Maison de Seko. Pour le labo, suivez\nles traces de bottes."
+  },
+  {
+    "repere": "LittlerootTown_Text_BirchSomethingToShowYouAtLab",
+    "texte": "Ton Pokédex a encore de la place ?\nAu labo, j'ai reçu des relevés des\n\nîles. Viens voir qui vivait là, de\nl'autre côté de nos cartes."
+  }
+]
