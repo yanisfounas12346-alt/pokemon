@@ -73,7 +73,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Reject",
-    "texte": "D'accord. Bonne chance pour la suite."
+    "texte": "D'accord. Bonne chance !"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice2Intro",
@@ -109,7 +109,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice3Accept",
-    "texte": "Parfait. Je m'occupe de l'inscription."
+    "texte": "Parfait. Je vais nous inscrire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice3Reject",
@@ -149,7 +149,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice5Accept",
-    "texte": "On fait équipe ! Je vais nous inscrire."
+    "texte": "On fait équipe !\nJe vais nous inscrire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice5Reject",
@@ -165,11 +165,11 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice6Mon2Ask",
-    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nÇa te convient pour un Combat Multi ?"
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nPartant pour un Combat Multi ?"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice6Accept",
-    "texte": "Merci. Je reviens après l'inscription."
+    "texte": "Merci. Je vais au guichet."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice6Reject",
@@ -193,7 +193,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Reject",
-    "texte": "D'accord. Bonne chance pour la suite."
+    "texte": "D'accord. Bonne chance !"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice8Intro",
@@ -229,7 +229,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Accept",
-    "texte": "Parfait. Je m'occupe de l'inscription."
+    "texte": "Parfait. Je vais nous inscrire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Reject",
@@ -257,7 +257,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Intro",
-    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJ'ai oublié mon numéro... Non, ça va."
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nMon numéro... Ah, je m'en souviens."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Mon1",
@@ -269,7 +269,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Accept",
-    "texte": "On fait équipe ! Je vais nous inscrire."
+    "texte": "On fait équipe !\nJe vais nous inscrire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Reject",
@@ -285,11 +285,11 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice12Mon2Ask",
-    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nÇa te convient pour un Combat Multi ?"
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nPartant pour un Combat Multi ?"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice12Accept",
-    "texte": "Merci. Je reviens après l'inscription."
+    "texte": "Merci. Je vais au guichet."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice12Reject",
@@ -317,7 +317,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice14Intro",
-    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJ'ai pris froid. Mes Pokémon vont bien."
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJ'ai pris froid.\nMes Pokémon vont bien."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice14Mon1",
@@ -349,7 +349,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice15Accept",
-    "texte": "Parfait. Je m'occupe de l'inscription."
+    "texte": "Parfait. Je vais nous inscrire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice15Reject",
@@ -393,7 +393,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_LassReject",
-    "texte": "D'accord. Bonne chance pour la suite."
+    "texte": "D'accord. Bonne chance !"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_YoungsterIntro",
@@ -413,7 +413,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_YoungsterReject",
-    "texte": "Je vais attendre un autre partenaire."
+    "texte": "J'attendrai un autre partenaire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_HikerIntro",
@@ -429,7 +429,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_HikerAccept",
-    "texte": "Parfait. Je m'occupe de l'inscription."
+    "texte": "Parfait. Je vais nous inscrire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_HikerReject",
@@ -469,7 +469,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_FishermanAccept",
-    "texte": "On fait équipe ! Je vais nous inscrire."
+    "texte": "On fait équipe !\nJe vais nous inscrire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_FishermanReject",
@@ -485,11 +485,11 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_LadyMon2Ask",
-    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nÇa te convient pour un Combat Multi ?"
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nPartant pour un Combat Multi ?"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_LadyAccept",
-    "texte": "Merci. Je reviens après l'inscription."
+    "texte": "Merci. Je vais au guichet."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_LadyReject",
@@ -513,7 +513,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteFReject",
-    "texte": "D'accord. Bonne chance pour la suite."
+    "texte": "D'accord. Bonne chance !"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugCatcherIntro",
@@ -533,7 +533,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugCatcherReject",
-    "texte": "Je vais attendre un autre partenaire."
+    "texte": "J'attendrai un autre partenaire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidMIntro",
@@ -549,7 +549,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidMAccept",
-    "texte": "Parfait. Je m'occupe de l'inscription."
+    "texte": "Parfait. Je vais nous inscrire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidMReject",
@@ -589,7 +589,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BlackBeltAccept",
-    "texte": "On fait équipe ! Je vais nous inscrire."
+    "texte": "On fait équipe !\nJe vais nous inscrire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BlackBeltReject",
@@ -605,11 +605,11 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberFMon2Ask",
-    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nÇa te convient pour un Combat Multi ?"
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nPartant pour un Combat Multi ?"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberFAccept",
-    "texte": "Merci. Je reviens après l'inscription."
+    "texte": "Merci. Je vais au guichet."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberFReject",
@@ -633,7 +633,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_HexManiacReject",
-    "texte": "D'accord. Bonne chance pour la suite."
+    "texte": "D'accord. Bonne chance !"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederMIntro",
@@ -653,7 +653,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederMReject",
-    "texte": "Je vais attendre un autre partenaire."
+    "texte": "J'attendrai un autre partenaire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteFIntro",
@@ -669,7 +669,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteFAccept",
-    "texte": "Parfait. Je m'occupe de l'inscription."
+    "texte": "Parfait. Je vais nous inscrire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RunningTriathleteFReject",
@@ -709,7 +709,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BattleGirlAccept",
-    "texte": "On fait équipe ! Je vais nous inscrire."
+    "texte": "On fait équipe !\nJe vais nous inscrire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BattleGirlReject",
@@ -725,11 +725,11 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteMMon2Ask",
-    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nÇa te convient pour un Combat Multi ?"
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nPartant pour un Combat Multi ?"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteMAccept",
-    "texte": "Merci. Je reviens après l'inscription."
+    "texte": "Merci. Je vais au guichet."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CyclingTriathleteMReject",
@@ -753,7 +753,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_TuberMReject",
-    "texte": "D'accord. Bonne chance pour la suite."
+    "texte": "D'accord. Bonne chance !"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_GuitaristIntro",
@@ -773,7 +773,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_GuitaristReject",
-    "texte": "Je vais attendre un autre partenaire."
+    "texte": "J'attendrai un autre partenaire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_GentlemanIntro",
@@ -789,7 +789,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_GentlemanAccept",
-    "texte": "Parfait. Je m'occupe de l'inscription."
+    "texte": "Parfait. Je vais nous inscrire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_GentlemanReject",
@@ -829,7 +829,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertMAccept",
-    "texte": "On fait équipe ! Je vais nous inscrire."
+    "texte": "On fait équipe !\nJe vais nous inscrire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertMReject",
@@ -845,11 +845,11 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertFMon2Ask",
-    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nÇa te convient pour un Combat Multi ?"
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nPartant pour un Combat Multi ?"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertFAccept",
-    "texte": "Merci. Je reviens après l'inscription."
+    "texte": "Merci. Je vais au guichet."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_ExpertFReject",
@@ -873,7 +873,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_DragonTamerReject",
-    "texte": "D'accord. Bonne chance pour la suite."
+    "texte": "D'accord. Bonne chance !"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BirdKeeperIntro",
@@ -893,7 +893,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BirdKeeperReject",
-    "texte": "Je vais attendre un autre partenaire."
+    "texte": "J'attendrai un autre partenaire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_NinjaBoyIntro",
@@ -909,7 +909,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_NinjaBoyAccept",
-    "texte": "Parfait. Je m'occupe de l'inscription."
+    "texte": "Parfait. Je vais nous inscrire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_NinjaBoyReject",
@@ -949,7 +949,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugManiacAccept",
-    "texte": "On fait équipe ! Je vais nous inscrire."
+    "texte": "On fait équipe !\nJe vais nous inscrire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_BugManiacReject",
@@ -965,11 +965,11 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SailorMon2Ask",
-    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nÇa te convient pour un Combat Multi ?"
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nPartant pour un Combat Multi ?"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SailorAccept",
-    "texte": "Merci. Je reviens après l'inscription."
+    "texte": "Merci. Je vais au guichet."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SailorReject",
@@ -993,7 +993,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CollectorReject",
-    "texte": "D'accord. Bonne chance pour la suite."
+    "texte": "D'accord. Bonne chance !"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerMIntro",
@@ -1013,11 +1013,11 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerMReject",
-    "texte": "Je vais attendre un autre partenaire."
+    "texte": "J'attendrai un autre partenaire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerFIntro",
-    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe travaille avec les Pokémon sauvages."
+    "texte": "Je m'appelle {STR_VAR_1}.\n\nJe protège les Pokémon sauvages."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerFMon1",
@@ -1029,7 +1029,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerFAccept",
-    "texte": "Parfait. Je m'occupe de l'inscription."
+    "texte": "Parfait. Je vais nous inscrire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnRangerFReject",
@@ -1069,7 +1069,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RuinManiacAccept",
-    "texte": "On fait équipe ! Je vais nous inscrire."
+    "texte": "On fait équipe !\nJe vais nous inscrire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_RuinManiacReject",
@@ -1085,11 +1085,11 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerMMon2Ask",
-    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nÇa te convient pour un Combat Multi ?"
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nPartant pour un Combat Multi ?"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerMAccept",
-    "texte": "Merci. Je reviens après l'inscription."
+    "texte": "Merci. Je vais au guichet."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerMReject",
@@ -1113,7 +1113,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_CoolTrainerFReject",
-    "texte": "D'accord. Bonne chance pour la suite."
+    "texte": "D'accord. Bonne chance !"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokemaniacIntro",
@@ -1133,7 +1133,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PokemaniacReject",
-    "texte": "Je vais attendre un autre partenaire."
+    "texte": "J'attendrai un autre partenaire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_KindlerIntro",
@@ -1149,7 +1149,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_KindlerAccept",
-    "texte": "Parfait. Je m'occupe de l'inscription."
+    "texte": "Parfait. Je vais nous inscrire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_KindlerReject",
@@ -1189,7 +1189,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PicnickerAccept",
-    "texte": "On fait équipe ! Je vais nous inscrire."
+    "texte": "On fait équipe !\nJe vais nous inscrire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PicnickerReject",
@@ -1205,11 +1205,11 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicMMon2Ask",
-    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nÇa te convient pour un Combat Multi ?"
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nPartant pour un Combat Multi ?"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicMAccept",
-    "texte": "Merci. Je reviens après l'inscription."
+    "texte": "Merci. Je vais au guichet."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicMReject",
@@ -1233,7 +1233,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PsychicFReject",
-    "texte": "D'accord. Bonne chance pour la suite."
+    "texte": "D'accord. Bonne chance !"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidFIntro",
@@ -1253,7 +1253,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SchoolKidFReject",
-    "texte": "Je vais attendre un autre partenaire."
+    "texte": "J'attendrai un autre partenaire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederFIntro",
@@ -1269,7 +1269,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederFAccept",
-    "texte": "Parfait. Je m'occupe de l'inscription."
+    "texte": "Parfait. Je vais nous inscrire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_PkmnBreederFReject",
@@ -1309,7 +1309,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerFAccept",
-    "texte": "On fait équipe ! Je vais nous inscrire."
+    "texte": "On fait équipe !\nJe vais nous inscrire."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerFReject",
@@ -1325,11 +1325,11 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteMMon2Ask",
-    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nÇa te convient pour un Combat Multi ?"
+    "texte": "un {STR_VAR_2} avec\n{STR_VAR_1}.\n\nPartant pour un Combat Multi ?"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteMAccept",
-    "texte": "Merci. Je reviens après l'inscription."
+    "texte": "Merci. Je vais au guichet."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteMReject",
@@ -1353,7 +1353,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmingTriathleteFReject",
-    "texte": "D'accord. Bonne chance pour la suite."
+    "texte": "D'accord. Bonne chance !"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerMIntro",
@@ -1373,6 +1373,6 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_SwimmerMReject",
-    "texte": "Je vais attendre un autre partenaire."
+    "texte": "J'attendrai un autre partenaire."
   }
 ]
