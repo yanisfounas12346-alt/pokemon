@@ -13,7 +13,7 @@
   },
   {
     "repere": "PetalburgCity_Gym_Text_WallyIveNeverCaughtAPokemon",
-    "texte": "Je pars chez des parents à Vergazon.\n\nJe voudrais un Pokémon pour la route.\nMais je ne sais pas en attraper."
+    "texte": "Je pars chez des parents à Vergazon.\n\nJe voudrais un Pokémon pour la\nroute. Mais je ne sais pas en\n\nattraper."
   },
   {
     "repere": "PetalburgCity_Gym_Text_DadHmISee",
@@ -141,7 +141,7 @@
   },
   {
     "repere": "PetalburgCity_Gym_Text_GeorgePostBattle",
-    "texte": "Tu as gagné par ton entraînement.\n\nContinue vers la salle Coup Critique."
+    "texte": "Tu as gagné par ton entraînement.\n\nContinue vers la salle Coup\nCritique."
   },
   {
     "repere": "PetalburgCity_Gym_Text_GeorgePostBadge",
@@ -193,7 +193,7 @@
   },
   {
     "repere": "PetalburgCity_Gym_Text_AlexiaPostBadge",
-    "texte": "As-tu essayé Surf depuis ta victoire ?\n\nOn voit d'autres choses depuis l'eau."
+    "texte": "As-tu essayé Surf depuis ta victoire\n?\n\nOn voit d'autres choses depuis\nl'eau."
   },
   {
     "repere": "PetalburgCity_Gym_Text_JodyIntro",

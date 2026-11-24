@@ -345,7 +345,7 @@
   },
   {
     "repere": "MauvilleCity_House2_Text_BuyHarborMailAtSlateport",
-    "texte": "J'aimerais acheter une Lettre Port\nà la boutique de Poivressel.\n\nAvec un vélo, le trajet serait court."
+    "texte": "J'aimerais acheter une Lettre Port\nà la boutique de Poivressel.\n\nAvec un vélo, le trajet serait\ncourt."
   },
   {
     "repere": "MauvilleCity_House2_Text_TradeHarborMailForCoinCase",

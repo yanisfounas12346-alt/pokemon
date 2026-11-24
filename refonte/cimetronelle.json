@@ -77,7 +77,7 @@
   },
   {
     "repere": "FortreeCity_Gym_Text_EdwardoPostBattle",
-    "texte": "Il y a tant de Dresseurs à rencontrer\nau-delà de ces arbres.\n\nJe partirai un jour."
+    "texte": "Il y a tant de Dresseurs à\nrencontrer au-delà de ces arbres.\n\nJe partirai un jour."
   },
   {
     "repere": "FortreeCity_Gym_Text_FlintIntro",
@@ -241,7 +241,7 @@
   },
   {
     "repere": "FortreeCity_House4_Text_BringsWorldCloserTogether",
-    "texte": "Les Pokémon portent parfois\ndes nouvelles d'un bout à l'autre\nde Hoenn.\n\nOn rencontre ainsi des gens\nqu'on n'aurait jamais connus."
+    "texte": "Les Pokémon portent parfois\ndes nouvelles d'un bout à l'autre\n\nde Hoenn.\n\nOn rencontre ainsi des gens\nqu'on n'aurait jamais connus."
   },
   {
     "repere": "FortreeCity_House4_Text_GoBirdPokemon",

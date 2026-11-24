@@ -1,7 +1,7 @@
 [
   {
     "repere": "PetalburgCity_Text_WhereIsWally",
-    "texte": "Tu n'aurais pas vu Timmy ?\n\nOn doit bientôt partir pour Vergazon.\nSa valise est prête depuis hier."
+    "texte": "Tu n'aurais pas vu Timmy ?\n\nOn doit bientôt partir pour\nVergazon. Sa valise est prête depuis\n\nhier."
   },
   {
     "repere": "PetalburgCity_Text_AreYouRookieTrainer",
@@ -85,7 +85,7 @@
   },
   {
     "repere": "PetalburgCity_PokemonCenter_1F_Text_ManyTypesOfPokemon",
-    "texte": "Chaque type de Pokémon a ses forces\net ses faiblesses.\n\nChoisis tes attaques en tenant compte\ndu type de ton adversaire."
+    "texte": "Chaque type de Pokémon a ses forces\net ses faiblesses.\n\nChoisis tes attaques en tenant\ncompte du type de ton adversaire."
   },
   {
     "repere": "PetalburgCity_PokemonCenter_1F_Text_TreeckoIsGrassType",
@@ -93,7 +93,7 @@
   },
   {
     "repere": "PetalburgCity_PokemonCenter_1F_Text_TorchicIsFireType",
-    "texte": "Poussifeu est de type Feu.\n\nIl est fort contre les types Plante\net Insecte, mais faible face à l'Eau."
+    "texte": "Poussifeu est de type Feu.\n\nIl est fort contre les types Plante\net Insecte, mais faible face à\n\nl'Eau."
   },
   {
     "repere": "PetalburgCity_PokemonCenter_1F_Text_MudkipIsWaterType",
@@ -109,7 +109,7 @@
   },
   {
     "repere": "PetalburgCity_WallysHouse_Text_PleaseExcuseUs",
-    "texte": "Merci d'être venu, {PLAYER}.\n\nÀ Vergazon, Timmy reprend des forces.\nIl parle encore du Pokémon attrapé.\n\nSon père sort une enveloppe.\nTiens, je voulais te donner ça."
+    "texte": "Merci d'être venu, {PLAYER}.\n\nÀ Vergazon, Timmy reprend des\nforces. Il parle encore du Pokémon\n\nattrapé.\n\nSon père sort une enveloppe.\nTiens, je voulais te donner ça."
   },
   {
     "repere": "PetalburgCity_WallysHouse_Text_SurfGoAllSortsOfPlaces",
@@ -129,6 +129,6 @@
   },
   {
     "repere": "PetalburgCity_WallysHouse_Text_WallyLeftWithoutTelling",
-    "texte": "Timmy est parti de Vergazon.\nNe le dis pas à mon mari.\n\nIl est plus courageux qu'on le croit.\nJe laisse la lumière pour son retour."
+    "texte": "Timmy est parti de Vergazon.\nNe le dis pas à mon mari.\n\nIl est plus courageux qu'on le\ncroit. Je laisse la lumière pour son\n\nretour."
   }
 ]

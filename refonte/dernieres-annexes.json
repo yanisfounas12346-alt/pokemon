@@ -1,11 +1,11 @@
 [
   {
     "repere": "TrainerHill_Entrance_Text_StillGettingReady",
-    "texte": "Le Mont Dresseurs est en préparation.\n\nRevenez après son ouverture."
+    "texte": "Le Mont Dresseurs est en\npréparation.\n\nRevenez après son ouverture."
   },
   {
     "repere": "TrainerHill_Entrance_Text_WelcomeToTrainerHill",
-    "texte": "Bienvenue au Mont Dresseurs.\n\nUne épreuve chronométrée vous attend."
+    "texte": "Bienvenue au Mont Dresseurs.\n\nUne épreuve chronométrée vous\nattend."
   },
   {
     "repere": "TrainerHill_Entrance_Text_SaveGameBeforeEnter",
@@ -49,7 +49,7 @@
   },
   {
     "repere": "TrainerHill_Entrance_Text_ExplainTrainerHill",
-    "texte": "Rejoignez le propriétaire sur le toit\nle plus vite possible.\n\nLes meilleurs temps figurent\nsur le Panneau des Temps.\n\nLes combats ne donnent ni argent\nni points d'expérience."
+    "texte": "Rejoignez le propriétaire sur le\ntoit le plus vite possible.\n\nLes meilleurs temps figurent\nsur le Panneau des Temps.\n\nLes combats ne donnent ni argent\nni points d'expérience."
   },
   {
     "repere": "TrainerHill_Entrance_Text_NeedAtLeastTwoPokemon",
@@ -57,7 +57,7 @@
   },
   {
     "repere": "TrainerHill_Entrance_Text_ChallengeTime",
-    "texte": "{STR_VAR_1} min {STR_VAR_2},{STR_VAR_3} s"
+    "texte": "{STR_VAR_1} min\n{STR_VAR_2},{STR_VAR_3} s"
   },
   {
     "repere": "TrainerHill_Entrance_Text_WhatSortOfTrainersAreAhead",
@@ -73,7 +73,7 @@
   },
   {
     "repere": "TrainerHill_Entrance_Text_DoYouKnowWhenTheyOpen",
-    "texte": "J'attends l'ouverture du Mont.\n\nJe voudrais être le premier à entrer."
+    "texte": "J'attends l'ouverture du Mont.\n\nJe voudrais être le premier à\nentrer."
   },
   {
     "repere": "TrainerHill_Roof_Text_YouFinallyCameBravo",
@@ -101,7 +101,7 @@
   },
   {
     "repere": "TrainerHill_Roof_Text_BuiltTrainerHillToFindPartner",
-    "texte": "J'ai fait construire le Mont\npour trouver un partenaire de combat."
+    "texte": "J'ai fait construire le Mont pour\ntrouver un partenaire de combat."
   },
   {
     "repere": "TrainerHill_Elevator_Text_ReturnToReception",
@@ -141,7 +141,7 @@
   },
   {
     "repere": "SootopolisCity_MysteryEventsHouse_1F_Text_OnlyAmusementWatchingBattles",
-    "texte": "J'ai parcouru Hoenn dans ma jeunesse.\n\nMaintenant, je reçois des Dresseurs\net j'observe leurs combats."
+    "texte": "J'ai parcouru Hoenn dans ma\njeunesse.\n\nMaintenant, je reçois des Dresseurs\net j'observe leurs combats."
   },
   {
     "repere": "SootopolisCity_MysteryEventsHouse_1F_Text_DoorAppearsToBeLocked",
@@ -189,7 +189,7 @@
   },
   {
     "repere": "SootopolisCity_MysteryEventsHouse_1F_Text_TooBadForYou",
-    "texte": "Tu as perdu cette fois.\n\nTu peux revenir pour un autre combat."
+    "texte": "Tu as perdu cette fois.\n\nTu peux revenir pour un autre\ncombat."
   },
   {
     "repere": "SootopolisCity_MysteryEventsHouse_B1F_Text_MatchEndedUpDraw",
