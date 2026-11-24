@@ -80,3 +80,24 @@ Les tests automatiques utilisent des données artificielles ; ils ne valident
 ni les adresses françaises réelles ni le scénario en jeu. Les textes
 ambigus, les codes spéciaux non pris en charge et les références indirectes
 doivent être traités séparément. Aucun patch complet n'est publié à cette étape.
+
+## 5. Exporter un UPS expérimental vérifié
+
+Après une injection locale réussie, conserver le journal `essai-local.gba.json`
+créé par l'injecteur. L'exporteur vérifie la base et la v3, reconstruit les
+modifications décrites par le journal et refuse toute modification hors journal.
+
+```sh
+python3 refonte/exporter-ups.py \
+  --rom /chemin/emerald-fr.gba \
+  --rom-injectee /chemin/essai-local.gba \
+  --journal /chemin/essai-local.gba.json \
+  --sortie /chemin/La-Part-des-absents-experimentale.ups
+```
+
+Le patch est calculé contre la ROM d'origine et vérifié dans les deux sens,
+octet pour octet, avec contrôle des CRC. Un rapport de vérification JSON
+est créé à côté du patch. Ce contrôle de cohérence binaire ne démontre pas
+que les pointeurs approuvés sont corrects en jeu ni que tous les textes
+sont intégrés. Ne pas publier ce patch comme version finale sans validation
+sur émulateur et traitement des repères restants.

@@ -37,6 +37,8 @@ jobs:
         env:
           CHARMAP_REFERENCE: source-pokeemerald/charmap.txt
         run: python3 refonte/test-injecteur.py
+      - name: Tester l'export UPS et les journaux d'injection
+        run: python3 refonte/test-exporter-ups.py
       - name: Générer le rapport d'audit
         run: |
           mkdir -p rapports
