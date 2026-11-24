@@ -17,7 +17,7 @@
   },
   {
     "repere": "MossdeepCity_SpaceCenter_1F_Text_RocketLaunchDemandsPerfection",
-    "texte": "Chaque équipe signe ses vérifications.\n\nUne seule pièce mal contrôlée\npeut annuler le départ.\n\nOn recommence jusqu'à ce que\ntout soit en ordre."
+    "texte": "Chaque équipe signe ses\nvérifications.\n\nUne seule pièce mal contrôlée\npeut annuler le départ.\n\nOn recommence jusqu'à ce que\ntout soit en ordre."
   },
   {
     "repere": "MossdeepCity_SpaceCenter_1F_Text_MagmaHaveSightsOnSpaceCenter",
@@ -25,7 +25,7 @@
   },
   {
     "repere": "MossdeepCity_SpaceCenter_1F_Text_FoundThisYouCanHaveIt",
-    "texte": "J'ai trouvé cette pierre sur la plage.\n\nPrends-la si elle te plaît."
+    "texte": "J'ai trouvé cette pierre sur la\nplage.\n\nPrends-la si elle te plaît."
   },
   {
     "repere": "MossdeepCity_SpaceCenter_1F_Text_HoennFamousForMeteorShowers",
@@ -57,7 +57,7 @@
   },
   {
     "repere": "MossdeepCity_SpaceCenter_1F_Text_StevenMagmaCantBeAllowedToTakeFuel",
-    "texte": "Pierre. {PLAYER}, as-tu lu la lettre ?\n\nLes Trumps réclament le carburant.\nIls ne peuvent pas le prendre.\n\nJe vais rester ici pour surveiller.\nTu peux visiter l'île en attendant."
+    "texte": "Pierre. {PLAYER}, as-tu lu la lettre\n?\n\nLes Trumps réclament le carburant.\nIls ne peuvent pas le prendre.\n\nJe vais rester ici pour surveiller.\nTu peux visiter l'île en attendant."
   },
   {
     "repere": "MossdeepCity_SpaceCenter_1F_Text_Grunt3Intro",
@@ -173,7 +173,7 @@
   },
   {
     "repere": "MossdeepCity_SpaceCenter_2F_Text_Grunt7PostBattle",
-    "texte": "Nous n'avons pas réussi à te retenir."
+    "texte": "Nous n'avons pas réussi à te\nretenir."
   },
   {
     "repere": "MossdeepCity_SpaceCenter_2F_Text_Grunt5PostBattle",

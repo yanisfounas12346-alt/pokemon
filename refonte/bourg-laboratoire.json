@@ -117,7 +117,7 @@
   },
   {
     "repere": "LittlerootTown_ProfessorBirchsLab_Text_GrassyPatchWaiting2",
-    "texte": "Tu as le titre de Maître de la Ligue.\n\nLes registres ne s'arrêtent pas\naux portes du Panthéon.\n\nIl reste des espèces à relever,\net des rives où retourner."
+    "texte": "Tu as le titre de Maître de la\nLigue.\n\nLes registres ne s'arrêtent pas\naux portes du Panthéon.\n\nIl reste des espèces à relever,\net des rives où retourner."
   },
   {
     "repere": "LittlerootTown_ProfessorBirchsLab_Text_MayTakeBreakFromFieldwork",
@@ -133,7 +133,7 @@
   },
   {
     "repere": "LittlerootTown_ProfessorBirchsLab_Text_CanHaveAnyOneOfRarePokemon",
-    "texte": "Ces Pokémon viennent de loin.\nTu peux en choisir un parmi les trois."
+    "texte": "Ces Pokémon viennent de loin. Tu\npeux en choisir un parmi les trois."
   },
   {
     "repere": "LittlerootTown_ProfessorBirchsLab_Text_YoullTakeCyndaquil",
@@ -149,7 +149,7 @@
   },
   {
     "repere": "LittlerootTown_ProfessorBirchsLab_Text_TakeYourTimeAllInvaluable",
-    "texte": "Prends le temps de les regarder.\nIl n'y a pas de prix sur leurs fiches."
+    "texte": "Prends le temps de les regarder. Il\nn'y a pas de prix sur leurs fiches."
   },
   {
     "repere": "LittlerootTown_ProfessorBirchsLab_Text_PickedFinePokemon",
@@ -165,7 +165,7 @@
   },
   {
     "repere": "LittlerootTown_ProfessorBirchsLab_Text_GrassyPatchWaiting",
-    "texte": "Tu as rempli le Pokédex de Hoenn.\n\nIl reste des régions à découvrir.\nLes Pokémon ne lisent pas nos cartes."
+    "texte": "Tu as rempli le Pokédex de Hoenn.\n\nIl reste des régions à découvrir.\nLes Pokémon ne lisent pas nos\n\ncartes."
   },
   {
     "repere": "LittlerootTown_ProfessorBirchsLab_Text_BetterLeaveOthersAlone",
@@ -185,11 +185,11 @@
   },
   {
     "repere": "LittlerootTown_ProfessorBirchsLab_Text_MayHaveYouGoneToBattleFrontier",
-    "texte": "Flora. Es-tu allé à la Zone de Combat ?"
+    "texte": "Flora. Es-tu allé à la Zone de\nCombat ?"
   },
   {
     "repere": "LittlerootTown_ProfessorBirchsLab_Text_BrendanHaveYouGoneToBattleFrontier",
-    "texte": "Brice. Es-tu allé à la Zone de Combat ?"
+    "texte": "Brice. Es-tu allé à la Zone de\nCombat ?"
   },
   {
     "repere": "LittlerootTown_ProfessorBirchsLab_Text_ScottAboardSSTidalCall",

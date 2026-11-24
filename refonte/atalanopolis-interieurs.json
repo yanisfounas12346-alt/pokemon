@@ -1,7 +1,7 @@
 [
   {
     "repere": "SootopolisCity_Gym_1F_Text_GymGuideAdvice",
-    "texte": "Juan utilise le type Eau.\n\nLes types Plante et Électrik\npeuvent être efficaces.\n\nPour le rejoindre, traverse la glace."
+    "texte": "Juan utilise le type Eau.\n\nLes types Plante et Électrik\npeuvent être efficaces.\n\nPour le rejoindre, traverse la\nglace."
   },
   {
     "repere": "SootopolisCity_Gym_1F_Text_GymGuidePostVictory",
@@ -221,7 +221,7 @@
   },
   {
     "repere": "SootopolisCity_House4_Text_AncientTreasuresWaitingInSea",
-    "texte": "Il paraît qu'une ancienne ruine\nse trouve sous la mer près d'ici.\n\nPersonne ne sait ce qu'elle contient."
+    "texte": "Il paraît qu'une ancienne ruine\nse trouve sous la mer près d'ici.\n\nPersonne ne sait ce qu'elle\ncontient."
   },
   {
     "repere": "SootopolisCity_House4_Text_StrollUnderwaterWithPokemon",

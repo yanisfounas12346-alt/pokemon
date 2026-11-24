@@ -1,7 +1,7 @@
 [
   {
     "repere": "SeafloorCavern_Entrance_Text_HearMagmaNearMossdeep",
-    "texte": "Je te reconnais. Tu suis les Marks.\n\nOn a aperçu les Trumps près\nd'Algatia. Ils cherchent autre chose."
+    "texte": "Je te reconnais. Tu suis les Marks.\n\nOn a aperçu les Trumps près\nd'Algatia. Ils cherchent autre\n\nchose."
   },
   {
     "repere": "SeafloorCavern_Entrance_Text_HearMagmaNearMossdeepShort",
@@ -17,7 +17,7 @@
   },
   {
     "repere": "SeafloorCavern_Room1_Text_Grunt1PostBattle",
-    "texte": "J'attendais une promotion.\n\nJe ne sais plus à quoi elle servirait."
+    "texte": "J'attendais une promotion.\n\nJe ne sais plus à quoi elle\nservirait."
   },
   {
     "repere": "SeafloorCavern_Room1_Text_Grunt2Intro",
@@ -29,7 +29,7 @@
   },
   {
     "repere": "SeafloorCavern_Room1_Text_Grunt2PostBattle",
-    "texte": "Le sous-marin de Poivressel\nn'était pas prévu pour autant de gens."
+    "texte": "Le sous-marin de Poivressel n'était\npas prévu pour autant de gens."
   },
   {
     "repere": "SeafloorCavern_Room3_Text_ShellyIntro",
@@ -77,7 +77,7 @@
   },
   {
     "repere": "SeafloorCavern_Room4_Text_Grunt4PostBattle",
-    "texte": "La carte est restée dans le bateau.\n\nPersonne ne veut retourner la chercher."
+    "texte": "La carte est restée dans le bateau.\n\nPersonne ne veut retourner la\nchercher."
   },
   {
     "repere": "SeafloorCavern_Room9_Text_ArchieHoldItRightThere",

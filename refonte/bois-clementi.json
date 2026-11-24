@@ -89,7 +89,7 @@
   },
   {
     "repere": "PetalburgWoods_Text_MiracleSeedExplanation",
-    "texte": "Le Grain Miracl renforce les\nattaques Plante du Pokémon qui le tient.\n\nD'autres objets à tenir donnent\nd'autres avantages."
+    "texte": "Le Grain Miracl renforce les\nattaques Plante du Pokémon qui le\n\ntient.\n\nD'autres objets à tenir donnent\nd'autres avantages."
   },
   {
     "repere": "PetalburgWoods_Text_TrainerTipsExperience",

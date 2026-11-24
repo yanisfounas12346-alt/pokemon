@@ -29,7 +29,7 @@
   },
   {
     "repere": "FallarborTown_MoveRelearnersHouse_Text_CantTeachEgg",
-    "texte": "Il faut attendre que cet Oeuf\néclose pour lui apprendre quelque chose."
+    "texte": "Il faut attendre que cet Oeuf éclose\npour lui apprendre quelque chose."
   },
   {
     "repere": "MeteorFalls_1F_2R_Text_NicolasIntro",
@@ -97,7 +97,7 @@
   },
   {
     "repere": "MeteorFalls_1F_2R_Text_JohnRematchIntro",
-    "texte": "John. Nous avons repris nos habitudes.\n\nNous sommes prêts tous les deux."
+    "texte": "John. Nous avons repris nos\nhabitudes.\n\nNous sommes prêts tous les deux."
   },
   {
     "repere": "MeteorFalls_1F_2R_Text_JohnRematchDefeat",

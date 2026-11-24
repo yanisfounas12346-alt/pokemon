@@ -125,7 +125,7 @@
   },
   {
     "repere": "FallarborTown_BattleTentLobby_Text_CameToCampOut",
-    "texte": "J'ai entendu parler d'une tente.\n\nJe pensais dormir sous la toile !\nPuisque je suis là, je vais combattre."
+    "texte": "J'ai entendu parler d'une tente.\n\nJe pensais dormir sous la toile !\nPuisque je suis là, je vais\n\ncombattre."
   },
   {
     "repere": "FallarborTown_BattleTentLobby_Text_ScottLookingForSomeone",
@@ -145,7 +145,7 @@
   },
   {
     "repere": "FallarborTown_Mart_Text_SellNuggetIFound",
-    "texte": "J'ai trouvé une Pépite dans la terre.\n\nJe vais la vendre pour acheter\ndes outils neufs."
+    "texte": "J'ai trouvé une Pépite dans la\nterre.\n\nJe vais la vendre pour acheter\ndes outils neufs."
   },
   {
     "repere": "FallarborTown_PokemonCenter_1F_Text_LanetteGreeting",

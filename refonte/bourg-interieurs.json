@@ -17,7 +17,7 @@
   },
   {
     "repere": "PlayersHouse_1F_Text_MaybeDadWillBeOn",
-    "texte": "Clémenti-Ville. C'est l'arène.\nOn annonce un entretien avec ton père."
+    "texte": "Clémenti-Ville. C'est l'arène. On\nannonce un entretien avec ton père."
   },
   {
     "repere": "PlayersHouse_1F_Text_GoIntroduceYourselfNextDoor",
@@ -29,7 +29,7 @@
   },
   {
     "repere": "PlayersHouse_1F_Text_DidYouMeetProfBirch",
-    "texte": "Tu as trouvé Seko ? Il oublie parfois\nqu'on l'attend."
+    "texte": "Tu as trouvé Seko ? Il oublie\nparfois qu'on l'attend."
   },
   {
     "repere": "PlayersHouse_1F_Text_YouShouldRestABit",
@@ -113,7 +113,7 @@
   },
   {
     "repere": "PlayersHouse_2F_Text_HowDoYouLikeYourRoom",
-    "texte": "Luzia entre sans frapper.\n\nLes déménageurs ont fini en bas.\nVérifie ce qu'on a mis sur ton bureau.\n\nLe tiroir du haut ferme mal."
+    "texte": "Luzia entre sans frapper.\n\nLes déménageurs ont fini en bas.\nVérifie ce qu'on a mis sur ton\n\nbureau.\n\nLe tiroir du haut ferme mal."
   },
   {
     "repere": "PlayersHouse_2F_Text_Notebook",
@@ -129,7 +129,7 @@
   },
   {
     "repere": "RivalsHouse_1F_Text_OhYoureTheNewNeighbor",
-    "texte": "Tu loges chez Luzia ? Entre.\n\n{STR_VAR_1} a ton âge.\nOn est en train de ranger les relevés.\n\nMonte à l'étage, si tu veux."
+    "texte": "Tu loges chez Luzia ? Entre.\n\n{STR_VAR_1} a ton âge. On est en\ntrain de ranger les relevés.\n\nMonte à l'étage, si tu veux."
   },
   {
     "repere": "RivalsHouse_1F_Text_LikeChildLikeFather",

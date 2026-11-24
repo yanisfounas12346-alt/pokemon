@@ -77,7 +77,7 @@
   },
   {
     "repere": "MossdeepCity_Gym_Text_GymGuideAdvice",
-    "texte": "Les champions utilisent le type Psy.\n\nAttention aux types Combat et Poison.\nLe combat se joue à deux Pokémon.\n\nPrépare leurs attaques combinées."
+    "texte": "Les champions utilisent le type Psy.\n\nAttention aux types Combat et\nPoison. Le combat se joue à deux\n\nPokémon.\n\nPrépare leurs attaques combinées."
   },
   {
     "repere": "MossdeepCity_Gym_Text_GymGuidePostVictory",
@@ -265,7 +265,7 @@
   },
   {
     "repere": "MossdeepCity_Gym_Text_TateAndLizaPreRematch",
-    "texte": "Lévy. Nous avons changé l'équipe.\nTatia. Pas notre façon de travailler.\n\nLévy. Prêt pour un autre combat ?\nTatia. Nous le sommes."
+    "texte": "Lévy. Nous avons changé l'équipe.\nTatia. Pas notre façon de\n\ntravailler.\n\nLévy. Prêt pour un autre combat ?\nTatia. Nous le sommes."
   },
   {
     "repere": "MossdeepCity_Gym_Text_TateAndLizaRematchDefeat",
@@ -277,7 +277,7 @@
   },
   {
     "repere": "MossdeepCity_Gym_Text_TateAndLizaRematchNeedTwoMons",
-    "texte": "Lévy. Il manque un Pokémon.\nTatia. Reviens avec deux Pokémon\naptes au combat."
+    "texte": "Lévy. Il manque un Pokémon.\nTatia. Reviens avec deux Pokémon\n\naptes au combat."
   },
   {
     "repere": "MossdeepCity_House1_Text_HmmYourPokemon",
@@ -393,7 +393,7 @@
   },
   {
     "repere": "MossdeepCity_StevensHouse_Text_NoSpaceForAnotherMon",
-    "texte": "Il n'y a plus de place dans l'équipe."
+    "texte": "Il n'y a plus de place dans\nl'équipe."
   },
   {
     "repere": "MossdeepCity_StevensHouse_Text_LeftPokeBallWhereItWas",
