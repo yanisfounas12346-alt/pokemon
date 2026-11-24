@@ -1,0 +1,450 @@
+[
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_DirectYouToBattleRoom",
+    "texte": "Je vais vous conduire à votre salle."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_DidntSaveBeforeQuitting",
+    "texte": "Votre défi a été interrompu\nsans sauvegarde.\n\nVous êtes disqualifié."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_CongratsBeatenSeven",
+    "texte": "Sept victoires consécutives ! "
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_EarnedFabulousPrize",
+    "texte": "Voici le prix de vos sept victoires. "
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_ReceivedPrize",
+    "texte": "{PLAYER} reçoit\n{STR_VAR_1} en récompense."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_BagFullMakeRoom",
+    "texte": "Votre sac est plein.\n\nFaites de la place et revenez."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_ThankYouForPlaying",
+    "texte": "Merci d'avoir participé. "
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_RecordWillBeSaved",
+    "texte": "Enregistrement du résultat.\nVeuillez patienter."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_WeveBeenWaitingForYou",
+    "texte": "Nous vous attendions. "
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_ProgressWillBeSaved",
+    "texte": "Sauvegarde avant votre entrée.\nVeuillez patienter."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_AboutToFace50thTrainer",
+    "texte": "Vous allez affronter le 50{SUPER_E}\nDresseur.\n\nDésormais, chaque série de sept\nvictoires pourra donner un Ruban\n\naux Pokémon qui ne l'ont pas encore."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_HereAreSomeRibbons",
+    "texte": "Voici les Rubans de votre série\nde sept victoires.\n\n{PLAYER} reçoit des Rubans !"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_PutRibbonOnMons",
+    "texte": "{PLAYER} remet les Rubans\naux Pokémon ayant participé."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_DescribeFeelingsAboutBattleTower",
+    "texte": "Nous recueillons les paroles\ndes Dresseurs avant un combat,\n\naprès une victoire ou une défaite.\nVoulez-vous nous confier les vôtres ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_FeelWhatWhenYouBegin",
+    "texte": "Que dites-vous avant un combat ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_FeelWhatWhenYouveWon",
+    "texte": "Que dites-vous après une victoire ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_FeelWhatWhenYouveLost",
+    "texte": "Que dites-vous après une défaite ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_DontThinkMuchAboutIt",
+    "texte": "D'accord. Je vous laisse réfléchir."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_ChangedYourMind",
+    "texte": "Vous souhaitez modifier vos paroles ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_ThatsHowYouFeel",
+    "texte": "Merci. Je vais les noter."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_WinsInRowRecorded",
+    "texte": "On conserve le nombre de victoires\nconsécutives.\n\nJe voudrais améliorer mon record."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_CanLeaveUntilLossOrSevenWins",
+    "texte": "Une série se termine après une\ndéfaite ou sept victoires.\n\nTu peux aussi sauvegarder pour\ninterrompre ton défi hors Multi Link."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_DoubleBattleRoomConstruction",
+    "texte": "Les salles Duo sont en travaux.\n\nRevenez après leur ouverture."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_MultiBattleRoomConstruction",
+    "texte": "Les salles Multi sont en travaux.\n\nRevenez après leur ouverture."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_LookForwardToAnotherChallenge",
+    "texte": "À votre prochain défi dans la Tour."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_WhichLevelMode",
+    "texte": "Niveau 50 ou niveau libre ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_PleaseSelectMons",
+    "texte": "Choisissez vos Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_OkayToSaveBeforeEntering",
+    "texte": "Sauvegarder avant d'entrer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_ShowYouToBattleRoom",
+    "texte": "Je vous conduis à la salle\n{STR_VAR_1}."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_RecordLastMatch",
+    "texte": "Enregistrer le dernier combat\nsur le Passe Zone ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_WelcomSingleBattle",
+    "texte": "Bienvenue à la Tour de Combat.\n\nInscriptions aux salles Solo."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_TakeSinglesChallenge",
+    "texte": "Participer à un défi Solo ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_ExplainSinglesChallenge",
+    "texte": "Inscrivez trois Pokémon.\n\nSept Dresseurs vous attendent\nen Combat Solo.\n\nBattez-les tous pour gagner\ndes Points de Combat.\n\nSauvegardez avant d'interrompre\nle défi pour pouvoir le reprendre."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_SelectThreeMons",
+    "texte": "Choisissez vos trois Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_WelcomeDoubleBattle",
+    "texte": "Bienvenue à la Tour de Combat.\n\nInscriptions aux salles Duo."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_TakeDoublesChallenge",
+    "texte": "Participer à un défi Duo ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_ExplainDoublesChallenge",
+    "texte": "Inscrivez quatre Pokémon.\n\nSept Dresseurs vous attendent\nen Combat Duo.\n\nBattez-les tous pour gagner\ndes Points de Combat.\n\nSauvegardez avant d'interrompre\nle défi pour pouvoir le reprendre."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_PleaseSelectFourMons",
+    "texte": "Choisissez vos quatre Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_WelcomeMultiBattle",
+    "texte": "Bienvenue à la Tour de Combat.\n\nInscriptions aux salles Multi."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_TakeMultisChallenge",
+    "texte": "Participer à un défi Multi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_ExplainMultisChallenge",
+    "texte": "Choisissez deux Pokémon et trouvez\nun partenaire dans le Salon.\n\nIl combattra avec deux Pokémon.\nSept équipes vous attendent.\n\nBattez-les pour gagner des Points\nde Combat.\n\nSauvegardez avant d'interrompre\nle défi pour pouvoir le reprendre."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_PleaseSelectTwoMons",
+    "texte": "Choisissez vos deux Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_WelcomeLinkMultiBattle",
+    "texte": "Bienvenue à la Tour de Combat.\n\nInscriptions aux salles Multi Link."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_TakeLinkMultisChallenge",
+    "texte": "Participer à un défi Multi Link ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_ExplainLinkMultisChallenge",
+    "texte": "Connectez deux consoles avec\nles adaptateurs sans fil ou le\ncâble Game Boy Advance Game Link.\n\nChaque joueur inscrit deux Pokémon\ndifférents de ceux du partenaire.\n\nSept équipes vous attendent.\nBattez-les pour gagner des Points.\n\nEn Multi Link, aucune pause\nn'est possible pendant la série."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_PleaseSelectTwoMons2",
+    "texte": "Choisissez vos deux Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_ChoseSameMonAsFriend",
+    "texte": "Votre partenaire a choisi la même\nespèce de Pokémon.\n\nChoisissez deux espèces différentes\net le même niveau, puis réinscrivez-vous."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_LinkMultiOnlyForTwoPlayers",
+    "texte": "Le Multi Link nécessite deux\njoueurs connectés."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_FriendAlsoSelectedMon",
+    "texte": "Votre partenaire a aussi choisi\n{STR_VAR_1}."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_FriendAlsoSelectedMons",
+    "texte": "Votre partenaire a aussi choisi\n{STR_VAR_1} et {STR_VAR_2}."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_FriendChoseDifferentLvlMode",
+    "texte": "Votre partenaire a choisi\nune autre catégorie de niveau."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_FriendChoseDifferentLvlModeSameMon",
+    "texte": "Votre partenaire a choisi\nune autre catégorie de niveau.\n\nIl a aussi choisi {STR_VAR_1}."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_FriendChoseDifferentLvlModeSameMons",
+    "texte": "Votre partenaire a choisi\nune autre catégorie de niveau.\n\nIl a aussi choisi\n{STR_VAR_1} et {STR_VAR_2}."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_ChooseDifferentMonsMatchLvlMode",
+    "texte": "Choisissez deux espèces différentes\nde celles de votre partenaire.\n\nChoisissez le même niveau,\npuis inscrivez-vous de nouveau."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_SaveGameBeforeShowingIn",
+    "texte": "Sauvegarde avant votre entrée.\nVeuillez patienter."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_CongratsDefeatedMaiden",
+    "texte": "Vous avez battu Cathy et terminé\nla série de sept combats."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_AwardYouTheseBattlePoints",
+    "texte": "Voici vos Points de Combat."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_RulesAreListed",
+    "texte": "Règlement de la Tour de Combat."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_ReadWhichHeading",
+    "texte": "Quel chapitre voulez-vous lire ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_ExplainTowerRules",
+    "texte": "Quatre formats sont proposés :\nSolo, Duo, Multi et Multi Link.\n\nPrésentez-vous au guichet\ncorrespondant à votre choix."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_ExplainMonRules",
+    "texte": "Solo : trois Pokémon.\nDuo : quatre Pokémon.\n\nMulti et Multi Link : deux Pokémon\npar Dresseur."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_ExplainSalonRules",
+    "texte": "Choisissez un partenaire dans\nle Salon de Combat.\n\nExaminez ses Pokémon et capacités.\nAprès sept victoires, vous pourrez\n\nchanger de partenaire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_ExplainMultiLinkRules",
+    "texte": "Deux joueurs se connectent par\nadaptateur sans fil ou câble\nGame Boy Advance Game Link.\n\nChacun choisit deux Pokémon\nd'espèces différentes de celles\n\nde son partenaire.\nAucune pause pendant la série."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_BattleRecordedOnPass",
+    "texte": "Le combat de {PLAYER} est inscrit\nsur le Passe Zone."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50Singles",
+    "texte": "Il faut trois Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpenSingles",
+    "texte": "Il faut trois Pokémon différents.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50Doubles",
+    "texte": "Il faut quatre Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpenDoubles",
+    "texte": "Il faut quatre Pokémon différents.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50Multis",
+    "texte": "Il faut deux Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpenMultis",
+    "texte": "Il faut deux Pokémon différents.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50",
+    "texte": "Il faut {STR_VAR_2} Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpen",
+    "texte": "Il faut {STR_VAR_2} Pokémon différents.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_RestoreMonsToFullHealth",
+    "texte": "Nous allons soigner vos Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_ReadyForOpponent",
+    "texte": "Adversaire numéro {STR_VAR_1}.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_RecordYourBattle",
+    "texte": "Enregistrer ce combat\nsur le Passe Zone ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_SaveAndQuitGame",
+    "texte": "Sauvegarder et quitter le jeu ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_SavingPleaseWait",
+    "texte": "Sauvegarde en cours."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_CancelYourChallenge",
+    "texte": "Abandonner ce défi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_RecordCouldntBeSaved",
+    "texte": "Une erreur est survenue.\nLa sauvegarde a échoué."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_SalonMaidenOnHerWay",
+    "texte": "Cathy, l'As du Salon, arrive.\n\nElle souhaite vous affronter."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_ReadyForSalonMaiden",
+    "texte": "Prêt à affronter l'As du Salon ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_GreetingsImAnabel",
+    "texte": "Cathy. Je dirige la Tour de Combat.\n\nJ'ai entendu parler de toi.\nLes récits ne sont pas tous pareils.\n\nJe voudrais voir comment\ntu combats, par moi-même."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_LetMeSeeYourTalent",
+    "texte": "Montre-moi ce que tu sais faire."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_AnabelTalentShallBeRecognized",
+    "texte": "Cathy. Tu as gagné.\n\nPrésente ton Passe Zone."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_ReceivedAbilitySymbol",
+    "texte": "Le Symbole Capacité a été ajouté\nau Passe Zone !"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_UntilNextTime",
+    "texte": "Tes Pokémon réagissent vite\nà tes décisions.\n\nNous nous retrouverons."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_AnabelYouCameBack",
+    "texte": "Cathy. Tu es revenu.\n\nJ'ai suivi tes résultats.\nCette fois, j'ai préparé\n\nune autre équipe."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_LetsBeginShallWe",
+    "texte": "Commençons ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_AnabelCongratsYourPassPlease",
+    "texte": "Cathy. Tu as encore gagné.\n\nTon Passe Zone, s'il te plaît."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_AbilitySymbolTookGoldenShine",
+    "texte": "Le Symbole Capacité devient doré !"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_WishICouldBattleYouAgain",
+    "texte": "J'ai beaucoup appris aujourd'hui.\n\nJ'aimerais te revoir au combat."
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor2ndOpponent",
+    "texte": "Adversaire 2 sur 7 prêt.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor3rdOpponent",
+    "texte": "Adversaire 3 sur 7 prêt.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor4thOpponent",
+    "texte": "Adversaire 4 sur 7 prêt.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor5thOpponent",
+    "texte": "Adversaire 5 sur 7 prêt.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor6thOpponent",
+    "texte": "Adversaire 6 sur 7 prêt.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerBattleRoom_Text_ReadyFor7thOpponent",
+    "texte": "Adversaire 7 sur 7 prêt.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor2ndOpponentSet",
+    "texte": "Équipe adverse 2 sur 7 prête.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiBattleRoom_Text_2ndOpponentSetNext",
+    "texte": "Prochaine équipe : numéro 2.\n\nBonne chance !"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor3rdOpponentSet",
+    "texte": "Équipe adverse 3 sur 7 prête.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiBattleRoom_Text_3rdOpponentSetNext",
+    "texte": "Prochaine équipe : numéro 3.\n\nBonne chance !"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor4thOpponentSet",
+    "texte": "Équipe adverse 4 sur 7 prête.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiBattleRoom_Text_4thOpponentSetNext",
+    "texte": "Prochaine équipe : numéro 4.\n\nBonne chance !"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor5thOpponentSet",
+    "texte": "Équipe adverse 5 sur 7 prête.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiBattleRoom_Text_5thOpponentSetNext",
+    "texte": "Prochaine équipe : numéro 5.\n\nBonne chance !"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor6thOpponentSet",
+    "texte": "Équipe adverse 6 sur 7 prête.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiBattleRoom_Text_6thOpponentSetNext",
+    "texte": "Prochaine équipe : numéro 6.\n\nBonne chance !"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiBattleRoom_Text_ReadyFor7thOpponentSet",
+    "texte": "Équipe adverse 7 sur 7 prête.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleTowerMultiBattleRoom_Text_7thOpponentSetNext",
+    "texte": "Prochaine équipe : numéro 7.\n\nBonne chance !"
+  },
+  {
+    "repere": "BattleFrontier_Text_ObtainedXBattlePoints",
+    "texte": "{PLAYER} reçoit {STR_VAR_1}\nPoint(s) de Combat."
+  },
+  {
+    "repere": "gText_LinkStandby3",
+    "texte": "Connexion en cours..."
+  },
+  {
+    "repere": "gText_YourPartnerHasRetired",
+    "texte": "Votre partenaire a abandonné.\n\nVotre défi est annulé."
+  }
+]
