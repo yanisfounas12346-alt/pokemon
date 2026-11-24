@@ -1,0 +1,226 @@
+[
+  {
+    "repere": "AbandonedShip_CaptainsOffice_Text_NoSuccessFindingScanner",
+    "texte": "Le capitaine Poupe m'a demandé\nd'examiner le Cactus.\n\nJe cherche encore son Scanner."
+  },
+  {
+    "repere": "AbandonedShip_CaptainsOffice_Text_OhCanYouDeliverScanner",
+    "texte": "Tu as trouvé le Scanner !\n\nPeux-tu le remettre au capitaine\nPoupe ? Je poursuis mon relevé."
+  },
+  {
+    "repere": "AbandonedShip_CaptainsOffice_Text_ThisIsSSCactus",
+    "texte": "Le Cactus.\n\nLe nom est encore lisible\nsur le registre du bord."
+  },
+  {
+    "repere": "AbandonedShip_Corridors_1F_Text_CharlieIntro",
+    "texte": "Je garde ma bouée, même ici.\n\nTu veux faire un combat ?"
+  },
+  {
+    "repere": "AbandonedShip_Corridors_1F_Text_CharlieDefeat",
+    "texte": "J'ai perdu l'équilibre !"
+  },
+  {
+    "repere": "AbandonedShip_Corridors_1F_Text_CharliePostBattle",
+    "texte": "Je dois apprendre à lancer\nmes Poké Balls sans lâcher ma bouée."
+  },
+  {
+    "repere": "AbandonedShip_Corridors_1F_Text_IsntItFunHere",
+    "texte": "On voit encore les numéros\ndes anciennes cabines."
+  },
+  {
+    "repere": "AbandonedShip_Corridors_B1F_Text_DuncanIntro",
+    "texte": "Mes Pokémon m'accompagnent\ndepuis ma première traversée.\n\nOn fait un combat ?"
+  },
+  {
+    "repere": "AbandonedShip_Corridors_B1F_Text_DuncanDefeat",
+    "texte": "Je vais reprendre mon souffle."
+  },
+  {
+    "repere": "AbandonedShip_Corridors_B1F_Text_DuncanPostBattle",
+    "texte": "L'arrière du bateau est immergé.\n\nAvec Plongée, tu pourrais\nexplorer les pièces du fond."
+  },
+  {
+    "repere": "AbandonedShip_Corridors_B1F_Text_YayItsAShip",
+    "texte": "Regarde ! Un vrai bateau !"
+  },
+  {
+    "repere": "AbandonedShip_Corridors_B1F_Text_DoorIsLocked",
+    "texte": "La porte est verrouillée.\n\nUne plaque indique : Stockage."
+  },
+  {
+    "repere": "AbandonedShip_Corridors_B1F_Text_InsertedStorageKey",
+    "texte": "{PLAYER} tourne la Clé Stockage.\n\nLa serrure résiste, puis cède."
+  },
+  {
+    "repere": "AbandonedShip_HiddenFloorCorridors_Text_Rm1DoorIsLocked",
+    "texte": "Porte verrouillée.\nSalle 1."
+  },
+  {
+    "repere": "AbandonedShip_HiddenFloorCorridors_Text_Rm2DoorIsLocked",
+    "texte": "Porte verrouillée.\nSalle 2."
+  },
+  {
+    "repere": "AbandonedShip_HiddenFloorCorridors_Text_Rm4DoorIsLocked",
+    "texte": "Porte verrouillée.\nSalle 4."
+  },
+  {
+    "repere": "AbandonedShip_HiddenFloorCorridors_Text_Rm6DoorIsLocked",
+    "texte": "Porte verrouillée.\nSalle 6."
+  },
+  {
+    "repere": "AbandonedShip_HiddenFloorCorridors_Text_InsertedKey",
+    "texte": "{PLAYER} tourne la clé.\n\nLa serrure grince. La porte s'ouvre."
+  },
+  {
+    "repere": "AbandonedShip_HiddenFloorRooms_Text_BrightShinyTrash",
+    "texte": "Un reflet sur le sol.\n\nCe n'est qu'un débris de métal."
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_DanIntro",
+    "texte": "Joe. Nous cherchions des objets.\n\nOn a trouvé un Dresseur !"
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_DanDefeat",
+    "texte": "Joe. Nous avons perdu ensemble."
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_DanPostBattle",
+    "texte": "Joe. Les tiroirs sont vides.\n\nQuelqu'un est passé avant nous."
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_DanNotEnoughMons",
+    "texte": "Joe. Reviens avec deux Pokémon\naptes au combat."
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_KiraIntro",
+    "texte": "Rita. Tu explores le Cactus aussi ?\n\nAffronte-nous !"
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_KiraDefeat",
+    "texte": "Rita. Nous avons perdu !"
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_KiraPostBattle",
+    "texte": "Rita. Je me demande ce qu'il reste\ndans les cabines immergées."
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_KiraNotEnoughMons",
+    "texte": "Rita. Il te faut deux Pokémon\naptes au combat."
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_KiraRegister",
+    "texte": "Rita. Échangeons nos numéros\nde PokéNav pour une revanche."
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_DanRematchIntro",
+    "texte": "Joe. Nos Pokémon ont progressé\npendant nos recherches.\n\nOn te montre ?"
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_DanRematchDefeat",
+    "texte": "Joe. Tu as encore gagné."
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_DanPostRematch",
+    "texte": "Joe. Les recherches n'ont rien donné.\n\nJ'aimerais rentrer. Il faut encore\nen parler à Rita."
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_DanRematchNotEnoughMons",
+    "texte": "Joe. Reviens avec deux Pokémon\naptes au combat."
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_KiraRematchIntro",
+    "texte": "Rita. Tu es revenu !\n\nNous cherchons toujours.\nFaisons un autre combat."
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_KiraRematchDefeat",
+    "texte": "Rita. Encore une défaite..."
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_KiraPostRematch",
+    "texte": "Rita. Nous allons nous entraîner.\n\nJe voudrais finir nos recherches\navant de rentrer."
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_KiraRematchNotEnoughMons",
+    "texte": "Rita. Il te faut deux Pokémon\naptes au combat."
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_JaniIntro",
+    "texte": "Je nage assez mal.\n\nMais je sais combattre."
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_JaniDefeat",
+    "texte": "Je n'ai pas trouvé mon rythme."
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_JaniPostBattle",
+    "texte": "Le plancher est couvert d'échardes.\n\nJ'aurais dû mettre mes chaussures."
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_GarrisonIntro",
+    "texte": "Il faut prendre soin de son équipe\npendant les longues traversées."
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_GarrisonDefeat",
+    "texte": "Tes Pokémon tiennent bon."
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_1F_Text_GarrisonPostBattle",
+    "texte": "J'ai vu un reflet dans une cabine.\n\nIl reste peut-être des objets."
+  },
+  {
+    "repere": "AbandonedShip_Rooms2_B1F_Text_PerfectPlaceToGoExploring",
+    "texte": "On trouve encore des choses ici.\n\nJe voudrais savoir à qui elles\nappartenaient."
+  },
+  {
+    "repere": "AbandonedShip_Rooms_1F_Text_TakingALookAround",
+    "texte": "J'étudie les anciens navires.\n\nLe Cactus a d'autres cabines\nque je n'ai pas encore visitées."
+  },
+  {
+    "repere": "AbandonedShip_Rooms_1F_Text_ThaliaIntro",
+    "texte": "Qu'est-ce qui t'amène ici ?\n\nFaisons un combat."
+  },
+  {
+    "repere": "AbandonedShip_Rooms_1F_Text_ThaliaDefeat",
+    "texte": "Tu sais te débrouiller."
+  },
+  {
+    "repere": "AbandonedShip_Rooms_1F_Text_ThaliaPostBattle",
+    "texte": "L'homme d'à côté relève les numéros\ndes cabines.\n\nJe ne sais pas ce qu'il cherche."
+  },
+  {
+    "repere": "AbandonedShip_Rooms_1F_Text_ThaliaRegister",
+    "texte": "J'aimerais te revoir.\n\nÉchangeons nos numéros de PokéNav."
+  },
+  {
+    "repere": "AbandonedShip_Rooms_1F_Text_ThaliaRematchIntro",
+    "texte": "Tu poursuis tes recherches ?\n\nJe suis prête pour une revanche."
+  },
+  {
+    "repere": "AbandonedShip_Rooms_1F_Text_ThaliaRematchDefeat",
+    "texte": "Tu as encore progressé."
+  },
+  {
+    "repere": "AbandonedShip_Rooms_1F_Text_ThaliaPostRematch",
+    "texte": "L'homme revient toujours ici.\n\nIl examine les mêmes cabines."
+  },
+  {
+    "repere": "AbandonedShip_Rooms_1F_Text_DemetriusIntro",
+    "texte": "Ah ! Tu m'as trouvé !"
+  },
+  {
+    "repere": "AbandonedShip_Rooms_1F_Text_DemetriusDefeat",
+    "texte": "Oh, tu n'es pas maman !"
+  },
+  {
+    "repere": "AbandonedShip_Rooms_1F_Text_DemetriusPostBattle",
+    "texte": "Je me suis caché pour ne pas\nme faire gronder.\n\nJe vais bientôt ressortir."
+  },
+  {
+    "repere": "AbandonedShip_Rooms_B1F_Text_GettingQueasy",
+    "texte": "J'ai encore le mal de mer.\n\nPourtant, ce bateau ne bouge plus."
+  },
+  {
+    "repere": "AbandonedShip_Text_TheDoorIsOpen",
+    "texte": "La porte est ouverte."
+  }
+]
