@@ -68,7 +68,7 @@ donner à qui, maintenant ?
 Remplacer le texte de cette réplique. [Repère FR · EverGrandeCity_DrakesRoom_Text_IntroSpeech](https://github.com/pret/pokeemerald/blob/8baea56025e07db971b68f88aa85370f7432383e/data/maps/EverGrandeCity_DrakesRoom/text_fr.inc#L2)
 
 ```text
-Le bidon du cimetière. Il fuit près
+Le bidon de Manille. Il fuit près
 de l'anse.
 
 Si vous comptez le peser pour le
@@ -135,7 +135,7 @@ demander la largeur de l'escalier.
 Remplacer le texte de cette réplique. [Repère FR · EverGrandeCity_HallOfFame_Text_LetsRecordYouAndYourPartnersNames](https://github.com/pret/pokeemerald/blob/8baea56025e07db971b68f88aa85370f7432383e/data/maps/EverGrandeCity_HallOfFame/text_fr.inc#L10)
 
 ```text
-Plus tard, au cimetière, l'eau
+Plus tard, à Manille, l'eau
 clapote.
 
 Armand a encore peur. Il sort la main

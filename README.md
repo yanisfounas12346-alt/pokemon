@@ -21,7 +21,7 @@ Les cinq blocs ci-dessous révèlent la fin.
 
 ## 1. La jolie ville
 
-Au Cimetière Nord de Manille, le merle peint sur les boîtes aux lettres a trois pattes. Armand de Vaugrive l’avait dessiné ainsi à huit ans. Ce jeune comte bourguignon croit aux prix librement convenus, aux domaines qui passent de père en fils et aux mains propres pour dîner. En sortant du camion, il croit entendre Mara, la mécanicienne qui l’a repêché enfant dans le lavoir de leur domaine, près de Beaune. Il appelle. Personne ne répond. La ville ressemble au livret en couleurs que son père montrait aux investisseurs. Même musique, même beau temps. La gardienne lui explique que l’enfer présente à chacun le quartier qu’il a payé pour voir. Sur la Route 101, Paz et son frère Ilo, deux orphelins, lui demandent de tenir un bidon. L’eau clapote. Il rentre ses mains tremblantes dans ses poches et répond qu’ils sont payés pour ça. Au cercle I, à Mérouville, son merle est frappé sur les compteurs d’eau. Dans le tunnel, un marin récupère le Goélise que les Marks avaient réquisitionné pour le dispensaire. Quand il siffle, l’oiseau lève la patte pour qu’on y boucle la sangle de livraison. Au cercle II, à Myokara, Armand retrouve l’acte du clos offert pour ses dix ans. L’acompte venait des cautions confisquées aux abonnés de Manille.
+À Manille, le merle peint sur les boîtes aux lettres a trois pattes. Armand de Vaugrive l’avait dessiné ainsi à huit ans. Ce jeune comte bourguignon croit aux prix librement convenus, aux domaines qui passent de père en fils et aux mains propres pour dîner. En sortant du camion, il croit entendre Mara, la mécanicienne qui l’a repêché enfant dans le lavoir de leur domaine, près de Beaune. Il appelle. Personne ne répond. La ville ressemble au livret en couleurs que son père montrait aux investisseurs. Même musique, même beau temps. La gardienne lui explique que l’enfer présente à chacun le quartier qu’il a payé pour voir. Sur la Route 101, Paz et son frère Ilo, deux orphelins, lui demandent de tenir un bidon. L’eau clapote. Il rentre ses mains tremblantes dans ses poches et répond qu’ils sont payés pour ça. Au cercle I, à Mérouville, son merle est frappé sur les compteurs d’eau. Dans le tunnel, un marin récupère le Goélise que les Marks avaient réquisitionné pour le dispensaire. Quand il siffle, l’oiseau lève la patte pour qu’on y boucle la sangle de livraison. Au cercle II, à Myokara, Armand retrouve l’acte du clos offert pour ses dix ans. L’acompte venait des cautions confisquées aux abonnés de Manille.
 
 [Ouvrir les dialogues du bloc 1](dialogues/01-la-jolie-ville.md)
 
@@ -45,7 +45,7 @@ Les Marks font monter les enfants à bord. Par tirage au sort, la dernière couc
 
 ## 5. Les clefs
 
-À Éternara, quatre témoins attendent derrière les portes du Conseil. Chacun a apporté un objet qui tient dans une main. Au cercle IX, le président sort le plan qu’Armand a signé à dix-sept ans. Il y avait inclus les maisons des vignerons dans la garantie du clos. Si Armand reconnaît avoir reçu la lettre de Mara, la mutuelle rendra les cautions. Elle pourra alors livrer le domaine au négociant qui exige les maisons vides. Après le dernier combat, le greffier écrit « lettre égarée ». Armand le fait rayer. « Je l’ai lue. Le rond, c’est mon verre. » Paz reçoit sa clef. À Beaune, Hélène mesure son buffet pour savoir s’il passera chez sa sœur. Au cimetière, Paz tend enfin l’anse du bidon à Armand. Il la tient pendant qu’elle refait son lacet.
+À Éternara, quatre témoins attendent derrière les portes du Conseil. Chacun a apporté un objet qui tient dans une main. Au cercle IX, le président sort le plan qu’Armand a signé à dix-sept ans. Il y avait inclus les maisons des vignerons dans la garantie du clos. Si Armand reconnaît avoir reçu la lettre de Mara, la mutuelle rendra les cautions. Elle pourra alors livrer le domaine au négociant qui exige les maisons vides. Après le dernier combat, le greffier écrit « lettre égarée ». Armand le fait rayer. « Je l’ai lue. Le rond, c’est mon verre. » Paz reçoit sa clef. À Beaune, Hélène mesure son buffet pour savoir s’il passera chez sa sœur. À Manille, Paz tend enfin l’anse du bidon à Armand. Il la tient pendant qu’elle refait son lacet.
 
 [Ouvrir les dialogues du bloc 5](dialogues/05-les-clefs.md)
 
@@ -55,7 +55,7 @@ Base de repérage choisie pour cette édition, **Pokémon Émeraude en français
 
 | Élément à l’écran | Traitement dans le texte |
 | --- | --- |
-| Bourg-en-Vol, fleurs, musique | Le panneau donne le nom du cimetière. Le nom sur la carte et la ritournelle viennent du livret des investisseurs. |
+| Bourg-en-Vol, fleurs, musique | Le panneau indique Manille. Le nom sur la carte et la ritournelle viennent du livret des investisseurs. |
 | Team Aqua | Team Marks sur le terrain et sur les écrans de combat. |
 | Team Magma | Team Trumps sur le terrain et sur les écrans de combat. |
 | Nom du joueur | Le nom choisi sert sur la carte de Dresseur. Armand de Vaugrive est le nom civil inscrit au registre. |

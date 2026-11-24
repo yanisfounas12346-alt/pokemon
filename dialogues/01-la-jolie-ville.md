@@ -10,7 +10,7 @@ Remplacer le texte de cette réplique. [Repère FR · LittlerootTown_Text_OurNew
 Le camion s'ouvre. Des fleurs, deux
 maisons en bois.
 
-Sur le mur, Cimetière Nord de Manille.
+Sur le mur, Manille.
 
 Cet air...
 
@@ -37,8 +37,7 @@ Entrez. Le riz refroidit.
 Remplacer le texte de cette réplique. [Repère FR · LittlerootTown_Text_TownSign](https://github.com/pret/pokeemerald/blob/8baea56025e07db971b68f88aa85370f7432383e/data/maps/LittlerootTown/text_fr.inc#L93)
 
 ```text
-Cimetière Nord de Manille. Quartier
-des pompes.
+Manille. Quartier des pompes.
 
 Sur le dépliant des investisseurs,
 on lit Bourg-en-Vol.

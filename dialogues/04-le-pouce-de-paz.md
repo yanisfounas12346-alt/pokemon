@@ -71,7 +71,7 @@ personne. À seize ans,
 tu trouvais que tes métayers
 envoyaient trop souvent leurs fils.
 
-L'autre lit la copie du cimetière.
+L'autre lit la copie de Manille.
 Même rature, encore humide.
 
 Tu as barré les mots sauf ses
@@ -250,8 +250,8 @@ l'encoche du numéro.
 Ajouter ces pages à la suite du texte d’origine. [Repère FR · SootopolisCity_Gym_1F_Text_ExplainRainBadgeTakeThis](https://github.com/pret/pokeemerald/blob/8baea56025e07db971b68f88aa85370f7432383e/data/maps/SootopolisCity_Gym_1F/text_fr.inc#L64)
 
 ```text
-Paz déplie le reçu de Mara. Au
-cimetière, j'ai posé mon pouce là.
+Paz déplie le reçu de Mara. À
+Manille, j'ai posé mon pouce là.
 
 À Beaune, tu posais le tien pour
 toucher la concession.
