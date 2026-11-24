@@ -1,0 +1,322 @@
+[
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_WelcomeToBattlePyramid",
+    "texte": "Bienvenue à la Pyramide de Combat.\n\nInscriptions au Combat Quête."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_EmbarkOnChallenge",
+    "texte": "Voulez-vous tenter l'ascension ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_AwaitFutureChallenge",
+    "texte": "Revenez pour un prochain défi."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_ExplainBattlePyramid",
+    "texte": "Explorez sept étages labyrinthiques\npour atteindre le sommet.\n\nInscrivez trois Pokémon sans objet.\nNous vous prêtons un Sac de Combat.\n\nEn cas d'échec, son contenu est perdu.\nPour interrompre le défi,\n\nchoisissez Repos et sauvegardez.\nSans sauvegarde, pas de reprise."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_WhichLevelMode",
+    "texte": "Niveau 50 ou niveau libre ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_SelectThreeMons",
+    "texte": "Choisissez vos trois Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_NotEnoughValidMonsLvOpen",
+    "texte": "Il faut trois Pokémon admissibles\nne portant aucun objet.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_NotEnoughValidMonsLv50",
+    "texte": "Il faut trois Pokémon différents\nde niveau 50 ou moins, sans objet.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_OkayToSaveBeforeChallenge",
+    "texte": "Sauvegarder avant d'entrer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_ShowYouIntoPyramid",
+    "texte": "Suivez-moi dans la Pyramide."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_WeWillHoldBagForSafekeeping",
+    "texte": "Nous gardons votre sac,\n{PLAYER}, pendant l'exploration."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_PleaseTakePreviousBattleBag",
+    "texte": "Voici votre ancien Sac de Combat."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_PleaseTakeThisBattleBag",
+    "texte": "Voici votre nouveau Sac de Combat."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_ExchangedBagForBattleBag",
+    "texte": "{PLAYER} échange son sac\ncontre le Sac de Combat."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_StepOnFloorPanel",
+    "texte": "Cette plaque conduit à l'étage\nsupérieur.\n\nBonne route."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_DidntSaveBeforeQuittingTakeBag",
+    "texte": "Défi interrompu sans sauvegarde.\nVous êtes disqualifié.\n\n{PLAYER} récupère son sac."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_YouveConqueredPyramid",
+    "texte": "Vous avez atteint le sommet !\nBienvenue à votre retour."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_MonHoldingItemCannotTake",
+    "texte": "Un Pokémon porte encore un objet.\n\nLes objets trouvés dans la Pyramide\ndoivent rester ici."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_HeldItemsMovedToBag",
+    "texte": "{PLAYER}, nous plaçons les objets\ntenus dans le Sac de Combat."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_BagCannotHoldPickItemsToKeep",
+    "texte": "Le Sac de Combat est plein.\n\nChoisissez les objets à conserver\ndans le sac et sur les Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_LeastOneMonHoldingItem",
+    "texte": "Un Pokémon porte encore un objet."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_PickItemsToKeep",
+    "texte": "Choisissez les objets à conserver\ndans le sac et sur les Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_ReturnedEverythingMonsHeld",
+    "texte": "{PLAYER} rend tous les objets\ntenus par les Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_UsedBattleBagWillBeKept",
+    "texte": "Nous gardons votre Sac de Combat\npour le prochain défi.\n\n{PLAYER} récupère son sac."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_RecordResultsWait",
+    "texte": "Enregistrement du résultat.\nVeuillez patienter."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_ForConqueringPyramidTakeThis",
+    "texte": "Voici un souvenir de votre ascension."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_ReceivedPrizeItem",
+    "texte": "{PLAYER} reçoit\n{STR_VAR_1}."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_BagIsFull",
+    "texte": "Votre sac est plein.\n\nFaites de la place et revenez."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_DisappointingHereIsBag",
+    "texte": "Votre défi est terminé.\n\n{PLAYER} récupère son sac."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_LookForwardToNextChallenge",
+    "texte": "À votre prochain défi."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_HereIsPrize",
+    "texte": "Nous vous attendions.\n\nVoici votre récompense."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_TellYouWhatMisfortunesAwait",
+    "texte": "Je peux te dire ce qui t'attend\ndans la Pyramide."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_Aah",
+    "texte": "... Ah !"
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_HintParalysis",
+    "texte": "Je vois des étincelles.\n\nTes Pokémon risquent la paralysie."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_HintPoison",
+    "texte": "Je vois du poison.\n\nPrends garde aux empoisonnements."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_HintBurn",
+    "texte": "Je vois des flammes.\n\nTes Pokémon risquent des brûlures."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_HintPPWaste",
+    "texte": "Je vois les PP de tes Pokémon\ns'épuiser sous une forte pression.\n\nIls risquent de devoir utiliser Lutte."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_HintLevitate",
+    "texte": "Je vois des Pokémon en lévitation.\n\nLes capacités Sol ne les touchent pas."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_HintTrapAbility",
+    "texte": "Je sens une force venue du sol.\n\nTes Pokémon risquent de ne plus\npouvoir fuir."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_HintIce",
+    "texte": "Je vois des Pokémon de type Glace.\n\nLe froid menace ton équipe."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_HintExplosion",
+    "texte": "Je vois des Pokémon qui utilisent\ndes capacités autodestructrices.\n\nTon équipe risque d'en souffrir."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_HintWeather",
+    "texte": "Danse Pluie, Zénith,\nTempêtesable, Grêle...\n\nJe vois des Pokémon renforcés\npar les changements du climat."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_HintFlyingDragon",
+    "texte": "Je vois des Pokémon volants.\n\nLeurs attaques sont puissantes."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_HintStoneEvolve",
+    "texte": "Je vois des Pokémon qui évoluent\navec des pierres.\n\nLe feu, l'eau et l'électricité\nmenacent ton équipe."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_BelieveMyFortunesOrNot",
+    "texte": "Ce ne sont que des indications.\n\nÀ toi de choisir comment avancer."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_TrainersNoticeRunning",
+    "texte": "Courir attire les Dresseurs.\n\nMarche lentement près d'eux\npour éviter certains combats."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_LostLotOfItems",
+    "texte": "J'ai perdu mon défi et tous\nles objets de mon Sac de Combat."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_YouveDefeatedPyramidKing",
+    "texte": "Vous avez battu le Roi Pyramide\net atteint le sommet !"
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_GiveYouTheseBattlePoints",
+    "texte": "Voici vos Points de Combat."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_RulesAreListed",
+    "texte": "Règlement du Combat Quête."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_ReadWhichHeading",
+    "texte": "Quel chapitre voulez-vous lire ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_ExplainMonRules",
+    "texte": "Après chaque ascension réussie,\nles Pokémon sauvages changent.\n\nObservez les nouvelles espèces."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_ExplainTrainerRules",
+    "texte": "Chaque étage peut accueillir\njusqu'à huit Dresseurs.\n\nUne victoire vous donne un indice."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_ExplainMazeRules",
+    "texte": "Les labyrinthes changent\nà chaque entrée.\n\nIls sont peu éclairés. Battre un\nPokémon sauvage ou un Dresseur\n\naugmente la lumière."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_ExplainBagRules",
+    "texte": "Deux Sacs de Combat : un pour\nniveau 50, un pour niveau libre.\n\nChacun contient dix types d'objets,\n99 exemplaires de chaque au maximum.\n\nUn échec fait perdre son contenu."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_HintPsychic",
+    "texte": "Je vois des Pokémon de type Psy.\n\nPrends garde à leurs capacités."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_HintRock",
+    "texte": "Je vois des Pokémon de type Roche.\n\nPrends garde à leurs capacités."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_HintFighting",
+    "texte": "Je vois des Pokémon de type Combat.\n\nPrends garde à leurs capacités."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_HintBug",
+    "texte": "Je vois des Pokémon de type Insecte.\n\nPrends garde à leurs capacités."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_HintDark",
+    "texte": "Je vois des Pokémon de type Ténèbres.\n\nPrends garde à leurs capacités."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_HintWater",
+    "texte": "Je vois des Pokémon de type Eau.\n\nPrends garde à leurs capacités."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_HintGhost",
+    "texte": "Je vois des Pokémon de type Spectre.\n\nPrends garde à leurs capacités."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_HintSteel",
+    "texte": "Je vois des Pokémon de type Acier.\n\nPrends garde à leurs capacités."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidLobby_Text_HintNormal",
+    "texte": "Je vois des Pokémon de type Normal.\n\nPrends garde à leurs capacités."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidTop_Text_ReachedSummitUpYouGo",
+    "texte": "Vous avez atteint le sommet !\n\nVous pouvez admirer la vue."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidTop_Text_PlayerConqueredPyramid",
+    "texte": "{PLAYER} a conquis la Pyramide !"
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidTop_Text_ChiefBeatYouHere",
+    "texte": "Notre chef est arrivé avant vous.\n\nVous pouvez encore l'affronter.\nAvancez lorsque vous serez prêt."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidTop_Text_ExplorationsAreGrandestAdventure",
+    "texte": "Voyager avec peu de bagages,\nc'est apprendre à regarder\n\nce qui nous entoure.\nEt à compter sur ses Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidTop_Text_ImPyramidKingBrandon",
+    "texte": "Bayar. Je dirige cette Pyramide.\nOn m'appelle le Roi Pyramide.\n\nTu as traversé les sept étages.\nVoyons ce que tu as appris."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidTop_Text_BringCourageToOurBattle",
+    "texte": "À toi de jouer !"
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidTop_Text_BrandonFrontierPassPlease",
+    "texte": "Bayar. Tu as gagné !\n\nPrésente ton Passe Zone."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidTop_Text_ReceivedBraveSymbol",
+    "texte": "Le Symbole Bravoure a été ajouté\nau Passe Zone !"
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidTop_Text_LookForwardToNextMeeting",
+    "texte": "Bonne route jusqu'à notre revanche."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidTop_Text_BrandonYouveReturned",
+    "texte": "Bayar. Tu es de retour.\n\nJ'ai exploré d'autres chemins\ndepuis notre dernier combat.\n\nJe suis prêt à te retrouver."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidTop_Text_MyCourageIsOffMeter",
+    "texte": "Cette fois, je suis prêt !"
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidTop_Text_EverythingYouHave",
+    "texte": "Commençons notre combat."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidTop_Text_BrandonRemarkableHaveThis",
+    "texte": "Bayar. Encore une victoire !\n\nDonne-moi ton Passe Zone."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidTop_Text_BraveSymbolTookGoldenShine",
+    "texte": "Le Symbole Bravoure devient doré !"
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidTop_Text_FarewellForNow",
+    "texte": "J'ai encore beaucoup à apprendre.\n\nNos chemins se croiseront."
+  },
+  {
+    "repere": "BattleFrontier_BattlePyramidTop_Text_StepForwardWhenReady",
+    "texte": "Avancez lorsque vous serez prêt."
+  }
+]
