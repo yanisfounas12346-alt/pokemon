@@ -1,0 +1,94 @@
+[
+  {
+    "repere": "Route101_Text_DontLeaveMe",
+    "texte": "Seko appelle encore.\n\nNe pars pas ! Mon sac est juste là."
+  },
+  {
+    "repere": "Route101_Text_YouSavedMe",
+    "texte": "Seko reprend son souffle.\n\nMerci. Je notais les traces près\nde l'eau quand il a surgi.\n\nTu es le pensionnaire de Luzia ?\nViens au laboratoire, on y sera mieux."
+  },
+  {
+    "repere": "Route101_Text_TakeTiredPokemonToPokeCenter",
+    "texte": "Si tes Pokémon sont fatigués,\nva au Centre Pokémon de Rosyères.\n\nOn y soigne même ceux dont le\nmaître n'a rien dans les poches."
+  },
+  {
+    "repere": "Route101_Text_WildPokemonInTallGrass",
+    "texte": "Les Pokémon sauvages se cachent\ndans les herbes hautes.\n\nC'est là qu'il faut les chercher\nsi tu veux en attraper."
+  },
+  {
+    "repere": "Route101_Text_RouteSign",
+    "texte": "Route 101\n{UP_ARROW} Rosyères\n\nLe chemin des pompes est public."
+  },
+  {
+    "repere": "Route102_Text_WatchMeCatchPokemon",
+    "texte": "Timmy. Regarde, {PLAYER}.\n\nIl y en a un dans les herbes.\nJe vais essayer de l'attraper.\n\nJe veux pouvoir le faire tout seul."
+  },
+  {
+    "repere": "Route102_Text_WallyIDidIt",
+    "texte": "Timmy. J'ai réussi !\n\nC'est mon Pokémon. Regarde,\nil tient tout entier dans ma main."
+  },
+  {
+    "repere": "Route102_Text_LetsGoBack",
+    "texte": "Merci, {PLAYER}.\nRetournons à l'arène."
+  },
+  {
+    "repere": "Route102_Text_ImNotVeryTall",
+    "texte": "L'herbe me dépasse presque.\n\nQuand je rentre, on retrouve des\ngraines jusque dans mes manches.\n\nAtchoum !"
+  },
+  {
+    "repere": "Route102_Text_CatchWholeBunchOfPokemon",
+    "texte": "Je veux attraper des Pokémon.\n\nMon frère a gardé trois Balls\npour moi dans sa boîte à outils."
+  },
+  {
+    "repere": "Route102_Text_RouteSignOldale",
+    "texte": "Route 102\n{RIGHT_ARROW} Rosyères"
+  },
+  {
+    "repere": "Route102_Text_RouteSignPetalburg",
+    "texte": "Route 102\n{LEFT_ARROW} Clémenti-Ville"
+  },
+  {
+    "repere": "Route103_Text_MayRoute103Pokemon",
+    "texte": "Flora. Route 103, rive nord.\n\nIl manque deux espèces au relevé."
+  },
+  {
+    "repere": "Route103_Text_MayLetsBattle",
+    "texte": "Flora. Seko t'a confié un Pokémon !\n\nFaisons un combat. Tu verras\ncomment il répond à tes gestes."
+  },
+  {
+    "repere": "Route103_Text_MayDefeated",
+    "texte": "Flora. Tu t'en sors bien.\n\nIl te regarde avant chaque attaque."
+  },
+  {
+    "repere": "Route103_Text_MayTimeToHeadBack",
+    "texte": "Ton Pokémon vient de te rencontrer.\nIl connaît déjà ta voix.\n\nC'est drôle, les choses qu'on\napprend sans les écrire.\n\nRetournons au laboratoire."
+  },
+  {
+    "repere": "Route103_Text_BrendanRoute103Pokemon",
+    "texte": "Brice. Route 103, rive nord.\n\nEncore une empreinte à identifier."
+  },
+  {
+    "repere": "Route103_Text_BrendanLetsBattle",
+    "texte": "Brice. Seko t'a donné un Pokémon ?\n\nFaisons un combat pour voir\ncomment vous vous débrouillez."
+  },
+  {
+    "repere": "Route103_Text_BrendanDefeated",
+    "texte": "Brice. Bien joué.\nIl t'écoute drôlement bien."
+  },
+  {
+    "repere": "Route103_Text_BrendanTimeToHeadBack",
+    "texte": "Ton Pokémon connaît déjà ta voix.\nVous venez pourtant de vous voir.\n\nJe vais noter ce qu'on a appris.\nRetournons au laboratoire."
+  },
+  {
+    "repere": "Route103_Text_ShouldHaveBroughtPotion",
+    "texte": "Mon Pokémon est épuisé.\n\nJ'ai laissé ma Potion sur la table.\nJe vais devoir rentrer."
+  },
+  {
+    "repere": "Route103_Text_ShortcutToOldale",
+    "texte": "En traversant l'eau, on rejoint\nRosyères par un raccourci.\n\nÀ pied, il faut faire le tour."
+  },
+  {
+    "repere": "Route103_Text_RouteSign",
+    "texte": "Route 103\n{DOWN_ARROW} Rosyères"
+  }
+]
