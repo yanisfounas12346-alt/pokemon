@@ -26,16 +26,20 @@ def load_report(manifest_path, report_path):
     rows = {r["repere"]: r for r in manifest["repliques_secondaires"]}
     candidates = {}
     others = []
+    seen = set()
     for item in report["reperes"]:
         label = item["repere"]
         if label not in rows:
             raise ValueError("Repère absent du manifeste : " + label)
-        if label in candidates:
+        if label in seen:
             raise ValueError("Repère dupliqué : " + label)
+        seen.add(label)
         if item["etat"] == "candidat_a_revoir":
             candidates[label] = item
         else:
             others.append(item)
+    if seen != set(rows):
+        raise ValueError("Repérage incomplet")
     return rows, candidates, others, fingerprints
 
 def prepare(rows, candidates, others, fingerprints):
