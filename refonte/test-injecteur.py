@@ -62,9 +62,10 @@ class TestCodec(unittest.TestCase):
                 self.codec.encode(bad)
 
     def test_double_source_terminator(self):
-        self.assertEqual(self.codec.encode("AB$", True), bytes.fromhex("BB BC FF FF"))
+        end = chr(36)
+        self.assertEqual(self.codec.encode("AB" + end * 2, True), bytes.fromhex("BB BC FF FF"))
         self.assertEqual(self.codec.encode("AB"), bytes.fromhex("BB BC FF"))
-        for bad in ("A$B$", "AB$$", "AB", "$"):
+        for bad in ("A$B$", "AB" + end * 3, "AB", end * 2):
             with self.subTest(bad=bad), self.assertRaises(ValueError):
                 self.codec.encode(bad, True)
 
