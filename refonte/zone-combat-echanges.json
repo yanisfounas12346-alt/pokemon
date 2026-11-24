@@ -1,0 +1,278 @@
+[
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_WelcomePleaseChoosePrize",
+    "texte": "Bienvenue au Service d'Échange.\n\nChoisissez une récompense contre\nvos Points de Combat."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_PleaseChoosePrize",
+    "texte": "Choisissez un objet dans la liste."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_WellSendItToPC",
+    "texte": "Merci. Votre décoration sera\nenvoyée sur votre PC."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_HereIsYourPrize",
+    "texte": "Voici votre récompense."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_DontHaveEnoughPoints",
+    "texte": "Vous n'avez pas assez de Points\nde Combat."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_PCIsFull",
+    "texte": "Votre PC est plein."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_DontHaveSpaceToHoldIt",
+    "texte": "Vous n'avez pas assez de place."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ThankYouVisitWithPoints",
+    "texte": "Merci de votre visite.\n\nRevenez quand vous voudrez."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_WishIHadAllDolls",
+    "texte": "J'aimerais rapporter une poupée\npour chaque enfant de la maison."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_GetYouAnythingYouWant",
+    "texte": "Choisis ce qui te plaît.\n\nMaman va regarder ses points."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ItemsWillGetMonTougher",
+    "texte": "Je consulte les effets des objets\navant de dépenser mes points."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_GoGetYourOwnDoll",
+    "texte": "J'ai choisi cette poupée Lippouti.\n\nJ'ai déjà une place pour elle."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_MoreBattlePointsForRecord",
+    "texte": "Quand tu améliores ton record,\ntu peux gagner davantage de\nPoints de Combat."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_KissPosterDesc",
+    "texte": "Un grand poster de Lippouti."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_KissCushionDesc",
+    "texte": "Coussin Lippouti à poser\nsur un support."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_LargeDollDesc",
+    "texte": "Grande poupée à poser\nsur un support."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ProteinDesc",
+    "texte": "Augmente l'Attaque."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_CalciumDesc",
+    "texte": "Augmente l'Attaque Spéciale."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_IronDesc",
+    "texte": "Augmente la Défense."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ZincDesc",
+    "texte": "Augmente la Défense Spéciale."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_CarbosDesc",
+    "texte": "Augmente la Vitesse."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_HPUpDesc",
+    "texte": "Augmente les PV."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_LeftoversDesc",
+    "texte": "Restaure des PV à chaque tour."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_WhiteHerbDesc",
+    "texte": "Restaure les stats diminuées."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_QuickClawDesc",
+    "texte": "Permet parfois d'agir en premier."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_MentalHerbDesc",
+    "texte": "Annule l'attirance du porteur."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_BrightpowderDesc",
+    "texte": "Réduit les chances d'être touché."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ChoiceBandDesc",
+    "texte": "Renforce l'Attaque, mais impose\nla même capacité."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_KingsRockDesc",
+    "texte": "Peut apeurer la cible touchée."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_FocusBandDesc",
+    "texte": "Peut parfois éviter le K.O."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ScopeLensDesc",
+    "texte": "Augmente le taux de coups critiques."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmKissPoster",
+    "texte": "Récompense : Poster Baiser.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmKissCushion",
+    "texte": "Récompense : Coussin Baiser.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmSmoochumDoll",
+    "texte": "Récompense : Poupée Lippouti.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmTogepiDoll",
+    "texte": "Récompense : Poupée Togepi.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmMeowthDoll",
+    "texte": "Récompense : Poupée Miaouss.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmClefairyDoll",
+    "texte": "Récompense : Poupée Mélofée.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmDittoDoll",
+    "texte": "Récompense : Poup. Métamorph.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmCyndaquilDoll",
+    "texte": "Récompense : Poup. Héricendre.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmChikoritaDoll",
+    "texte": "Récompense : Poup. Germignon.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmTotodileDoll",
+    "texte": "Récompense : Poupée Kaiminus.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmLaprasDoll",
+    "texte": "Récompense : Poupée Lokhlass.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmSnorlaxDoll",
+    "texte": "Récompense : Poupée Ronflex.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmVenusaurDoll",
+    "texte": "Récompense : Poup. Florizarre.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmCharizardDoll",
+    "texte": "Récompense : Poup. Dracaufeu.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmBlastoiseDoll",
+    "texte": "Récompense : Poupée Tortank.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmProtein",
+    "texte": "Récompense : Protéine.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmCalcium",
+    "texte": "Récompense : Calcium.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmIron",
+    "texte": "Récompense : Fer.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmZinc",
+    "texte": "Récompense : Zinc.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmCarbos",
+    "texte": "Récompense : Carbone.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmHPUp",
+    "texte": "Récompense : PV Plus.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmBrightpowder",
+    "texte": "Récompense : Poudreclaire.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmWhiteHerb",
+    "texte": "Récompense : Herbeblanche.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmQuickClaw",
+    "texte": "Récompense : Vive Griffe.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmMentalHerb",
+    "texte": "Récompense : Herbe Mental.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmChoiceBand",
+    "texte": "Récompense : Band. Choix.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmKingsRock",
+    "texte": "Récompense : Roche Royale.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmFocusBand",
+    "texte": "Récompense : Bandeau.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmScopeLens",
+    "texte": "Récompense : Lentilscope.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ConfirmLeftovers",
+    "texte": "Récompense : Restes.\n\nConfirmez-vous votre choix ?"
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_SmoochumDollDesc",
+    "texte": "Poupée Lippouti\nà poser sur un support."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_TogepiDollDesc",
+    "texte": "Poupée Togepi\nà poser sur un support."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_MeowthDollDesc",
+    "texte": "Poupée Miaouss\nà poser sur un support."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ClefairyDollDesc",
+    "texte": "Poupée Mélofée\nà poser sur un support."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_DittoDollDesc",
+    "texte": "Poupée Métamorph\nà poser sur un support."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_CyndaquilDollDesc",
+    "texte": "Poupée Héricendre\nà poser sur un support."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_ChikoritaDollDesc",
+    "texte": "Poupée Germignon\nà poser sur un support."
+  },
+  {
+    "repere": "BattleFrontier_ExchangeServiceCorner_Text_TotodileDollDesc",
+    "texte": "Poupée Kaiminus\nà poser sur un support."
+  }
+]
