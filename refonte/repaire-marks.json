@@ -1,0 +1,130 @@
+[
+  {
+    "repere": "AquaHideout_1F_Text_OurBossIsSnatchingSomething",
+    "texte": "Arthur n'est pas à la planque.\n\nIl est parti chercher du matériel.\nJe n'ai pas le droit de te dire où."
+  },
+  {
+    "repere": "AquaHideout_1F_Text_WhereMightMagmaHideoutBe",
+    "texte": "Les Trumps ont découvert un Pokémon\ndans leur planque.\n\nJe ne sais pas où ils creusent."
+  },
+  {
+    "repere": "AquaHideout_1F_Text_BossWentToJackASubmarine",
+    "texte": "Arthur est parti chercher\nun sous-marin.\n\nLe reste de l'équipe l'attend ici."
+  },
+  {
+    "repere": "AquaHideout_1F_Text_BossIsOnRoute122",
+    "texte": "Arthur est parti vers le chenal 122.\n\nIl doit rejoindre le Mont Mémoria.\nJe ne sais rien de plus."
+  },
+  {
+    "repere": "AquaHideout_1F_Text_TeamMagmaAtMtChimney",
+    "texte": "Les Trumps cherchent un Pokémon\nau Mont Chimnée.\n\nPersonne ici ne sait lequel."
+  },
+  {
+    "repere": "AquaHideout_1F_Text_BossIsInSlateportCity",
+    "texte": "Arthur est parti pour Poivressel.\n\nIl doit passer par les quais.\nNous attendons son retour."
+  },
+  {
+    "repere": "AquaHideout_1F_Text_Grunt1Intro",
+    "texte": "Tu n'es pas sur la liste.\n\nIl faut que je te retienne."
+  },
+  {
+    "repere": "AquaHideout_1F_Text_Grunt1Defeat",
+    "texte": "Je n'ai pas réussi."
+  },
+  {
+    "repere": "AquaHideout_1F_Text_Grunt1PostBattle",
+    "texte": "On m'avait confié cette porte.\n\nJe ne sais pas quoi dire au chef."
+  },
+  {
+    "repere": "AquaHideout_B1F_Text_Grunt2Intro",
+    "texte": "L'accès aux salles du fond\nest réservé à notre équipe."
+  },
+  {
+    "repere": "AquaHideout_B1F_Text_Grunt2Defeat",
+    "texte": "Tu peux continuer."
+  },
+  {
+    "repere": "AquaHideout_B1F_Text_Grunt2PostBattle",
+    "texte": "Il y a un sous-marin au fond.\n\nPour le moment, on termine\nles préparatifs du départ."
+  },
+  {
+    "repere": "AquaHideout_B1F_Text_Grunt3Intro",
+    "texte": "Les provisions sont chargées.\nLe carburant aussi.\n\nIl ne manque que le signal."
+  },
+  {
+    "repere": "AquaHideout_B1F_Text_Grunt3Defeat",
+    "texte": "J'ai perdu le combat."
+  },
+  {
+    "repere": "AquaHideout_B1F_Text_Grunt3PostBattle",
+    "texte": "Je devais surtout te retenir\nle temps du chargement."
+  },
+  {
+    "repere": "AquaHideout_B1F_Text_Grunt5Intro",
+    "texte": "Je garde cette salle depuis l'aube.\n\nUn combat me tiendra éveillé."
+  },
+  {
+    "repere": "AquaHideout_B1F_Text_Grunt5Defeat",
+    "texte": "J'aurais dû dormir avant mon tour."
+  },
+  {
+    "repere": "AquaHideout_B1F_Text_Grunt5PostBattle",
+    "texte": "D'autres gardes sont encore\nà leur poste plus loin."
+  },
+  {
+    "repere": "AquaHideout_B1F_Text_Grunt7Intro",
+    "texte": "Les Marks nous ont donné\nces uniformes à l'arrivée.\n\nLe mien était trop grand."
+  },
+  {
+    "repere": "AquaHideout_B1F_Text_Grunt7Defeat",
+    "texte": "Même l'uniforme ne m'a pas aidé."
+  },
+  {
+    "repere": "AquaHideout_B1F_Text_Grunt7PostBattle",
+    "texte": "On m'a repris deux fois les manches.\n\nJe ne connais pas le nom\nde la couturière."
+  },
+  {
+    "repere": "AquaHideout_B2F_Text_MattDefeat",
+    "texte": "Je n'ai pas pu te retenir davantage."
+  },
+  {
+    "repere": "AquaHideout_B2F_Text_MattPostBattle",
+    "texte": "Arthur est parti vers une grotte\nsous la mer.\n\nCherche au-delà de Nénucrique\nsi tu comptes le suivre."
+  },
+  {
+    "repere": "AquaHideout_B2F_Text_Grunt4Intro",
+    "texte": "J'attends le signal depuis longtemps.\n\nAffronte-moi."
+  },
+  {
+    "repere": "AquaHideout_B2F_Text_Grunt4Defeat",
+    "texte": "Je vais devoir rester ici."
+  },
+  {
+    "repere": "AquaHideout_B2F_Text_Grunt4PostBattle",
+    "texte": "J'espère avoir rempli ma tâche."
+  },
+  {
+    "repere": "AquaHideout_B2F_Text_Grunt6Intro",
+    "texte": "Les téléporteurs relient les salles.\n\nOn s'y perd même quand on connaît\nles plans de la grotte."
+  },
+  {
+    "repere": "AquaHideout_B2F_Text_Grunt6Defeat",
+    "texte": "Tu as trouvé ton chemin malgré tout."
+  },
+  {
+    "repere": "AquaHideout_B2F_Text_Grunt6PostBattle",
+    "texte": "Je ne retrouve plus la Master Ball.\n\nLe chef m'avait pourtant demandé\nde la ranger en lieu sûr."
+  },
+  {
+    "repere": "AquaHideout_B2F_Text_Grunt8Intro",
+    "texte": "On m'a appris à utiliser\nles téléporteurs dès mon arrivée."
+  },
+  {
+    "repere": "AquaHideout_B2F_Text_Grunt8Defeat",
+    "texte": "Je pensais encore aux passages."
+  },
+  {
+    "repere": "AquaHideout_B2F_Text_Grunt8PostBattle",
+    "texte": "Je connais mieux cette planque\nque les combats Pokémon."
+  }
+]
