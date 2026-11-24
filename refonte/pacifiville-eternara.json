@@ -1,0 +1,174 @@
+[
+  {
+    "repere": "PacifidlogTown_Text_FastRunningCurrent",
+    "texte": "Le courant entre Pacifiville\net Poivressel est très fort.\n\nAvec Surf, il peut t'entraîner\nloin vers l'ouest."
+  },
+  {
+    "repere": "PacifidlogTown_Text_NeatHousesOnWater",
+    "texte": "Je suis né dans cette maison.\n\nOn change les planches une à une.\nLe village ne quitte jamais l'eau."
+  },
+  {
+    "repere": "PacifidlogTown_Text_SkyPillarTooScary",
+    "texte": "Le Pilier Céleste est plus loin.\n\nJe préfère rester ici, au niveau\nde la mer."
+  },
+  {
+    "repere": "PacifidlogTown_Text_TownSign",
+    "texte": "Pacifiville. Quartier flottant.\n\nAttention aux courants."
+  },
+  {
+    "repere": "PacifidlogTown_House1_Text_RegiStory",
+    "texte": "On raconte que trois Pokémon\nreposent dans des grottes de Hoenn.\n\nL'un de pierre, l'autre de glace,\net le troisième d'acier."
+  },
+  {
+    "repere": "PacifidlogTown_House1_Text_SixDotsOpenThreeDoors",
+    "texte": "Six points ouvrent trois portes.\n\nMon grand-père répétait ces mots.\nJe les ai notés."
+  },
+  {
+    "repere": "PacifidlogTown_House2_Text_ChairmansYoungerBrotherOnVacation",
+    "texte": "Mon frère préside le Fan Club\nPokémon de Poivressel.\n\nJe passe quelques jours ici."
+  },
+  {
+    "repere": "PacifidlogTown_House2_Text_AhYourPokemon",
+    "texte": "Voyons ton Pokémon..."
+  },
+  {
+    "repere": "PacifidlogTown_House2_Text_AdoringPokemonTakeThis",
+    "texte": "Il te fait vraiment confiance.\n\nVoici une CT qui lui conviendra."
+  },
+  {
+    "repere": "PacifidlogTown_House2_Text_PutInSomeMoreEffort",
+    "texte": "Votre lien peut encore grandir.\n\nPasse davantage de temps avec lui."
+  },
+  {
+    "repere": "PacifidlogTown_House2_Text_ViciousPokemonTakeThis",
+    "texte": "Il semble se méfier de toi.\n\nVoici une CT liée à ce sentiment."
+  },
+  {
+    "repere": "PacifidlogTown_House2_Text_ExplainReturnFrustration",
+    "texte": "Retour gagne en puissance\navec l'affection du Pokémon.\n\nFrustration devient plus forte\nquand cette affection est faible."
+  },
+  {
+    "repere": "PacifidlogTown_House2_Text_GetGoodTMInXDays",
+    "texte": "Il reste {STR_VAR_1} jours\navant ma prochaine livraison.\n\nReviens me voir à ce moment-là."
+  },
+  {
+    "repere": "PacifidlogTown_House2_Text_Rurii",
+    "texte": "Azurill. Uriii."
+  },
+  {
+    "repere": "PacifidlogTown_House2_Text_VeryFriendlyWithTrainer",
+    "texte": "Il reste volontiers près de toi."
+  },
+  {
+    "repere": "PacifidlogTown_House2_Text_Rururi",
+    "texte": "Azurill. Uuuurill !"
+  },
+  {
+    "repere": "PacifidlogTown_House2_Text_DoesntLikeTrainerVeryMuch",
+    "texte": "Il ne semble pas encore\nte faire confiance."
+  },
+  {
+    "repere": "PacifidlogTown_House3_Text_WillingToTradeIt",
+    "texte": "J'ai attrapé ce {STR_VAR_2}\npour mon anniversaire.\n\nVeux-tu l'échanger contre\nun {STR_VAR_1} ?"
+  },
+  {
+    "repere": "PacifidlogTown_House3_Text_ItsSubtlyDifferentThankYou",
+    "texte": "Un {STR_VAR_1} !\n\nIl ressemble à {STR_VAR_2},\nmais je vois la différence. Merci !"
+  },
+  {
+    "repere": "PacifidlogTown_House3_Text_WontAcceptAnyLessThanRealMon",
+    "texte": "Ce n'est pas un {STR_VAR_1}.\n\nC'est celui-là que je cherche."
+  },
+  {
+    "repere": "PacifidlogTown_House3_Text_NotDesperateOrAnything",
+    "texte": "D'accord. Je garde mon Pokémon."
+  },
+  {
+    "repere": "PacifidlogTown_House3_Text_ReallyWantedToGetBagon",
+    "texte": "Je voulais rencontrer un Draby\nvenu d'un autre voyage.\n\nJe vais apprendre ses habitudes."
+  },
+  {
+    "repere": "PacifidlogTown_House3_Text_IsThatAPokedex",
+    "texte": "C'est ton Pokédex ?\n\nJ'aimerais voir autant de Pokémon\nque toi un jour."
+  },
+  {
+    "repere": "PacifidlogTown_House4_Text_PeopleSawHighFlyingPokemon",
+    "texte": "On a aperçu un Pokémon très haut\nau-dessus de Hoenn.\n\nJe me demande où il se repose."
+  },
+  {
+    "repere": "PacifidlogTown_House4_Text_SkyPokemon",
+    "texte": "Un Pokémon du ciel !"
+  },
+  {
+    "repere": "PacifidlogTown_House4_Text_WhereDidYouComeFrom",
+    "texte": "Tu viens d'où ?"
+  },
+  {
+    "repere": "PacifidlogTown_House4_Text_YesTown",
+    "texte": "Oui ? Oui-Ville ?\n\nJe ne connais pas cet endroit."
+  },
+  {
+    "repere": "PacifidlogTown_House4_Text_YouHaveToComeFromSomewhere",
+    "texte": "Non ? Tu viens bien de quelque part.\n\nPeut-être du fond de la mer ?"
+  },
+  {
+    "repere": "PacifidlogTown_House5_Text_CantSeeMirageIslandToday",
+    "texte": "L'Île Mirage n'est pas visible\naujourd'hui."
+  },
+  {
+    "repere": "PacifidlogTown_House5_Text_CanSeeMirageIslandToday",
+    "texte": "Regarde ! L'Île Mirage est visible\naujourd'hui !"
+  },
+  {
+    "repere": "PacifidlogTown_House5_Text_MirageIslandAppearDependingOnWeather",
+    "texte": "Je regarde la mer chaque matin.\n\nL'Île Mirage apparaît rarement.\nJe ne sais pas pourquoi."
+  },
+  {
+    "repere": "PacifidlogTown_PokemonCenter_1F_Text_WhatColorTrainerCard",
+    "texte": "Ma Carte Dresseur est cuivrée.\n\nDe quelle couleur est la tienne ?"
+  },
+  {
+    "repere": "PacifidlogTown_PokemonCenter_1F_Text_OnColonyOfCorsola",
+    "texte": "Sous nos maisons vit une colonie\nde Corayon.\n\nLe village flotte au-dessus d'eux."
+  },
+  {
+    "repere": "PacifidlogTown_PokemonCenter_1F_Text_AncestorsLivedOnBoats",
+    "texte": "Nos ancêtres vivaient sur des bateaux.\n\nOn ignore ce qu'ils cherchaient.\nIls ont fini par rester ici."
+  },
+  {
+    "repere": "EverGrandeCity_Text_EnteringVictoryRoad",
+    "texte": "Route Victoire.\n\nAccès à la Ligue Pokémon."
+  },
+  {
+    "repere": "EverGrandeCity_Text_EnteringPokemonLeague",
+    "texte": "Ligue Pokémon.\n\nAccueil droit devant."
+  },
+  {
+    "repere": "EverGrandeCity_Text_CitySign",
+    "texte": "Éternara. Quartier de l'audience."
+  },
+  {
+    "repere": "EverGrandeCity_PokemonCenter_1F_Text_LeagueAfterVictoryRoad",
+    "texte": "La Ligue est au bout de la grotte.\n\nPrépare ton équipe avant d'entrer."
+  },
+  {
+    "repere": "EverGrandeCity_PokemonCenter_1F_Text_BelieveInYourPokemon",
+    "texte": "La Route Victoire est longue.\n\nFais une pause si tes Pokémon\nont besoin de repos."
+  },
+  {
+    "repere": "EverGrandeCity_PokemonCenter_1F_Text_ScottHappyForYou",
+    "texte": "Scott. {PLAYER}, tu es arrivé\njusqu'à Éternara !\n\nSi tu deviens Maître de la Ligue,\nje prendrai contact avec toi.\n\nBonne route."
+  },
+  {
+    "repere": "EverGrandeCity_PokemonLeague_1F_Text_MustHaveAllGymBadges",
+    "texte": "Présente les huit badges.\n\nIl faut toutes les pièces\npour accéder à l'audience."
+  },
+  {
+    "repere": "EverGrandeCity_PokemonLeague_1F_Text_HaventObtainedAllBadges",
+    "texte": "Il manque encore des badges.\n\nRetourne chercher les pièces\navant de te présenter ici."
+  },
+  {
+    "repere": "EverGrandeCity_PokemonLeague_1F_Text_GoForth",
+    "texte": "Les huit badges sont en règle.\n\nTu peux entrer avec tes Pokémon."
+  }
+]
