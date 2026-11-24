@@ -102,3 +102,19 @@ jobs:
           path: rapports/
           if-no-files-found: warn
           retention-days: 14
+
+      - name: Publier le kit de repérage local sans ROM
+        uses: actions/upload-artifact@v4
+        with:
+          name: kit-integration-local
+          path: |
+            rapports/manifeste.json
+            rapports/usages.json
+            source-pokeemerald/charmap.txt
+            refonte/La-Part-des-absents-v3-partielle.ups
+            refonte/injecter-dialogues.py
+            refonte/preparer-relecture.py
+            refonte/exporter-ups.py
+            refonte/INTEGRATION.md
+          if-no-files-found: error
+          retention-days: 14
