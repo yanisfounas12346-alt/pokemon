@@ -77,7 +77,7 @@
   },
   {
     "repere": "DewfordTown_Text_XIsTheBiggestHappeningThingRight",
-    "texte": "Tu as entendu les derniers mots\narrivés sur l'île ?\n\n{STR_VAR_1} ! Tout le monde en\nparle. C'est aussi la mode chez toi\n\n?"
+    "texte": "Tu as entendu les derniers mots\narrivés sur l'île ?\n\n{STR_VAR_1} ! Tout le monde en\nparle.\n\nC'est aussi la mode chez toi ?"
   },
   {
     "repere": "DewfordTown_Text_TellMeWhatsNewAndIn",

@@ -25,7 +25,7 @@
   },
   {
     "repere": "LilycoveCity_Text_MayYouGoingToCollectBadges",
-    "texte": "Tu vas chercher les derniers badges\n?\n\nMoi, je vais compléter mon Pokédex.\nOn se reverra, {PLAYER}."
+    "texte": "Tu vas chercher\nles derniers badges ?\n\nMoi, je vais compléter mon Pokédex.\nOn se reverra, {PLAYER}."
   },
   {
     "repere": "LilycoveCity_Text_MayYouGoingToPokemonLeague",
@@ -61,7 +61,7 @@
   },
   {
     "repere": "LilycoveCity_Text_BrendanYouGoingToCollectBadges",
-    "texte": "Tu vas chercher les derniers badges\n?\n\nJe pense reprendre le même chemin\nquand j'aurai terminé mes relevés."
+    "texte": "Tu vas chercher\nles derniers badges ?\n\nJe pense reprendre le même chemin\nquand j'aurai terminé mes relevés."
   },
   {
     "repere": "LilycoveCity_Text_BrendanYouGoingToPokemonLeague",

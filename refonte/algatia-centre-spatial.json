@@ -57,7 +57,7 @@
   },
   {
     "repere": "MossdeepCity_SpaceCenter_1F_Text_StevenMagmaCantBeAllowedToTakeFuel",
-    "texte": "Pierre. {PLAYER}, as-tu lu la lettre\n?\n\nLes Trumps réclament le carburant.\nIls ne peuvent pas le prendre.\n\nJe vais rester ici pour surveiller.\nTu peux visiter l'île en attendant."
+    "texte": "Pierre. {PLAYER}, as-tu lu\nla lettre ?\n\nLes Trumps réclament le carburant.\nIls ne peuvent pas le prendre.\n\nJe vais rester ici pour surveiller.\nTu peux visiter l'île en attendant."
   },
   {
     "repere": "MossdeepCity_SpaceCenter_1F_Text_Grunt3Intro",

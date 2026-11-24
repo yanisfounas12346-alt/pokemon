@@ -53,7 +53,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_DescribeFeelingsAboutBattleTower",
-    "texte": "Nous recueillons les paroles\ndes Dresseurs avant un combat,\n\naprès une victoire ou une défaite.\nVoulez-vous nous confier les vôtres\n\n?"
+    "texte": "Nous recueillons les paroles\ndes Dresseurs avant un combat,\n\naprès une victoire ou une défaite.\nNous confiez-vous les vôtres ?"
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_FeelWhatWhenYouBegin",
@@ -73,7 +73,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_ChangedYourMind",
-    "texte": "Vous souhaitez modifier vos paroles\n?"
+    "texte": "Vous souhaitez modifier\nvos paroles ?"
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_ThatsHowYouFeel",

@@ -85,7 +85,7 @@
   },
   {
     "repere": "Route116_TunnelersRestHouse_Text_TunnelHasGoneThrough",
-    "texte": "Le passage vers Vergazon est ouvert\n!\n\nOn a ressorti le plan du chantier.\nIl y a des traces de tasse dessus."
+    "texte": "Le passage vers Vergazon\nest ouvert !\n\nOn a ressorti le plan du chantier.\nIl y a des traces de tasse dessus."
   },
   {
     "repere": "RusturfTunnel_Text_ComeAndGetSome",
@@ -129,7 +129,7 @@
   },
   {
     "repere": "RusturfTunnel_Text_MikeIntro",
-    "texte": "Mes Pokémon vivent dans la roche.\n\nTu veux voir comment ils se battent\n?"
+    "texte": "Mes Pokémon vivent dans la roche.\n\nTu veux voir\ncomment ils se battent ?"
   },
   {
     "repere": "RusturfTunnel_Text_MikeDefeat",
