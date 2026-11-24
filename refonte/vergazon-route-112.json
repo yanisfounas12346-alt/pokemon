@@ -1,0 +1,210 @@
+[
+  {
+    "repere": "VerdanturfTown_Text_ManTryingToDigTunnel",
+    "texte": "Les Pokémon du tunnel ont peur\ndu bruit des machines.\n\nLes travaux ont été arrêtés.\nUn homme creuse encore à la main."
+  },
+  {
+    "repere": "VerdanturfTown_Text_ManDugTunnelForLove",
+    "texte": "Il a creusé pour rejoindre Sylvie.\n\nMaintenant, tout le quartier\npeut emprunter le passage."
+  },
+  {
+    "repere": "VerdanturfTown_Text_AirCleanHere",
+    "texte": "Les cendres ne viennent pas ici.\n\nOn ouvre les fenêtres des malades\nsans avoir à laver les draps après."
+  },
+  {
+    "repere": "VerdanturfTown_Text_MakeBattleTentDebut",
+    "texte": "Nous avons gagné plusieurs combats.\n\nJe vais essayer les règles\nde la Tente de Combat."
+  },
+  {
+    "repere": "VerdanturfTown_Text_GuyTryingToBustThroughCave",
+    "texte": "Un homme travaille dans la grotte\nprès de la boutique.\n\nIl essaie de rejoindre Mérouville.\nCela nous éviterait un long détour."
+  },
+  {
+    "repere": "VerdanturfTown_Text_EasyToGetToRustboroNow",
+    "texte": "Le tunnel est ouvert des deux côtés.\n\nJe peux aller à Mérouville\net rentrer avant le repas."
+  },
+  {
+    "repere": "VerdanturfTown_Text_TownSign",
+    "texte": "Vergazon. Quartier du bon air.\n\nLes fenêtres restent ouvertes."
+  },
+  {
+    "repere": "VerdanturfTown_Text_WandasHouse",
+    "texte": "Maison de Sylvie."
+  },
+  {
+    "repere": "VerdanturfTown_Text_BattleTentSign",
+    "texte": "Tente de Combat de Vergazon.\n\nInscriptions à l'accueil."
+  },
+  {
+    "repere": "VerdanturfTown_Text_RusturfTunnelSign",
+    "texte": "Tunnel Mérazon.\nMérouville - Vergazon.\n\nTravaux suspendus."
+  },
+  {
+    "repere": "VerdanturfTown_House_Text_TrainersGatherAtPokemonLeague",
+    "texte": "La Ligue Pokémon se trouve\nà Éternara, au bout du voyage.\n\nLes meilleurs Dresseurs s'y rendent."
+  },
+  {
+    "repere": "VerdanturfTown_House_Text_DefeatEliteFourInARow",
+    "texte": "Il faut battre le Conseil 4\nsans perdre un seul combat.\n\nEn cas de défaite, l'épreuve\nrecommence depuis le début."
+  },
+  {
+    "repere": "VerdanturfTown_WandasHouse_Text_StrongerSpeech",
+    "texte": "Timmy. J'ai perdu, {PLAYER}.\n\nMais Tarsal et moi allons continuer.\nJe veux parcourir les arènes.\n\nQuand nous aurons progressé,\nje te défierai de nouveau."
+  },
+  {
+    "repere": "VerdanturfTown_WandasHouse_Text_StrongerSpeechShort",
+    "texte": "Timmy. Je vais encore m'entraîner.\n\nUn jour, on fera un autre combat."
+  },
+  {
+    "repere": "VerdanturfTown_WandasHouse_Text_WallysNextDoor",
+    "texte": "Timmy est dans la pièce voisine.\n\nL'air lui fait du bien. Mais c'est\nsurtout son Tarsal qui lui donne\n\nenvie de sortir chaque matin."
+  },
+  {
+    "repere": "VerdanturfTown_WandasHouse_Text_WallySlippedOff",
+    "texte": "Timmy est parti.\n\nIl a pris ses affaires sans bruit."
+  },
+  {
+    "repere": "VerdanturfTown_WandasHouse_Text_WallyGoneThatFar",
+    "texte": "Il est allé si loin tout seul ?\n\nJe lui demanderai de me raconter\nle voyage quand il reviendra."
+  },
+  {
+    "repere": "VerdanturfTown_WandasHouse_Text_MeetWanda",
+    "texte": "Je suis Sylvie, la cousine de Timmy.\n\nIl m'a parlé de toi, {PLAYER}.\nDepuis son arrivée, il reprend\n\ndes forces de jour en jour."
+  },
+  {
+    "repere": "VerdanturfTown_WandasHouse_Text_DontWorryAboutWally",
+    "texte": "Timmy sait mieux se débrouiller\nqu'on ne le croit.\n\nEt son Pokémon l'accompagne."
+  },
+  {
+    "repere": "VerdanturfTown_WandasHouse_Text_CanSeeGirlfriendEveryDay",
+    "texte": "Grâce à toi, je peux voir Sylvie\nchaque jour.\n\nOn n'a plus à compter les traversées."
+  },
+  {
+    "repere": "VerdanturfTown_WandasHouse_Text_DaughtersBoyfriendDriven",
+    "texte": "Le garçon creuse jour et nuit.\n\nSylvie lui apporte à manger.\nElle s'inquiète quand il tarde."
+  },
+  {
+    "repere": "VerdanturfTown_WandasHouse_Text_DaughtersBoyfriendWasDigging",
+    "texte": "Il a terminé le tunnel à la main.\n\nJe ne pensais pas le voir ouvert\nde mon vivant."
+  },
+  {
+    "repere": "VerdanturfTown_WandasHouse_Text_IfAnythingHappenedToWally",
+    "texte": "Ses parents nous ont confié Timmy.\n\nJe voudrais pouvoir leur dire\nqu'il est rentré sans encombre."
+  },
+  {
+    "repere": "VerdanturfTown_WandasHouse_Text_WallyWasInEverGrande",
+    "texte": "Timmy était à Éternara ?\n\nIl faudra écrire à ses parents\nà Clémenti-Ville."
+  },
+  {
+    "repere": "VerdanturfTown_FriendshipRatersHouse_Text_SeeHowMuchPokemonLikesYou",
+    "texte": "Laisse-moi observer ton Pokémon.\n\nJe vais voir s'il te fait confiance."
+  },
+  {
+    "repere": "VerdanturfTown_FriendshipRatersHouse_Text_AdoresYou",
+    "texte": "Il te fait entièrement confiance.\n\nRegarde comme il reste près de toi."
+  },
+  {
+    "repere": "VerdanturfTown_FriendshipRatersHouse_Text_VeryHappy",
+    "texte": "Il est très heureux avec toi.\n\nVotre lien est solide."
+  },
+  {
+    "repere": "VerdanturfTown_FriendshipRatersHouse_Text_LikesYouQuiteALot",
+    "texte": "Il t'aime beaucoup.\n\nIl cherche ta main."
+  },
+  {
+    "repere": "VerdanturfTown_FriendshipRatersHouse_Text_GettingUsedToYou",
+    "texte": "Il commence à te connaître.\n\nIl se rapproche de toi."
+  },
+  {
+    "repere": "VerdanturfTown_FriendshipRatersHouse_Text_NotUsedToYou",
+    "texte": "Il ne te connaît pas encore bien.\n\nLaisse-lui du temps."
+  },
+  {
+    "repere": "VerdanturfTown_FriendshipRatersHouse_Text_VeryWary",
+    "texte": "Il reste sur ses gardes.\n\nIl ne te fait pas encore confiance."
+  },
+  {
+    "repere": "VerdanturfTown_FriendshipRatersHouse_Text_DetestsYou",
+    "texte": "Il semble te craindre beaucoup.\n\nIl faudra changer ta façon\nde t'occuper de lui."
+  },
+  {
+    "repere": "VerdanturfTown_FriendshipRatersHouse_Text_Pikachu",
+    "texte": "Pikachu. Pika pika !"
+  },
+  {
+    "repere": "VerdanturfTown_Mart_Text_XSpecialIsCrucial",
+    "texte": "Le Spécial + augmente l'Attaque\nSpéciale pendant un combat.\n\nSon effet est temporaire."
+  },
+  {
+    "repere": "VerdanturfTown_Mart_Text_NoStrategyGuidesForBattleTent",
+    "texte": "Je cherche un manuel sur les règles\nde la Tente de Combat.\n\nIl faudra peut-être apprendre\nsur place."
+  },
+  {
+    "repere": "VerdanturfTown_Mart_Text_NestBallOnWeakenedPokemon",
+    "texte": "La Faiblo Ball est plus efficace\nsur les Pokémon de faible niveau.\n\nOn en vend ici, à Vergazon."
+  },
+  {
+    "repere": "VerdanturfTown_PokemonCenter_1F_Text_FaithInYourPokemon",
+    "texte": "Il faut apprendre à reconnaître\nce que son Pokémon sait faire.\n\nLa confiance vient avec le temps."
+  },
+  {
+    "repere": "VerdanturfTown_PokemonCenter_1F_Text_VisitForBattleTent",
+    "texte": "Beaucoup viennent ici pour la Tente\nde Combat.\n\nD'autres viennent pour respirer."
+  },
+  {
+    "repere": "VerdanturfTown_BattleTentLobby_Text_MonsReluctantToUseDislikedMoves",
+    "texte": "Ici, les Pokémon choisissent\nleurs capacités eux-mêmes.\n\nLeur nature influence leurs choix.\nUn Pokémon Gentil peut préférer\n\nles capacités qui ne blessent pas."
+  },
+  {
+    "repere": "VerdanturfTown_BattleTentLobby_Text_GentleMonsScaryIfAngry",
+    "texte": "Ma soeur est très gentille.\n\nMais quand elle se fâche,\nplus personne ne parle."
+  },
+  {
+    "repere": "VerdanturfTown_BattleTentLobby_Text_AttractionRunsDeep",
+    "texte": "Je pensais à mon Pokémon.\n\nOh, tu es là ! Veux-tu cette CT ?\nElle contient Attraction."
+  },
+  {
+    "repere": "VerdanturfTown_BattleTentLobby_Text_AttractionMutual",
+    "texte": "J'apprends encore à comprendre\nles choix de mes Pokémon."
+  },
+  {
+    "repere": "VerdanturfTown_BattleTentLobby_Text_TaughtWhatKindsOfMoves",
+    "texte": "Tes Pokémon savent-ils se soigner\nou se protéger ?\n\nCes capacités peuvent aider ici."
+  },
+  {
+    "repere": "VerdanturfTown_BattleTentLobby_Text_ScottCanMeetToughTrainers",
+    "texte": "Scott. Ah, {PLAYER} !\n\nLes règles d'ici permettent de voir\nles Dresseurs autrement.\n\nDonne le meilleur de toi-même."
+  },
+  {
+    "repere": "VerdanturfTown_BattleTentLobby_Text_ScottVisitRegularly",
+    "texte": "Je passe souvent par cette Tente.\n\nJe voudrais voir comment les équipes\nréagissent à ces règles."
+  },
+  {
+    "repere": "Route112_Text_YeahWeNeedMeteorite",
+    "texte": "Il faudra la météorite pour\nmettre la machine en marche."
+  },
+  {
+    "repere": "Route112_Text_OhThatsWhyCrewWentToFallarbor",
+    "texte": "C'est donc pour ça que les autres\nsont partis à Autéquia."
+  },
+  {
+    "repere": "Route112_Text_CantLetAnyonePassUntilTheyreBack",
+    "texte": "Personne ne passe avant leur retour.\n\nOn nous a donné cette consigne."
+  },
+  {
+    "repere": "Route112_Text_NotEasyToGetBackToLavaridge",
+    "texte": "Je peux sauter vers Lavandia.\n\nMais pour remonter à Vermilava,\nil faudra faire le détour."
+  },
+  {
+    "repere": "Route112_Text_MtChimneyCableCarSign",
+    "texte": "Téléphérique du Mont Chimnée.\n{UP_ARROW} Embarquement."
+  },
+  {
+    "repere": "Route112_Text_MtChimneySign",
+    "texte": "Mont Chimnée.\n\nTéléphérique vers le sommet\net Vermilava."
+  },
+  {
+    "repere": "Route112_Text_RouteSignLavaridge",
+    "texte": "Route 112\n{LEFT_ARROW} Vermilava"
+  }
+]
