@@ -1,7 +1,7 @@
 [
   {
     "repere": "Route110_TrickHouseEntrance_Text_YoureBeingWatched",
-    "texte": "Quelqu'un observe {PLAYER}."
+    "texte": "Quelqu'un t'observe."
   },
   {
     "repere": "Route110_TrickHouseEntrance_Text_ConcealedBeneathDesk",

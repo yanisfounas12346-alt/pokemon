@@ -25,7 +25,7 @@
   },
   {
     "repere": "LittlerootTown_ProfessorBirchsLab_Text_DontBeThatWay",
-    "texte": "Tu peux changer d'avis.\nVa voir {RIVAL}, je te prie."
+    "texte": "Tu peux changer d'avis.\nVa à sa rencontre, je te prie."
   },
   {
     "repere": "LittlerootTown_ProfessorBirchsLab_Text_BirchRivalGoneHome",
@@ -97,7 +97,7 @@
   },
   {
     "repere": "LittlerootTown_ProfessorBirchsLab_Text_OtherRegionsUpgradeToNational",
-    "texte": "Vos relevés ont changé notre carte.\n\nDes Pokémon d'autres régions\nvivent ici depuis des années.\n\nLe registre de Hoenn ne suffit plus.\n\nDonnez-moi vos Pokédex. Je vais\nactiver le mode NATIONAL."
+    "texte": "{PLAYER} et {RIVAL}, vos relevés\nont changé notre carte.\n\nDes Pokémon d'autres régions\nvivent ici depuis des années.\n\nLe registre de Hoenn ne suffit plus.\n\nDonnez-moi vos Pokédex. Je vais\nactiver le mode NATIONAL."
   },
   {
     "repere": "LittlerootTown_ProfessorBirchsLab_Text_MayUpgradeSoCool",

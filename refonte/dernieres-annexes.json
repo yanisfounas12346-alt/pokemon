@@ -198,5 +198,13 @@
   {
     "repere": "InsideOfTruck_Text_BoxPrintedWithMonLogo",
     "texte": "Un carton de déménagement.\n\nLe logo de la société représente\nun Pokémon portant une caisse."
+  },
+  {
+    "repere": "SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion1",
+    "texte": "{PLAYER} reçoit une Potion."
+  },
+  {
+    "repere": "SootopolisCity_LotadAndSeedotHouse_Text_ReceivedPotion2",
+    "texte": "{PLAYER} reçoit une Potion."
   }
 ]

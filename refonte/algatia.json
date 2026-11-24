@@ -293,7 +293,7 @@
   },
   {
     "repere": "MossdeepCity_House1_Text_HusbandCanTellPokeblockMonLikes",
-    "texte": "Mon mari reconnaît les saveurs\nque préfèrent les Pokémon."
+    "texte": "Mon mari sait quels {POKEBLOCK}s\nplaisent à chaque Pokémon."
   },
   {
     "repere": "MossdeepCity_House2_Text_SisterMailsBoyfriendInFortree",

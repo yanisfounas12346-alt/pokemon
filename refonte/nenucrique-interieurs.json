@@ -318,5 +318,13 @@
   {
     "repere": "LilycoveCity_PokemonCenter_1F_Text_HaventSeenRottenScoundrels",
     "texte": "Je n'ai plus vu ces gens ici.\n\nLes bateaux reprennent la mer."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStore_1F_Text_WirelessCommIsFun",
+    "texte": "La communication sans fil permet\nd'échanger des Pokémon à distance.\n\nPlus besoin de relier les consoles."
+  },
+  {
+    "repere": "LilycoveCity_DepartmentStore_1F_Text_SpreadWordAboutWirelessComm",
+    "texte": "Je voudrais faire connaître\nla communication sans fil."
   }
 ]

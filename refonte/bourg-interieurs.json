@@ -177,7 +177,7 @@
   },
   {
     "repere": "RivalsHouse_2F_Text_ItsRivalsPokeBall",
-    "texte": "La Poké Ball de {RIVAL}.\n\nElle a sa place sur l'étagère.\n{PLAYER} la laisse là."
+    "texte": "La Poké Ball de {RIVAL}.\n\nElle a sa place sur l'étagère.\nMieux vaut la laisser là."
   },
   {
     "repere": "RivalsHouse_2F_Text_MayJustCheckingMyPokedex",
