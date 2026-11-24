@@ -1,0 +1,82 @@
+[
+  {
+    "repere": "OldaleTown_Text_SavingMyProgress",
+    "texte": "Quand je m'arrête, je sauvegarde.\n\nSur le chantier, on perdait tout\nsi le carnet prenait l'eau."
+  },
+  {
+    "repere": "OldaleTown_Text_IWorkAtPokemonMart",
+    "texte": "Je tiens la boutique Pokémon.\n\nTu veux que je te montre où elle se\ntrouve ?"
+  },
+  {
+    "repere": "OldaleTown_Text_ThisIsAPokemonMart",
+    "texte": "Le toit bleu, c'est la boutique.\n\nOn y vend des Balls et des remèdes\npour les Pokémon.\n\nTiens, prends cet échantillon.\nIl ne te sera rien demandé."
+  },
+  {
+    "repere": "OldaleTown_Text_PotionExplanation",
+    "texte": "Une Potion rend des PV à ton Pokémon.\n\nTu peux l'utiliser en chemin,\nsans revenir au Centre Pokémon."
+  },
+  {
+    "repere": "OldaleTown_Text_WaitDontComeInHere",
+    "texte": "Attends ! Ne marche pas ici !\n\nJ'ai trouvé des empreintes rares.\nLaisse-moi finir mon relevé."
+  },
+  {
+    "repere": "OldaleTown_Text_DiscoveredFootprints",
+    "texte": "Ces empreintes sont encore fraîches.\n\nAttends que je les aie dessinées\navant de passer."
+  },
+  {
+    "repere": "OldaleTown_Text_FinishedSketchingFootprints",
+    "texte": "J'ai fini mon relevé.\n\nEn remettant ma botte, j'ai vu\nqu'elle avait la même semelle."
+  },
+  {
+    "repere": "OldaleTown_Text_MayLetsGoBack",
+    "texte": "Flora. Par ici, {PLAYER} !\nRetournons au laboratoire."
+  },
+  {
+    "repere": "OldaleTown_Text_BrendanLetsGoBack",
+    "texte": "Brice. Je rentre au laboratoire.\nRejoins-moi là-bas, {PLAYER}."
+  },
+  {
+    "repere": "OldaleTown_Text_TownSign",
+    "texte": "Rosyères. Dépôt des vivres.\n\nLes sacs vides sont à rapporter."
+  },
+  {
+    "repere": "OldaleTown_House1_Text_LeftPokemonGoesOutFirst",
+    "texte": "Le premier Pokémon de ton équipe\nentre le premier au combat.\n\nTu peux modifier cet ordre dans\nle menu Pokémon.\n\nAu dépôt, on change aussi de porteur\nquand les épaules fatiguent."
+  },
+  {
+    "repere": "OldaleTown_House2_Text_PokemonLevelUp",
+    "texte": "Les combats donnent de l'expérience\naux Pokémon et font monter leur niveau."
+  },
+  {
+    "repere": "OldaleTown_House2_Text_YoullGoFurtherWithStrongPokemon",
+    "texte": "Avec une équipe bien entraînée,\ntu pourras aller plus loin.\n\nPense aussi aux jours de repos."
+  },
+  {
+    "repere": "OldaleTown_Mart_Text_PokeBallsAreSoldOut",
+    "texte": "Plus de Poké Balls en rayon.\n\nLe livreur a laissé le bon, mais\npas la caisse."
+  },
+  {
+    "repere": "OldaleTown_Mart_Text_ImGoingToBuyPokeBalls",
+    "texte": "Les Balls sont enfin arrivées !\n\nJ'en prendrai trois. J'ai gardé\nla monnaie dans une enveloppe."
+  },
+  {
+    "repere": "OldaleTown_Mart_Text_RestoreHPWithPotion",
+    "texte": "À zéro PV, un Pokémon est K.O.\nIl ne peut plus combattre.\n\nUne Potion peut lui rendre des PV\navant qu'il ne s'épuise."
+  },
+  {
+    "repere": "OldaleTown_PokemonCenter_1F_Text_TrainersCanUsePC",
+    "texte": "Le PC du coin est à la disposition\nde tous les Dresseurs.\n\nIl n'y a pas de clef à demander."
+  },
+  {
+    "repere": "OldaleTown_PokemonCenter_1F_Text_PokemonCentersAreGreat",
+    "texte": "Les soins sont gratuits ici.\nTu peux revenir autant que tu veux.\n\nJ'ai mis du temps à y croire."
+  },
+  {
+    "repere": "OldaleTown_PokemonCenter_1F_Text_WirelessClubNotAvailable",
+    "texte": "L'étage est presque terminé.\n\nIl manque encore du matériel.\nLe passage n'est pas ouvert."
+  },
+  {
+    "repere": "OldaleTown_PokemonCenter_1F_Text_TradedInWirelessClub",
+    "texte": "J'ai échangé un Pokémon à l'étage.\n\nOn était deux à vérifier les noms\navant de valider."
+  }
+]
