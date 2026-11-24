@@ -1,0 +1,630 @@
+[
+  {
+    "repere": "BattleFrontier_Lounge1_Text_PokemonBreederIntro",
+    "texte": "J'élève des Pokémon depuis 70 ans.\n\nJe peux évaluer leurs aptitudes\nnaturelles. Veux-tu mon avis ?"
+  },
+  {
+    "repere": "BattleFrontier_Lounge1_Text_AverageAbility",
+    "texte": "Ses aptitudes sont dans la moyenne."
+  },
+  {
+    "repere": "BattleFrontier_Lounge1_Text_BetterThanAverageAbility",
+    "texte": "Ses aptitudes dépassent la moyenne."
+  },
+  {
+    "repere": "BattleFrontier_Lounge1_Text_ImpressiveAbility",
+    "texte": "Ses aptitudes sont remarquables."
+  },
+  {
+    "repere": "BattleFrontier_Lounge1_Text_OutstandingAbility",
+    "texte": "Ses aptitudes sont exceptionnelles."
+  },
+  {
+    "repere": "BattleFrontier_Lounge1_Text_BestAspectHP",
+    "texte": "Son point fort : les PV."
+  },
+  {
+    "repere": "BattleFrontier_Lounge1_Text_BestAspectAtk",
+    "texte": "Son point fort : l'Attaque."
+  },
+  {
+    "repere": "BattleFrontier_Lounge1_Text_BestAspectDef",
+    "texte": "Son point fort : la Défense."
+  },
+  {
+    "repere": "BattleFrontier_Lounge1_Text_BestAspectSpAtk",
+    "texte": "Son point fort : l'Atq. Spé."
+  },
+  {
+    "repere": "BattleFrontier_Lounge1_Text_BestAspectSpDef",
+    "texte": "Son point fort : la Déf. Spé."
+  },
+  {
+    "repere": "BattleFrontier_Lounge1_Text_BestAspectSpeed",
+    "texte": "Son point fort : la Vitesse."
+  },
+  {
+    "repere": "BattleFrontier_Lounge1_Text_StatRelativelyGood",
+    "texte": "Cette stat est assez bonne."
+  },
+  {
+    "repere": "BattleFrontier_Lounge1_Text_StatImpressive",
+    "texte": "Cette stat est remarquable."
+  },
+  {
+    "repere": "BattleFrontier_Lounge1_Text_StatOutstanding",
+    "texte": "Cette stat est excellente."
+  },
+  {
+    "repere": "BattleFrontier_Lounge1_Text_StatFlawless",
+    "texte": "Cette stat est parfaite !"
+  },
+  {
+    "repere": "BattleFrontier_Lounge1_Text_NoTimeForMyAdvice",
+    "texte": "Reviens quand tu auras le temps."
+  },
+  {
+    "repere": "BattleFrontier_Lounge1_Text_HaveBusinessNeedsTending",
+    "texte": "Je dois terminer mon travail.\n\nÀ une prochaine fois."
+  },
+  {
+    "repere": "BattleFrontier_Lounge1_Text_LetsLookAtYourPokemon",
+    "texte": "Veux-tu que j'évalue un Pokémon ?"
+  },
+  {
+    "repere": "BattleFrontier_Lounge1_Text_EvenICantTell",
+    "texte": "Il faut attendre que cet Oeuf\néclose pour l'évaluer."
+  },
+  {
+    "repere": "BattleFrontier_Lounge1_Text_SaidMyMonIsOutstanding",
+    "texte": "Il a trouvé mon Pokémon excellent.\n\nJe suis content de son avis."
+  },
+  {
+    "repere": "BattleFrontier_Lounge1_Text_DidntDoAnythingSpecialRaisingIt",
+    "texte": "Il a trouvé mon Pokémon excellent.\n\nJe l'ai élevé comme les autres."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_FrontierManiacIntro",
+    "texte": "Je tiens un carnet sur les épreuves\nde la Zone de Combat.\n\nVeux-tu consulter mes notes ?"
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_SwingByForTheLatestWord",
+    "texte": "Te voilà. Veux-tu des nouvelles ?"
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_MyInformationsBeenUsefulRight",
+    "texte": "Mes notes t'ont-elles aidé ?"
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_FacilityIsHottest",
+    "texte": "Le lieu le plus fréquenté en ce\nmoment : {STR_VAR_1}."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_BattleTowerIsHottest",
+    "texte": "À la Tour, le mode le plus prisé\nest {STR_VAR_1}."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_DoubleBattleAdvice1",
+    "texte": "Pour débuter en Combat Duo,\nessaie la Tour de Combat."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_DoubleBattleAdvice2",
+    "texte": "Certains Dresseurs préparent\ndes stratégies propres au Duo."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_DoubleBattleAdvice3",
+    "texte": "Quand tu maîtriseras le Duo ici,\nessaie les autres installations."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_MultiBattleAdvice",
+    "texte": "Dans le Salon de Combat, tu peux\nretrouver des amis ou des fans."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_LinkMultiBattleAdvice",
+    "texte": "Avec un ami, essaie les salles\nMulti Link de la Tour."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_NewsGatheringPower",
+    "texte": "Il rassemble toutes ces nouvelles\ndans un seul carnet !"
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_AmazingPowersOfObservation",
+    "texte": "Il note des détails que personne\nne remarque."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_AmazingPowerOfPersuasion",
+    "texte": "Tout le monde accepte de lui parler."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_ThisPlaceIsScaringMe",
+    "texte": "Je ne connais personne ici.\n\nJe vais rester près de la porte."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_SalonMaidenIsThere",
+    "texte": "Voici le meneur de cette épreuve :\nCathy, l'As du Salon."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_SalonMaidenSilverMons",
+    "texte": "Pour le symbole argent :\n\nPsy, Feu et Normal.\nPokémon Psy, Volcan et Pionceur."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_SalonMaidenGoldMons",
+    "texte": "Pour le symbole or :\n\nDragon/Psy, Électrik et Normal.\nPokémon Éon, Foudre et Pionceur."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_DomeAceIsThere",
+    "texte": "Voici le meneur de cette épreuve :\nTakim, la Star du Dôme."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_DomeAceSilverMons",
+    "texte": "Pour le symbole argent :\n\nDragon/Vol, Eau/Sol et Feu/Vol.\nPokémon Dragon, Poissonboue\net Flamme."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_DomeAceGoldMons",
+    "texte": "Pour le symbole or :\n\nDragon/Psy, Eau/Sol et Acier/Psy.\nPokémon Éon, Poissonboue\net Pattefer."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_FactoryHeadIsThere",
+    "texte": "Voici le meneur de cette épreuve :\nSam, le Chef d'Usine."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_FactoryHeadSilverMons",
+    "texte": "Sam utilise trois Pokémon prêtés,\ncomme tous les participants."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_FactoryHeadGoldMons",
+    "texte": "Même pour le symbole or, Sam\nutilise trois Pokémon de location."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_PikeQueenIsThere",
+    "texte": "Voici le meneur de cette épreuve :\nCharline, la Reine Venin."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_PikeQueenSilverMons",
+    "texte": "Pour le symbole argent :\n\nPoison, Insecte/Roche et Eau.\nPokémon Serpacroc, Pourri et Tendre."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_PikeQueenGoldMons",
+    "texte": "Pour le symbole or :\n\nPoison, Acier/Sol et Eau/Vol.\nPokémon Serpacroc, Serpenfer\net Terrifiant."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_ArenaTycoonIsThere",
+    "texte": "Voici le meneur de cette épreuve :\nCarole, la Pro du Dojo."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_ArenaTycoonSilverMons",
+    "texte": "Pour le symbole argent :\n\nInsecte/Combat, Ténèbres,\nInsecte/Spectre.\nPokémon Unicorne, Lune et Exuvie."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_ArenaTycoonGoldMons",
+    "texte": "Pour le symbole or :\n\nTénèbres, Spectre/Poison,\nPlante/Combat.\nPokémon Lune, Ombre et Champignon."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_PalaceMavenIsThere",
+    "texte": "Voici le meneur de cette épreuve :\nEsteban, le Capt. Palace."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_PalaceMavenSilverMons",
+    "texte": "Pour le symbole argent :\n\nPoison/Vol, Normal et Eau/Glace.\nPokémon Chovsouris, Fainéant\net Transport."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_PalaceMavenGoldMons",
+    "texte": "Pour le symbole or :\n\nFeu, Normal et Eau.\nPokémon Légendaire, Fainéant\net Aurore."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_PyramidKingIsThere",
+    "texte": "Voici le meneur de cette épreuve :\nBayar, le Roi Pyramide."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_PyramidKingSilverMons",
+    "texte": "Pour le symbole argent :\n\nRoche, Glace et Acier.\nPokémon Pic Rocheux, Iceberg et Fer."
+  },
+  {
+    "repere": "BattleFrontier_Lounge2_Text_PyramidKingGoldMons",
+    "texte": "Pour le symbole or :\n\nGlace/Vol, Électrik/Vol, Feu/Vol.\nPokémon Glaciaire, Électrique\net Flamme."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_CantYouSeeWereBusyHere",
+    "texte": "Nous sommes occupés.\n\nReviens plus tard."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_YouLookToughExplainGambling",
+    "texte": "Nous misons des Points de Combat\nsur les résultats des épreuves.\n\nChacun choisit un Dresseur dans\nle bâtiment désigné.\n\nCelui qui a choisi le meilleur\nrésultat reçoit les points misés."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_HowAboutEnteringEventForMe",
+    "texte": "Veux-tu participer à cette épreuve\npour moi ?"
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_SpotMeSomeBattlePoints",
+    "texte": "Veux-tu me confier des Points\nde Combat pour la mise ?"
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_HowMuchCanYouSpot",
+    "texte": "Combien de points veux-tu miser ?"
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_YouDontHaveEnoughPoints",
+    "texte": "Tu n'as pas assez de Points\nde Combat."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_ThanksOffYouGo",
+    "texte": "La mise est enregistrée."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_NiceTryCantReturnPoints",
+    "texte": "Le résultat n'a pas suffi.\n\nLes points misés sont perdus."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_HelloChampHeresYourPoints",
+    "texte": "Ton résultat a remporté la mise.\n\nVoici les points et le gain."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_ObtainedBattlePoints",
+    "texte": "{PLAYER} reçoit {STR_VAR_1}\nPoints de Combat."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_ThinkOfMeForAnotherChallenge",
+    "texte": "Reviens si tu souhaites participer\nà un autre défi."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_NotInterested",
+    "texte": "D'accord. Tu peux partir."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_Oh",
+    "texte": "Oh..."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_BackedWrongTrainer",
+    "texte": "J'ai encore perdu mes points.\n\nJe vais arrêter les mises."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_TrainerGoodButRattled",
+    "texte": "Ce Dresseur connaît ses Pokémon.\n\nLe public du Dôme le déconcentre."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_KnowWinnerWhenISeeOne",
+    "texte": "Je crois avoir choisi le gagnant."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_ShouldBeTakingChallenges",
+    "texte": "Les Dresseurs attendent encore.\n\nLe prochain défi va commencer."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_ChallengeBattleTowerSingle",
+    "texte": "Je cherche un Dresseur pour :\n\nTour de Combat, Solo."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_GetToBattleTowerSingle",
+    "texte": "Voici l'épreuve prévue :\n\nTour de Combat, Solo."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_ChallengeBattleTowerDouble",
+    "texte": "Je cherche un Dresseur pour :\n\nTour de Combat, Duo."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_GetToBattleTowerDouble",
+    "texte": "Voici l'épreuve prévue :\n\nTour de Combat, Duo."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_ChallengeBattleTowerMulti",
+    "texte": "Je cherche un Dresseur pour :\n\nTour de Combat, Multi."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_GetToBattleTowerMulti",
+    "texte": "Voici l'épreuve prévue :\n\nTour de Combat, Multi."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_ChallengeBattleDomeSingle",
+    "texte": "Je cherche un Dresseur pour :\n\nDôme de Combat, Solo."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_GetToBattleDomeSingle",
+    "texte": "Voici l'épreuve prévue :\n\nDôme de Combat, Solo."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_ChallengeBattleDomeDouble",
+    "texte": "Je cherche un Dresseur pour :\n\nDôme de Combat, Duo."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_GetToBattleDomeDouble",
+    "texte": "Voici l'épreuve prévue :\n\nDôme de Combat, Duo."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_ChallengeBattleFactorySingle",
+    "texte": "Je cherche un Dresseur pour :\n\nUsine de Combat, Solo."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_GetToBattleFactorySingle",
+    "texte": "Voici l'épreuve prévue :\n\nUsine de Combat, Solo."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_ChallengeBattleFactoryDouble",
+    "texte": "Je cherche un Dresseur pour :\n\nUsine de Combat, Duo."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_GetToBattleFactoryDouble",
+    "texte": "Voici l'épreuve prévue :\n\nUsine de Combat, Duo."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_ChallengeBattlePalaceSingle",
+    "texte": "Je cherche un Dresseur pour :\n\nPalace de Combat, Solo."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_GetToBattlePalaceSingle",
+    "texte": "Voici l'épreuve prévue :\n\nPalace de Combat, Solo."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_ChallengeBattlePalaceDouble",
+    "texte": "Je cherche un Dresseur pour :\n\nPalace de Combat, Duo."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_GetToBattlePalaceDouble",
+    "texte": "Voici l'épreuve prévue :\n\nPalace de Combat, Duo."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_ChallengeBattleArena",
+    "texte": "Je cherche un Dresseur pour :\n\nDojo de Combat, Tournoi K.O.."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_GetToBattleArena",
+    "texte": "Voici l'épreuve prévue :\n\nDojo de Combat, Tournoi K.O.."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_ChallengeBattlePike",
+    "texte": "Je cherche un Dresseur pour :\n\nReptile de Combat, Combat Hasard."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_GetToBattlePike",
+    "texte": "Voici l'épreuve prévue :\n\nReptile de Combat, Combat Hasard."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_ChallengeBattlePyramid",
+    "texte": "Je cherche un Dresseur pour :\n\nPyramide de Combat, Combat Quête."
+  },
+  {
+    "repere": "BattleFrontier_Lounge3_Text_GetToBattlePyramid",
+    "texte": "Voici l'épreuve prévue :\n\nPyramide de Combat, Combat Quête."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlGreeting",
+    "texte": "Je crois comprendre les Pokémon.\n\nVeux-tu m'en montrer un ?"
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlNoneShown",
+    "texte": "Une autre fois, alors."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlEgg",
+    "texte": "Je ne sais pas encore comprendre\nun Oeuf."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_LadyClaimsSheUnderstandsPokemon",
+    "texte": "Elle dit qu'elle comprend\nles Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_GirlSayingSomethingProfound",
+    "texte": "Ses observations correspondent\nparfois à ce que je vois en combat."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_GirlPlaysAtRedHouseALot",
+    "texte": "Elle passe beaucoup de temps\nau Palace, le bâtiment rouge."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlHardy",
+    "texte": "Il préfère attaquer.\n\nEn difficulté, il attaque."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlLonely",
+    "texte": "Il préfère gêner son adversaire.\n\nEn difficulté, il attaque."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlBrave",
+    "texte": "Il préfère attaquer.\n\nEn difficulté, il se protège."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlAdamant",
+    "texte": "Il préfère attaquer.\n\nEn difficulté, il attaque."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlNaughty",
+    "texte": "Il préfère se protéger.\n\nEn difficulté, il attaque."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlBold",
+    "texte": "Il préfère gêner son adversaire.\n\nEn difficulté, il se protège."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlDocileNaiveQuietQuirky",
+    "texte": "Il préfère attaquer.\n\nEn difficulté, il attaque."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlRelaxed",
+    "texte": "Il préfère gêner son adversaire.\n\nEn difficulté, il attaque."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlImpish",
+    "texte": "Il préfère attaquer.\n\nEn difficulté, il se protège."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlLax",
+    "texte": "Il préfère gêner son adversaire.\n\nEn difficulté, il gêne l'adversaire."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlTimid",
+    "texte": "Il préfère attaquer.\n\nEn difficulté, il gêne l'adversaire."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlHasty",
+    "texte": "Il préfère attaquer.\n\nEn difficulté, il attaque."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlSerious",
+    "texte": "Il préfère gêner son adversaire.\n\nEn difficulté, il gêne l'adversaire."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlJolly",
+    "texte": "Il préfère gêner son adversaire.\n\nEn difficulté, il se protège."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlModest",
+    "texte": "Il préfère se protéger.\n\nEn difficulté, il se protège."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlMild",
+    "texte": "Il préfère se protéger.\n\nEn difficulté, il gêne l'adversaire."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlBashful",
+    "texte": "Il préfère se protéger.\n\nEn difficulté, il se protège."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlRash",
+    "texte": "Il préfère gêner son adversaire.\n\nEn difficulté, il gêne l'adversaire."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlCalm",
+    "texte": "Il préfère se protéger.\n\nEn difficulté, il se protège."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlGentle",
+    "texte": "Il préfère se protéger.\n\nEn difficulté, il attaque."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlSassy",
+    "texte": "Il préfère attaquer.\n\nEn difficulté, il gêne l'adversaire."
+  },
+  {
+    "repere": "BattleFrontier_Lounge5_Text_NatureGirlCareful",
+    "texte": "Il préfère se protéger.\n\nEn difficulté, il gêne l'adversaire."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_LeftTutorIntro",
+    "texte": "J'ai longtemps participé aux combats.\n\nJe peux enseigner certaines\ncapacités à tes Pokémon.\n\nLe paiement se fait en Points\nde Combat. Cela t'intéresse ?"
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_LeftTutorWelcomeBack",
+    "texte": "Veux-tu apprendre une capacité\nà un de tes Pokémon ?"
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_TeachWhichMove",
+    "texte": "Quelle capacité choisis-tu ?"
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_MoveWillBeXBattlePoints",
+    "texte": "{STR_VAR_1} coûte {STR_VAR_2}\nPoints de Combat.\n\nTu confirmes ?"
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_TeachMoveToWhichMon",
+    "texte": "À quel Pokémon dois-je enseigner\ncette capacité ?"
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_HaventGotEnoughPoints",
+    "texte": "Tu n'as pas assez de Points\nde Combat."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_IllTakeBattlePoints",
+    "texte": "La leçon est terminée.\n\nJe prends les Points de Combat."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_YouDontWantTo",
+    "texte": "D'accord. Reviens si tu changes\nd'avis."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_RightTutorIntro",
+    "texte": "J'étais nageuse et Dresseuse.\n\nJ'enseigne des capacités difficiles\naux Pokémon qui peuvent les apprendre.\n\nJe suis payée en Points de Combat.\nVeux-tu consulter ma liste ?"
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_RightTutorWelcomeBack",
+    "texte": "Veux-tu consulter mes leçons ?"
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_ThinkLadiesDontGetAlong",
+    "texte": "Elles se disputent chaque matin.\n\nPourtant, elles arrivent ensemble."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_LadiesWereStrongAndBeautiful",
+    "texte": "Je les ai vues combattre autrefois.\n\nAujourd'hui, elles transmettent\nce qu'elles ont appris."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_SoftboiledDesc",
+    "texte": "Restaure la moitié des PV max."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_SeismicTossDesc",
+    "texte": "Dégâts égaux au niveau du lanceur."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_DreamEaterDesc",
+    "texte": "Draine la moitié des dégâts\nsur une cible endormie."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_MegaPunchDesc",
+    "texte": "Un puissant coup de poing."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_MegaKickDesc",
+    "texte": "Un puissant coup de pied."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_BodySlamDesc",
+    "texte": "Une charge qui peut paralyser."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_RockSlideDesc",
+    "texte": "Des rochers pouvant apeurer."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_CounterDesc",
+    "texte": "Renvoie le double des dégâts\nphysiques reçus."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_ThunderWaveDesc",
+    "texte": "Un choc électrique qui paralyse."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_SwordsDanceDesc",
+    "texte": "Augmente fortement l'Attaque."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_DefenseCurlDesc",
+    "texte": "Augmente la Défense."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_SnoreDesc",
+    "texte": "Attaque utilisable en dormant."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_MudSlapDesc",
+    "texte": "Boue qui réduit la précision."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_SwiftDesc",
+    "texte": "Des étoiles qui touchent toujours."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_IcyWindDesc",
+    "texte": "Réduit la Vitesse de la cible."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_EndureDesc",
+    "texte": "Permet de conserver au moins 1 PV\npendant le tour."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_PsychUpDesc",
+    "texte": "Copie les changements de stats\nde la cible."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_IcePunchDesc",
+    "texte": "Un poing pouvant geler."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_ThunderPunchDesc",
+    "texte": "Un poing pouvant paralyser."
+  },
+  {
+    "repere": "BattleFrontier_Lounge7_Text_FirePunchDesc",
+    "texte": "Un poing pouvant brûler."
+  }
+]
