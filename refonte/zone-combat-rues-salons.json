@@ -1,0 +1,322 @@
+[
+  {
+    "repere": "BattleFrontier_Lounge4_Text_WonderIfInterviewsAiring",
+    "texte": "Je voudrais voir les interviews\ndes Dresseurs à la télévision."
+  },
+  {
+    "repere": "BattleFrontier_Lounge4_Text_IfIOpenedRestaurantHere",
+    "texte": "Il manque un restaurant ici.\n\nJe pourrais servir les équipes\nqui terminent leur journée."
+  },
+  {
+    "repere": "BattleFrontier_Lounge4_Text_NeedBreatherAfterBattles",
+    "texte": "Je fais une pause entre deux combats.\n\nJ'ai encore ma stratégie en tête."
+  },
+  {
+    "repere": "BattleFrontier_Lounge6_Text_WouldYouLikeToTrade",
+    "texte": "J'ai un {STR_VAR_2}.\n\nJe voudrais rencontrer un\n{STR_VAR_1}.\n\nVeux-tu échanger ton {STR_VAR_1}\ncontre mon {STR_VAR_2} ?"
+  },
+  {
+    "repere": "BattleFrontier_Lounge6_Text_PromiseIllBeGoodToIt",
+    "texte": "Merci ! Je prendrai soin de lui.\n\nPrends aussi soin de mon\n{STR_VAR_2}."
+  },
+  {
+    "repere": "BattleFrontier_Lounge6_Text_DontTradeForAnythingButMon",
+    "texte": "Je cherche seulement un\n{STR_VAR_1}."
+  },
+  {
+    "repere": "BattleFrontier_Lounge6_Text_WellThatsFineToo",
+    "texte": "D'accord. Reviens si tu changes\nd'avis."
+  },
+  {
+    "repere": "BattleFrontier_Lounge6_Text_SkittySoMuchCuterThanImagined",
+    "texte": "Mon Skitty s'est déjà habitué\nà cette pièce."
+  },
+  {
+    "repere": "BattleFrontier_Lounge8_Text_WhatATrainerNeeds",
+    "texte": "Savoir, Tactique, Chance, Cran,\nEsprit, Bravoure et Capacité.\n\nJ'ai retenu les sept symboles.\nAh ! Il me faut aussi des Pokémon !"
+  },
+  {
+    "repere": "BattleFrontier_Lounge8_Text_KnowAboutFrontierBrains",
+    "texte": "Scott a confié chacun des sept\nbâtiments à un meneur de Zone."
+  },
+  {
+    "repere": "BattleFrontier_Lounge8_Text_ToldMeIHaveTalentForBattling",
+    "texte": "On me dit doué pour les combats.\n\nJe préfère pourtant les Concours.\nJe vais continuer à y participer."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_BattleTowerSign",
+    "texte": "Tour de Combat.\nSéries de sept rencontres."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_BattlePalaceSign",
+    "texte": "Palace de Combat.\nLes Pokémon choisissent."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_BattleArenaSign",
+    "texte": "Dojo de Combat.\nTournoi K.O."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_BattlePyramidSign",
+    "texte": "Pyramide de Combat.\nCombat Quête."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_RankingHallSign",
+    "texte": "Hall de Classement.\nConsultation des records."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_ExchangeCornerSign",
+    "texte": "Service d'Échange.\nPoints de Combat et récompenses."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_BattleTowerFeelsSpecial",
+    "texte": "La Tour domine tous les bâtiments.\n\nOn la voit depuis le ferry."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_ConquerLeagueAndFrontier",
+    "texte": "Je veux terminer les sept épreuves\net la Ligue Pokémon.\n\nEnsuite, j'inviterai Mimi à sortir."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_PyramidTooHarsh",
+    "texte": "Je n'ai pas atteint le sommet.\n\nJe voudrais comprendre le plan\ndes étages avant de recommencer."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_ThriveInDarkness",
+    "texte": "J'aime explorer la Pyramide.\n\nMes yeux s'habituent lentement\nà l'obscurité."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_PutTogetherUltimateTeam",
+    "texte": "J'ai passé la semaine à préparer\nmon équipe.\n\nJe vais essayer le Dojo de Combat."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_DidScottBringYouHere",
+    "texte": "Scott repère beaucoup de Dresseurs.\n\nJe ne l'ai jamais vu combattre."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_BelieveInYouBuddy",
+    "texte": "Zigg, on va essayer ensemble.\n\nAprès le combat, on ira manger."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_ZigzagoonLooksVacant",
+    "texte": "Zigzaton regarde au loin."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_PeopleCallMeBusybody",
+    "texte": "Je passe souvent par les cuisines.\n\nLes repas sont préparés à l'avance.\nJe leur propose toujours mon aide."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_OnceBeatGymLeader",
+    "texte": "J'ai battu un champion d'arène\nil y a longtemps.\n\nJe pourrais reprendre les combats."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_FastOnBikeAndBattles",
+    "texte": "Je roule vite à vélo.\n\nEn combat, je dois apprendre\nà prendre mon temps."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_BetterThanDaddyAtPokemon",
+    "texte": "J'ai battu papa hier !"
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_GoRackUpSomeWinsForDaddy",
+    "texte": "Bonne chance, ma fille !\n\nJe t'attendrai à la sortie."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_HeardPrettyGirlAtBattleArena",
+    "texte": "Je suis venu rencontrer Carole.\n\nTout le monde s'entraîne au Dojo."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_SometimesImportantOldManInThere",
+    "texte": "Un homme âgé vient parfois ici.\n\nSes Pokémon restent près de lui."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_LegendOfBattlePyramid",
+    "texte": "On raconte qu'un homme attend\nau sommet doré de la Pyramide.\n\nEnfin, c'est moi qui le raconte.\nEssaie de vérifier."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_GotWipedOut",
+    "texte": "C'était ma première défaite ici.\n\nJe vais revoir mon équipe."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_ToughTrainerInBattleTower",
+    "texte": "Il revient de la Tour de Combat.\n\nSon adversaire était redoutable."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_EnoughBattlePointsForDoll",
+    "texte": "J'ai assez de Points de Combat\npour une nouvelle poupée !"
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_LikeToHaveNameRecordedHere",
+    "texte": "J'aimerais voir mon nom inscrit\nau Hall de Classement.\n\nMa famille pourrait le lire."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_CanDoAnythingWithYou",
+    "texte": "On a préparé nos équipes ensemble."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_PowerOfOurLoveWillOvercome",
+    "texte": "Allons au Salon de Combat !\n\nNous pourrons faire équipe\npour les combats Multi."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_FrontierNotExclusivelyForToughTrainers",
+    "texte": "Scott a invité des Dresseurs,\nmais aussi des gens de métier.\n\nIl faut du monde pour faire vivre\nces bâtiments."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_OddTreeHereSeemsToWiggle",
+    "texte": "Tu vois cet arbre, là-bas ?\n\nIl me semble qu'il bouge."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_OnceAnOddTreePastHere",
+    "texte": "Il y avait un arbre étrange ici.\n\nJe ne le vois plus."
+  },
+  {
+    "repere": "BattleFrontier_OutsideEast_Text_StickyMonWithLongTail",
+    "texte": "J'ai aperçu un Pokémon gluant\navec une longue queue.\n\nIl se cachait derrière un rocher."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_BattleDomeSign",
+    "texte": "Dôme de Combat.\nTournois Solo et Duo."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_BattleFactorySign",
+    "texte": "Usine de Combat.\nPokémon de location."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_BattlePikeSign",
+    "texte": "Reptile de Combat.\nTrois chemins à chaque étape."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_ThisIsBattleTower",
+    "texte": "Voici la Tour de Combat.\n\nLes Dresseurs y disputent\ndes séries de combats."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_MayISeeYourTicket",
+    "texte": "Bonjour. Puis-je voir\nvotre Passe Bateau ?"
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_MustHaveTicketToBoard",
+    "texte": "{PLAYER} n'a pas de Passe Bateau.\n\nIl est nécessaire pour embarquer."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_WhereWouldYouLikeToGo",
+    "texte": "{PLAYER} présente le Passe Bateau.\n\nQuelle est votre destination ?"
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_SlateportItIs",
+    "texte": "Destination : Poivressel."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_LilycoveItIs",
+    "texte": "Destination : Nénucrique."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_SailWithUsAnotherTime",
+    "texte": "À votre prochaine traversée."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_PleaseBoardFerry",
+    "texte": "Veuillez embarquer\net attendre le départ."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_ThenWhereWouldYouLikeToGo",
+    "texte": "Quelle destination choisissez-vous ?"
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_BestOutOfAllMyFriends",
+    "texte": "Je gagnais contre mes amis.\n\nIci, je rencontre des équipes\nque je ne sais pas contrer."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_CantFindBattleTower",
+    "texte": "Je cherche la Tour de Combat.\n\nJ'ai une carte, mais les rues\nse ressemblent."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_GotSeasickOnWayHere",
+    "texte": "Je voulais combattre dès l'arrivée.\n\nLa traversée m'a rendu malade."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_OnlyToughTrainersBroughtHere",
+    "texte": "Il faut une invitation pour venir.\n\nBeaucoup de Dresseurs ignorent\nencore que cette île existe."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_SureWeCanChallengeWithNoMons",
+    "texte": "On peut vraiment participer\nsans apporter ses propres Pokémon ?"
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_BigGuySaidIllLendYouMons",
+    "texte": "On m'a parlé de l'Usine de Combat.\n\nIls nous prêteront des Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_WhosRaisingThoseRentalMons",
+    "texte": "L'Usine prête des Pokémon.\n\nJe voudrais rencontrer les gens\nqui s'en occupent chaque jour."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_ScaredOfPikeBecauseSeviper",
+    "texte": "Le Reptile ressemble à un Séviper.\n\nJ'hésite encore à entrer."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_LetsPlayRockPaperScissors",
+    "texte": "Pierre, papier, ciseaux !\n\nUn, deux, trois !"
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_WonIllTakePikeChallenge",
+    "texte": "J'ai gagné !\n\nJe vais essayer le Reptile."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_LostIllPutOffPikeChallenge",
+    "texte": "J'ai perdu.\n\nJe reviendrai demain au Reptile."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_ChooseFishingOverBattling",
+    "texte": "Je préfère la pêche aux combats.\n\nIl n'y a rien à pêcher ici ?"
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_KeepBattlingUntilIGetSymbol",
+    "texte": "Je voudrais gagner un symbole.\n\nJe vais tenter une nouvelle série."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_YoureOffToChallengeDome",
+    "texte": "Tu vas au Dôme ?\n\nOn se retrouvera peut-être\ndans le même tournoi."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_DomeIsHereGrandpa",
+    "texte": "Papy ! Le Dôme est par ici !"
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_WontLetGentlemenBeatMe",
+    "texte": "Je vais essayer le Dôme.\n\nOù se trouve l'entrée ?"
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_NothingHereNotLongAgo",
+    "texte": "Il n'y avait rien ici autrefois.\n\nJe voudrais montrer les bâtiments\nà ma mère."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_FinallyArrivedAtFrontier",
+    "texte": "Je suis enfin arrivée.\n\nJ'ai préparé mes Pokémon\npendant des semaines."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_SquareFilledWithToughPeople",
+    "texte": "Miam... Tous ces Dresseurs\nont l'air très forts."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_MetOlderGirlAtPike",
+    "texte": "Miam... Charline m'a demandé\nd'arrêter de manger dans sa salle.\n\nJ'ai terminé mon repas dehors."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_LastTimeOurEyesMet",
+    "texte": "Lors de son dernier combat,\nTakim a regardé vers notre rang !"
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_DomeAceLookedBecauseOfMyCheering",
+    "texte": "C'est parce que je l'encourageais !\n\nJ'étais juste à côté de toi."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_DomeAceIsMine",
+    "texte": "Vous avez fini de vous disputer ?\n\nOn est tous venus voir Takim."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_FansOverThereUsedToBeTrainers",
+    "texte": "Ces spectateurs participaient\naux tournois autrefois.\n\nIls ont tous perdu contre Takim.\nDepuis, ils suivent ses combats."
+  },
+  {
+    "repere": "BattleFrontier_OutsideWest_Text_MonWithLongTailInFrontier",
+    "texte": "On a vu un Pokémon à longue queue\nquelque part sur l'île.\n\nJe vais essayer de le trouver."
+  }
+]
