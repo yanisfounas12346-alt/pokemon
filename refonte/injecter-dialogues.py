@@ -164,7 +164,8 @@ def load_inputs(args):
         raise ValueError("Manifeste avec anomalies bloquantes")
     codec = Codec(args.charmap)
     fingerprints = {"base_sha256": digest(base), "v3_sha256": digest(current),
-                    "manifeste_sha256": digest(manifest_bytes)}
+                    "manifeste_sha256": digest(manifest_bytes),
+                    "charmap_sha256": digest(args.charmap.read_bytes())}
     return base, current, manifest, codec, fingerprints
 
 def scan(base, current, manifest, codec):

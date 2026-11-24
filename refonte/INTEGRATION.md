@@ -43,7 +43,7 @@ ce texte. Contrôler notamment les usages indirects, les fragments concaténés,
 les menus, les chaînes qui se chevauchent et les dialogues déjà protégés.
 Le repérage brut ne décode pas les scripts d'événements.
 
-Construire un fichier d'approbations distinct contenant les trois empreintes
+Construire un fichier d'approbations distinct contenant les quatre empreintes
 exactes du repérage et uniquement les entrées validées. Chaque entrée doit
 porter les champs `repere`, `offset` (entier décimal), `pointeurs` (liste
 d'entiers décimaux), `verification` (description de la vérification humaine).
@@ -101,3 +101,32 @@ est créé à côté du patch. Ce contrôle de cohérence binaire ne démontre p
 que les pointeurs approuvés sont corrects en jeu ni que tous les textes
 sont intégrés. Ne pas publier ce patch comme version finale sans validation
 sur émulateur et traitement des repères restants.
+
+## Aide à la relecture des candidats
+
+Le fichier de repérage peut être transformé en une liste de contrôle contenant
+le texte d'origine, le nouveau texte, la carte, les offsets et les pointeurs en
+décimal et en hexadécimal.
+
+```sh
+python3 refonte/preparer-relecture.py preparer \
+  --manifeste rapports/manifeste.json --reperage rapports/reperage.json \
+  --sortie rapports/relecture.json
+```
+
+Aucune entrée n'est préapprouvée. Après inspection dans HMA, renseigner les
+trois contrôles, la justification et la décision `approuve` pour chaque
+entrée vérifiée. Les entrées non vérifiées restent `a_revoir` ou `refuse`.
+Le texte et les adresses ne doivent pas être changés dans ce fichier.
+
+```sh
+python3 refonte/preparer-relecture.py valider \
+  --manifeste rapports/manifeste.json --reperage rapports/reperage.json \
+  --relecture rapports/relecture.json --sortie rapports/approbations.json
+```
+
+Cette liste est liée aux empreintes de la ROM originale, de la v3, du manifeste
+et de la charmap. Toute modification de ces données impose un nouveau repérage.
+Les cases cochées ne prouvent pas une vérification réelle : elles doivent être
+renseignées par la personne qui a inspecté les pointeurs, jamais par un
+traitement automatique.
