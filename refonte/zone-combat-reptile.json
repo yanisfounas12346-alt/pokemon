@@ -21,11 +21,11 @@
   },
   {
     "repere": "BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLv50",
-    "texte": "Il faut trois Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+    "texte": "Il faut trois Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au\ncombat."
   },
   {
     "repere": "BattleFrontier_BattlePikeLobby_Text_NotEnoughValidMonsLvOpen",
-    "texte": "Il faut trois Pokémon différents,\navec des objets différents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+    "texte": "Il faut trois Pokémon différents,\navec des objets différents.\n\nLes Oeufs{STR_VAR_1} inaptes au\ncombat."
   },
   {
     "repere": "BattleFrontier_BattlePikeLobby_Text_PleaseChooseThreeMons",
@@ -81,7 +81,7 @@
   },
   {
     "repere": "BattleFrontier_BattlePikeLobby_Text_ThinkAbilitiesUsefulHere",
-    "texte": "Certaines capacités spéciales\npeuvent protéger des problèmes\nde statut."
+    "texte": "Certaines capacités spéciales\npeuvent protéger des problèmes\n\nde statut."
   },
   {
     "repere": "BattleFrontier_BattlePikeLobby_Text_TrainersWhicheverPathIChoose",

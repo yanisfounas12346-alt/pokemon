@@ -13,7 +13,7 @@
   },
   {
     "repere": "BattleFrontier_BattleDomeLobby_Text_ExplainSinglesChallenge",
-    "texte": "Inscrivez trois Pokémon.\n\nAvant chaque Combat Solo, choisissez\ndeux d'entre eux et gardez le\ntroisième en réserve.\n\nConsultez l'équipe adverse avant\nde choisir vos deux Pokémon.\n\nQuatre victoires remportent\nle tournoi et des Points de Combat.\n\nSauvegardez avant d'interrompre\nle tournoi pour pouvoir le reprendre."
+    "texte": "Inscrivez trois Pokémon.\n\nAvant chaque Combat Solo, choisissez\ndeux d'entre eux et gardez le\n\ntroisième en réserve.\n\nConsultez l'équipe adverse avant\nde choisir vos deux Pokémon.\n\nQuatre victoires remportent\nle tournoi et des Points de Combat.\n\nSauvegardez avant d'interrompre le\ntournoi pour pouvoir le reprendre."
   },
   {
     "repere": "BattleFrontier_BattleDomeLobby_Text_OkayToSaveBeforeChallenge",
@@ -29,11 +29,11 @@
   },
   {
     "repere": "BattleFrontier_BattleDomeLobby_Text_NotEnoughValidMonsLvOpen",
-    "texte": "Il faut trois Pokémon différents,\navec des objets différents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+    "texte": "Il faut trois Pokémon différents,\navec des objets différents.\n\nLes Oeufs{STR_VAR_1} inaptes au\ncombat."
   },
   {
     "repere": "BattleFrontier_BattleDomeLobby_Text_NotEnoughValidMonsLv50",
-    "texte": "Il faut trois Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+    "texte": "Il faut trois Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au\ncombat."
   },
   {
     "repere": "BattleFrontier_BattleDomeLobby_Text_ShowYouToBattleDome",
@@ -85,7 +85,7 @@
   },
   {
     "repere": "BattleFrontier_BattleDomeLobby_Text_ExplainDoublesChallenge",
-    "texte": "Inscrivez trois Pokémon.\n\nAvant chaque Combat Duo, choisissez\ndeux d'entre eux et gardez le\ntroisième en réserve.\n\nConsultez l'équipe adverse avant\nde choisir vos deux Pokémon.\n\nQuatre victoires remportent\nle tournoi et des Points de Combat.\n\nSauvegardez avant d'interrompre\nle tournoi pour pouvoir le reprendre."
+    "texte": "Inscrivez trois Pokémon.\n\nAvant chaque Combat Duo, choisissez\ndeux d'entre eux et gardez le\n\ntroisième en réserve.\n\nConsultez l'équipe adverse avant\nde choisir vos deux Pokémon.\n\nQuatre victoires remportent\nle tournoi et des Points de Combat.\n\nSauvegardez avant d'interrompre le\ntournoi pour pouvoir le reprendre."
   },
   {
     "repere": "BattleFrontier_BattleDomeLobby_Text_PrevTourneyResultsSinglesLv50",
@@ -285,11 +285,11 @@
   },
   {
     "repere": "BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTrainer",
-    "texte": "Les arbitres ont rendu leur décision.\n\nVictoire de {STR_VAR_1} !"
+    "texte": "Les arbitres ont rendu leur\ndécision.\n\nVictoire de {STR_VAR_1} !"
   },
   {
     "repere": "BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerPlayer",
-    "texte": "Les arbitres ont rendu leur décision.\n\nVictoire de {PLAYER} !"
+    "texte": "Les arbitres ont rendu leur\ndécision.\n\nVictoire de {PLAYER} !"
   },
   {
     "repere": "BattleFrontier_BattleDomeBattleRoom_Text_BrightNewHope",
@@ -437,7 +437,7 @@
   },
   {
     "repere": "BattleFrontier_BattleDomeBattleRoom_Text_RefereesDecidedWinnerTucker",
-    "texte": "Les arbitres ont rendu leur décision.\n\nTakim remporte la finale !"
+    "texte": "Les arbitres ont rendu leur\ndécision.\n\nTakim remporte la finale !"
   },
   {
     "repere": "BattleFrontier_OutsideWest_Text_LongDreamedAboutBattleFrontier",

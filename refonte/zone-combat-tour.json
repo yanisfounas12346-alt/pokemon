@@ -13,7 +13,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_EarnedFabulousPrize",
-    "texte": "Voici le prix de vos sept victoires. "
+    "texte": "Voici le prix de vos sept victoires."
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_ReceivedPrize",
@@ -53,7 +53,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_DescribeFeelingsAboutBattleTower",
-    "texte": "Nous recueillons les paroles\ndes Dresseurs avant un combat,\n\naprès une victoire ou une défaite.\nVoulez-vous nous confier les vôtres ?"
+    "texte": "Nous recueillons les paroles\ndes Dresseurs avant un combat,\n\naprès une victoire ou une défaite.\nVoulez-vous nous confier les vôtres\n\n?"
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_FeelWhatWhenYouBegin",
@@ -73,7 +73,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_ChangedYourMind",
-    "texte": "Vous souhaitez modifier vos paroles ?"
+    "texte": "Vous souhaitez modifier vos paroles\n?"
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_ThatsHowYouFeel",
@@ -85,7 +85,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_CanLeaveUntilLossOrSevenWins",
-    "texte": "Une série se termine après une\ndéfaite ou sept victoires.\n\nTu peux aussi sauvegarder pour\ninterrompre ton défi hors Multi Link."
+    "texte": "Une série se termine après une\ndéfaite ou sept victoires.\n\nTu peux aussi sauvegarder pour\ninterrompre ton défi hors Multi\n\nLink."
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_DoubleBattleRoomConstruction",
@@ -177,7 +177,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_ExplainLinkMultisChallenge",
-    "texte": "Connectez deux consoles avec\nles adaptateurs sans fil ou le\ncâble Game Boy Advance Game Link.\n\nChaque joueur inscrit deux Pokémon\ndifférents de ceux du partenaire.\n\nSept équipes vous attendent.\nBattez-les pour gagner des Points.\n\nEn Multi Link, aucune pause\nn'est possible pendant la série."
+    "texte": "Connectez deux consoles avec\nles adaptateurs sans fil ou le\n\ncâble Game Boy Advance Game Link.\n\nChaque joueur inscrit deux Pokémon\ndifférents de ceux du partenaire.\n\nSept équipes vous attendent.\nBattez-les pour gagner des Points.\n\nEn Multi Link, aucune pause\nn'est possible pendant la série."
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_PleaseSelectTwoMons2",
@@ -185,7 +185,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_ChoseSameMonAsFriend",
-    "texte": "Votre partenaire a choisi la même\nespèce de Pokémon.\n\nChoisissez deux espèces différentes\net le même niveau, puis réinscrivez-vous."
+    "texte": "Votre partenaire a choisi la même\nespèce de Pokémon.\n\nChoisissez deux espèces différentes\net le même niveau, puis\n\nréinscrivez-vous."
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_LinkMultiOnlyForTwoPlayers",
@@ -249,7 +249,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_ExplainMultiLinkRules",
-    "texte": "Deux joueurs se connectent par\nadaptateur sans fil ou câble\nGame Boy Advance Game Link.\n\nChacun choisit deux Pokémon\nd'espèces différentes de celles\n\nde son partenaire.\nAucune pause pendant la série."
+    "texte": "Deux joueurs se connectent par\nadaptateur sans fil ou câble\n\nGame Boy Advance Game Link.\n\nChacun choisit deux Pokémon\nd'espèces différentes de celles\n\nde son partenaire.\nAucune pause pendant la série."
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_BattleRecordedOnPass",
@@ -257,35 +257,35 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50Singles",
-    "texte": "Il faut trois Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+    "texte": "Il faut trois Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au\ncombat."
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpenSingles",
-    "texte": "Il faut trois Pokémon différents.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+    "texte": "Il faut trois Pokémon différents.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au\ncombat."
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50Doubles",
-    "texte": "Il faut quatre Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+    "texte": "Il faut quatre Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au\ncombat."
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpenDoubles",
-    "texte": "Il faut quatre Pokémon différents.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+    "texte": "Il faut quatre Pokémon différents.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au\ncombat."
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50Multis",
-    "texte": "Il faut deux Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+    "texte": "Il faut deux Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au\ncombat."
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpenMultis",
-    "texte": "Il faut deux Pokémon différents.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+    "texte": "Il faut deux Pokémon différents.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au\ncombat."
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLv50",
-    "texte": "Il faut {STR_VAR_2} Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+    "texte": "Il faut {STR_VAR_2} Pokémon\ndifférents de niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au\ncombat."
   },
   {
     "repere": "BattleFrontier_BattleTowerLobby_Text_NotEnoughValidMonsLvOpen",
-    "texte": "Il faut {STR_VAR_2} Pokémon différents.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+    "texte": "Il faut {STR_VAR_2} Pokémon\ndifférents.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au\ncombat."
   },
   {
     "repere": "BattleFrontier_BattleTowerBattleRoom_Text_RestoreMonsToFullHealth",

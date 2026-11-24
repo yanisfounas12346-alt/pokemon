@@ -17,7 +17,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Intro",
-    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}."
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n\n{STR_VAR_1}."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice1Mon1",
@@ -37,7 +37,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Intro",
-    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}."
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n\n{STR_VAR_1}."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_UnusedApprentice2Mon1",
@@ -57,7 +57,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Intro",
-    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJ'ai encore le trac."
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n\n{STR_VAR_1}.\n\nJ'ai encore le trac."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice1Mon1",
@@ -77,7 +77,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice2Intro",
-    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJe suis prêt à essayer !"
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n\n{STR_VAR_1}.\n\nJe suis prêt à essayer !"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice2Mon1",
@@ -97,7 +97,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice3Intro",
-    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJ'ai beaucoup travaillé."
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n\n{STR_VAR_1}.\n\nJ'ai beaucoup travaillé."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice3Mon1",
@@ -117,7 +117,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice4Intro",
-    "texte": "Je suis {STR_VAR_3}.\nApprentie n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nMerci de venir me parler."
+    "texte": "Je suis {STR_VAR_3}.\nApprentie n° {STR_VAR_2} de\n\n{STR_VAR_1}.\n\nMerci de venir me parler."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice4Mon1",
@@ -137,7 +137,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice5Intro",
-    "texte": "Je suis {STR_VAR_3}.\nApprentie n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJe voudrais faire un bon combat."
+    "texte": "Je suis {STR_VAR_3}.\nApprentie n° {STR_VAR_2} de\n\n{STR_VAR_1}.\n\nJe voudrais faire un bon combat."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice5Mon1",
@@ -157,7 +157,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice6Intro",
-    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJe m'entraîne aussi à la course."
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n\n{STR_VAR_1}.\n\nJe m'entraîne aussi à la course."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice6Mon1",
@@ -177,7 +177,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Intro",
-    "texte": "Je suis {STR_VAR_3}.\nApprentie n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nRavie de te rencontrer."
+    "texte": "Je suis {STR_VAR_3}.\nApprentie n° {STR_VAR_2} de\n\n{STR_VAR_1}.\n\nRavie de te rencontrer."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice7Mon1",
@@ -197,7 +197,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice8Intro",
-    "texte": "Je suis {STR_VAR_3}.\nApprentie n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJ'ai préparé mes notes."
+    "texte": "Je suis {STR_VAR_3}.\nApprentie n° {STR_VAR_2} de\n\n{STR_VAR_1}.\n\nJ'ai préparé mes notes."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice8Mon1",
@@ -217,7 +217,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Intro",
-    "texte": "Je suis {STR_VAR_3}.\nApprentie n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJe suis contente que tu sois là."
+    "texte": "Je suis {STR_VAR_3}.\nApprentie n° {STR_VAR_2} de\n\n{STR_VAR_1}.\n\nJe suis contente que tu sois là."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice9Mon1",
@@ -237,7 +237,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice10Intro",
-    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJe viens de finir mes exercices."
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n\n{STR_VAR_1}.\n\nJe viens de finir mes exercices."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice10Mon1",
@@ -257,7 +257,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Intro",
-    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nMon numéro... Ah, je m'en souviens."
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n\n{STR_VAR_1}.\n\nMon numéro... Ah, je m'en souviens."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice11Mon1",
@@ -277,7 +277,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice12Intro",
-    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJe suis marin. J'aime chanter."
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n\n{STR_VAR_1}.\n\nJe suis marin. J'aime chanter."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice12Mon1",
@@ -297,7 +297,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice13Intro",
-    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nAh, quelqu'un vient enfin !"
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n\n{STR_VAR_1}.\n\nAh, quelqu'un vient enfin !"
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice13Mon1",
@@ -317,7 +317,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice14Intro",
-    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJ'ai pris froid.\nMes Pokémon vont bien."
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n\n{STR_VAR_1}.\n\nJ'ai pris froid.\nMes Pokémon vont bien."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice14Mon1",
@@ -337,7 +337,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice15Intro",
-    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nIl y a beaucoup de monde ici."
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n\n{STR_VAR_1}.\n\nIl y a beaucoup de monde ici."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice15Mon1",
@@ -357,7 +357,7 @@
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice16Intro",
-    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n{STR_VAR_1}.\n\nJ'ai préparé mon équipe."
+    "texte": "Je suis {STR_VAR_3}.\nApprenti n° {STR_VAR_2} de\n\n{STR_VAR_1}.\n\nJ'ai préparé mon équipe."
   },
   {
     "repere": "BattleFrontier_BattleTowerMultiPartnerRoom_Text_Apprentice16Mon1",

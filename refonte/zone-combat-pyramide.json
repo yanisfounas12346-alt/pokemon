@@ -13,7 +13,7 @@
   },
   {
     "repere": "BattleFrontier_BattlePyramidLobby_Text_ExplainBattlePyramid",
-    "texte": "Explorez sept étages labyrinthiques\npour atteindre le sommet.\n\nInscrivez trois Pokémon sans objet.\nNous vous prêtons un Sac de Combat.\n\nEn cas d'échec, son contenu est perdu.\nPour interrompre le défi,\n\nchoisissez Repos et sauvegardez.\nSans sauvegarde, pas de reprise."
+    "texte": "Explorez sept étages labyrinthiques\npour atteindre le sommet.\n\nInscrivez trois Pokémon sans objet.\nNous vous prêtons un Sac de Combat.\n\nEn cas d'échec, son contenu est\nperdu. Pour interrompre le défi,\n\nchoisissez Repos et sauvegardez.\nSans sauvegarde, pas de reprise."
   },
   {
     "repere": "BattleFrontier_BattlePyramidLobby_Text_WhichLevelMode",
@@ -25,11 +25,11 @@
   },
   {
     "repere": "BattleFrontier_BattlePyramidLobby_Text_NotEnoughValidMonsLvOpen",
-    "texte": "Il faut trois Pokémon admissibles\nne portant aucun objet.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+    "texte": "Il faut trois Pokémon admissibles\nne portant aucun objet.\n\nLes Oeufs{STR_VAR_1} inaptes au\ncombat."
   },
   {
     "repere": "BattleFrontier_BattlePyramidLobby_Text_NotEnoughValidMonsLv50",
-    "texte": "Il faut trois Pokémon différents\nde niveau 50 ou moins, sans objet.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+    "texte": "Il faut trois Pokémon différents\nde niveau 50 ou moins, sans objet.\n\nLes Oeufs{STR_VAR_1} inaptes au\ncombat."
   },
   {
     "repere": "BattleFrontier_BattlePyramidLobby_Text_OkayToSaveBeforeChallenge",
@@ -101,7 +101,7 @@
   },
   {
     "repere": "BattleFrontier_BattlePyramidLobby_Text_ForConqueringPyramidTakeThis",
-    "texte": "Voici un souvenir de votre ascension."
+    "texte": "Voici un souvenir de votre\nascension."
   },
   {
     "repere": "BattleFrontier_BattlePyramidLobby_Text_ReceivedPrizeItem",
@@ -145,11 +145,11 @@
   },
   {
     "repere": "BattleFrontier_BattlePyramidLobby_Text_HintPPWaste",
-    "texte": "Je vois les PP de tes Pokémon\ns'épuiser sous une forte pression.\n\nIls risquent de devoir utiliser Lutte."
+    "texte": "Je vois les PP de tes Pokémon\ns'épuiser sous une forte pression.\n\nIls risquent de devoir utiliser\nLutte."
   },
   {
     "repere": "BattleFrontier_BattlePyramidLobby_Text_HintLevitate",
-    "texte": "Je vois des Pokémon en lévitation.\n\nLes capacités Sol ne les touchent pas."
+    "texte": "Je vois des Pokémon en lévitation.\n\nLes capacités Sol ne les touchent\npas."
   },
   {
     "repere": "BattleFrontier_BattlePyramidLobby_Text_HintTrapAbility",
@@ -237,7 +237,7 @@
   },
   {
     "repere": "BattleFrontier_BattlePyramidLobby_Text_HintDark",
-    "texte": "Je vois des Pokémon de type Ténèbres.\n\nPrends garde à leurs capacités."
+    "texte": "Je vois des Pokémon de type\nTénèbres.\n\nPrends garde à leurs capacités."
   },
   {
     "repere": "BattleFrontier_BattlePyramidLobby_Text_HintWater",

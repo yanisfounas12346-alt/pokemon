@@ -29,11 +29,11 @@
   },
   {
     "repere": "BattleFrontier_BattleArenaLobby_Text_NotEnoughValidMonsLvOpen",
-    "texte": "Il faut trois Pokémon différents,\navec des objets différents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat.\nRevenez avec une équipe valide."
+    "texte": "Il faut trois Pokémon différents,\navec des objets différents.\n\nLes Oeufs{STR_VAR_1} inaptes au\ncombat. Revenez avec une équipe\n\nvalide."
   },
   {
     "repere": "BattleFrontier_BattleArenaLobby_Text_NotEnoughValidMonsLv50",
-    "texte": "Il faut trois Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+    "texte": "Il faut trois Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au\ncombat."
   },
   {
     "repere": "BattleFrontier_BattleArenaLobby_Text_GuideYouToArena",

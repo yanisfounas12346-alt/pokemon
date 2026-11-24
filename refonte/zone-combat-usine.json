@@ -9,7 +9,7 @@
   },
   {
     "repere": "BattleFrontier_BattleFactoryLobby_Text_ExplainSinglesChallenge",
-    "texte": "Choisissez trois Pokémon prêtés.\n\nVous les utiliserez en Combat Solo.\nAprès une victoire, vous pourrez\n\néchanger l'un d'eux avec un Pokémon\nde l'adversaire battu.\n\nSept victoires de suite rapportent\ndes Points de Combat.\n\nSauvegardez avant d'interrompre\nle défi, sinon vous serez disqualifié."
+    "texte": "Choisissez trois Pokémon prêtés.\n\nVous les utiliserez en Combat Solo.\nAprès une victoire, vous pourrez\n\néchanger l'un d'eux avec un Pokémon\nde l'adversaire battu.\n\nSept victoires de suite rapportent\ndes Points de Combat.\n\nSauvegardez avant d'interrompre le\ndéfi, sinon vous serez disqualifié."
   },
   {
     "repere": "BattleFrontier_BattleFactoryLobby_Text_LookForwardToNextVisit",
@@ -137,7 +137,7 @@
   },
   {
     "repere": "BattleFrontier_BattleFactoryLobby_Text_ExplainSwapNotesRules",
-    "texte": "Les stats du Pokémon à recevoir\nne sont pas visibles avant l'échange.\n\nLes places de votre équipe restent\nles mêmes après chaque échange."
+    "texte": "Les stats du Pokémon à recevoir ne\nsont pas visibles avant l'échange.\n\nLes places de votre équipe restent\nles mêmes après chaque échange."
   },
   {
     "repere": "BattleFrontier_BattleFactoryLobby_Text_ExplainOpenLvRules",
@@ -185,7 +185,7 @@
   },
   {
     "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleTotalPreparation",
-    "texte": "Il semble privilégier la préparation."
+    "texte": "Il semble privilégier la\npréparation."
   },
   {
     "repere": "BattleFrontier_BattleFactoryPreBattleRoom_Text_StyleWeakenFoe",

@@ -157,11 +157,11 @@
   },
   {
     "repere": "BattleFrontier_Lounge2_Text_DomeAceSilverMons",
-    "texte": "Pour le symbole argent :\n\nDragon/Vol, Eau/Sol et Feu/Vol.\nPokémon Dragon, Poissonboue\net Flamme."
+    "texte": "Pour le symbole argent :\n\nDragon/Vol, Eau/Sol et Feu/Vol.\nPokémon Dragon, Poissonboue\n\net Flamme."
   },
   {
     "repere": "BattleFrontier_Lounge2_Text_DomeAceGoldMons",
-    "texte": "Pour le symbole or :\n\nDragon/Psy, Eau/Sol et Acier/Psy.\nPokémon Éon, Poissonboue\net Pattefer."
+    "texte": "Pour le symbole or :\n\nDragon/Psy, Eau/Sol et Acier/Psy.\nPokémon Éon, Poissonboue\n\net Pattefer."
   },
   {
     "repere": "BattleFrontier_Lounge2_Text_FactoryHeadIsThere",
@@ -185,7 +185,7 @@
   },
   {
     "repere": "BattleFrontier_Lounge2_Text_PikeQueenGoldMons",
-    "texte": "Pour le symbole or :\n\nPoison, Acier/Sol et Eau/Vol.\nPokémon Serpacroc, Serpenfer\net Terrifiant."
+    "texte": "Pour le symbole or :\n\nPoison, Acier/Sol et Eau/Vol.\nPokémon Serpacroc, Serpenfer\n\net Terrifiant."
   },
   {
     "repere": "BattleFrontier_Lounge2_Text_ArenaTycoonIsThere",
@@ -193,11 +193,11 @@
   },
   {
     "repere": "BattleFrontier_Lounge2_Text_ArenaTycoonSilverMons",
-    "texte": "Pour le symbole argent :\n\nInsecte/Combat, Ténèbres,\nInsecte/Spectre.\nPokémon Unicorne, Lune et Exuvie."
+    "texte": "Pour le symbole argent :\n\nInsecte/Combat, Ténèbres,\nInsecte/Spectre.\n\nPokémon Unicorne, Lune et Exuvie."
   },
   {
     "repere": "BattleFrontier_Lounge2_Text_ArenaTycoonGoldMons",
-    "texte": "Pour le symbole or :\n\nTénèbres, Spectre/Poison,\nPlante/Combat.\nPokémon Lune, Ombre et Champignon."
+    "texte": "Pour le symbole or :\n\nTénèbres, Spectre/Poison,\nPlante/Combat.\n\nPokémon Lune, Ombre et Champignon."
   },
   {
     "repere": "BattleFrontier_Lounge2_Text_PalaceMavenIsThere",
@@ -205,11 +205,11 @@
   },
   {
     "repere": "BattleFrontier_Lounge2_Text_PalaceMavenSilverMons",
-    "texte": "Pour le symbole argent :\n\nPoison/Vol, Normal et Eau/Glace.\nPokémon Chovsouris, Fainéant\net Transport."
+    "texte": "Pour le symbole argent :\n\nPoison/Vol, Normal et Eau/Glace.\nPokémon Chovsouris, Fainéant\n\net Transport."
   },
   {
     "repere": "BattleFrontier_Lounge2_Text_PalaceMavenGoldMons",
-    "texte": "Pour le symbole or :\n\nFeu, Normal et Eau.\nPokémon Légendaire, Fainéant\net Aurore."
+    "texte": "Pour le symbole or :\n\nFeu, Normal et Eau.\nPokémon Légendaire, Fainéant\n\net Aurore."
   },
   {
     "repere": "BattleFrontier_Lounge2_Text_PyramidKingIsThere",
@@ -221,7 +221,7 @@
   },
   {
     "repere": "BattleFrontier_Lounge2_Text_PyramidKingGoldMons",
-    "texte": "Pour le symbole or :\n\nGlace/Vol, Électrik/Vol, Feu/Vol.\nPokémon Glaciaire, Électrique\net Flamme."
+    "texte": "Pour le symbole or :\n\nGlace/Vol, Électrik/Vol, Feu/Vol.\nPokémon Glaciaire, Électrique\n\net Flamme."
   },
   {
     "repere": "BattleFrontier_Lounge3_Text_CantYouSeeWereBusyHere",
@@ -501,7 +501,7 @@
   },
   {
     "repere": "BattleFrontier_Lounge7_Text_LeftTutorIntro",
-    "texte": "J'ai longtemps participé aux combats.\n\nJe peux enseigner certaines\ncapacités à tes Pokémon.\n\nLe paiement se fait en Points\nde Combat. Cela t'intéresse ?"
+    "texte": "J'ai longtemps participé aux\ncombats.\n\nJe peux enseigner certaines\ncapacités à tes Pokémon.\n\nLe paiement se fait en Points\nde Combat. Cela t'intéresse ?"
   },
   {
     "repere": "BattleFrontier_Lounge7_Text_LeftTutorWelcomeBack",
@@ -533,7 +533,7 @@
   },
   {
     "repere": "BattleFrontier_Lounge7_Text_RightTutorIntro",
-    "texte": "J'étais nageuse et Dresseuse.\n\nJ'enseigne des capacités difficiles\naux Pokémon qui peuvent les apprendre.\n\nJe suis payée en Points de Combat.\nVeux-tu consulter ma liste ?"
+    "texte": "J'étais nageuse et Dresseuse.\n\nJ'enseigne des capacités difficiles\naux Pokémon qui peuvent les\n\napprendre.\n\nJe suis payée en Points de Combat.\nVeux-tu consulter ma liste ?"
   },
   {
     "repere": "BattleFrontier_Lounge7_Text_RightTutorWelcomeBack",

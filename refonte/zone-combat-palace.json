@@ -9,7 +9,7 @@
   },
   {
     "repere": "BattleFrontier_BattlePalaceLobby_Text_ExplainSingleBattleChallenge",
-    "texte": "Dans les Halls Solo, vous choisissez\nles Pokémon à envoyer au combat.\n\nIls choisissent leurs capacités\nselon leur nature, sans vos ordres.\n\nSept victoires consécutives donnent\ndes Points de Combat.\n\nSauvegardez avant d'interrompre\nvotre défi pour pouvoir le reprendre."
+    "texte": "Dans les Halls Solo, vous choisissez\nles Pokémon à envoyer au combat.\n\nIls choisissent leurs capacités\nselon leur nature, sans vos ordres.\n\nSept victoires consécutives donnent\ndes Points de Combat.\n\nSauvegardez avant d'interrompre\nvotre défi pour pouvoir le\n\nreprendre."
   },
   {
     "repere": "BattleFrontier_BattlePalaceLobby_Text_ReturnWhenFortified",
@@ -21,11 +21,11 @@
   },
   {
     "repere": "BattleFrontier_BattlePalaceLobby_Text_NotEnoughValidMonsLv50",
-    "texte": "Il faut trois Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+    "texte": "Il faut trois Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au\ncombat."
   },
   {
     "repere": "BattleFrontier_BattlePalaceLobby_Text_NotEnoughValidMonsLvOpen",
-    "texte": "Il faut trois Pokémon différents,\navec des objets différents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+    "texte": "Il faut trois Pokémon différents,\navec des objets différents.\n\nLes Oeufs{STR_VAR_1} inaptes au\ncombat."
   },
   {
     "repere": "BattleFrontier_BattlePalaceLobby_Text_NowSelectThreeMons",
@@ -77,7 +77,7 @@
   },
   {
     "repere": "BattleFrontier_BattlePalaceLobby_Text_LadyCanTellWhatMonsThink",
-    "texte": "Je préfère les Pokémon offensifs.\n\nUne visiteuse prétend comprendre\nles pensées des Pokémon.\n\nJe voudrais savoir comment elle fait."
+    "texte": "Je préfère les Pokémon offensifs.\n\nUne visiteuse prétend comprendre\nles pensées des Pokémon.\n\nJe voudrais savoir comment elle\nfait."
   },
   {
     "repere": "BattleFrontier_BattlePalaceLobby_Text_NatureAndMovesKeyHere",
@@ -101,7 +101,7 @@
   },
   {
     "repere": "BattleFrontier_BattlePalaceLobby_Text_ExplainDoubleBattleChallenge",
-    "texte": "Dans les Halls Duo, vous choisissez\nles Pokémon à envoyer au combat.\n\nIls choisissent leurs capacités\nselon leur nature, sans vos ordres.\n\nSept victoires consécutives donnent\ndes Points de Combat.\n\nSauvegardez avant d'interrompre\nvotre défi pour pouvoir le reprendre."
+    "texte": "Dans les Halls Duo, vous choisissez\nles Pokémon à envoyer au combat.\n\nIls choisissent leurs capacités\nselon leur nature, sans vos ordres.\n\nSept victoires consécutives donnent\ndes Points de Combat.\n\nSauvegardez avant d'interrompre\nvotre défi pour pouvoir le\n\nreprendre."
   },
   {
     "repere": "BattleFrontier_BattlePalaceLobby_Text_ToDefeatMavenAnd7Trainers",
@@ -129,7 +129,7 @@
   },
   {
     "repere": "BattleFrontier_BattlePalaceLobby_Text_ExplainRulesNature",
-    "texte": "Certains préfèrent attaquer.\nD'autres se protègent ou gênent\nl'adversaire.\n\nLeur nature détermine les capacités\nqu'ils utilisent volontiers."
+    "texte": "Certains préfèrent attaquer.\nD'autres se protègent ou gênent\n\nl'adversaire.\n\nLeur nature détermine les capacités\nqu'ils utilisent volontiers."
   },
   {
     "repere": "BattleFrontier_BattlePalaceLobby_Text_ExplainRulesMoves",
@@ -137,7 +137,7 @@
   },
   {
     "repere": "BattleFrontier_BattlePalaceLobby_Text_ExplainRulesUnderpowered",
-    "texte": "Un Pokémon peut hésiter s'il connaît\nsurtout des capacités contraires\nà sa nature.\n\nChoisissez celles qui lui conviennent."
+    "texte": "Un Pokémon peut hésiter s'il connaît\nsurtout des capacités contraires\n\nà sa nature.\n\nChoisissez celles qui lui\nconviennent."
   },
   {
     "repere": "BattleFrontier_BattlePalaceLobby_Text_ExplainRulesWhenInDanger",
