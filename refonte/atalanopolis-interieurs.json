@@ -1,0 +1,358 @@
+[
+  {
+    "repere": "SootopolisCity_Gym_1F_Text_GymGuideAdvice",
+    "texte": "Juan utilise le type Eau.\n\nLes types Plante et Électrik\npeuvent être efficaces.\n\nPour le rejoindre, traverse la glace."
+  },
+  {
+    "repere": "SootopolisCity_Gym_1F_Text_GymGuidePostVictory",
+    "texte": "Tu as battu Juan !\n\nVérifie ta Carte Dresseur.\nAvec huit badges, la Ligue t'attend."
+  },
+  {
+    "repere": "SootopolisCity_Gym_1F_Text_JuanIntro",
+    "texte": "Je suis Juan. J'ai formé Marc\navant de reprendre cette arène.\n\nLa huitième pièce du registre\nest sous ma garde.\n\nCommençons notre combat."
+  },
+  {
+    "repere": "SootopolisCity_Gym_1F_Text_JuanDefeat",
+    "texte": "Vous avez gagné.\n\nVeuillez accepter le Badge Pluie."
+  },
+  {
+    "repere": "SootopolisCity_Gym_1F_Text_ReceivedRainBadge",
+    "texte": "{PLAYER} reçoit le Badge Pluie !"
+  },
+  {
+    "repere": "SootopolisCity_Gym_1F_Text_ExplainWaterPulse",
+    "texte": "La CT contient Vibraqua.\n\nCette attaque peut rendre\nl'adversaire confus."
+  },
+  {
+    "repere": "SootopolisCity_Gym_1F_Text_RegisteredJuan",
+    "texte": "Juan est enregistré dans le PokéNav."
+  },
+  {
+    "repere": "SootopolisCity_Gym_1F_Text_JuanPostBattle",
+    "texte": "Si vous avez les huit badges,\nla Ligue Pokémon vous attend.\n\nElle se trouve à Éternara,\nà l'est de Hoenn."
+  },
+  {
+    "repere": "SootopolisCity_Gym_1F_Text_GoGetFortreeBadge",
+    "texte": "Il vous manque le badge\nde Cimetronelle.\n\nAllez affronter Alizée avant\nde vous rendre à la Ligue."
+  },
+  {
+    "repere": "SootopolisCity_Gym_1F_Text_GymStatue",
+    "texte": "Arène Pokémon d'Atalanopolis."
+  },
+  {
+    "repere": "SootopolisCity_Gym_1F_Text_GymStatueCertified",
+    "texte": "Arène Pokémon d'Atalanopolis.\n\nDresseur reconnu par Juan :\n{PLAYER}."
+  },
+  {
+    "repere": "SootopolisCity_Gym_1F_Text_JuanPreRematch",
+    "texte": "Vous êtes de retour.\n\nJe serai heureux de vous affronter\nune nouvelle fois."
+  },
+  {
+    "repere": "SootopolisCity_Gym_1F_Text_JuanRematchDefeat",
+    "texte": "Vous remportez encore la victoire."
+  },
+  {
+    "repere": "SootopolisCity_Gym_1F_Text_JuanPostRematch",
+    "texte": "Vous avez trouvé votre manière\nde combattre.\n\nJe n'ai plus à vous enseigner\nla mienne."
+  },
+  {
+    "repere": "SootopolisCity_Gym_1F_Text_JuanRematchNeedTwoMons",
+    "texte": "Il vous faut deux Pokémon aptes\nau combat pour cette épreuve.\n\nJe vous attendrai ici."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_AndreaIntro",
+    "texte": "Juan m'a appris ces techniques.\n\nRegarde bien."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_AndreaDefeat",
+    "texte": "Je dois encore les travailler."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_AndreaPostBattle",
+    "texte": "Observe les carreaux de glace\navant de remonter."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_CrissyIntro",
+    "texte": "Tu as fait tout ce chemin.\n\nAffronte-moi avant de voir Juan."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_CrissyDefeat",
+    "texte": "Tu as bien préparé ton équipe."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_CrissyPostBattle",
+    "texte": "Juan ne se bat pas comme moi.\n\nPrépare-toi à changer de tactique."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_DaphneIntro",
+    "texte": "J'ai appris en regardant\nles combats de Juan."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_DaphneDefeat",
+    "texte": "Je n'ai pas anticipé tes attaques."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_DaphnePostBattle",
+    "texte": "J'aimerais apprendre à mieux\nécouter mes Pokémon."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_ConnieIntro",
+    "texte": "Voyons si tu sais tenir\nun combat difficile."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_ConnieDefeat",
+    "texte": "Tu as gagné."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_ConniePostBattle",
+    "texte": "Pour rejoindre Juan, foule\nchaque carreau une seule fois."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_BridgetIntro",
+    "texte": "Nous nous entraînons dans\nla dernière arène de Hoenn."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_BridgetDefeat",
+    "texte": "Tu connais bien ton équipe."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_BridgetPostBattle",
+    "texte": "Je voudrais m'entraîner ailleurs.\n\nOn apprend aussi en voyageant."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_OliviaIntro",
+    "texte": "Je m'entraîne avec Juan.\n\nMontre-moi tes Pokémon."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_OliviaDefeat",
+    "texte": "J'ai perdu."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_OliviaPostBattle",
+    "texte": "Tu peux revenir t'entraîner ici\nquand tu voudras."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_TiffanyIntro",
+    "texte": "Sur la glace, chaque pas compte.\n\nEn combat aussi."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_TiffanyDefeat",
+    "texte": "Je n'avais pas prévu ce mouvement."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_TiffanyPostBattle",
+    "texte": "On peut apprendre beaucoup\nd'un Dresseur plus jeune."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_BethanyIntro",
+    "texte": "Je ne vois pas l'heure passer\nquand je combats."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_BethanyDefeat",
+    "texte": "Déjà fini ?"
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_BethanyPostBattle",
+    "texte": "Je vais noter ce que j'ai raté."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_AnnikaIntro",
+    "texte": "Je voyage pour rencontrer\ndes Pokémon rares."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_AnnikaDefeat",
+    "texte": "Tu as bien vu mes Pokémon ?"
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_AnnikaPostBattle",
+    "texte": "Juan m'a encouragée à venir ici.\n\nJe n'avais jamais participé\nà une arène auparavant."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_BriannaIntro",
+    "texte": "Tu sembles prêt à poursuivre.\n\nAffronte-moi d'abord."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_BriannaDefeat",
+    "texte": "J'étais trop sûre de moi."
+  },
+  {
+    "repere": "SootopolisCity_Gym_B1F_Text_BriannaPostBattle",
+    "texte": "Juan t'attend au-dessus."
+  },
+  {
+    "repere": "SootopolisCity_House1_Text_DevelopedThisTM",
+    "texte": "J'étudie les Pokémon ici\ndepuis trente ans.\n\nJ'ai mis au point cette CT.\nJe te la confie."
+  },
+  {
+    "repere": "SootopolisCity_House1_Text_ExplainBrickBreak",
+    "texte": "La CT31 contient Casse-Brique.\n\nElle peut briser les protections\nMur Lumière et Protection."
+  },
+  {
+    "repere": "SootopolisCity_House1_Text_Kecleon",
+    "texte": "Kecleon. Eooon."
+  },
+  {
+    "repere": "SootopolisCity_House2_Text_DidYouKnowAboutMtPyreOrbs",
+    "texte": "Au Mont Mémoria, deux Orbes\nreposaient côte à côte.\n\nLe savais-tu ?"
+  },
+  {
+    "repere": "SootopolisCity_House2_Text_YesTwoOrbsSideBySide",
+    "texte": "Oui, ils étaient ensemble.\n\nLa gardienne veillait sur eux."
+  },
+  {
+    "repere": "SootopolisCity_House2_Text_OughtToVisitAndSee",
+    "texte": "Tu devrais visiter le sommet\ndu Mont Mémoria."
+  },
+  {
+    "repere": "SootopolisCity_House3_Text_JuanHasManyFansDoYou",
+    "texte": "Juan a beaucoup de partisans.\n\nEt toi, as-tu des gens qui suivent\ntes combats ?"
+  },
+  {
+    "repere": "SootopolisCity_House3_Text_YouMustBePrettyStrong",
+    "texte": "Ils ont dû voir tes combats."
+  },
+  {
+    "repere": "SootopolisCity_House3_Text_LonesomeTryWorkingHarder",
+    "texte": "Tu peux aussi voyager sans public.\n\nContinue à ton rythme."
+  },
+  {
+    "repere": "SootopolisCity_House3_Text_TrainerFanClubWasWild",
+    "texte": "Au Fan Club de Nénucrique,\nles débats durent toute la soirée."
+  },
+  {
+    "repere": "SootopolisCity_House4_Text_AncientTreasuresWaitingInSea",
+    "texte": "Il paraît qu'une ancienne ruine\nse trouve sous la mer près d'ici.\n\nPersonne ne sait ce qu'elle contient."
+  },
+  {
+    "repere": "SootopolisCity_House4_Text_StrollUnderwaterWithPokemon",
+    "texte": "Même sans trouver de trésor,\nj'aimerais voir ces pierres\n\navec mon Pokémon."
+  },
+  {
+    "repere": "SootopolisCity_House4_Text_Azumarill",
+    "texte": "Azumarill. Zuzu."
+  },
+  {
+    "repere": "SootopolisCity_House5_Text_SootopolisMtPyreConnection",
+    "texte": "Nous avons étudié les liens entre\nAtalanopolis et le Mont Mémoria.\n\nIl reste des pages sans réponse."
+  },
+  {
+    "repere": "SootopolisCity_House5_Text_BrotherUsedToStudySea",
+    "texte": "Mon frère étudie la mer.\n\nSes cartes couvrent la table."
+  },
+  {
+    "repere": "SootopolisCity_House6_Text_FirstGuestInWhileTakeDoll",
+    "texte": "Nous n'avons pas reçu de visiteur\ndepuis longtemps.\n\nJe vous offre cette Poupée Wailmer."
+  },
+  {
+    "repere": "SootopolisCity_House6_Text_TakeGoodCareOfIt",
+    "texte": "Prenez-en soin."
+  },
+  {
+    "repere": "SootopolisCity_House6_Text_IllHoldItForYou",
+    "texte": "Je la garderai ici pour vous."
+  },
+  {
+    "repere": "SootopolisCity_House6_Text_DontWantThisDoll",
+    "texte": "Vous ne voulez pas la poupée ?"
+  },
+  {
+    "repere": "SootopolisCity_House6_Text_LovePlushDolls",
+    "texte": "J'ai cousu des housses pour\nmes poupées en peluche."
+  },
+  {
+    "repere": "SootopolisCity_House7_Text_CityFromEruptedVolcano",
+    "texte": "Un volcan sous-marin a émergé.\n\nLa pluie a rempli son cratère.\nAtalanopolis s'est bâtie autour."
+  },
+  {
+    "repere": "SootopolisCity_House7_Text_CaveMadeToKeepSomething",
+    "texte": "Le passage sous l'eau semble\navoir été creusé pour retenir\n\nquelque chose à l'intérieur."
+  },
+  {
+    "repere": "SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigSeedot",
+    "texte": "Je mesure les Grainipiot.\n\nMon frère préfère les Nénupiot.\nSi tu as un Grainipiot,\n\nveux-tu me le montrer ?"
+  },
+  {
+    "repere": "SootopolisCity_LotadAndSeedotHouse_Text_GoshMightBeBiggerThanLotad",
+    "texte": "{STR_VAR_2} cm ! Un nouveau record.\n\nMerci, voici une récompense."
+  },
+  {
+    "repere": "SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull1",
+    "texte": "Ton sac est plein."
+  },
+  {
+    "repere": "SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerSeedot",
+    "texte": "{STR_VAR_2} cm.\n\nJ'ai déjà mesuré un Grainipiot\nplus grand."
+  },
+  {
+    "repere": "SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotSeedot",
+    "texte": "Ce n'est pas un Grainipiot."
+  },
+  {
+    "repere": "SootopolisCity_LotadAndSeedotHouse_Text_DontHaveBigSeedot",
+    "texte": "Reviens si tu trouves\nun grand Grainipiot."
+  },
+  {
+    "repere": "SootopolisCity_LotadAndSeedotHouse_Text_BiggestSeedotInHistory",
+    "texte": "Record Grainipiot.\n\nDresseur : {STR_VAR_2}.\nTaille : {STR_VAR_3} cm."
+  },
+  {
+    "repere": "SootopolisCity_LotadAndSeedotHouse_Text_PleaseShowMeBigLotad",
+    "texte": "Je mesure les Nénupiot.\n\nMon frère préfère les Grainipiot.\nSi tu as un Nénupiot,\n\nveux-tu me le montrer ?"
+  },
+  {
+    "repere": "SootopolisCity_LotadAndSeedotHouse_Text_WowMightBeBiggerThanSeedot",
+    "texte": "{STR_VAR_2} cm ! Un nouveau record.\n\nVoici une récompense."
+  },
+  {
+    "repere": "SootopolisCity_LotadAndSeedotHouse_Text_BagCrammedFull2",
+    "texte": "Ton sac est plein."
+  },
+  {
+    "repere": "SootopolisCity_LotadAndSeedotHouse_Text_SeenBiggerLotad",
+    "texte": "{STR_VAR_2} cm.\n\nJ'ai déjà mesuré un Nénupiot\nplus grand."
+  },
+  {
+    "repere": "SootopolisCity_LotadAndSeedotHouse_Text_ThatsNotLotad",
+    "texte": "Ce n'est pas un Nénupiot."
+  },
+  {
+    "repere": "SootopolisCity_LotadAndSeedotHouse_Text_DontHaveBigLotad",
+    "texte": "Reviens si tu trouves\nun grand Nénupiot."
+  },
+  {
+    "repere": "SootopolisCity_LotadAndSeedotHouse_Text_BiggestLotadInHistory",
+    "texte": "Record Nénupiot.\n\nDresseur : {STR_VAR_2}.\nTaille : {STR_VAR_3} cm."
+  },
+  {
+    "repere": "SootopolisCity_Mart_Text_PPUpIsGreat",
+    "texte": "Le PP Plus augmente le maximum\nde PP d'une capacité."
+  },
+  {
+    "repere": "SootopolisCity_Mart_Text_TooScaryOutside",
+    "texte": "J'entends des bruits dehors.\n\nJe préfère rester ici."
+  },
+  {
+    "repere": "SootopolisCity_Mart_Text_FullRestoreItemOfDreams",
+    "texte": "Guérison restaure tous les PV\net soigne les problèmes de statut."
+  },
+  {
+    "repere": "SootopolisCity_Mart_Text_DidSomethingAwaken",
+    "texte": "Le ciel a changé d'un coup.\n\nQu'est-ce qui s'est réveillé ?"
+  },
+  {
+    "repere": "SootopolisCity_PokemonCenter_1F_Text_WallaceToughestInHoenn",
+    "texte": "Marc est un Dresseur redoutable.\n\nJuan lui a appris à combattre.\nLe Conseil 4 t'attend après lui."
+  },
+  {
+    "repere": "SootopolisCity_PokemonCenter_1F_Text_EveryoneTakenRefuge",
+    "texte": "Les habitants se sont réfugiés\nchez eux.\n\nJe vais rester ici pour le moment."
+  },
+  {
+    "repere": "SootopolisCity_PokemonCenter_1F_Text_AlwaysBeFriendsWithPokemon",
+    "texte": "Les Pokémon restent nos compagnons.\n\nMême après ce qui s'est passé."
+  },
+  {
+    "repere": "SootopolisCity_PokemonCenter_1F_Text_ArentPokemonOurFriends",
+    "texte": "Je sais que nos Pokémon sont là.\n\nMais j'ai peur de sortir."
+  }
+]
