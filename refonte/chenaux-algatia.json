@@ -1,0 +1,98 @@
+[
+  {
+    "repere": "Route123_Text_LoveGrassMonsHaveAny",
+    "texte": "J'étudie les Pokémon Plante.\n\nEn as-tu un dans ton équipe ?"
+  },
+  {
+    "repere": "Route123_Text_YouLikeGrassMonsTooHaveThis",
+    "texte": "Tu en prends soin, toi aussi.\n\nTiens, je te donne ceci."
+  },
+  {
+    "repere": "Route123_Text_CheckTreesWithMyGrassMon",
+    "texte": "Mes Pokémon m'aident à examiner\nles arbres malades.\n\nNous notons ceux qui dépérissent."
+  },
+  {
+    "repere": "Route123_Text_RouteSign",
+    "texte": "{RIGHT_ARROW} Route 123\n{LEFT_ARROW} Route 118"
+  },
+  {
+    "repere": "Route123_Text_RouteSignMtPyre",
+    "texte": "{UP_ARROW} Mont Mémoria.\n\nChemin du souvenir."
+  },
+  {
+    "repere": "Route123_Text_BerryMastersHouse",
+    "texte": "Maison du maître des Baies."
+  },
+  {
+    "repere": "Route124_Text_HuntersHouse",
+    "texte": "Maison du chercheur de trésors.\n\nÉchange de tessons."
+  },
+  {
+    "repere": "Route124_DivingTreasureHuntersHouse_Text_Greeting",
+    "texte": "Je plonge pour retrouver des objets\nau fond de la mer.\n\nJe collectionne les tessons anciens."
+  },
+  {
+    "repere": "Route124_DivingTreasureHuntersHouse_Text_HaveYouSeenAnyShards",
+    "texte": "As-tu trouvé des fragments\nde poterie sous l'eau ?"
+  },
+  {
+    "repere": "Route124_DivingTreasureHuntersHouse_Text_YouHaventGotAnyShards",
+    "texte": "Tu n'as pas encore de tesson.\n\nRapporte-m'en si tu en trouves."
+  },
+  {
+    "repere": "Route124_DivingTreasureHuntersHouse_Text_ThatsAShardIllTradeYou",
+    "texte": "Tu as trouvé un tesson !\n\nVeux-tu l'échanger contre\nune pierre d'évolution ?"
+  },
+  {
+    "repere": "Route124_DivingTreasureHuntersHouse_Text_WhatDoYouWantToTrade",
+    "texte": "Quel objet veux-tu échanger ?"
+  },
+  {
+    "repere": "Route124_DivingTreasureHuntersHouse_Text_YoullTradeShardForStone",
+    "texte": "{STR_VAR_1} contre\n{STR_VAR_2}.\n\nTu confirmes ?"
+  },
+  {
+    "repere": "Route124_DivingTreasureHuntersHouse_Text_ItsADeal",
+    "texte": "D'accord. Voici ta pierre."
+  },
+  {
+    "repere": "Route124_DivingTreasureHuntersHouse_Text_TradeSomethingElse",
+    "texte": "Veux-tu faire un autre échange ?"
+  },
+  {
+    "repere": "Route124_DivingTreasureHuntersHouse_Text_BagFull",
+    "texte": "Ton sac est plein.\n\nFais un peu de place."
+  },
+  {
+    "repere": "Route124_DivingTreasureHuntersHouse_Text_ComeBackIfYouChangeMind",
+    "texte": "Reviens si tu changes d'avis."
+  },
+  {
+    "repere": "Route128_Text_ArchieWhatHappened",
+    "texte": "Arthur regarde la mer.\n\nQu'est-ce que j'ai fait ?"
+  },
+  {
+    "repere": "Route128_Text_MaxieThisDefiesBelief",
+    "texte": "Max. Les Pokémon ancestraux\nont bouleversé les eaux.\n\nNous n'avons rien maîtrisé."
+  },
+  {
+    "repere": "Route128_Text_StevenWhatIsHappening",
+    "texte": "Pierre. {PLAYER} !\n\nQue s'est-il passé ici ?"
+  },
+  {
+    "repere": "Route128_Text_StevenWholeWorldWillDrown",
+    "texte": "Après la chaleur, voilà le déluge.\n\nLes relevés ne suffisent plus.\nLe nuage vient d'Atalanopolis.\n\nNous devons aller voir là-bas."
+  },
+  {
+    "repere": "Route128_Text_StevenImGoingToSootopolis",
+    "texte": "{PLAYER}, ne prends pas de risque\ninutile.\n\nJe pars pour Atalanopolis."
+  },
+  {
+    "repere": "ShoalCave_LowTideLowerRoom_Text_CanOvercomeColdWithFocus",
+    "texte": "Je m'entraîne dans cette grotte.\n\nMais le froid me fatigue vite.\nTiens, prends ce Bandeau."
+  },
+  {
+    "repere": "ShoalCave_LowTideLowerRoom_Text_EverythingStartsWithFocus",
+    "texte": "Je vais faire une pause avant\nde reprendre l'entraînement."
+  }
+]
