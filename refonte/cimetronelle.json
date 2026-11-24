@@ -1,0 +1,310 @@
+[
+  {
+    "repere": "FortreeCity_Text_SawGiganticPokemonInSky",
+    "texte": "J'ai vu un Pokémon immense\npasser au-dessus des arbres.\n\nIl allait vers le chenal 131.\nTu sens encore la cendre du volcan."
+  },
+  {
+    "repere": "FortreeCity_Text_SomethingBlockingGym",
+    "texte": "Quelque chose bloque l'arène.\n\nJe me suis entraîné sur la Route 120\npour rien, pour le moment."
+  },
+  {
+    "repere": "FortreeCity_Text_ThisTimeIllBeatWinona",
+    "texte": "Mes Pokémon sont prêts.\n\nCette fois, je veux battre Alizée."
+  },
+  {
+    "repere": "FortreeCity_Text_TreesGrowByDrinkingRainwater",
+    "texte": "Les arbres puisent l'eau de pluie\ndans la terre sous nos maisons.\n\nSi les racines sèchent,\nles planchers bougent."
+  },
+  {
+    "repere": "FortreeCity_Text_EveryoneHealthyAndLively",
+    "texte": "Depuis qu'on vit dans les arbres,\nje monte ces échelles chaque jour.\n\nJ'ai fini par retrouver mes forces."
+  },
+  {
+    "repere": "FortreeCity_Text_BugPokemonComeThroughWindow",
+    "texte": "Les Pokémon Insecte entrent parfois\npar la fenêtre.\n\nJe laisse une soucoupe dehors\npour qu'ils repartent."
+  },
+  {
+    "repere": "FortreeCity_Text_PokemonThatEvolveWhenTraded",
+    "texte": "Certains Pokémon évoluent\nau moment d'un échange."
+  },
+  {
+    "repere": "FortreeCity_Text_SomethingUnseeable",
+    "texte": "Quelque chose bloque le passage.\nOn ne distingue pas sa forme."
+  },
+  {
+    "repere": "FortreeCity_Text_UnseeableUseDevonScope",
+    "texte": "Quelque chose bloque le passage.\n\nUtiliser le Devon Scope ?"
+  },
+  {
+    "repere": "FortreeCity_Text_UsedDevonScopePokemonFled",
+    "texte": "{PLAYER} utilise le Devon Scope.\n\nUn Pokémon devient visible.\nSurpris, il s'enfuit."
+  },
+  {
+    "repere": "FortreeCity_Text_CitySign",
+    "texte": "Cimetronelle. Quartier des cimes.\n\nAttention aux passerelles mouillées."
+  },
+  {
+    "repere": "FortreeCity_Text_GymSign",
+    "texte": "Arène de Cimetronelle.\nChampionne : Alizée.\n\nRegistre des eaux, sixième pièce."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_GymGuideAdvice",
+    "texte": "Alizée utilise les Pokémon Vol.\n\nLes attaques Roche, Glace et\nÉlectrik peuvent être efficaces.\n\nLes tourniquets changent de sens.\nObserve bien avant d'avancer."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_GymGuidePostVictory",
+    "texte": "Tu as franchi les tourniquets.\n\nAlizée t'a remis le badge."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_JaredIntro",
+    "texte": "Regarde comment mes Pokémon\nprennent leur envol."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_JaredDefeat",
+    "texte": "Tu as anticipé leurs mouvements."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_JaredPostBattle",
+    "texte": "Les tourniquets demandent aussi\nun peu d'observation."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_EdwardoIntro",
+    "texte": "Je m'entraîne ici avec les oiseaux.\n\nVoyons ce que ton équipe sait faire."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_EdwardoDefeat",
+    "texte": "Je n'ai pas tenu le rythme."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_EdwardoPostBattle",
+    "texte": "Il y a tant de Dresseurs à rencontrer\nau-delà de ces arbres.\n\nJe partirai un jour."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_FlintIntro",
+    "texte": "Il faut d'abord me battre\npour atteindre Alizée."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_FlintDefeat",
+    "texte": "Alizée, je n'ai pas réussi."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_FlintPostBattle",
+    "texte": "Elle connaît chaque courant d'air\nqui traverse cette arène."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_AshleyIntro",
+    "texte": "Alizée m'a appris à observer\nles ailes avant chaque attaque."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_AshleyDefeat",
+    "texte": "Tu as su lire mes mouvements."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_AshleyPostBattle",
+    "texte": "Quand une passerelle casse,\nAlizée aide à porter les provisions\n\njusqu'aux maisons isolées."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_HumbertoIntro",
+    "texte": "La championne t'attend plus loin.\n\nPour l'instant, tu es face à moi."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_HumbertoDefeat",
+    "texte": "Je ne peux plus te retenir."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_HumbertoPostBattle",
+    "texte": "Ne quitte pas ses Pokémon des yeux.\n\nIls changent vite de position."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_DariusIntro",
+    "texte": "Tous les Pokémon Vol ne se battent\npas de la même manière."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_DariusDefeat",
+    "texte": "Tu le savais déjà, apparemment."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_DariusPostBattle",
+    "texte": "Alizée a plusieurs types de Pokémon.\n\nPrépare-toi à changer de tactique."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_WinonaIntro",
+    "texte": "Je suis Alizée, la championne.\n\nJe garde ici la sixième pièce\ndu registre des eaux.\n\nAffronte-moi. Nous parlerons\naprès le combat."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_WinonaDefeat",
+    "texte": "Alizée rappelle ses Pokémon.\n\nTu as gagné. Voici le Badge Plume.\n\nIl reste un document à te remettre."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_ReceivedFeatherBadge",
+    "texte": "{PLAYER} reçoit le Badge Plume !"
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_ExplainAerialAce",
+    "texte": "La CT40 contient Aéropique.\n\nCette capacité ne rate normalement\njamais sa cible."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_RegisteredWinona",
+    "texte": "Alizée est enregistrée\ndans le PokéNav."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_WinonaPostBattle",
+    "texte": "Je vais rester ici avec mes Pokémon.\n\nTu peux poursuivre ton chemin."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_GymStatue",
+    "texte": "Arène Pokémon de Cimetronelle."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_GymStatueCertified",
+    "texte": "Arène Pokémon de Cimetronelle.\n\nDresseur reconnu par Alizée :\n{PLAYER}."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_WinonaPreRematch",
+    "texte": "Tu as atteint la Ligue.\n\nJ'ai continué à m'entraîner ici.\nMontre-moi ce que tu as appris."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_WinonaRematchDefeat",
+    "texte": "Tu as encore gagné."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_WinonaPostRematch",
+    "texte": "Il me reste des choses à apprendre.\n\nReviens quand tu voudras."
+  },
+  {
+    "repere": "FortreeCity_Gym_Text_WinonaRematchNeedTwoMons",
+    "texte": "Pour cette épreuve, il faut deux\nPokémon aptes au combat.\n\nReviens quand ton équipe sera prête."
+  },
+  {
+    "repere": "FortreeCity_House1_Text_YouWillTradeWontYou",
+    "texte": "Je cherche un {STR_VAR_1}.\n\nVeux-tu échanger le tien contre\nmon {STR_VAR_2} ?"
+  },
+  {
+    "repere": "FortreeCity_House1_Text_MonYouTakeCare",
+    "texte": "Bienvenue, {STR_VAR_1} !\n\n{STR_VAR_2}, prends soin de toi."
+  },
+  {
+    "repere": "FortreeCity_House1_Text_ThisIsntAMon",
+    "texte": "Ce n'est pas un {STR_VAR_1}.\n\nC'est celui-là que je cherche."
+  },
+  {
+    "repere": "FortreeCity_House1_Text_YouWontTradeMe",
+    "texte": "Tu préfères le garder ?\n\nJe comprends."
+  },
+  {
+    "repere": "FortreeCity_House1_Text_GoingToMakeVolbeatStrong",
+    "texte": "Je vais entraîner ce Muciole.\n\nPrends bien soin de Posipi."
+  },
+  {
+    "repere": "FortreeCity_House1_Text_TradingMemoriesWithOthers",
+    "texte": "Quand on échange un Pokémon,\non se confie aussi des souvenirs.\n\nIl faudra apprendre ses habitudes."
+  },
+  {
+    "repere": "FortreeCity_House1_Text_Zigzagoon",
+    "texte": "Zigzaton. Zigzaaa ?"
+  },
+  {
+    "repere": "FortreeCity_House2_Text_HiddenPowersArousedByNature",
+    "texte": "Certains pouvoirs des Pokémon\nne se voient pas au premier regard."
+  },
+  {
+    "repere": "FortreeCity_House2_Text_CoinInWhichHand",
+    "texte": "J'ai caché une pièce dans ma main.\n\nDans laquelle ? Droite ou gauche ?"
+  },
+  {
+    "repere": "FortreeCity_House2_Text_CorrectTryAgainWhichHand",
+    "texte": "Tu as trouvé ! Essayons encore.\n\nDroite ou gauche ?"
+  },
+  {
+    "repere": "FortreeCity_House2_Text_CorrectTryAgainWhichHand2",
+    "texte": "Encore juste. Dernier essai.\n\nDroite ou gauche ?"
+  },
+  {
+    "repere": "FortreeCity_House2_Text_YourHiddenPowerHasAwoken",
+    "texte": "Tu as deviné trois fois !\n\nPrends cette CT. Elle permettra\nà un Pokémon de révéler son pouvoir."
+  },
+  {
+    "repere": "FortreeCity_House2_Text_ExplainHiddenPower",
+    "texte": "Puissance Cachée varie selon\nle Pokémon qui l'utilise."
+  },
+  {
+    "repere": "FortreeCity_House2_Text_YouGuessedWrong",
+    "texte": "Ce n'était pas la bonne main.\n\nTu peux réessayer."
+  },
+  {
+    "repere": "FortreeCity_House3_Text_MetStevenHadAmazingPokemon",
+    "texte": "J'ai croisé Pierre en cherchant\ndes pierres rares.\n\nSes Pokémon étaient étonnants.\nIl les avait beaucoup entraînés."
+  },
+  {
+    "repere": "FortreeCity_House3_Text_OhYouHavePokedex",
+    "texte": "Qu'est-ce que cet appareil ?\n\nUn Pokédex ? Je peux le regarder ?"
+  },
+  {
+    "repere": "FortreeCity_House4_Text_BringsWorldCloserTogether",
+    "texte": "Les Pokémon portent parfois\ndes nouvelles d'un bout à l'autre\nde Hoenn.\n\nOn rencontre ainsi des gens\nqu'on n'aurait jamais connus."
+  },
+  {
+    "repere": "FortreeCity_House4_Text_GoBirdPokemon",
+    "texte": "Allez, prends ton envol !"
+  },
+  {
+    "repere": "FortreeCity_House4_Text_AskedWingullToRunErrand",
+    "texte": "J'ai confié une lettre à Goélise.\n\nJ'attends qu'il revienne."
+  },
+  {
+    "repere": "FortreeCity_House4_Text_WelcomeWingullTakeMentalHerb",
+    "texte": "Te voilà, Goélise !\n\nIl rapporte une Herbe Mental.\nIl a dû la trouver en chemin.\n\nJe n'en ai pas besoin. Prends-la."
+  },
+  {
+    "repere": "FortreeCity_House4_Text_FriendsFarAwayThanksToWingull",
+    "texte": "Grâce à Goélise, je reçois\nles lettres de mes amis lointains."
+  },
+  {
+    "repere": "FortreeCity_House4_Text_Wingull",
+    "texte": "Goélise. Goéééliiise !"
+  },
+  {
+    "repere": "FortreeCity_House5_Text_TreeHousesAreGreat",
+    "texte": "Dans ces cabanes, mes Pokémon\nvoient les branches de près.\n\nIls aiment s'installer à la fenêtre."
+  },
+  {
+    "repere": "FortreeCity_House5_Text_AdaptedToNature",
+    "texte": "On a construit autour des arbres.\n\nLe charpentier laisse de la place\npour que les troncs grandissent."
+  },
+  {
+    "repere": "FortreeCity_House5_Text_Zigzagoon",
+    "texte": "Zigzaton. Zaaaton !"
+  },
+  {
+    "repere": "FortreeCity_Mart_Text_SuperRepelBetter",
+    "texte": "Le Superepousse dure plus longtemps\nqu'un Repousse ordinaire."
+  },
+  {
+    "repere": "FortreeCity_Mart_Text_StockUpOnItems",
+    "texte": "Je vérifie mes provisions avant\nde descendre les échelles.\n\nJ'oublie toujours quelque chose."
+  },
+  {
+    "repere": "FortreeCity_Mart_Text_RareCandyMakesMonGrow",
+    "texte": "Un Super Bonbon fait monter\nun Pokémon d'un niveau."
+  },
+  {
+    "repere": "FortreeCity_PokemonCenter_1F_Text_GoToSafariZone",
+    "texte": "Tu complètes ton Pokédex ?\n\nLe Parc Safari est sur la Route 121.\nTu y trouveras d'autres espèces."
+  },
+  {
+    "repere": "FortreeCity_PokemonCenter_1F_Text_RecordCornerIsNeat",
+    "texte": "Au Centre de données, on échange\ndes informations entre Dresseurs.\n\nJ'y ai retrouvé des relevés\nque je ne connaissais pas."
+  },
+  {
+    "repere": "FortreeCity_PokemonCenter_1F_Text_DoYouKnowAboutPokenav",
+    "texte": "Le Match Phone du PokéNav permet\nd'appeler les contacts enregistrés.\n\nIl signale aussi les Dresseurs\nqui souhaitent une revanche."
+  },
+  {
+    "repere": "FortreeCity_DecorationShop_Text_MerchandiseSentToPC",
+    "texte": "Les décorations achetées ici\nsont envoyées directement au PC.\n\nPas besoin de les porter."
+  },
+  {
+    "repere": "FortreeCity_DecorationShop_Text_BuyingDeskForDolls",
+    "texte": "Je voudrais un bureau pour poser\nmes poupées dans ma Base Secrète.\n\nLe sol est toujours humide."
+  }
+]
