@@ -130,3 +130,12 @@ et de la charmap. Toute modification de ces données impose un nouveau repérage
 Les cases cochées ne prouvent pas une vérification réelle : elles doivent être
 renseignées par la personne qui a inspecté les pointeurs, jamais par un
 traitement automatique.
+
+## Repères dans les scripts du jeu
+
+Le rapport `usages.json`, généré par l'audit GitHub Actions, donne les
+occurrences des identifiants dans les scripts, l'assembleur et le code C
+de la révision de référence. Il aide à choisir les premières répliques
+à inspecter et à repérer les chaînes susceptibles d'être utilisées hors
+d'une boîte de dialogue ordinaire. Un usage unique ne constitue pas une
+preuve d'adresse ROM : aucune entrée n'est automatiquement approuvée.

@@ -28,7 +28,9 @@ jobs:
           path: source-pokeemerald
           persist-credentials: false
           sparse-checkout: |
-            data/maps
+            data
+            src
+            include
             charmap.txt
           sparse-checkout-cone-mode: false
       - name: Vérifier la syntaxe Python
@@ -47,6 +49,8 @@ jobs:
           python3 refonte/audit-dialogues.py --source source-pokeemerald --rapport rapports/audit.json > rapports/audit.txt
       - name: Préparer le manifeste
         run: python3 refonte/preparer-integration.py --source source-pokeemerald --sortie rapports/manifeste.json
+      - name: Indexer les usages des répliques dans les sources
+        run: python3 refonte/indexer-usages.py --source source-pokeemerald --manifeste rapports/manifeste.json --sortie rapports/usages.json
       - name: Contrôler l'encodage de toutes les répliques sans ROM
         run: |
           python3 - <<'PY'
