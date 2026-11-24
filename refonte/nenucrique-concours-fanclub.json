@@ -1,0 +1,366 @@
+[
+  {
+    "repere": "LilycoveCity_ContestHall_Text_TodayWonSmartnessContest",
+    "texte": "Mon Pokémon avait gagné en Beauté.\n\nAujourd'hui, il a gagné l'épreuve\nd'Intelligence."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_EnteredBunchOfContests",
+    "texte": "Dans un Concours de Sang-froid,\nles capacités de cette catégorie\n\nplaisent davantage au public.\nChoisis-les en conséquence."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_ManWhoWonEarlierHadPokeblocks",
+    "texte": "Le gagnant avait préparé plusieurs\nsortes de {POKEBLOCK}s.\n\nIl connaissait les goûts de son Pokémon."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_IsntThisPlaceHumongous",
+    "texte": "La salle est pleine aujourd'hui.\n\nOn entend le public depuis l'entrée."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_GiveItBestSmartAppeal",
+    "texte": "Animatrice. Épreuve d'Intelligence.\n\nLes candidats sont-ils prêts ?\nQue la présentation commence !"
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_AreYouEnjoyingThisContest",
+    "texte": "Juge. Vous pouvez aussi participer\navec trois autres Dresseurs."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_EnteredWrongContest",
+    "texte": "J'ai inscrit mon Pokémon Robuste\nà une épreuve d'Intelligence.\n\nEssayons quand même Éclate-Roc."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_RaisedMonToBeSmart",
+    "texte": "J'ai entraîné ce Pokémon longtemps.\n\nIl connaît bien ses capacités."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_IfMonPullsSmartMoveNext",
+    "texte": "Une capacité d'Intelligence\npourrait enthousiasmer le public."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_DontAppreciateCuteLeechLife",
+    "texte": "Je trouve le Vampirisme de\nNosferapti très gracieux.\n\nLe public n'est pas de mon avis."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_YoureBeautifulGrandpa",
+    "texte": "Allez, pépé ! On est là !"
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_AllSeemToUseDifferentMoves",
+    "texte": "Deux Pokémon de la même espèce\npeuvent présenter des capacités\ntrès différentes."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_PokemonSmarterThanTrainers",
+    "texte": "Les Pokémon ont parfois l'air\nde mieux comprendre les règles\nque leurs Dresseurs."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_StillLoveSmartnessContests",
+    "texte": "Je préfère les épreuves\nd'Intelligence.\n\nJ'observe l'ordre des capacités."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_AreYouEnteringBeautyContest",
+    "texte": "Animatrice. Tu participes à\nl'épreuve de Beauté ? Bonne chance."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_EveryPokemonPristineBeauty",
+    "texte": "Juge. Les Pokémon sont magnifiques.\n\nIl faut pourtant que je les note."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_EyesWillBeGluedToMyBeauty",
+    "texte": "J'ai préparé mon Pokémon\npour cette épreuve de Beauté."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_OverdidGrooming",
+    "texte": "Je l'ai brossé trop longtemps.\n\nMaintenant, ses poils se dressent\ndans tous les sens."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_JudgeWontSeeAuroraBeam",
+    "texte": "Onde Boréale est éblouissante.\n\nJ'espère que le juge appréciera."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_PokemonLooksLikeYoungerMe",
+    "texte": "Il me rappelle une photo de moi\nquand j'étais jeune.\n\nMon mari rit encore."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_WinBeautyContestMakesMeHappy",
+    "texte": "J'aimerais gagner cette épreuve.\n\nMon Pokémon et moi avons répété."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_GanderAtAllThosePrettyPokemon",
+    "texte": "Regarde toutes ces couleurs.\n\nJ'aimerais savoir les peindre."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_CantWinOnBeautyAlone",
+    "texte": "La condition du Pokémon compte,\nmais aussi ses démonstrations."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_InTheMiddleOfContest",
+    "texte": "Animatrice. Le Concours a commencé.\n\nPour participer, inscris-toi\nd'abord au guichet."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_SuchCharmingCuteAppeals",
+    "texte": "Juge. Quelle belle démonstration\nde Tourniquet !"
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_MyAzurillWasDistracted",
+    "texte": "Mon Azurill a été déconcentré\npar une autre démonstration."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_NeverWonBattleButContest",
+    "texte": "Mon Pokémon perd souvent\nses combats.\n\nMais il réussit très bien ici."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_PetalDanceIsMarvel",
+    "texte": "Nous avons préparé Danse-Fleur.\n\nJ'espère finir notre présentation\nsans être interrompue."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_MyMonAppealSoMuchCuter",
+    "texte": "Tous ont travaillé leur Grâce.\n\nJ'aimerais que le mien se distingue."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_MyChildIsInContest",
+    "texte": "Mon enfant est sur la scène."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_ComeOnDear",
+    "texte": "Allez ! On te regarde !"
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_ThatGirlThereIsCutest",
+    "texte": "Je regardais les Dresseurs.\n\nAh, on juge leurs Pokémon ?"
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_WantCuteMonOfMyOwn",
+    "texte": "J'aimerais rencontrer un Pokémon\ncomme ceux que je vois ici."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_BeautyContestStage",
+    "texte": "Épreuve de Beauté."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_CuteContestStage",
+    "texte": "Épreuve de Grâce."
+  },
+  {
+    "repere": "LilycoveCity_ContestHall_Text_SmartContestStage",
+    "texte": "Épreuve d'Intelligence."
+  },
+  {
+    "repere": "LilycoveCity_ContestLobby_Text_LadyGaveMePokeblockCase",
+    "texte": "On m'a donné une Boîte {POKEBLOCK}s\nà la réception."
+  },
+  {
+    "repere": "LilycoveCity_ContestLobby_Text_MakePokeblocksDifferentBerries",
+    "texte": "Pour préparer des {POKEBLOCK}s,\nutilisez des Baies différentes.\n\nRangez-les ensuite dans la boîte."
+  },
+  {
+    "repere": "LilycoveCity_ContestLobby_Text_YourPokemonSpurredMeToPaint",
+    "texte": "J'ai peint ton Pokémon après\nsa victoire.\n\nJ'ai essayé de saisir le geste\nqu'il faisait sur la scène."
+  },
+  {
+    "repere": "LilycoveCity_ContestLobby_Text_ShouldITakePaintingToMuseum",
+    "texte": "Que penses-tu de ce portrait ?\n\nLe musée cherche des tableaux ?\nVeux-tu que je lui propose celui-ci ?"
+  },
+  {
+    "repere": "LilycoveCity_ContestLobby_Text_IllTakePaintingToMuseum",
+    "texte": "Je vais le porter au conservateur.\n\nIl faudra aussi lui donner un titre.\nPasse voir s'il est exposé."
+  },
+  {
+    "repere": "LilycoveCity_ContestLobby_Text_TakeMementoOfPainting",
+    "texte": "Voici un souvenir du tableau\nque je viens de terminer."
+  },
+  {
+    "repere": "LilycoveCity_ContestLobby_Text_ReceivedARibbon",
+    "texte": "{PLAYER} reçoit un Ruban."
+  },
+  {
+    "repere": "LilycoveCity_ContestLobby_Text_PutTheRibbonOnMon",
+    "texte": "{PLAYER} remet le Ruban\nà {STR_VAR_1}."
+  },
+  {
+    "repere": "LilycoveCity_ContestLobby_Text_OkaySeeYou",
+    "texte": "À une prochaine fois."
+  },
+  {
+    "repere": "LilycoveCity_ContestLobby_Text_TakeHomeButIdLikeToTakeToMuseum",
+    "texte": "Je pourrais le garder chez moi.\n\nMais j'aimerais le montrer au musée.\nTu es d'accord ?"
+  },
+  {
+    "repere": "LilycoveCity_ContestLobby_Text_FineThatsTheWayItIs",
+    "texte": "D'accord, je le garderai chez moi.\n\nJe peindrai un autre tableau."
+  },
+  {
+    "repere": "LilycoveCity_ContestLobby_Text_MasterRankHereICome",
+    "texte": "Je suis inscrit au rang Master.\n\nNous avons répété nos prestations\ntoute la semaine."
+  },
+  {
+    "repere": "LilycoveCity_ContestLobby_Text_WholeVarietyOfPokemonHere",
+    "texte": "Je passe ici chaque jour.\n\nJe vois toujours un Pokémon\nque je n'avais pas encore observé."
+  },
+  {
+    "repere": "LilycoveCity_ContestLobby_Text_ContestFeastForEyes",
+    "texte": "Les Concours donnent des idées\naux peintres.\n\nLes Pokémon ne restent pas en place."
+  },
+  {
+    "repere": "LilycoveCity_ContestLobby_Text_ToughContestIsExtreme",
+    "texte": "J'aime l'épreuve de Robustesse.\n\nCertaines capacités impressionnent\ntoute la salle."
+  },
+  {
+    "repere": "LilycoveCity_ContestLobby_Text_LavishedCareOnMon",
+    "texte": "Je me suis occupé de mon Pokémon\nchaque jour avant cette épreuve."
+  },
+  {
+    "repere": "LilycoveCity_ContestLobby_Text_MadePokeblocksWithFamily",
+    "texte": "On a préparé des {POKEBLOCK}s\navec toute la famille.\n\nChacun a apporté une Baie différente."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_OhWowItsPlayer",
+    "texte": "Ah, c'est {PLAYER} !"
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_HeardAboutYouImYourFan",
+    "texte": "J'ai entendu parler de tes combats.\n\nIci, on discute des Dresseurs\nqu'on a vus dans les arènes.\n\nJe suivrai tes prochains résultats,\n{PLAYER}."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_YoureOneWeWantToWin",
+    "texte": "Bon courage, {PLAYER} !"
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_OthersDontKnowYoureTheBest",
+    "texte": "Les autres n'ont pas encore vu\nton dernier combat, {PLAYER}."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_TrainersPowerIsOutOfTheOrdinary",
+    "texte": "On parle beaucoup de {STR_VAR_1}.\n\nJ'aimerais voir un de ses combats."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsBestNoOneWantsToListen",
+    "texte": "Je leur parle de {STR_VAR_1}.\n\nMais chacun a son favori."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_HearingAboutToughNewTrainer",
+    "texte": "On dit qu'un nouveau Dresseur\nbat les champions d'arène.\n\nTu sais de qui il s'agit ?"
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_ImPullingForYou",
+    "texte": "Ah, {PLAYER} ! Bonne route."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_BrawlyNoImYourFan",
+    "texte": "Je continue à soutenir Bastien.\n\nMême quand un autre gagne."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_ICantHelpLikingBrawly",
+    "texte": "J'aime la façon dont Bastien\nse bat avec ses Pokémon."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_NobodyUnderstandsBrawly",
+    "texte": "Les autres préfèrent les champions\nde la ville.\n\nMoi, je continue à suivre Bastien."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_MyFavoriteTrainerIsBrawly",
+    "texte": "Mon favori reste Bastien,\nle champion de Myokara."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_YouveSurpassedYourFather",
+    "texte": "Tu as dépassé Norman en combat.\n\nOn a vu les résultats."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_YourFatherNeverGaveUpSoKeepOnBattling",
+    "texte": "Norman reprenait l'entraînement\naprès chaque défaite.\n\nTu peux apprendre de tes défaites\naussi."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_LongWayToGoComparedToNorman",
+    "texte": "Norman a beaucoup d'expérience.\n\nIl te reste encore des combats\nà faire avant de le dépasser."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_YouAndNormanAreDifferent",
+    "texte": "Tes combats ressemblent parfois\nà ceux de Norman.\n\nMais vous ne prenez pas toujours\nles mêmes décisions."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_WeDiscussStrongestTrainers",
+    "texte": "On compare les résultats\ndes Dresseurs de toute la région.\n\nPeut-être qu'on parlera de toi\nun de ces jours."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_OhWoweeItsPlayer",
+    "texte": "{PLAYER} ! En personne !\n\nJe peux te serrer la main ?"
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_AlwaysCheerForYou",
+    "texte": "Je suivrai tes prochains combats,\n{PLAYER}.\n\nMême si tu en perds un."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_EveryoneThinksTrainerIsCool",
+    "texte": "Vous avez vu le dernier combat\nde {STR_VAR_1} ?"
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsReallyCoolItsJustMe",
+    "texte": "Je continue à suivre {STR_VAR_1}.\n\nLes autres ont changé d'avis."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_WishThereWasTrainerLikeThat",
+    "texte": "J'aimerais voir un Dresseur fort\nqui prend soin de son équipe."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_WantToBeStrongLikeYou",
+    "texte": "Quand je serai grand, je voudrais\ncombattre comme toi, {PLAYER}."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_OnlyOneWhoCheersForYou",
+    "texte": "Je continue à te soutenir,\n{PLAYER}.\n\nMême si les autres ont changé."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsWickedlyCool",
+    "texte": "J'aimerais rencontrer {STR_VAR_1}\net lui serrer la main."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_NeverGoingToStopBeingTrainersFan",
+    "texte": "Je reste fidèle à {STR_VAR_1},\n\nmême si les résultats changent."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_YoureAmazingAfterAll",
+    "texte": "Ah, {PLAYER} !\n\nJ'ai suivi tes derniers résultats."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_ImInYourCorner",
+    "texte": "Ne t'occupe pas de nos débats.\n\nContinue ton chemin à ton rythme."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_ThinkTrainerIsNumberOne",
+    "texte": "Je pense que {STR_VAR_1} est\nencore en tête.\n\nCe n'est que mon avis."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_YoureMaybeStrongerThanTrainer",
+    "texte": "Tu as peut-être dépassé {STR_VAR_1}.\n\nJe continuerai pourtant à suivre\nses combats."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_YouChangedMyMind",
+    "texte": "J'ai changé d'avis en te voyant\ncombattre.\n\nComment t'es-tu entraîné ?"
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_YouBattleAttractivelyInToughSituation",
+    "texte": "J'aime observer les décisions\ndes Dresseurs quand ils hésitent."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_TrainerIsStandout",
+    "texte": "{STR_VAR_1} se distingue\nparmi les autres Dresseurs.\n\nIl te reste du chemin à faire."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_NoOneCanKnockYouButTrainerStronger",
+    "texte": "Tu as gagné le respect de beaucoup.\n\nJe pense encore que {STR_VAR_1}\na davantage d'expérience."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_YouImpressive",
+    "texte": "Ce combat était impressionnant."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_OnlyIRecognizeYourTrueWorth",
+    "texte": "Les autres ne regardent que\nle nombre de victoires.\n\nIl y a autre chose dans un combat."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_HaventRealizedPotential",
+    "texte": "Tu as encore beaucoup à apprendre.\n\nTu ne le sais peut-être pas encore."
+  },
+  {
+    "repere": "LilycoveCity_PokemonTrainerFanClub_Text_YourePowerfulButNotTrueStrength",
+    "texte": "Tu sais gagner des combats.\n\nMais est-ce tout ce qu'on attend\nd'un Dresseur ?"
+  }
+]
