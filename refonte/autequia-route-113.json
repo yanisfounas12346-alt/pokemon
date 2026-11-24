@@ -1,0 +1,198 @@
+[
+  {
+    "repere": "Route113_Text_AshCanBeFashionedIntoGlass",
+    "texte": "On ramasse les cendres ici.\n\nÀ l'atelier, elles deviennent\ndes objets en verre."
+  },
+  {
+    "repere": "Route113_Text_FunWalkingThroughAsh",
+    "texte": "Regarde les traces dans la cendre.\n\nLe vent les effacera avant ce soir."
+  },
+  {
+    "repere": "Route113_Text_RouteSign111",
+    "texte": "Route 113\n{RIGHT_ARROW} Route 111"
+  },
+  {
+    "repere": "Route113_Text_RouteSignFallarbor",
+    "texte": "Route 113\n{LEFT_ARROW} Autéquia"
+  },
+  {
+    "repere": "Route113_Text_TrainerTipsRegisterKeyItems",
+    "texte": "Conseil aux Dresseurs.\n\nEnregistre un Objet Rare du sac.\nAppuie ensuite sur SELECT\n\npour l'utiliser directement."
+  },
+  {
+    "repere": "Route113_Text_GlassWorkshopSign",
+    "texte": "Atelier du verre.\n\nNous transformons les cendres."
+  },
+  {
+    "repere": "Route113_GlassWorkshop_Text_GoCollectAshWithThis",
+    "texte": "Je fabrique du verre avec la cendre.\n\nLa poussière me fait tousser.\nTu peux m'aider à en ramasser."
+  },
+  {
+    "repere": "Route113_GlassWorkshop_Text_ExplainSootSack",
+    "texte": "Prends ce Sac à Suie.\n\nIl se remplit quand tu marches\ndans les herbes couvertes de cendre.\n\nRapporte-le quand il sera plein."
+  },
+  {
+    "repere": "Route113_GlassWorkshop_Text_LetsSeeCollectedAshes",
+    "texte": "Voyons combien de cendre\ntu as rapporté."
+  },
+  {
+    "repere": "Route113_GlassWorkshop_Text_NotEnoughAshNeedX",
+    "texte": "Il en manque pour une Flûte Bleue.\n\nMarche encore {STR_VAR_1} pas\ndans la cendre."
+  },
+  {
+    "repere": "Route113_GlassWorkshop_Text_WhichGlassItemWoudYouLike",
+    "texte": "Tu as assez de cendre.\n\nQuel objet veux-tu que je fabrique ?"
+  },
+  {
+    "repere": "Route113_GlassWorkshop_Text_IsThatTheItemForYou",
+    "texte": "{STR_VAR_1} ?\nC'est bien ce que tu veux ?"
+  },
+  {
+    "repere": "Route113_GlassWorkshop_Text_WhichWouldYouLike",
+    "texte": "Quel objet préfères-tu ?"
+  },
+  {
+    "repere": "Route113_GlassWorkshop_Text_IllMakeItemForYou",
+    "texte": "Très bien, {STR_VAR_1}.\n\nAttends que le verre refroidisse."
+  },
+  {
+    "repere": "Route113_GlassWorkshop_Text_NotEnoughAshToMakeItem",
+    "texte": "Pas assez pour {STR_VAR_1}.\n\nIl manque {STR_VAR_2} pas\ndans la cendre.\n\nVeux-tu un autre objet ?"
+  },
+  {
+    "repere": "Route113_GlassWorkshop_Text_AllThatAshButDontWantAnything",
+    "texte": "Tu as fait tout ce chemin.\n\nTu ne veux rien pour l'instant ?"
+  },
+  {
+    "repere": "Route113_GlassWorkshop_Text_IveFinishedGlassItem",
+    "texte": "J'ai terminé : {STR_VAR_1}.\n\nPrends garde en le transportant."
+  },
+  {
+    "repere": "Route113_GlassWorkshop_Text_NoRoomInBag",
+    "texte": "Ton sac est plein.\n\nJe garde l'objet à l'atelier."
+  },
+  {
+    "repere": "Route113_GlassWorkshop_Text_NoRoomInPC",
+    "texte": "Ton PC est plein.\n\nJe garde l'objet à l'atelier."
+  },
+  {
+    "repere": "Route113_GlassWorkshop_Text_HaventGotYourSootSack",
+    "texte": "Tu n'as pas ton Sac à Suie.\n\nIl faut le porter sur toi pour\nramasser la cendre."
+  },
+  {
+    "repere": "Route113_GlassWorkshop_Text_FunToBlowGlassFlute",
+    "texte": "Je joue de la flûte en verre\nquand le patron reçoit du monde.\n\nParfois, il tousse en rythme."
+  },
+  {
+    "repere": "FallarborTown_Text_ShadyCharactersCozmosHome",
+    "texte": "J'ai vu des gens entrer et sortir\nde chez le professeur Kosmo.\n\nIls avaient une caisse vide."
+  },
+  {
+    "repere": "FallarborTown_Text_RegionKnownForMeteors",
+    "texte": "On trouve des météorites par ici.\n\nLe Site Météore serait né\nde la chute de l'une d'elles."
+  },
+  {
+    "repere": "FallarborTown_Text_MyPreciousAzurill",
+    "texte": "Regarde mon Azurill.\n\nIl reste près de moi quand\nje travaille au jardin."
+  },
+  {
+    "repere": "FallarborTown_Text_Azurill",
+    "texte": "Azurill. Azuzuuu."
+  },
+  {
+    "repere": "FallarborTown_Text_HaveYouChallengedFlannery",
+    "texte": "Adriane a repris l'arène de son\nquartier depuis peu.\n\nSon grand-père était au Conseil 4.\nElle garde encore ses cahiers."
+  },
+  {
+    "repere": "FallarborTown_Text_BattleTentSign",
+    "texte": "Tente de Combat d'Autéquia.\n\nInscriptions à l'accueil."
+  },
+  {
+    "repere": "FallarborTown_Text_TownSign",
+    "texte": "Autéquia. Quartier des jardins.\n\nLes allées doivent rester libres."
+  },
+  {
+    "repere": "FallarborTown_Text_MoveTutorSign",
+    "texte": "Maison du maître des capacités.\n\nLes Pokémon peuvent réapprendre."
+  },
+  {
+    "repere": "FallarborTown_BattleTentLobby_Text_MakeThinkImJustKid",
+    "texte": "Ils croient que je suis trop jeune.\n\nIls verront bien quand mes Pokémon\nseront sur le terrain."
+  },
+  {
+    "repere": "FallarborTown_BattleTentLobby_Text_FallarborTentMyFavorite",
+    "texte": "Les règles des Tentes diffèrent.\n\nIci, on juge les Pokémon après\ntrois tours si le combat continue."
+  },
+  {
+    "repere": "FallarborTown_BattleTentLobby_Text_CameToCampOut",
+    "texte": "J'ai entendu parler d'une tente.\n\nJe pensais dormir sous la toile !\nPuisque je suis là, je vais combattre."
+  },
+  {
+    "repere": "FallarborTown_BattleTentLobby_Text_ScottLookingForSomeone",
+    "texte": "Scott. Ah, {PLAYER} !\n\nJe cherche des Dresseurs capables\nde s'adapter aux règles d'ici.\n\nJe voudrais en voir un qui sache\naller au bout de son effort."
+  },
+  {
+    "repere": "FallarborTown_BattleTentLobby_Text_ScottMakeChallenge",
+    "texte": "Scott. Tu devrais essayer\nune épreuve de cette Tente."
+  },
+  {
+    "repere": "FallarborTown_Mart_Text_DecidingSkittyEvolve",
+    "texte": "J'ai une Pierre Lune pour Skitty.\n\nIl deviendrait plus puissant,\nmais changerait d'apparence.\n\nJe n'ai pas encore décidé."
+  },
+  {
+    "repere": "FallarborTown_Mart_Text_Skitty",
+    "texte": "Skitty. Kiiiiity ?"
+  },
+  {
+    "repere": "FallarborTown_Mart_Text_SellNuggetIFound",
+    "texte": "J'ai trouvé une Pépite dans la terre.\n\nJe vais la vendre pour acheter\ndes outils neufs."
+  },
+  {
+    "repere": "FallarborTown_PokemonCenter_1F_Text_LanetteGreeting",
+    "texte": "Bonjour, {PLAYER}. Je suis Annette.\n\nJ'ai développé le système de\nstockage des Pokémon de ce PC.\n\nSi tu veux en parler, viens me voir\nchez moi sur la Route 114."
+  },
+  {
+    "repere": "FallarborTown_PokemonCenter_1F_Text_FossilManiacEdgeOfTown",
+    "texte": "J'aimerais connaître les Pokémon\nqui vivaient avant nous.\n\nLe collectionneur de fossiles\nà la sortie du village doit savoir."
+  },
+  {
+    "repere": "FallarborTown_PokemonCenter_1F_Text_PlantHardyTrees",
+    "texte": "On plante des arbres capables\nde pousser dans la cendre.\n\nIl faut en remplacer quelques-uns\naprès chaque saison."
+  },
+  {
+    "repere": "FallarborTown_CozmosHouse_Text_MeteoriteWillNeverBeMineNow",
+    "texte": "Kosmo. J'ai montré aux Trumps\noù trouver la météorite.\n\nIls ont pris la caisse.\nJe n'ai gardé que mes notes."
+  },
+  {
+    "repere": "FallarborTown_CozmosHouse_Text_IsThatMeteoriteMayIHaveIt",
+    "texte": "C'est la météorite du Site Météore !\n\nTu l'as retrouvée ?\n\nVeux-tu me la rendre en échange\nd'une CT ?"
+  },
+  {
+    "repere": "FallarborTown_CozmosHouse_Text_PleaseUseThisTM",
+    "texte": "Merci de l'avoir rapportée.\n\nUtilise cette CT comme tu veux."
+  },
+  {
+    "repere": "FallarborTown_CozmosHouse_Text_ReallyGoingToHelpMyResearch",
+    "texte": "Je vais reprendre mes mesures.\n\nIl me reste à comparer les relevés\navec ceux d'avant le vol."
+  },
+  {
+    "repere": "FallarborTown_CozmosHouse_Text_CrushedWithDisappointment",
+    "texte": "Tu préfères la garder ?\n\nJe suis déçu, mais je comprends."
+  },
+  {
+    "repere": "FallarborTown_CozmosHouse_Text_MayIHaveMeteorite",
+    "texte": "Veux-tu me rendre la météorite\ncontre une CT ?"
+  },
+  {
+    "repere": "FallarborTown_CozmosHouse_Text_CozmoWentToMeteorFalls",
+    "texte": "Kosmo est parti au Site Météore,\nsur la Route 114, avec les Trumps.\n\nJe ne l'ai pas vu rentrer."
+  },
+  {
+    "repere": "FallarborTown_CozmosHouse_Text_FeelSorryForCozmo",
+    "texte": "Depuis son retour, Kosmo ne quitte\npresque plus son bureau."
+  },
+  {
+    "repere": "FallarborTown_CozmosHouse_Text_CozmoIsSoHappy",
+    "texte": "Kosmo a ressorti ses instruments.\n\nCela faisait longtemps que je ne\nl'avais pas entendu travailler."
+  }
+]
