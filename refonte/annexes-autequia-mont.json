@@ -1,0 +1,218 @@
+[
+  {
+    "repere": "FallarborTown_MoveRelearnersHouse_Text_ImTheMoveTutor",
+    "texte": "Je suis le maître des capacités.\n\nJe peux faire réapprendre à un\nPokémon une capacité oubliée\n\nen échange d'une Écaillecoeur."
+  },
+  {
+    "repere": "FallarborTown_MoveRelearnersHouse_Text_ThatsAHeartScaleWantMeToTeachMove",
+    "texte": "Tu as une Écaillecoeur !\n\nVeux-tu que j'enseigne une capacité\nà l'un de tes Pokémon ?"
+  },
+  {
+    "repere": "FallarborTown_MoveRelearnersHouse_Text_TutorWhichMon",
+    "texte": "À quel Pokémon ?"
+  },
+  {
+    "repere": "FallarborTown_MoveRelearnersHouse_Text_TeachWhichMove",
+    "texte": "Quelle capacité veux-tu lui\nfaire apprendre ?"
+  },
+  {
+    "repere": "FallarborTown_MoveRelearnersHouse_Text_DontHaveMoveToTeachPokemon",
+    "texte": "Je ne trouve aucune capacité\nà lui faire réapprendre."
+  },
+  {
+    "repere": "FallarborTown_MoveRelearnersHouse_Text_HandedOverHeartScale",
+    "texte": "{PLAYER} remet une Écaillecoeur."
+  },
+  {
+    "repere": "FallarborTown_MoveRelearnersHouse_Text_ComeBackWithHeartScale",
+    "texte": "Rapporte une Écaillecoeur\nsi tu veux réapprendre une capacité."
+  },
+  {
+    "repere": "FallarborTown_MoveRelearnersHouse_Text_CantTeachEgg",
+    "texte": "Il faut attendre que cet Oeuf\néclose pour lui apprendre quelque chose."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_NicolasIntro",
+    "texte": "Nous entraînons nos Pokémon Dragon\nici, loin des routes.\n\nLe Maître est déjà venu nous voir."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_NicolasDefeat",
+    "texte": "Je n'avais pas mesuré ta force."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_NicolasPostBattle",
+    "texte": "Il nous reste beaucoup à apprendre.\n\nNous reviendrons demain."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_NicolasRegister",
+    "texte": "Échangeons nos numéros de PokéNav.\n\nJe voudrais t'affronter de nouveau."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_NicolasRematchIntro",
+    "texte": "Depuis notre dernier combat,\nnous nous entraînons chaque jour.\n\nVoyons ce qui a changé."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_NicolasRematchDefeat",
+    "texte": "Tu as encore progressé."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_NicolasPostRematch",
+    "texte": "Tu n'as pas cessé de t'entraîner.\n\nNous allons reprendre les exercices."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_JohnIntro",
+    "texte": "John. Nous combattons ensemble\ndepuis des années."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_JohnDefeat",
+    "texte": "John. Nous avons perdu, ma chère."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_JohnPostBattle",
+    "texte": "Cinquante ans de mariage.\n\nEt parfois, nous nous affrontons\nencore avec nos Pokémon."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_JohnNotEnoughMons",
+    "texte": "Il te faut deux Pokémon aptes\nau combat pour nous affronter."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_JohnRegister",
+    "texte": "Veux-tu nous affronter à nouveau ?\n\nÉchangeons nos numéros."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_JayIntro",
+    "texte": "Jay. Cinquante ans ensemble.\n\nJe connais ses gestes par coeur."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_JayDefeat",
+    "texte": "Jay. Nous avons perdu, mon cher."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_JayPostBattle",
+    "texte": "Quand nous ne sommes pas d'accord,\non règle ça par un combat.\n\nPuis on rentre prendre le thé."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_JayNotEnoughMons",
+    "texte": "Reviens avec deux Pokémon aptes\nau combat. Nous t'attendrons."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_JohnRematchIntro",
+    "texte": "John. Nous avons repris nos habitudes.\n\nNous sommes prêts tous les deux."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_JohnRematchDefeat",
+    "texte": "John. Encore perdu, ma chère."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_JohnPostRematch",
+    "texte": "Nous avons partagé tant de combats.\n\nJe ne les ai pas tous notés,\nmais elle s'en souvient."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_JohnRematchNotEnoughMons",
+    "texte": "Il faut deux Pokémon en état\npour un Combat Duo."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_JayRematchIntro",
+    "texte": "Jay. On se soutient depuis cinquante\nans. Voyons si ça suffit encore."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_JayRematchDefeat",
+    "texte": "Jay. Nous avons encore perdu."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_JayPostRematch",
+    "texte": "Cinquante ans de souvenirs.\n\nJ'espère qu'il nous reste encore\ndes chemins à parcourir ensemble."
+  },
+  {
+    "repere": "MeteorFalls_1F_2R_Text_JayRematchNotEnoughMons",
+    "texte": "Reviens avec deux Pokémon aptes\nau combat."
+  },
+  {
+    "repere": "MeteorFalls_StevensCave_Text_ShouldKnowHowGoodIAmExpectWorst",
+    "texte": "Pierre. Tu m'as retrouvé, {PLAYER}.\n\nNous avons combattu ensemble\nau Centre Spatial d'Algatia.\n\nTu connais mes Pokémon.\nCette fois, affronte-les."
+  },
+  {
+    "repere": "MeteorFalls_StevensCave_Text_StevenDefeat",
+    "texte": "Je n'imaginais pas que tu avais\nprogressé à ce point."
+  },
+  {
+    "repere": "MeteorFalls_StevensCave_Text_MyPredictionCameTrue",
+    "texte": "Je me souviens de notre rencontre\nà la Grotte Granite.\n\nTu avais une lettre à remettre.\nAujourd'hui, tu as terminé la Ligue.\n\nOù iras-tu maintenant ?"
+  },
+  {
+    "repere": "MtChimney_CableCarStation_Text_CableCarReadyGetOn",
+    "texte": "Le téléphérique va descendre.\n\nVoulez-vous embarquer ?"
+  },
+  {
+    "repere": "MtChimney_CableCarStation_Text_StepThisWay",
+    "texte": "Par ici, je vous prie."
+  },
+  {
+    "repere": "MtChimney_CableCarStation_Text_RideAnotherTime",
+    "texte": "À une prochaine traversée."
+  },
+  {
+    "repere": "Route112_CableCarStation_Text_CableCarReadyGetOn",
+    "texte": "Le téléphérique va monter.\n\nVoulez-vous embarquer ?"
+  },
+  {
+    "repere": "Route112_CableCarStation_Text_StepThisWay",
+    "texte": "Par ici, je vous prie."
+  },
+  {
+    "repere": "Route112_CableCarStation_Text_RideAnotherTime",
+    "texte": "Revenez quand vous le souhaitez."
+  },
+  {
+    "repere": "Route111_OldLadysRestStop_Text_RestUpHere",
+    "texte": "Tes Pokémon ont l'air fatigués.\n\nVeux-tu les laisser se reposer ici ?"
+  },
+  {
+    "repere": "Route111_OldLadysRestStop_Text_TakeYourTimeRestUp",
+    "texte": "Prends ton temps.\n\nIl y a aussi une chaise pour toi."
+  },
+  {
+    "repere": "Route111_OldLadysRestStop_Text_StillTiredTakeAnotherRest",
+    "texte": "Tu peux rester encore un peu.\n\nVeux-tu te reposer de nouveau ?"
+  },
+  {
+    "repere": "Route111_OldLadysRestStop_Text_DontNeedToBeShy",
+    "texte": "Très bien. La porte reste ouverte."
+  },
+  {
+    "repere": "Route111_WinstrateFamilysHouse_Text_MySonIsStrongerThanYou",
+    "texte": "Tu sais bien diriger tes Pokémon.\n\nMon fils est parti pour la Ligue.\nIl a dû arriver très loin."
+  },
+  {
+    "repere": "Route111_WinstrateFamilysHouse_Text_LikeYouToHaveMachoBrace",
+    "texte": "Nous utilisons ce Brac. Macho\npour entraîner nos Pokémon.\n\nTu as battu toute la famille.\nNous voulons te le donner."
+  },
+  {
+    "repere": "Route111_WinstrateFamilysHouse_Text_PassionateAboutBattles",
+    "texte": "Les combats occupent souvent\nnos conversations à table."
+  },
+  {
+    "repere": "Route111_WinstrateFamilysHouse_Text_StrongerFamilyMembers",
+    "texte": "Maman bat papa. Je bats maman.\nMémé me bat.\n\nMais mon frère nous bat tous !"
+  },
+  {
+    "repere": "Route111_WinstrateFamilysHouse_Text_GrandsonStrong",
+    "texte": "Mon petit-fils est parti défier\nla Ligue Pokémon.\n\nIl nous écrira quand il aura fini.\nJe surveille la boîte aux lettres."
+  },
+  {
+    "repere": "Route111_WinstrateFamilysHouse_Text_GrandsonStrongShort",
+    "texte": "Mon petit-fils doit être à la Ligue.\n\nNous attendons de ses nouvelles."
+  },
+  {
+    "repere": "Route115_Text_NeverKnowWhenCavePokemonWillAppear",
+    "texte": "Dans une grotte, les Pokémon\npeuvent surgir à tout moment.\n\nJe garde toujours un Repousse."
+  },
+  {
+    "repere": "Route115_Text_RouteSignRustboro",
+    "texte": "Route 115\n{DOWN_ARROW} Mérouville"
+  },
+  {
+    "repere": "Route115_Text_MeteorFallsSign",
+    "texte": "Site Météore.\nVers Autéquia."
+  }
+]
