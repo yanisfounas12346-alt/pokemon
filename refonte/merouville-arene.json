@@ -1,0 +1,294 @@
+[
+  {
+    "repere": "RustboroCity_Text_WeShortenItToDevon",
+    "texte": "On dit la Devon, ici.\n\nSon nom est sur les compteurs,\nles caisses et les fiches de paie."
+  },
+  {
+    "repere": "RustboroCity_Text_SneakyLookingManWentAroundCorner",
+    "texte": "Un homme a tourné au coin.\n\nIl serrait une sacoche sous son bras."
+  },
+  {
+    "repere": "RustboroCity_Text_HaveYouChallengedGym",
+    "texte": "Tu as visité l'arène ?\n\nOn y délivre les badges. Ils font\nfoi pour la suite du parcours."
+  },
+  {
+    "repere": "RustboroCity_Text_HeyThatsRustborosGymBadge",
+    "texte": "Le badge de Mérouville !\n\nLe métal vient des ateliers d'ici."
+  },
+  {
+    "repere": "RustboroCity_Text_YoureNewAroundHere",
+    "texte": "Je ne t'ai jamais vu ici.\n\nTu viens à l'école des Dresseurs ?"
+  },
+  {
+    "repere": "RustboroCity_Text_GymLeaderIsntEasyWithFire",
+    "texte": "Roxanne utilise le type Roche.\n\nMes Pokémon Feu auront du mal\nà lui faire des dégâts."
+  },
+  {
+    "repere": "RustboroCity_Text_MrBrineyWalksInTheTunnel",
+    "texte": "Marco habite près de la mer.\n\nIl promène souvent son Goélise\nvers le tunnel."
+  },
+  {
+    "repere": "RustboroCity_Text_MrBrineyLovesPeeko",
+    "texte": "Marco est parti à Poivressel.\n\nIl voulait une nouvelle gamelle\npour son Goélise."
+  },
+  {
+    "repere": "RustboroCity_Text_WowYouHavePokemon",
+    "texte": "Tu voyages avec des Pokémon !\n\nQuand je serai grande, j'irai voir\nd'où viennent les lettres du port."
+  },
+  {
+    "repere": "RustboroCity_Text_CatchRarePokemonIfIGoToSchool",
+    "texte": "Si je vais à l'école des Dresseurs,\nje saurai attraper des Pokémon rares ?"
+  },
+  {
+    "repere": "RustboroCity_Text_PokemonCanChangeLookFromExp",
+    "texte": "Avec l'expérience, certains Pokémon\névoluent et changent de forme."
+  },
+  {
+    "repere": "RustboroCity_Text_PokemonChangeShape",
+    "texte": "Un Pokémon peut changer de forme ?\n\nSa mère le reconnaît quand même ?"
+  },
+  {
+    "repere": "RustboroCity_Text_TradePokemonGrowFast",
+    "texte": "Un Pokémon échangé gagne plus vite\nde l'expérience.\n\nSans les badges nécessaires,\nil risque de ne pas t'obéir."
+  },
+  {
+    "repere": "RustboroCity_Text_HelpMeIWasRobbed",
+    "texte": "C'est toi, du Bois Clémenti !\n\nLes Marks m'ont pris le Pack Devon.\nIl faut que je le récupère.\n\nMon nom figure sur le reçu."
+  },
+  {
+    "repere": "RustboroCity_Text_ShadyCharacterTookOffTowardsTunnel",
+    "texte": "Il est parti vers le tunnel.\n\nJe l'ai vu courir vers l'est."
+  },
+  {
+    "repere": "RustboroCity_Text_YouGotItThankYou",
+    "texte": "Tu as retrouvé le Pack Devon !\n\nLaisse-moi vérifier la fermeture.\n\nMerci. Prends cette Super Ball."
+  },
+  {
+    "repere": "RustboroCity_Text_YoureLoadedWithItems",
+    "texte": "Ton sac est plein.\nJe garde la Super Ball pour toi."
+  },
+  {
+    "repere": "RustboroCity_Text_PleaseComeWithMe",
+    "texte": "Viens à la Devon avec moi.\n\nIl faut remettre le colis au bureau."
+  },
+  {
+    "repere": "RustboroCity_Text_MayHiLetsRegister",
+    "texte": "Flora. Ton PokéNav a le Match Phone.\n\nÉchangeons nos numéros."
+  },
+  {
+    "repere": "RustboroCity_Text_RegisteredMay",
+    "texte": "Flora est enregistrée\nsur le PokéNav."
+  },
+  {
+    "repere": "RustboroCity_Text_MayPassedBrineyWantToBattle",
+    "texte": "J'ai croisé Marco au Bois Clémenti.\nIl rentrait vers la mer.\n\nComment avance ton Pokédex ?\nVeux-tu faire un combat ?"
+  },
+  {
+    "repere": "RustboroCity_Text_MayOhHaventRaisedPokemonEnough",
+    "texte": "Tes Pokémon ne sont pas prêts ?\n\nOn fera ce combat une autre fois."
+  },
+  {
+    "repere": "RustboroCity_Text_MayWantToBattle",
+    "texte": "Flora. Veux-tu faire un combat ?"
+  },
+  {
+    "repere": "RustboroCity_Text_MayImNotGoingToLose",
+    "texte": "Cette fois, j'ai préparé mon équipe.\n\nJe ne compte pas perdre."
+  },
+  {
+    "repere": "RustboroCity_Text_MayDefeat",
+    "texte": "Tu as bien progressé.\n\nJ'ai encore des choses à apprendre."
+  },
+  {
+    "repere": "RustboroCity_Text_MayMrBrineyHint",
+    "texte": "Marco était un marin très réputé.\n\nSi tu dois traverser la mer,\nva le voir dans sa maison."
+  },
+  {
+    "repere": "RustboroCity_Text_BrendanHiLetsRegister",
+    "texte": "Brice. Tu as le Match Phone !\n\nÉchangeons nos numéros."
+  },
+  {
+    "repere": "RustboroCity_Text_RegisteredBrendan",
+    "texte": "Brice est enregistré\nsur le PokéNav."
+  },
+  {
+    "repere": "RustboroCity_Text_BrendanPassedBrineyWantToBattle",
+    "texte": "J'ai vu Marco au Bois Clémenti.\nIl rentrait vers sa maison.\n\nTu as fait d'autres relevés ?\nOn se bat pour voir nos progrès ?"
+  },
+  {
+    "repere": "RustboroCity_Text_BrendanNoConfidenceInPokemon",
+    "texte": "Tu ne te sens pas prêt ?\n\nCe sera pour une prochaine fois."
+  },
+  {
+    "repere": "RustboroCity_Text_BrendanWantToBattle",
+    "texte": "Brice. Tu veux faire un combat ?"
+  },
+  {
+    "repere": "RustboroCity_Text_BrendanIWontGoEasy",
+    "texte": "Je vais combattre sérieusement.\n\nPrépare tes Pokémon."
+  },
+  {
+    "repere": "RustboroCity_Text_BrendanDefeat",
+    "texte": "Tu as progressé plus vite\nque je ne le pensais."
+  },
+  {
+    "repere": "RustboroCity_Text_BrendanMrBrineyHint",
+    "texte": "Marco connaît bien la mer.\n\nSa maison est près du Bois Clémenti.\nIl saura t'aider à traverser."
+  },
+  {
+    "repere": "RustboroCity_Text_TunnelNearingCompletion",
+    "texte": "Le tunnel sera bientôt achevé.\n\nUne croix rouge couvre la date\nannoncée sur le panneau."
+  },
+  {
+    "repere": "RustboroCity_Text_DevonCorpSign",
+    "texte": "Devon SARL.\n\nMines, fournitures et compteurs."
+  },
+  {
+    "repere": "RustboroCity_Text_GymSign",
+    "texte": "Arène de Mérouville.\nChampionne : Roxanne.\n\nRegistre des eaux, première pièce."
+  },
+  {
+    "repere": "RustboroCity_Text_DevonCorpBranchOfficeSign",
+    "texte": "Succursale Devon.\n\nAccès réservé au personnel\net aux personnes autorisées."
+  },
+  {
+    "repere": "RustboroCity_Text_CitySign",
+    "texte": "Mérouville. Quartier des ateliers.\n\nLes conduites sont sous la chaussée."
+  },
+  {
+    "repere": "RustboroCity_Text_TrainersSchoolSign",
+    "texte": "École des Dresseurs Pokémon.\n\nLes cahiers sont prêtés à l'accueil."
+  },
+  {
+    "repere": "RustboroCity_Text_CuttersHouse",
+    "texte": "Maison CoupCoup.\n\nEntretien des chemins."
+  },
+  {
+    "repere": "RustboroCity_Text_DevelopedNewPokenavFeature",
+    "texte": "J'ai terminé une nouvelle fonction\npour le PokéNav.\n\nPuis-je voir celui que le directeur\nt'a remis ?"
+  },
+  {
+    "repere": "RustboroCity_Text_AddedMatchCallPleaseCallMrStone",
+    "texte": "Le Match Phone est installé.\n\nTu peux appeler les contacts\ninscrits dans ton PokéNav.\n\nLe directeur est déjà enregistré.\nEssaie de l'appeler."
+  },
+  {
+    "repere": "RustboroCity_Text_PleaseSelectPokenav",
+    "texte": "Sélectionne le PokéNav."
+  },
+  {
+    "repere": "RustboroCity_Text_IdBetterGetBackToWork",
+    "texte": "Je retourne à l'atelier.\n\nBonne route, {PLAYER}."
+  },
+  {
+    "repere": "RustboroCity_Text_YouCanHave2On2Battle",
+    "texte": "Avec au moins deux Pokémon aptes,\ntu peux faire un Combat Duo.\n\nSi deux Dresseurs te repèrent\nensemble, ils peuvent te défier."
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_GymGuideAdvice",
+    "texte": "Roxanne utilise le type Roche.\n\nLes attaques Eau et Plante sont\nefficaces contre ses Pokémon.\n\nBats la championne pour obtenir\nle Badge Roche."
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_GymGuidePostVictory",
+    "texte": "Tu as le Badge Roche !\n\nVérifie ta carte de Dresseur.\nIl doit y figurer."
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_JoshIntro",
+    "texte": "Je m'entraîne ici depuis l'école.\n\nNe sous-estime pas le type Roche."
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_JoshDefeat",
+    "texte": "Ta force a suffi à passer."
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_JoshPostBattle",
+    "texte": "Les Pokémon Roche sont résistants.\n\nTu vas le voir contre Roxanne."
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_TommyIntro",
+    "texte": "Il faut passer devant moi\navant d'arriver à Roxanne."
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_TommyDefeat",
+    "texte": "Je n'ai pas réussi à te retenir."
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_TommyPostBattle",
+    "texte": "Roxanne connaît mieux que moi\nles failles de ses Pokémon."
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_MarcIntro",
+    "texte": "Mes Pokémon viennent des carrières.\n\nIls ont besoin de place pour bouger."
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_MarcDefeat",
+    "texte": "Ils ont reculé. Tu as gagné."
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_MarcPostBattle",
+    "texte": "La championne t'attend plus loin.\n\nElle connaît bien les Pokémon Roche."
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_RoxanneIntro",
+    "texte": "Je suis Roxanne, la championne.\n\nOn m'a confié le registre des eaux\nà la sortie de l'école.\n\nIl faut un combat avant de pouvoir\nconsulter la première pièce."
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_RoxanneDefeat",
+    "texte": "Roxanne range ses Balls.\n\nLe règlement est le même pour tous.\nVoici le Badge Roche."
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_ReceivedStoneBadge",
+    "texte": "{PLAYER} reçoit le Badge Roche !"
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_ExplainRockTomb",
+    "texte": "La CT39 contient Tomberoche.\n\nElle inflige des dégâts et réduit\nla Vitesse du Pokémon adverse.\n\nUne CT ne s'utilise qu'une fois."
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_RoxannePostBattle",
+    "texte": "Les autres arènes gardent la suite.\n\nTu trouveras les pièces du registre\nen affrontant leurs champions."
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_GymStatue",
+    "texte": "Arène Pokémon de Mérouville."
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_GymStatueCertified",
+    "texte": "Arène Pokémon de Mérouville.\n\nDresseur reconnu par Roxanne :\n{PLAYER}."
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_RoxanneRegisterCall",
+    "texte": "Bip ! Ici Roxanne, de Mérouville.\n\nBastien m'a parlé de tes progrès.\n\nNous avons repris l'entraînement.\nReviens nous affronter un jour.\n\nÀ bientôt. Clic !"
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_RegisteredRoxanne",
+    "texte": "Roxanne est enregistrée\ndans le PokéNav."
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_RoxannePreRematch",
+    "texte": "Roxanne. Tu es de retour !\n\nNous avons progressé depuis\nnotre premier combat.\n\nVoyons de combien."
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_RoxanneRematchDefeat",
+    "texte": "Il nous reste encore du travail."
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_RoxannePostRematch",
+    "texte": "Je vais revoir mes notes.\n\nOn apprend aussi des combats perdus."
+  },
+  {
+    "repere": "RustboroCity_Gym_Text_RoxanneRematchNeedTwoMons",
+    "texte": "Il faut au moins deux Pokémon\naptes au combat pour cette épreuve.\n\nReviens quand ton équipe sera prête."
+  },
+  {
+    "repere": "RustboroCity_CuttersHouse_Text_YouCanPutThisHMToGoodUse",
+    "texte": "Tu as l'air de marcher loin.\n\nJ'ai une CS pour dégager les chemins.\nPrends-la, elle te servira."
+  },
+  {
+    "repere": "RustboroCity_CuttersHouse_Text_ExplainCut",
+    "texte": "Cette CS contient Coupe.\n\nAvec le Badge Roche, un Pokémon\npeut couper les petits arbres.\n\nUne CS peut servir plusieurs fois."
+  },
+  {
+    "repere": "RustboroCity_CuttersHouse_Text_DadHelpedClearLandOfTrees",
+    "texte": "Mon père a aidé à agrandir la ville.\n\nSon Pokémon coupait les arbres.\nIl en a gardé un près de la maison."
+  }
+]
