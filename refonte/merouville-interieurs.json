@@ -1,0 +1,238 @@
+[
+  {
+    "repere": "RustboroCity_Flat1_1F_Text_EveryPokemonHasAbility",
+    "texte": "Chaque Pokémon a un talent propre.\n\nDeux ouvriers avec le même Pokémon\nn'ont pas forcément la même aide."
+  },
+  {
+    "repere": "RustboroCity_Flat1_1F_Text_PokemonStrange",
+    "texte": "Les Pokémon m'étonnent encore.\n\nLe mien sait quand je rentre,\nmême avant la sirène de l'usine."
+  },
+  {
+    "repere": "RustboroCity_Flat1_2F_Text_ComingUpWithMealsIsHard",
+    "texte": "Je compte les portions chaque soir.\n\nIl faut trouver de quoi varier\nsans ouvrir une autre enveloppe."
+  },
+  {
+    "repere": "RustboroCity_Flat1_2F_Text_HelloDoYouKnowFunnyPhrase",
+    "texte": "Bienvenue chez les Bofond.\n\nJe viens d'être père. Bercia ne rit\npas souvent quand je lui parle.\n\nTu connais une phrase amusante\nque je pourrais lui dire ?"
+  },
+  {
+    "repere": "RustboroCity_Flat1_2F_Text_BeenSayingXDoYouKnowBetterPhrase",
+    "texte": "Je lui ai déjà dit :\n{STR_VAR_1}\n\nTu connais d'autres mots\npour la faire rire ?"
+  },
+  {
+    "repere": "RustboroCity_Flat1_2F_Text_WonderfulLetsHearSuggestion",
+    "texte": "Très bien. Dis-moi ce que je dois\nlui dire."
+  },
+  {
+    "repere": "RustboroCity_Flat1_2F_Text_OhIsThatRight",
+    "texte": "Pas d'idée ? Ce n'est pas grave.\nReviens si tu trouves quelque chose."
+  },
+  {
+    "repere": "RustboroCity_Flat1_2F_Text_LetsGiveItATry2",
+    "texte": "D'accord. Je vais essayer\nces mots-là."
+  },
+  {
+    "repere": "RustboroCity_Flat1_2F_Text_OhShesLaughing",
+    "texte": "{STR_VAR_1}\n{STR_VAR_1}\n\nRegarde ! Elle rit !\nJe vais noter ça sur le calendrier."
+  },
+  {
+    "repere": "RustboroCity_Flat1_2F_Text_LetsGiveItATry",
+    "texte": "Essayons. Approche un peu,\npour qu'elle entende."
+  },
+  {
+    "repere": "RustboroCity_Flat1_2F_Text_ShesNotSmilingAtAll",
+    "texte": "{STR_VAR_1}\n{STR_VAR_1}\n\nElle me regarde sans sourire.\nIl faudra trouver autre chose."
+  },
+  {
+    "repere": "RustboroCity_Flat1_2F_Text_ThinkOfMyOwnPhrase",
+    "texte": "Je vais essayer tout seul.\n\nEt si je lui disais :\n{STR_VAR_1} ?"
+  },
+  {
+    "repere": "RustboroCity_Flat1_2F_Text_ShesNotSmilingAtAll2",
+    "texte": "{STR_VAR_1}\n{STR_VAR_1}\n\nElle n'a pas ri cette fois.\nJe crois qu'elle a sommeil."
+  },
+  {
+    "repere": "RustboroCity_Flat1_2F_Text_OhYouDontKnowAny",
+    "texte": "Je vais reprendre les anciens mots.\n\nSi tu as une idée, reviens me voir."
+  },
+  {
+    "repere": "RustboroCity_Flat1_2F_Text_ThankYouIllGiveYouWallpaper",
+    "texte": "Merci ! Bercia a enfin souri.\n\nJe travaille à la Devon.\nJe peux ajouter des fonds à ton PC.\n\nChoisis AMIS dans les fonds\ndes boîtes de stockage.\n\nChaque fois que tu la feras rire,\nje pourrai t'en donner un nouveau."
+  },
+  {
+    "repere": "RustboroCity_Flat1_2F_Text_ItsAPokemonPlushDoll",
+    "texte": "Une poupée Pokémon.\n\nLe tissu du ventre a été recousu."
+  },
+  {
+    "repere": "RustboroCity_Flat2_1F_Text_DevonWorkersLiveHere",
+    "texte": "Ici logent les employés de la Devon.\n\nLes loyers sont déduits de la paie."
+  },
+  {
+    "repere": "RustboroCity_Flat2_1F_Text_Skitty",
+    "texte": "Skitty. Skiiit !\n\nIl joue avec un lacet."
+  },
+  {
+    "repere": "RustboroCity_Flat2_2F_Text_DevonWasTinyInOldDays",
+    "texte": "Autrefois la Devon tenait dans\nun seul bâtiment.\n\nMon père connaissait le gardien."
+  },
+  {
+    "repere": "RustboroCity_Flat2_2F_Text_MyDaddyMadeThisYouCanHaveIt",
+    "texte": "Mon papa travaille à la Devon.\n\nIl a fabriqué ça. Je n'en ai pas\nbesoin. Tu peux le prendre."
+  },
+  {
+    "repere": "RustboroCity_Flat2_2F_Text_GoingToWorkAtDevonToo",
+    "texte": "Papa travaille à la Devon.\n\nQuand je serai grand, j'aurai aussi\nune blouse à mon nom."
+  },
+  {
+    "repere": "RustboroCity_Flat2_3F_Text_PresidentCollectsRareStones",
+    "texte": "Le directeur collectionne les\npierres rares.\n\nOn les lui monte dans des caisses."
+  },
+  {
+    "repere": "RustboroCity_Flat2_3F_Text_PresidentsSonAlsoCollectsRareStones",
+    "texte": "Son fils collectionne les pierres\nlui aussi.\n\nIl préfère aller les chercher."
+  },
+  {
+    "repere": "RustboroCity_House1_Text_IllTradeIfYouWant",
+    "texte": "Tu aimes mon Pokémon ?\n\nJe veux bien échanger mon\n{STR_VAR_2} contre ton {STR_VAR_1}.\n\nTu acceptes ?"
+  },
+  {
+    "repere": "RustboroCity_House1_Text_PleaseBeGoodToMyPokemon",
+    "texte": "Prends soin de lui.\n\nIl n'aime pas les gamelles trop\nprès de la porte."
+  },
+  {
+    "repere": "RustboroCity_House1_Text_DoesntLookLikeMonToMe",
+    "texte": "Ce n'est pas un {STR_VAR_1}.\n\nC'est celui-là que je cherche."
+  },
+  {
+    "repere": "RustboroCity_House1_Text_YouDontWantToThatsOkay",
+    "texte": "Tu préfères le garder ?\nJe comprends."
+  },
+  {
+    "repere": "RustboroCity_House1_Text_AnyPokemonCanBeCute",
+    "texte": "Un Pokémon s'habitue aux gestes\nde celui qui s'occupe de lui."
+  },
+  {
+    "repere": "RustboroCity_House1_Text_AllSortsOfPlaces",
+    "texte": "Chaque ville a ses Pokémon\net ses façons de les soigner.\n\nJe voyage pour les observer."
+  },
+  {
+    "repere": "RustboroCity_House2_Text_TrainerSchoolExcellent",
+    "texte": "L'école prête des cahiers.\n\nMême sans argent, on peut apprendre\net devenir champion un jour."
+  },
+  {
+    "repere": "RustboroCity_House2_Text_RoxanneKnowsALot",
+    "texte": "Roxanne connaît bien les Pokémon.\n\nElle a gardé ses notes d'école\ndans le tiroir de l'arène."
+  },
+  {
+    "repere": "RustboroCity_House3_Text_IGivePerfectlySuitedNicknames",
+    "texte": "Je donne un nom à chaque Pokémon.\n\nIls viennent quand je les appelle."
+  },
+  {
+    "repere": "RustboroCity_House3_Text_NamingPikachuPekachu",
+    "texte": "Appeler un Pikachu Pekachu...\n\nIl suffit de changer une lettre\net il prétend avoir tout inventé."
+  },
+  {
+    "repere": "RustboroCity_House3_Text_Pekachu",
+    "texte": "Pekachu. Peka !"
+  },
+  {
+    "repere": "RustboroCity_Mart_Text_BuyingHealsInCaseOfShroomish",
+    "texte": "Je prends des Antidotes et des\nAnti-Para pour le Bois Clémenti.\n\nLes Balignon peuvent nous surprendre."
+  },
+  {
+    "repere": "RustboroCity_Mart_Text_ShouldBuySuperPotionsInstead",
+    "texte": "Mon Pokémon a évolué.\nIl a davantage de PV.\n\nJe vais prendre des Super Potions."
+  },
+  {
+    "repere": "RustboroCity_Mart_Text_GettingEscapeRopeJustInCase",
+    "texte": "Je garde une Corde Sortie.\n\nDans une grotte, elle me ramène\nà l'entrée si je me perds."
+  },
+  {
+    "repere": "RustboroCity_PokemonCenter_1F_Text_PokemonHavePersonalities",
+    "texte": "Mon Pokémon est Naïf. Celui de\nmon ami est Jovial.\n\nLeur nature figure sur leur fiche."
+  },
+  {
+    "repere": "RustboroCity_PokemonCenter_1F_Text_MaleAndFemalePokemon",
+    "texte": "Il existe des Pokémon mâles\net femelles, et d'autres sans sexe.\n\nOn ne le voit pas toujours."
+  },
+  {
+    "repere": "RustboroCity_PokemonCenter_1F_Text_HMCutNextDoor",
+    "texte": "La maison voisine m'a donné la CS\nCoupe pour mon Pokémon.\n\nAvec le Badge Roche, il peut couper\nles petits arbres."
+  },
+  {
+    "repere": "RustboroCity_PokemonSchool_Text_BlackboardListsStatusChanges",
+    "texte": "Le tableau indique les problèmes\nde statut en combat."
+  },
+  {
+    "repere": "RustboroCity_PokemonSchool_Text_ReadWhichTopic",
+    "texte": "Quel sujet veux-tu lire ?"
+  },
+  {
+    "repere": "RustboroCity_PokemonSchool_Text_ExplainPoison",
+    "texte": "Poison : les PV diminuent\nrégulièrement pendant le combat.\n\nIls diminuent aussi en marchant.\nUtilise un Antidote."
+  },
+  {
+    "repere": "RustboroCity_PokemonSchool_Text_ExplainParalysis",
+    "texte": "Paralysie : la Vitesse diminue.\n\nLe Pokémon peut aussi ne pas agir.\nLa paralysie persiste après combat.\n\nUtilise un Anti-Para."
+  },
+  {
+    "repere": "RustboroCity_PokemonSchool_Text_ExplainSleep",
+    "texte": "Sommeil : le Pokémon ne peut\nnormalement pas attaquer.\n\nIl peut se réveiller tout seul.\nSinon, utilise un Réveil."
+  },
+  {
+    "repere": "RustboroCity_PokemonSchool_Text_ExplainBurn",
+    "texte": "Brûlure : l'Attaque physique baisse\net le Pokémon perd des PV.\n\nLa brûlure persiste après combat.\nUtilise un Anti-Brûle."
+  },
+  {
+    "repere": "RustboroCity_PokemonSchool_Text_ExplainFreeze",
+    "texte": "Gel : le Pokémon ne peut pas\nagir normalement.\n\nLe gel persiste après combat.\nUtilise un Antigel."
+  },
+  {
+    "repere": "RustboroCity_PokemonSchool_Text_StudentsWhoDontStudyGetQuickClaw",
+    "texte": "Tiens, une Vive Griffe.\n\nCe n'est pas une récompense.\nC'est un objet à étudier."
+  },
+  {
+    "repere": "RustboroCity_PokemonSchool_Text_ExplainQuickClaw",
+    "texte": "Un Pokémon tenant la Vive Griffe\npeut parfois attaquer en premier.\n\nIl existe d'autres objets à tenir.\nEssaie de comprendre leur usage."
+  },
+  {
+    "repere": "RustboroCity_PokemonSchool_Text_TradingRightNow",
+    "texte": "Je vais échanger un Pokémon\navec mon camarade.\n\nOn a vérifié les deux noms."
+  },
+  {
+    "repere": "RustboroCity_PokemonSchool_Text_AlwaysWantedSeedot",
+    "texte": "J'ai enfin mon Grainipiot !\n\nJ'en dessinais dans la marge\nde mon cahier."
+  },
+  {
+    "repere": "RustboroCity_PokemonSchool_Text_PokemontCantUseManMadeItems",
+    "texte": "Un Pokémon peut tenir un objet.\n\nMais il ne peut pas utiliser seul\nune Potion ou un Antidote."
+  },
+  {
+    "repere": "RustboroCity_PokemonSchool_Text_ConfusedPokemonAttacksItself",
+    "texte": "Un Pokémon confus peut se blesser\nlui-même en essayant d'attaquer.\n\nLa confusion cesse après le combat."
+  },
+  {
+    "repere": "RustboroCity_PokemonSchool_Text_PokemonHealItselfWithBerry",
+    "texte": "Un Pokémon peut utiliser tout seul\nune Baie qu'il tient.\n\nIl faut apprendre à reconnaître\nl'effet de chacune."
+  },
+  {
+    "repere": "RustboroCity_PokemonSchool_Text_StudentsNotes",
+    "texte": "Notes d'un élève.\n\nCapturer avec des Poké Balls.\nSix Pokémon au maximum par équipe.\n\nLes entraîner, puis affronter\nles champions dans les arènes.\n\nEn bas : rendre le cahier vendredi."
+  },
+  {
+    "repere": "RustboroCity_PokemonSchool_Text_ScottMetAlreadyCut",
+    "texte": "Scott. On s'est vus à Clémenti.\n\nJe cherche des Dresseurs de talent.\n\nApprends Coupe à un de tes Pokémon.\nQuelqu'un en ville possède cette CS."
+  },
+  {
+    "repere": "RustboroCity_PokemonSchool_Text_StudentTalentLevelUnknown",
+    "texte": "Scott. Je ne connais pas encore\nle niveau de ces élèves.\n\nJe reviendrai voir leurs combats."
+  },
+  {
+    "repere": "RustboroCity_PokemonSchool_Text_ScottStoneBadge",
+    "texte": "Scott. Le Badge Roche !\n\nJ'aurais aimé voir ton combat.\nUn badge ne raconte pas tout."
+  },
+  {
+    "repere": "RustboroCity_PokemonSchool_Text_ScottMetAlreadyStoneBadge",
+    "texte": "Scott. On s'est vus à Clémenti.\n\nJe cherche des Dresseurs de talent.\n\nTu as obtenu le Badge Roche !\nJ'aimerais te voir combattre."
+  }
+]
