@@ -1,0 +1,270 @@
+[
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_WelcomeForSingleBattle",
+    "texte": "Bienvenue au Palace de Combat.\n\nInscriptions pour les Halls Solo."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_TakeSingleBattleChallenge",
+    "texte": "Participer à un défi Solo ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_ExplainSingleBattleChallenge",
+    "texte": "Dans les Halls Solo, vous choisissez\nles Pokémon à envoyer au combat.\n\nIls choisissent leurs capacités\nselon leur nature, sans vos ordres.\n\nSept victoires consécutives donnent\ndes Points de Combat.\n\nSauvegardez avant d'interrompre\nvotre défi pour pouvoir le reprendre."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_ReturnWhenFortified",
+    "texte": "Revenez lorsque votre équipe\nsera prête."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_WhichChallenge",
+    "texte": "Niveau 50 ou niveau libre ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_NotEnoughValidMonsLv50",
+    "texte": "Il faut trois Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_NotEnoughValidMonsLvOpen",
+    "texte": "Il faut trois Pokémon différents,\navec des objets différents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_NowSelectThreeMons",
+    "texte": "Choisissez vos trois Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_MustSaveBeforeChallenge2",
+    "texte": "Sauvegarder avant d'entrer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_FollowMe",
+    "texte": "Veuillez me suivre."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_ResultsWillBeRecorded",
+    "texte": "Merci pour votre participation.\n\nEnregistrement du résultat."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_FirmTrueBondsFor7WinStreak",
+    "texte": "Sept victoires consécutives.\n\nVos Pokémon ont trouvé leur rythme."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_FeatWillBeRecorded",
+    "texte": "Enregistrement de votre résultat.\nVeuillez patienter."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_BattlePointsFor7WinStreak",
+    "texte": "Sept victoires : voici vos Points\nde Combat."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_NoSpaceForPrize",
+    "texte": "Votre sac est plein.\n\nFaites de la place et revenez."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_WeHaveBeenWaiting",
+    "texte": "Nous vous attendions."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_MustSaveBeforeChallenge",
+    "texte": "Sauvegarder avant de reprendre ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_FailedToSaveBeforeEndingChallenge",
+    "texte": "Le dernier défi a été interrompu\nsans sauvegarde.\n\nVous êtes disqualifié."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_ReceivedPrize",
+    "texte": "{PLAYER} reçoit\n{STR_VAR_1}."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_LadyCanTellWhatMonsThink",
+    "texte": "Je préfère les Pokémon offensifs.\n\nUne visiteuse prétend comprendre\nles pensées des Pokémon.\n\nJe voudrais savoir comment elle fait."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_NatureAndMovesKeyHere",
+    "texte": "La nature influence le choix\ndes capacités.\n\nSi ton Pokémon hésite, vérifie\nque ses capacités lui conviennent."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_MonDocileButTransforms",
+    "texte": "Mon Pokémon est calme à la maison.\n\nDans le Hall, il attaque sans cesse."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_WhatNatureFavorsChippingAway",
+    "texte": "Quelle nature préfère affaiblir\nl'adversaire progressivement ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_WelcomeForDoubleBattle",
+    "texte": "Bienvenue au Palace de Combat.\n\nInscriptions pour les Halls Duo."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_TakeDoubleBattleChallenge",
+    "texte": "Participer à un défi Duo ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_ExplainDoubleBattleChallenge",
+    "texte": "Dans les Halls Duo, vous choisissez\nles Pokémon à envoyer au combat.\n\nIls choisissent leurs capacités\nselon leur nature, sans vos ordres.\n\nSept victoires consécutives donnent\ndes Points de Combat.\n\nSauvegardez avant d'interrompre\nvotre défi pour pouvoir le reprendre."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_ToDefeatMavenAnd7Trainers",
+    "texte": "Vous avez battu Esteban et terminé\nla série de sept combats."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_PresentYouWithBattlePoints",
+    "texte": "Voici vos Points de Combat."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_LikeToRecordMatch",
+    "texte": "Enregistrer votre dernier combat\nsur le Passe Zone ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_RulesAreListed",
+    "texte": "Règlement des Halls de Combat."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_ReadWhichHeading",
+    "texte": "Quel chapitre voulez-vous lire ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_ExplainRulesBasics",
+    "texte": "Les Pokémon choisissent eux-mêmes\nleurs capacités.\n\nLeur comportement dépend\nde leur nature."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_ExplainRulesNature",
+    "texte": "Certains préfèrent attaquer.\nD'autres se protègent ou gênent\nl'adversaire.\n\nLeur nature détermine les capacités\nqu'ils utilisent volontiers."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_ExplainRulesMoves",
+    "texte": "Trois catégories de capacités :\nattaque, défense et soutien.\n\nLes attaques infligent des dégâts.\nLa défense protège ou soigne.\n\nLe soutien gêne l'adversaire,\npar exemple en le paralysant."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_ExplainRulesUnderpowered",
+    "texte": "Un Pokémon peut hésiter s'il connaît\nsurtout des capacités contraires\nà sa nature.\n\nChoisissez celles qui lui conviennent."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceLobby_Text_ExplainRulesWhenInDanger",
+    "texte": "Un Pokémon en difficulté peut\nchanger ses préférences.\n\nObservez-le attentivement."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_LetMeRestoreYourMons",
+    "texte": "Nous allons soigner vos Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_SaveAndQuitGame",
+    "texte": "Sauvegarder et quitter le jeu ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_WishToQuitChallenge",
+    "texte": "Abandonner ce défi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_SavingData",
+    "texte": "Sauvegarde en cours."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_RecordLastMatch",
+    "texte": "Enregistrer ce combat\nsur le Passe Zone ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_ChallengingPalaceMaven",
+    "texte": "Vos résultats vous permettent\nd'affronter le Capt. Palace."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_ReadyForPalaceMaven",
+    "texte": "Prêt à affronter le Capt. Palace ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_AnnounceArrivalOfSpenser",
+    "texte": "Voici Esteban, le Capt. Palace."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_SpenserFirstIntro",
+    "texte": "Esteban. Ici, tes Pokémon\nvont choisir eux-mêmes.\n\nPeux-tu les regarder combattre\nsans leur donner d'ordre ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_ProveYourBondWithMons",
+    "texte": "Montre-moi comment ils se battent."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_SpenserPostSilverBattle",
+    "texte": "Esteban. Tu as gagné.\n\nJ'ai encore des choses à apprendre."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_LetsSeeFrontierPass",
+    "texte": "Présente ton Passe Zone."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_ReceivedSpiritsSymbol",
+    "texte": "Le Symbole Esprit a été ajouté\nau Passe Zone !"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_SpenserAwaitNextTime",
+    "texte": "Je regarderai tes Pokémon\navec attention la prochaine fois."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_SpenserThisTimeWontHoldBack",
+    "texte": "Esteban. Te voilà de retour.\n\nNous avons continué à travailler.\nCommençons notre revanche."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_Kaaah",
+    "texte": "Ah !"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_SpenserYourTeamIsAdmirable",
+    "texte": "Esteban. Tes Pokémon ont encore\ngagné.\n\nIls savent prendre leurs décisions."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_HurryWithFrontierPass",
+    "texte": "Donne-moi ton Passe Zone."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_SpiritsSymbolTookGoldenShine",
+    "texte": "Le Symbole Esprit devient doré !"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_SpenserComeSeeMeAgain",
+    "texte": "Esteban. Reviens quand tu voudras."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor2ndOpponent",
+    "texte": "Adversaire 2 sur 7 prêt.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor3rdOpponent",
+    "texte": "Adversaire 3 sur 7 prêt.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor4thOpponent",
+    "texte": "Adversaire 4 sur 7 prêt.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor5thOpponent",
+    "texte": "Adversaire 5 sur 7 prêt.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor6thOpponent",
+    "texte": "Adversaire 6 sur 7 prêt.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceBattleRoom_Text_PreparedFor7thOpponent",
+    "texte": "Adversaire 7 sur 7 prêt.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceCorridor_Text_PeopleAndMonAreSame",
+    "texte": "Comme nous, les Pokémon ont\ndes aptitudes différentes."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceCorridor_Text_LetMonDoWhatItLikes",
+    "texte": "Apprenez à reconnaître les capacités\nque votre Pokémon préfère utiliser."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceCorridor_Text_MonDifferentWhenCornered",
+    "texte": "Un Pokémon en difficulté peut\nchanger complètement de conduite."
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceCorridor_Text_BeginningToUnderstandNature",
+    "texte": "Avez-vous remarqué l'influence\nde la nature sur leurs choix ?"
+  },
+  {
+    "repere": "BattleFrontier_BattlePalaceCorridor_Text_HeartfeltBondBetweenYouAndMons",
+    "texte": "Vous connaissez bien vos Pokémon.\n\nIls savent agir sans vos ordres."
+  }
+]
