@@ -1,0 +1,254 @@
+[
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_FirstTimeHereThisWay",
+    "texte": "Première visite ?\n\nVeuillez me suivre."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_WelcomeToBattleFrontier",
+    "texte": "Bienvenue à la Zone de Combat.\n\nSept épreuves vous attendent."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_IssueFrontierPass",
+    "texte": "Nous allons vous remettre\nle Passe Zone.\n\nIl donne accès aux installations."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_ObtainedFrontierPass",
+    "texte": "{PLAYER} reçoit le Passe Zone."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_PlacedTrainerCardInFrontierPass",
+    "texte": "{PLAYER} place sa Carte Dresseur\ndans le Passe Zone."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_EnjoyBattleFrontier",
+    "texte": "Bonne visite de la Zone de Combat."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_IfItIsntPlayerYouCame",
+    "texte": "Tiens, {PLAYER} !\n\nTu as fait le voyage."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_OhMrScottGoodDay",
+    "texte": "Guide. Bonjour, monsieur Scott."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_ScottGreatToSeeYouHere",
+    "texte": "Scott. Content de te revoir.\n\nChaque bâtiment a ses règles.\nPrends le temps de les découvrir.\n\nMa maison est ouverte aux visiteurs."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_YourGuideToFacilities",
+    "texte": "Je peux vous présenter\nles installations de la Zone."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_LearnAboutWhich2",
+    "texte": "Quel bâtiment vous intéresse ?"
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_BattleTowerInfo",
+    "texte": "La Tour de Combat propose\nquatre formats : Solo, Duo,\n\nMulti et Multi Link."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_BattleDomeInfo",
+    "texte": "Le Dôme de Combat accueille\ndes tournois Solo et Duo."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_BattlePalaceInfo",
+    "texte": "Le Palace de Combat est le bâtiment\nrouge à droite.\n\nIl propose des combats Solo et Duo\noù les Pokémon choisissent."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_BattleArenaInfo",
+    "texte": "Le Dojo de Combat se trouve\nà droite du centre.\n\nOn y organise des Tournois K.O."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_BattleFactoryInfo",
+    "texte": "L'Usine de Combat est près d'ici.\n\nOn y utilise des Pokémon prêtés,\nen Solo ou en Duo."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_BattlePikeInfo",
+    "texte": "Le Reptile de Combat se trouve\nà gauche du centre.\n\nIl propose le Combat Hasard."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_BattlePyramidInfo",
+    "texte": "La Pyramide de Combat propose\nle Combat Quête.\n\nIl faut explorer ses étages."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_RankingHallInfo",
+    "texte": "Le Hall de Classement est près\nde la Tour de Combat.\n\nLes records y sont consultables."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_ExchangeCornerInfo",
+    "texte": "Le Service d'Échange est près\nde la Tour de Combat.\n\nÉchangez vos Points de Combat\ncontre des récompenses."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_YourGuideToRules",
+    "texte": "Je peux expliquer les règles\ncommunes aux différentes épreuves."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_LearnAboutWhat",
+    "texte": "Quel sujet vous intéresse ?"
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_LevelModeInfo",
+    "texte": "Deux catégories sont proposées :\nniveau 50 et niveau libre."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_Level50Info",
+    "texte": "Les Pokémon de niveau 50 ou moins\npeuvent participer.\n\nLes adversaires sont au niveau 50.\nNous conseillons cette catégorie\n\npour une première visite."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_OpenLevelInfo",
+    "texte": "En niveau libre, le niveau adverse\ns'adapte à celui de votre équipe.\n\nIl ne descend jamais sous 60."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_MonEntryInfo",
+    "texte": "Certains Pokémon et les Oeufs\nne sont pas admis.\n\nLe nombre requis dépend du défi.\nDeux Pokémon de la même espèce\n\nne peuvent pas être inscrits."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_HoldItemsInfo",
+    "texte": "Les Pokémon inscrits doivent\nporter des objets différents."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_YourGuideToFrontierPass",
+    "texte": "Je peux expliquer le Passe Zone."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_LearnAboutWhich1",
+    "texte": "Quel sujet vous intéresse ?"
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_SymbolsInfo",
+    "texte": "Sept bâtiments délivrent\ndes symboles.\n\nIl faut réussir plusieurs épreuves\net battre leurs meneurs.\n\nVos symboles figurent sur le passe."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_RecordedBattleInfo",
+    "texte": "Le Passe Zone permet d'enregistrer\nun combat avec des amis ou ici.\n\nLes épreuves du Reptile et de\nla Pyramide font exception.\n\nLe choix se fait après le combat."
+  },
+  {
+    "repere": "BattleFrontier_ReceptionGate_Text_BattlePointsInfo",
+    "texte": "Les épreuves rapportent des\nPoints de Combat.\n\nVous pouvez les échanger au\nService d'Échange."
+  },
+  {
+    "repere": "BattleFrontier_ScottsHouse_Text_WelcomeToBattleFrontier",
+    "texte": "Scott. Bienvenue, {PLAYER}.\n\nJ'ai attendu longtemps l'ouverture\nde ces bâtiments."
+  },
+  {
+    "repere": "BattleFrontier_ScottsHouse_Text_HowMuchEffortItTookToMakeReal",
+    "texte": "J'ai parcouru Hoenn pour trouver\ndes Dresseurs.\n\nIl a fallu aussi des équipes\npour construire et tenir ces salles."
+  },
+  {
+    "repere": "BattleFrontier_ScottsHouse_Text_HaveThisAsMementoOfOurPathsCrossing",
+    "texte": "Nous nous sommes croisés souvent.\n\nPrends ceci en souvenir\nde nos voyages."
+  },
+  {
+    "repere": "BattleFrontier_ScottsHouse_Text_ObtainedXBattlePoints",
+    "texte": "{PLAYER} reçoit {STR_VAR_1}\nPoint(s) de Combat."
+  },
+  {
+    "repere": "BattleFrontier_ScottsHouse_Text_ExplainBattlePoints",
+    "texte": "Tes Points de Combat figurent\nsur ton Passe Zone.\n\nTu peux les échanger contre\ndes objets au Service d'Échange."
+  },
+  {
+    "repere": "BattleFrontier_ScottsHouse_Text_ExpectingGreatThings",
+    "texte": "Je suivrai tes résultats.\n\nChoisis les épreuves qui te plaisent."
+  },
+  {
+    "repere": "BattleFrontier_ScottsHouse_Text_WhyIGoSeekingTrainers",
+    "texte": "Les Dresseurs arrivent ici\navec des histoires différentes.\n\nJ'ai voulu des règles communes.\nIl reste à voir si chacun\n\npeut vraiment y prendre part."
+  },
+  {
+    "repere": "BattleFrontier_ScottsHouse_Text_HaveYouMetFrontierBrain",
+    "texte": "As-tu rencontré les meneurs ?\n\nChacun dirige une épreuve.\nEn les battant, on gagne un symbole."
+  },
+  {
+    "repere": "BattleFrontier_ScottsHouse_Text_MayFindWildMonsInFrontier",
+    "texte": "Il y a aussi des Pokémon sauvages\nsur cette île.\n\nTu peux poursuivre ton Pokédex."
+  },
+  {
+    "repere": "BattleFrontier_ScottsHouse_Text_YouveCollectedAllSilverSymbols",
+    "texte": "Tu as obtenu les sept symboles\nargent !\n\nJe voudrais te remettre ceci."
+  },
+  {
+    "repere": "BattleFrontier_ScottsHouse_Text_YouveCollectedAllGoldSymbols",
+    "texte": "Tous les symboles or sont là,\n{PLAYER}.\n\nTu as parcouru chaque bâtiment.\nVoici un cadeau."
+  },
+  {
+    "repere": "BattleFrontier_ScottsHouse_Text_SoGladIBroughtYouHere",
+    "texte": "Je suis content que tu sois venu.\n\nTu connais bien ces lieux maintenant."
+  },
+  {
+    "repere": "BattleFrontier_ScottsHouse_Text_BerryPocketStuffed",
+    "texte": "La poche Baies est pleine."
+  },
+  {
+    "repere": "BattleFrontier_ScottsHouse_Text_Beat50TrainersInARow",
+    "texte": "Tu as battu au moins 50 Dresseurs\nà la suite dans la Tour de Combat.\n\nPrends cette récompense."
+  },
+  {
+    "repere": "BattleFrontier_ScottsHouse_Text_Beat100TrainersInARow",
+    "texte": "Tu as battu au moins 100 Dresseurs\nà la suite dans la Tour de Combat.\n\nVoici une autre récompense."
+  },
+  {
+    "repere": "BattleFrontier_ScottsHouse_Text_ExpectingToHearEvenGreaterThings",
+    "texte": "Je lirai tes prochains résultats."
+  },
+  {
+    "repere": "BattleFrontier_ScottsHouse_Text_ComeBackForThisLater",
+    "texte": "Fais de la place et reviens\nchercher ton cadeau."
+  },
+  {
+    "repere": "BattleFrontier_Mart_Text_ChaperonGrandson",
+    "texte": "Nous accompagnons notre petit-fils.\n\nNous cherchons un souvenir."
+  },
+  {
+    "repere": "BattleFrontier_Mart_Text_ProteinMakeNiceGift",
+    "texte": "Des Protéines ?\n\nEst-ce un cadeau pour son Pokémon ?"
+  },
+  {
+    "repere": "BattleFrontier_Mart_Text_FacilitiesDontAllowItems",
+    "texte": "Dans certaines épreuves,\nle sac n'est pas accessible."
+  },
+  {
+    "repere": "BattleFrontier_PokemonCenter_1F_Text_NeverSeenPokemon",
+    "texte": "J'ai vu un Pokémon dont on\nne parlait pas à l'école.\n\nJe vais chercher son nom."
+  },
+  {
+    "repere": "BattleFrontier_PokemonCenter_1F_Text_NextStopBattleArena",
+    "texte": "Je vais au Dojo de Combat.\n\nJe prépare mon équipe sur le PC."
+  },
+  {
+    "repere": "BattleFrontier_PokemonCenter_1F_Text_GoingThroughEveryChallenge",
+    "texte": "Mon Pokémon et moi allons essayer\nchaque épreuve."
+  },
+  {
+    "repere": "BattleFrontier_PokemonCenter_1F_Text_Skitty",
+    "texte": "Skitty. Kiiiiity !"
+  },
+  {
+    "repere": "BattleFrontier_RankingHall_Text_ExplainRankingHall",
+    "texte": "Voici le Hall de Classement.\n\nLes résultats des épreuves\nsont consignés ici."
+  },
+  {
+    "repere": "BattleFrontier_RankingHall_Text_DomePikeFactoryRecords",
+    "texte": "Records : Dôme, Reptile et Usine."
+  },
+  {
+    "repere": "BattleFrontier_RankingHall_Text_PalaceArenaPyramidRecords",
+    "texte": "Records : Palace, Dojo et Pyramide."
+  },
+  {
+    "repere": "BattleFrontier_RankingHall_Text_IsYourNameOnThisList",
+    "texte": "Ton nom figure-t-il sur la liste ?"
+  },
+  {
+    "repere": "BattleFrontier_RankingHall_Text_WowThatsSuper",
+    "texte": "Je voudrais y inscrire le mien.\n\nJe vais reprendre l'entraînement."
+  },
+  {
+    "repere": "BattleFrontier_RankingHall_Text_WorkHarderIfYouSawFriendsName",
+    "texte": "Si un ami figure sur la liste,\non a envie de comparer ses résultats."
+  },
+  {
+    "repere": "BattleFrontier_RankingHall_Text_MyNamesNotUpThere",
+    "texte": "Mon nom n'est pas ici.\n\nJe n'ai encore participé\nà aucune épreuve."
+  }
+]
