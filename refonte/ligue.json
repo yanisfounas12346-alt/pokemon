@@ -1,0 +1,62 @@
+[
+  {
+    "repere": "EverGrandeCity_SidneysRoom_Text_Defeat",
+    "texte": "Tu peux tourner la page.\nJ'ai fini d'y écrire."
+  },
+  {
+    "repere": "EverGrandeCity_SidneysRoom_Text_PostBattleSpeech",
+    "texte": "Ma fille est à la porte suivante.\nElle te dira son âge elle-même."
+  },
+  {
+    "repere": "EverGrandeCity_PhoebesRoom_Text_Defeat",
+    "texte": "Une clef, ça se rend.\nEt les jours sans eau ?"
+  },
+  {
+    "repere": "EverGrandeCity_PhoebesRoom_Text_PostBattleSpeech",
+    "texte": "Je l'ai huilée pour demain.\nMême le jour du procès,\n\nil y aura des gens à la pompe."
+  },
+  {
+    "repere": "EverGrandeCity_GlaciasRoom_Text_Defeat",
+    "texte": "Tu as grandi. Ces bottes-là\niraient à mon petit-fils."
+  },
+  {
+    "repere": "EverGrandeCity_GlaciasRoom_Text_PostBattleSpeech",
+    "texte": "Si on me demande de sortir,\nje prendrai le tiroir du buffet.\n\nLes photos sont dedans."
+  },
+  {
+    "repere": "EverGrandeCity_DrakesRoom_Text_Defeat",
+    "texte": "Là. Sur ta manche.\nIl fuit toujours."
+  },
+  {
+    "repere": "EverGrandeCity_DrakesRoom_Text_PostBattleSpeech",
+    "texte": "Paz disait que son bidon pesait\nmoins lourd au retour.\n\nOn croyait qu'elle buvait en route.\nRegarde la couture du fond."
+  },
+  {
+    "repere": "EverGrandeCity_ChampionsRoom_Text_Defeat",
+    "texte": "Le greffier a taillé son crayon.\nIl attend ta version."
+  },
+  {
+    "repere": "EverGrandeCity_ChampionsRoom_Text_MayAdvice",
+    "texte": "J'ai gardé une chaise à Hélène.\nElle préfère rester debout."
+  },
+  {
+    "repere": "EverGrandeCity_ChampionsRoom_Text_BrendanAdvice",
+    "texte": "Hélène attendait dans le couloir.\nJ'ai laissé la porte ouverte."
+  },
+  {
+    "repere": "EverGrandeCity_ChampionsRoom_Text_BirchArriveRatePokedex",
+    "texte": "Pose ton Pokédex à côté du registre.\nJe vais lire son relevé.\n\nLes Pokémon aussi ont porté l'eau.\nQu'on les compte, eux aussi."
+  },
+  {
+    "repere": "EverGrandeCity_ChampionsRoom_Text_WallaceWaitOutside",
+    "texte": "Il reste une signature à recueillir.\nArmand, entre avec tes Pokémon.\n\nVous deux, gardez le double ici.\nPaz viendra vous le demander."
+  },
+  {
+    "repere": "EverGrandeCity_ChampionsRoom_Text_MayCongratulations",
+    "texte": "Je garde la feuille à plat.\nL'encre traverse encore."
+  },
+  {
+    "repere": "EverGrandeCity_ChampionsRoom_Text_BrendanCongratulations",
+    "texte": "J'ai le double. Si Paz arrive,\nje le lui lirai jusqu'au bout."
+  }
+]
