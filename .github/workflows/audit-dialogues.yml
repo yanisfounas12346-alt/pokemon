@@ -1,0 +1,46 @@
+name: Audit des dialogues
+
+on:
+  workflow_dispatch:
+  push:
+    paths:
+      - 'refonte/**'
+      - 'dialogues/**'
+      - '.github/workflows/audit-dialogues.yml'
+
+permissions:
+  contents: read
+
+jobs:
+  audit:
+    runs-on: ubuntu-latest
+    timeout-minutes: 15
+    steps:
+      - name: Récupérer la refonte
+        uses: actions/checkout@v4
+        with:
+          persist-credentials: false
+      - name: Récupérer les sources françaises de référence
+        uses: actions/checkout@v4
+        with:
+          repository: pret/pokeemerald
+          ref: 8baea56025e07db971b68f88aa85370f7432383e
+          path: source-pokeemerald
+          persist-credentials: false
+          sparse-checkout: data/maps
+      - name: Vérifier la syntaxe Python
+        run: python3 -m py_compile refonte/audit-dialogues.py refonte/preparer-integration.py
+      - name: Générer le rapport d'audit
+        run: |
+          mkdir -p rapports
+          python3 refonte/audit-dialogues.py --source source-pokeemerald --rapport rapports/audit.json > rapports/audit.txt
+      - name: Préparer le manifeste
+        run: python3 refonte/preparer-integration.py --source source-pokeemerald --sortie rapports/manifeste.json
+      - name: Publier les rapports même en cas d'erreur
+        if: always()
+        uses: actions/upload-artifact@v4
+        with:
+          name: audit-dialogues
+          path: rapports/
+          if-no-files-found: warn
+          retention-days: 14
