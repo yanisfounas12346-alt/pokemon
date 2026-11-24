@@ -97,7 +97,7 @@
   },
   {
     "repere": "MagmaHideout_2F_2R_Text_Grunt7Intro",
-    "texte": "Le sol tremble parfois sous nos pieds.\n\nOn dit que c'est Grou... Oublie ça."
+    "texte": "Le sol tremble parfois sous nos\npieds.\n\nOn dit que c'est Grou... Oublie ça."
   },
   {
     "repere": "MagmaHideout_2F_2R_Text_Grunt7Defeat",
@@ -201,7 +201,7 @@
   },
   {
     "repere": "MagmaHideout_4F_Text_TabithaPostBattle",
-    "texte": "Max doit avoir commencé.\n\nTu n'arriveras peut-être pas à temps."
+    "texte": "Max doit avoir commencé.\n\nTu n'arriveras peut-être pas à\ntemps."
   },
   {
     "repere": "MagmaHideout_4F_Text_MaxieDefeat",

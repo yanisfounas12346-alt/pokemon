@@ -77,7 +77,7 @@
   },
   {
     "repere": "SlateportCity_OceanicMuseum_1F_Text_BeachSandDisplay",
-    "texte": "Échantillon de sable de plage.\n\nL'érosion des roches produit\nles grains emportés par les rivières."
+    "texte": "Échantillon de sable de plage.\n\nL'érosion des roches produit les\ngrains emportés par les rivières."
   },
   {
     "repere": "SlateportCity_OceanicMuseum_1F_Text_OceanicMinifact1",
@@ -129,7 +129,7 @@
   },
   {
     "repere": "SlateportCity_OceanicMuseum_2F_Text_MeddlingKid",
-    "texte": "Sans les pièces, le départ sera\nrepoussé.\n\nIl faudra trouver une autre solution."
+    "texte": "Sans les pièces, le départ sera\nrepoussé.\n\nIl faudra trouver une autre\nsolution."
   },
   {
     "repere": "SlateportCity_OceanicMuseum_2F_Text_CameToSeeWhatsTakingSoLong",

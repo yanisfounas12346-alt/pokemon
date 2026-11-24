@@ -13,7 +13,7 @@
   },
   {
     "repere": "OldaleTown_Text_PotionExplanation",
-    "texte": "Une Potion rend des PV à ton Pokémon.\n\nTu peux l'utiliser en chemin,\nsans revenir au Centre Pokémon."
+    "texte": "Une Potion rend des PV à ton\nPokémon.\n\nTu peux l'utiliser en chemin,\nsans revenir au Centre Pokémon."
   },
   {
     "repere": "OldaleTown_Text_WaitDontComeInHere",
@@ -45,7 +45,7 @@
   },
   {
     "repere": "OldaleTown_House2_Text_PokemonLevelUp",
-    "texte": "Les combats donnent de l'expérience\naux Pokémon et font monter leur niveau."
+    "texte": "Les combats donnent de l'expérience\naux Pokémon et font monter leur\n\nniveau."
   },
   {
     "repere": "OldaleTown_House2_Text_YoullGoFurtherWithStrongPokemon",

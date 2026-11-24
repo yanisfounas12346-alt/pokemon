@@ -133,7 +133,7 @@
   },
   {
     "repere": "PacifidlogTown_PokemonCenter_1F_Text_AncestorsLivedOnBoats",
-    "texte": "Nos ancêtres vivaient sur des bateaux.\n\nOn ignore ce qu'ils cherchaient.\nIls ont fini par rester ici."
+    "texte": "Nos ancêtres vivaient sur des\nbateaux.\n\nOn ignore ce qu'ils cherchaient.\nIls ont fini par rester ici."
   },
   {
     "repere": "EverGrandeCity_Text_EnteringVictoryRoad",

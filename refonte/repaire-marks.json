@@ -93,7 +93,7 @@
   },
   {
     "repere": "AquaHideout_B2F_Text_Grunt4Intro",
-    "texte": "J'attends le signal depuis longtemps.\n\nAffronte-moi."
+    "texte": "J'attends le signal depuis\nlongtemps.\n\nAffronte-moi."
   },
   {
     "repere": "AquaHideout_B2F_Text_Grunt4Defeat",

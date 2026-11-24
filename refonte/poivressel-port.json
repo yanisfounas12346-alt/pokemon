@@ -45,7 +45,7 @@
   },
   {
     "repere": "SlateportCity_Text_BuyBricksSoDecorWontGetDirty",
-    "texte": "Je vais acheter des briques pour\nsurélever mes poupées et coussins.\n\nLe sol de la maison prend l'humidité."
+    "texte": "Je vais acheter des briques pour\nsurélever mes poupées et coussins.\n\nLe sol de la maison prend\nl'humidité."
   },
   {
     "repere": "SlateportCity_Text_GoingToCompeteInBattleTent",
@@ -65,7 +65,7 @@
   },
   {
     "repere": "SlateportCity_Text_VisitedMuseumOften",
-    "texte": "Enfant, je venais voir les maquettes.\n\nJe cherchais toujours la cabine\noù j'aurais pu dormir."
+    "texte": "Enfant, je venais voir les\nmaquettes.\n\nJe cherchais toujours la cabine\noù j'aurais pu dormir."
   },
   {
     "repere": "SlateportCity_Text_QuitPushing",
@@ -141,7 +141,7 @@
   },
   {
     "repere": "SlateportCity_Text_CaptSternBeingInterviewed",
-    "texte": "C'est Poupe devant les caméras !\n\nJe croyais qu'il était encore en mer."
+    "texte": "C'est Poupe devant les caméras !\n\nJe croyais qu'il était encore en\nmer."
   },
   {
     "repere": "SlateportCity_Text_InterviewerSoCool",
@@ -193,7 +193,7 @@
   },
   {
     "repere": "SlateportCity_Text_FromHarborTryingToTakeSub",
-    "texte": "Ça vient de l'embarcadère !\n\nIls essaient de prendre le sous-marin !"
+    "texte": "Ça vient de l'embarcadère !\n\nIls essaient de prendre le\nsous-marin !"
   },
   {
     "repere": "SlateportCity_Text_PleaseComeWithMe",
@@ -305,7 +305,7 @@
   },
   {
     "repere": "SlateportCity_Harbor_Text_FerryServiceUnavailable",
-    "texte": "Le ferry n'est pas encore en service.\n\nDésolée, il faut attendre."
+    "texte": "Le ferry n'est pas encore en\nservice.\n\nDésolée, il faut attendre."
   },
   {
     "repere": "SlateportCity_Harbor_Text_MayISeeYourTicket",

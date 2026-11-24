@@ -1,7 +1,7 @@
 [
   {
     "repere": "Route104_Text_BrineyLivesInSeasideCottage",
-    "texte": "Marco habite la maison près de l'eau.\n\nAutrefois, il connaissait les ports\nà la couleur de leurs lanternes."
+    "texte": "Marco habite la maison près de\nl'eau.\n\nAutrefois, il connaissait les ports\nà la couleur de leurs lanternes."
   },
   {
     "repere": "Route104_Text_WhatsItLikeAtBottomOfSea",
@@ -9,7 +9,7 @@
   },
   {
     "repere": "Route104_Text_ThrowBallAtWeakenedPokemon",
-    "texte": "Affaiblis un Pokémon sauvage avant\nde lancer une Poké Ball.\n\nLe sommeil facilite aussi la capture."
+    "texte": "Affaiblis un Pokémon sauvage avant\nde lancer une Poké Ball.\n\nLe sommeil facilite aussi la\ncapture."
   },
   {
     "repere": "Route104_Text_OnlyThrowBallAtWildPokemon",
@@ -113,7 +113,7 @@
   },
   {
     "repere": "Route104_Text_BrendanLetsBattle",
-    "texte": "Brice. Tu veux te battre contre moi ?"
+    "texte": "Brice. Tu veux te battre contre moi\n?"
   },
   {
     "repere": "Route104_Text_BrendanIntro",
