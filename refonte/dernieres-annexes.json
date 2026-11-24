@@ -1,0 +1,202 @@
+[
+  {
+    "repere": "TrainerHill_Entrance_Text_StillGettingReady",
+    "texte": "Le Mont Dresseurs est en préparation.\n\nRevenez après son ouverture."
+  },
+  {
+    "repere": "TrainerHill_Entrance_Text_WelcomeToTrainerHill",
+    "texte": "Bienvenue au Mont Dresseurs.\n\nUne épreuve chronométrée vous attend."
+  },
+  {
+    "repere": "TrainerHill_Entrance_Text_SaveGameBeforeEnter",
+    "texte": "Première visite ?\n\nSauvegardez avant d'entrer."
+  },
+  {
+    "repere": "TrainerHill_Entrance_Text_TrainersUpToFloorX",
+    "texte": "Les Dresseurs occupent les salles\njusqu'au niveau n° {STR_VAR_1}."
+  },
+  {
+    "repere": "TrainerHill_Entrance_Text_TrainersInEveryRoom",
+    "texte": "Toutes les salles sont occupées\npar des Dresseurs."
+  },
+  {
+    "repere": "TrainerHill_Entrance_Text_LikeToChallengeTrainers",
+    "texte": "Voulez-vous commencer l'épreuve ?"
+  },
+  {
+    "repere": "TrainerHill_Entrance_Text_TimeProgessGetSetGo",
+    "texte": "Le chronomètre va démarrer.\n\nÀ vos marques. Prêts. Partez !"
+  },
+  {
+    "repere": "TrainerHill_Entrance_Text_PleaseVisitUsAgain",
+    "texte": "À votre prochaine visite."
+  },
+  {
+    "repere": "TrainerHill_Entrance_Text_TooBadTremendousEffort",
+    "texte": "Votre épreuve est terminée.\n\nVous pourrez tenter un autre essai."
+  },
+  {
+    "repere": "TrainerHill_Entrance_Text_HopeYouGiveItYourBest",
+    "texte": "Bonne chance pour l'ascension."
+  },
+  {
+    "repere": "TrainerHill_Entrance_Text_MovedReceptionHereForSwitch",
+    "texte": "Nous avons déplacé le guichet\npendant le changement des équipes."
+  },
+  {
+    "repere": "TrainerHill_Entrance_Text_ThankYouForPlaying",
+    "texte": "Merci d'avoir participé."
+  },
+  {
+    "repere": "TrainerHill_Entrance_Text_ExplainTrainerHill",
+    "texte": "Rejoignez le propriétaire sur le toit\nle plus vite possible.\n\nLes meilleurs temps figurent\nsur le Panneau des Temps.\n\nLes combats ne donnent ni argent\nni points d'expérience."
+  },
+  {
+    "repere": "TrainerHill_Entrance_Text_NeedAtLeastTwoPokemon",
+    "texte": "Il faut au moins deux Pokémon\npour participer."
+  },
+  {
+    "repere": "TrainerHill_Entrance_Text_ChallengeTime",
+    "texte": "{STR_VAR_1} min {STR_VAR_2},{STR_VAR_3} s"
+  },
+  {
+    "repere": "TrainerHill_Entrance_Text_WhatSortOfTrainersAreAhead",
+    "texte": "Je ne connais pas les équipes\nqui m'attendent là-haut.\n\nJe vais essayer."
+  },
+  {
+    "repere": "TrainerHill_Entrance_Text_CantWaitToTestTheWaters",
+    "texte": "Des Dresseurs viennent de partout.\n\nJ'aimerais enfin voir les étages."
+  },
+  {
+    "repere": "TrainerHill_Entrance_Text_FriendsTryingToReachTimeBoardTop",
+    "texte": "Mes amis et moi comparons nos temps\nsur ce panneau."
+  },
+  {
+    "repere": "TrainerHill_Entrance_Text_DoYouKnowWhenTheyOpen",
+    "texte": "J'attends l'ouverture du Mont.\n\nJe voudrais être le premier à entrer."
+  },
+  {
+    "repere": "TrainerHill_Roof_Text_YouFinallyCameBravo",
+    "texte": "Tu as atteint le toit !\n\nJe suis le propriétaire du Mont.\nJ'ai suivi les combats depuis ici.\n\nTu as fait un beau parcours."
+  },
+  {
+    "repere": "TrainerHill_Roof_Text_HaveTheMostMarvelousGift",
+    "texte": "Voici une récompense\npour ton ascension."
+  },
+  {
+    "repere": "TrainerHill_Roof_Text_FullUpBeBackLaterForThis",
+    "texte": "Ton sac est plein.\n\nJe garde ton cadeau ici."
+  },
+  {
+    "repere": "TrainerHill_Roof_Text_GotHereMarvelouslyQuickly",
+    "texte": "Tu as réalisé un excellent temps.\n\nIl sera inscrit sur le Panneau\ndes Temps."
+  },
+  {
+    "repere": "TrainerHill_Roof_Text_YouWerentVeryQuick",
+    "texte": "Ton temps ne suffit pas encore."
+  },
+  {
+    "repere": "TrainerHill_Roof_Text_ArriveZippierNextTime",
+    "texte": "Essaie un autre parcours.\n\nJ'aimerais voir tes progrès."
+  },
+  {
+    "repere": "TrainerHill_Roof_Text_BuiltTrainerHillToFindPartner",
+    "texte": "J'ai fait construire le Mont\npour trouver un partenaire de combat."
+  },
+  {
+    "repere": "TrainerHill_Elevator_Text_ReturnToReception",
+    "texte": "Retourner à la réception ?"
+  },
+  {
+    "repere": "FarawayIsland_Interior_Text_TheFeelingOfBeingWatchedFaded",
+    "texte": "Je ne sens plus de regard\nposé sur moi..."
+  },
+  {
+    "repere": "MirageTower_4F_Text_TakeRootFossil",
+    "texte": "Un Foss. Racine repose ici.\n\nLe retirer risque de faire céder\nle sol autour de lui.\n\nPrendre le Foss. Racine ?"
+  },
+  {
+    "repere": "MirageTower_4F_Text_LeftRootFossilAlone",
+    "texte": "{PLAYER} laisse le Foss. Racine\nà sa place."
+  },
+  {
+    "repere": "MirageTower_4F_Text_TakeClawFossil",
+    "texte": "Un Foss. Griffe repose ici.\n\nLe retirer risque de faire céder\nle sol autour de lui.\n\nPrendre le Foss. Griffe ?"
+  },
+  {
+    "repere": "MirageTower_4F_Text_LeaveClawFossilAlone",
+    "texte": "{PLAYER} laisse le Foss. Griffe\nà sa place."
+  },
+  {
+    "repere": "MauvilleCity_PokemonCenter_2F_Text_Youngster",
+    "texte": "Le Colisée permet de combattre\nen link.\n\nLes résultats sont affichés au mur.\nJe peux y suivre mes progrès."
+  },
+  {
+    "repere": "Route119_House_Text_RumorAboutCaveOfOrigin",
+    "texte": "On parle d'une Grotte Origine.\n\nLes esprits des Pokémon y seraient\nramenés à la vie.\n\nJe voudrais savoir d'où vient\ncette histoire."
+  },
+  {
+    "repere": "Route119_House_Text_Wingull",
+    "texte": "Goélise. Liiise ?"
+  },
+  {
+    "repere": "SootopolisCity_MysteryEventsHouse_1F_Text_OnlyAmusementWatchingBattles",
+    "texte": "J'ai parcouru Hoenn dans ma jeunesse.\n\nMaintenant, je reçois des Dresseurs\net j'observe leurs combats."
+  },
+  {
+    "repere": "SootopolisCity_MysteryEventsHouse_1F_Text_DoorAppearsToBeLocked",
+    "texte": "La porte semble verrouillée."
+  },
+  {
+    "repere": "SootopolisCity_MysteryEventsHouse_1F_Text_ChallengeVisitingTrainer",
+    "texte": "{STR_VAR_1} est en visite chez moi.\n\nVeux-tu affronter {STR_VAR_1} ?"
+  },
+  {
+    "repere": "SootopolisCity_MysteryEventsHouse_1F_Text_YouWontBattle",
+    "texte": "D'accord. Une autre fois."
+  },
+  {
+    "repere": "SootopolisCity_MysteryEventsHouse_1F_Text_KeepItTo3On3",
+    "texte": "Ma maison est ancienne.\n\nLimitez-vous à trois Pokémon\nchacun."
+  },
+  {
+    "repere": "SootopolisCity_MysteryEventsHouse_1F_Text_SaveProgressBeforeBattle",
+    "texte": "Sauvegarde avant le combat."
+  },
+  {
+    "repere": "SootopolisCity_MysteryEventsHouse_1F_Text_HopeToSeeGoodMatch",
+    "texte": "Je vais regarder votre combat."
+  },
+  {
+    "repere": "SootopolisCity_MysteryEventsHouse_1F_Text_StrVar1Tie",
+    "texte": "{STR_VAR_1}"
+  },
+  {
+    "repere": "SootopolisCity_MysteryEventsHouse_1F_Text_BrilliantStandoff",
+    "texte": "Vous êtes à égalité.\n\nAucun de vous n'a cédé."
+  },
+  {
+    "repere": "SootopolisCity_MysteryEventsHouse_1F_Text_StrVar1Won",
+    "texte": "{STR_VAR_1}"
+  },
+  {
+    "repere": "SootopolisCity_MysteryEventsHouse_1F_Text_ThatWasSuperlative",
+    "texte": "J'ai retrouvé dans ce combat\nquelque chose de mes voyages."
+  },
+  {
+    "repere": "SootopolisCity_MysteryEventsHouse_1F_Text_StrVar1Lost",
+    "texte": "{STR_VAR_1}"
+  },
+  {
+    "repere": "SootopolisCity_MysteryEventsHouse_1F_Text_TooBadForYou",
+    "texte": "Tu as perdu cette fois.\n\nTu peux revenir pour un autre combat."
+  },
+  {
+    "repere": "SootopolisCity_MysteryEventsHouse_B1F_Text_MatchEndedUpDraw",
+    "texte": "Match nul."
+  },
+  {
+    "repere": "InsideOfTruck_Text_BoxPrintedWithMonLogo",
+    "texte": "Un carton de déménagement.\n\nLe logo de la société représente\nun Pokémon portant une caisse."
+  }
+]
