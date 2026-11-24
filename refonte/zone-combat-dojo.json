@@ -1,0 +1,266 @@
+[
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_WelcomeToBattleArena",
+    "texte": "Bienvenue au Dojo de Combat.\n\nJe tiens les inscriptions\nau Tournoi K.O."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_WishToTakeChallenge",
+    "texte": "Voulez-vous participer au tournoi ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_AwaitAnotherChallenge",
+    "texte": "Revenez pour un prochain tournoi."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_ExplainChallenge",
+    "texte": "Inscrivez trois Pokémon dans\nleur ordre de passage.\n\nUn Pokémon engagé ne peut pas\nêtre remplacé volontairement.\n\nAprès trois tours sans K.O.,\nl'arbitre départage les Pokémon.\n\nSept victoires de suite rapportent\ndes Points de Combat.\n\nPour interrompre le défi,\nsauvegardez avant de quitter."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_OkayToSave",
+    "texte": "Vous devez sauvegarder avant\nd'entrer. D'accord ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_WhichLevelMode",
+    "texte": "Niveau 50 ou niveau libre ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_SelectThreeMons",
+    "texte": "Choisissez vos trois Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_NotEnoughValidMonsLvOpen",
+    "texte": "Il faut trois Pokémon différents,\navec des objets différents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat.\nRevenez avec une équipe valide."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_NotEnoughValidMonsLv50",
+    "texte": "Il faut trois Pokémon différents\nde niveau 50 ou moins.\n\nIls doivent porter des objets\ndifférents.\n\nLes Oeufs{STR_VAR_1} inaptes au combat."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_GuideYouToArena",
+    "texte": "Suivez-moi jusqu'au Dojo."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_DidntSaveBeforeShuttingDown",
+    "texte": "Votre défi a été interrompu\nsans sauvegarde.\n\nVous êtes disqualifié.\nUn nouveau défi reste possible."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_CongratsOnSevenWins",
+    "texte": "Sept victoires consécutives !"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_RecordAchievement",
+    "texte": "Enregistrement de votre résultat.\nVeuillez patienter."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_PresentYouWithPrize",
+    "texte": "Voici le prix de vos sept victoires."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_ReceivedPrize",
+    "texte": "{PLAYER} reçoit\n{STR_VAR_1}."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_BagFullReturnForPrize",
+    "texte": "Votre sac est plein.\n\nRevenez chercher votre prix."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_ThankYouWaitWhileSave",
+    "texte": "Merci d'avoir participé.\n\nEnregistrement du résultat."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_AwaitAnotherChallenge2",
+    "texte": "À votre prochaine visite au Dojo."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_LookingForwardToArrivalSaveGame",
+    "texte": "Nous reprenons votre défi.\n\nSauvegarde avant votre entrée."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_RecordLastMatch",
+    "texte": "Enregistrer le dernier combat\nsur votre Passe Zone ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_BadIdeaToNotAttack",
+    "texte": "L'arbitre a donné la victoire\nà mon adversaire.\n\nJ'aurais dû attaquer davantage."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_LandingHitsWorked",
+    "texte": "Mes attaques ont porté leurs fruits.\n\nL'arbitre m'a donné la victoire."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_MatchWasDeclaredDraw",
+    "texte": "Après trois tours, l'arbitre\na déclaré le match nul."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_OrderOfMonsImportant",
+    "texte": "L'ordre de passage compte.\n\nLe deuxième Pokémon peut couvrir\nles faiblesses du premier."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_RulesAreListed",
+    "texte": "Règlement du Tournoi K.O."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_ReadWhichHeading",
+    "texte": "Quel chapitre voulez-vous lire ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_ExplainBattleRules",
+    "texte": "Un Pokémon engagé reste en jeu.\n\nAprès trois tours sans K.O.,\nl'arbitre juge les deux Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_ExplainMindRules",
+    "texte": "Le mental dépend des capacités\noffensives utilisées."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_ExplainSkillRules",
+    "texte": "La technique récompense les\ncapacités réussies et efficaces.\n\nLes échecs et attaques peu efficaces\nréduisent la note.\n\nAbri et Détection ne comptent pas.\nUne attaque bloquée par ces deux\n\ncapacités n'est pas pénalisée."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_ExplainBodyRules",
+    "texte": "Le physique compare les PV restants\naux PV au début du duel."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_CongratsOnDefeatingTycoon",
+    "texte": "Vous avez battu Carole et terminé\nla série de sept combats."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaLobby_Text_PleaseAcceptBattlePoints",
+    "texte": "Voici vos Points de Combat."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_PlayerStepForward",
+    "texte": "Arbitre. {PLAYER}, avancez."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_OpponentStepForward",
+    "texte": "Arbitre. {STR_VAR_1}, avancez."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_SetKOTourneyBegin",
+    "texte": "Arbitre. Commencez !"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsPlayer",
+    "texte": "Victoire de {PLAYER} !"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_WinnerIsOpponent",
+    "texte": "Victoire de {STR_VAR_1} !"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_MonsWillBeRestored",
+    "texte": "Nous allons soigner vos Pokémon."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_SaveAndShutDown",
+    "texte": "Sauvegarder et quitter le jeu ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_RetireFromChallenge",
+    "texte": "Abandonner le Tournoi K.O. ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_SavingPleaseWait",
+    "texte": "Sauvegarde en cours."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_RecordLastBattle",
+    "texte": "Enregistrer ce combat\nsur le Passe Zone ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_NowFaceTycoon",
+    "texte": "Vos résultats vous donnent accès\nà la Pro du Dojo."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_PreparedForTycoon",
+    "texte": "Prêt à affronter la Pro du Dojo ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_MakeWayForGreta",
+    "texte": "Arbitre. Voici Carole,\nla Pro du Dojo."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureChallenger",
+    "texte": "Carole. C'est toi mon adversaire ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_IsThatRight",
+    "texte": "Très bien. Voyons ton équipe."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_YouLookWeakTakeThingsEasy",
+    "texte": "Je ne connais pas ta manière\nde combattre.\n\nNous allons le découvrir."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_IgniteMyPassionForBattle",
+    "texte": "Allez, commençons !"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_GretaYoureToughAfterAll",
+    "texte": "Carole. Tu as gagné.\n\nPrésente ton Passe Zone."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_ReceivedGutsSymbol",
+    "texte": "Le Symbole Cran a été ajouté\nau Passe Zone !"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_GoingToBeFunNextTime",
+    "texte": "On se retrouvera pour une revanche."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_GretaLookingForwardToSeeingAgain",
+    "texte": "Carole. Tu es de retour !\n\nJ'ai repris mes exercices."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_SoAreYouReady",
+    "texte": "Alors, prêt ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_WontAllowHalfheartedEffort",
+    "texte": "Cette fois, je connais tes gestes.\n\nIl faudra me surprendre."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_LetsGetThisStarted",
+    "texte": "Arbitre, nous sommes prêts."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_GretaBlownAway",
+    "texte": "Carole. Encore une défaite !\n\nDonne-moi ton Passe Zone."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_GutsSymbolTookGoldenShine",
+    "texte": "Le Symbole Cran devient doré !"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_IfWeBattleAgainWontLose",
+    "texte": "Je vais reprendre l'entraînement.\n\nÀ la prochaine."
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor2ndOpponent",
+    "texte": "Adversaire 2 sur 7 prêt.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor3rdOpponent",
+    "texte": "Adversaire 3 sur 7 prêt.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor4thOpponent",
+    "texte": "Adversaire 4 sur 7 prêt.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor5thOpponent",
+    "texte": "Adversaire 5 sur 7 prêt.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor6thOpponent",
+    "texte": "Adversaire 6 sur 7 prêt.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaBattleRoom_Text_ReadyFor7thOpponent",
+    "texte": "Adversaire 7 sur 7 prêt.\n\nContinuer ?"
+  },
+  {
+    "repere": "BattleFrontier_BattleArenaCorridor_Text_PleaseStepIn",
+    "texte": "Entrez. Le tournoi vous attend."
+  }
+]
