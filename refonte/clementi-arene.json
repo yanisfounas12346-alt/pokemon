@@ -1,0 +1,278 @@
+[
+  {
+    "repere": "PetalburgCity_Gym_Text_DadYoureHereWithYourPokemon",
+    "texte": "Norman relève les yeux du registre.\n\nTe voilà, Armand. Tu as donc trouvé\nun Pokémon en chemin.\n\nTu peux commencer à réunir les\nbadges. Ils portent les pièces."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_WallyIdLikeAPokemon",
+    "texte": "Excusez-moi, monsieur.\nJe voudrais avoir un Pokémon."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_DadOhYoureWallyRight",
+    "texte": "Norman. Ah, Timmy !\nTon père m'a parlé de ton départ."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_WallyIveNeverCaughtAPokemon",
+    "texte": "Je pars chez des parents à Vergazon.\n\nJe voudrais un Pokémon pour la route.\nMais je ne sais pas en attraper."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_DadHmISee",
+    "texte": "Norman referme le registre.\nJe vois."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_DadPlayerGoWithWally",
+    "texte": "Armand, accompagne Timmy.\n\nVeille à ce qu'il attrape un Pokémon\nsans se faire mal."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_IllLoanYouMyZigzagoon",
+    "texte": "Je te prête mon Zigzaton, Timmy.\n\nTimmy reçoit un Zigzaton !"
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_WallyThankYouAndDadGivesPokeBall",
+    "texte": "Timmy. Merci, monsieur !\n\nNorman lui tend aussi une Ball.\nTimmy reçoit une Poké Ball !"
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_WallyOhWowThankYou",
+    "texte": "Merci ! Je vous la rendrai\nsi je ne m'en sers pas."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_WouldYouReallyComeWithMe",
+    "texte": "{PLAYER}, tu veux bien venir ?\nJe ne connais pas bien les herbes."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_DadSoDidItWorkOut",
+    "texte": "Alors, Timmy ? Tu as réussi ?"
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_WallyThankYouBye",
+    "texte": "Timmy rend son Zigzaton à Norman.\n\nMerci. J'ai attrapé mon Pokémon.\nJe vais bien m'occuper de lui.\n\nMa mère doit m'attendre.\nÀ bientôt, {PLAYER} !"
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_NormanGoToRustboro",
+    "texte": "Va d'abord à l'arène de Mérouville.\n\nJe ne peux te recevoir ici qu'avec\nquatre badges. C'est le règlement."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_NormanGoToDewford",
+    "texte": "Tu as la pièce de Mérouville.\n\nTraverse jusqu'à Myokara et\nprésente-toi à Bastien, le champion."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_YouHaveGottenStronger",
+    "texte": "Tu as obtenu d'autres badges.\n\nJe vois que le dossier avance."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_NormanIntro",
+    "texte": "Quatre badges. Tu peux entrer.\n\nNorman pose ses lunettes près\ndu registre.\n\nJe ne te ferai pas de faveur.\nPrépare tes Pokémon."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_NormanDefeat",
+    "texte": "Norman regarde la dernière Ball.\n\nIl ouvre le tiroir du bureau.\nTiens, ce badge est à toi."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_ReceivedBalanceBadge",
+    "texte": "{PLAYER} reçoit le Badge Balancier !"
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_ExplainFacade",
+    "texte": "La CT42 contient Façade.\n\nSa puissance double si le Pokémon\nest brûlé, paralysé ou empoisonné."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_PleaseComeWithMe",
+    "texte": "Ah, {PLAYER} ! Viens avec moi.\n\nJ'ai quelque chose pour toi."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_LetMeBorrowPlayer",
+    "texte": "Norman, tu permets ?\nJ'en ai pour deux minutes."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_DadGoingToKeepTraining",
+    "texte": "Va voir Luzia quand tu le peux.\n\nJe reste ici. Il me faudra\nreprendre l'entraînement."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_DadNoAmountOfTrainingIsEnough",
+    "texte": "Norman a repris l'entraînement.\n\nIl dit qu'il reste toujours\nquelque chose à apprendre."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_GymGuideAdvice",
+    "texte": "Chaque victoire ouvre les portes\nvers les salles suivantes.\n\nLes Dresseurs utilisent des objets.\nLis bien les noms des salles.\n\nÀ gauche, la salle Vitesse.\nÀ droite, la salle Précision."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_GymGuidePostVictory",
+    "texte": "Tu as battu Norman !\n\nOn a inscrit ton nom au registre."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_RandallIntro",
+    "texte": "Salle Vitesse. Celui qui attaque\nle premier prend l'avantage.\n\nVoyons qui sera le plus rapide."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_RandallDefeat",
+    "texte": "Tu as été plus rapide que moi."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_RandallPostBattle",
+    "texte": "Poursuis vers la salle suivante.\n\nConfusion à gauche.\nDéfense à droite."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_RandallPostBadge",
+    "texte": "Même après une victoire, il faut\ncontinuer à entraîner ses Pokémon.\n\nNorman revient tous les matins."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_ParkerIntro",
+    "texte": "Salle Confusion.\n\nVoyons si tes Pokémon gardent\nleurs repères quand tout vacille."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_ParkerDefeat",
+    "texte": "Ils ont retrouvé leurs repères.\nLes miens, pas assez vite."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_ParkerPostBattle",
+    "texte": "La salle Force est devant toi.\n\nIl faut pouvoir encaisser un choc."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_ParkerPostBadge",
+    "texte": "Depuis ton passage, Norman nous\nfait reprendre les exercices."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_GeorgeIntro",
+    "texte": "Salle Récupération.\n\nQuand tu penses avoir gagné,\nje rends des PV à mon Pokémon."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_GeorgeDefeat",
+    "texte": "Je n'ai pas réussi à récupérer\nassez de PV."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_GeorgePostBattle",
+    "texte": "Tu as gagné par ton entraînement.\n\nContinue vers la salle Coup Critique."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_GeorgePostBadge",
+    "texte": "Je m'entraîne encore ici.\n\nUn jour, je veux devenir champion."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_BerkeIntro",
+    "texte": "Salle Coup Critique.\n\nLe nom de ton père ne change rien\nà la puissance d'un coup critique."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_BerkeDefeat",
+    "texte": "Tu as gagné. Je reconnais\nla force de tes Pokémon."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_BerkePostBattle",
+    "texte": "Norman est un adversaire solide.\n\nJe te souhaite un combat loyal\ncontre lui."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_BerkePostBadge",
+    "texte": "Norman nous entraîne durement.\n\nJe tiens plus longtemps debout\nqu'à mon arrivée ici."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_MaryIntro",
+    "texte": "Salle Précision.\n\nUn coup manqué peut suffire\nà faire perdre un combat."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_MaryDefeat",
+    "texte": "Tes attaques ont porté.\nLes miennes, pas toutes."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_MaryPostBattle",
+    "texte": "Défense à gauche.\nRécupération à droite.\n\nIl faudra de la puissance\npour passer l'une ou l'autre."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_MaryPostBadge",
+    "texte": "Je cherche encore le geste\nque mon Pokémon comprend le mieux."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_AlexiaIntro",
+    "texte": "Salle Défense.\n\nUne défense solide permet\nd'attaquer avec plus d'audace."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_AlexiaDefeat",
+    "texte": "Notre défense n'a pas tenu."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_AlexiaPostBattle",
+    "texte": "À gauche, la salle Force.\nÀ droite, la salle Coup Critique.\n\nPrépare-toi à de fortes attaques."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_AlexiaPostBadge",
+    "texte": "As-tu essayé Surf depuis ta victoire ?\n\nOn voit d'autres choses depuis l'eau."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_JodyIntro",
+    "texte": "Salle Force.\n\nNorman nous a demandé de combattre\nsans égard pour ton nom."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_JodyDefeat",
+    "texte": "J'ai pourtant donné tout ce que\nj'avais."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_JodyPostBattle",
+    "texte": "Le champion t'attend.\n\nJe reconnais certains de ses gestes\ndans les tiens."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_JodyPostBadge",
+    "texte": "Un Pokémon fort ne suffit pas.\n\nIl faut savoir quand il peut encore\nse battre et quand le rappeler."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_DoorAppearsLocked",
+    "texte": "La porte est fermée à clef."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_DoorAppearsLocked2",
+    "texte": "La porte est encore fermée."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_GymStatue",
+    "texte": "Arène de Clémenti-Ville.\nRegistre des actes."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_GymStatueCertified",
+    "texte": "Arène de Clémenti-Ville.\n\nDresseur reconnu par Norman :\n{PLAYER}."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_NormanPreRematch",
+    "texte": "Tu es revenu, {PLAYER}.\n\nDans cette salle, le nom de famille\nne donne aucun avantage.\n\nReprenons le combat."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_NormanRematchDefeat",
+    "texte": "Tu n'as pas retenu tes coups.\nC'est bien."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_NormanPostRematch",
+    "texte": "Norman range ses Balls.\n\nIl reste assis un instant\navant de retourner au registre."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_NormanRematchNeedTwoMons",
+    "texte": "Je veux bien combattre de nouveau.\n\nMais il faut au moins deux Pokémon\naptes au combat pour cette épreuve.\n\nReviens avec une équipe prête."
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_EnterSpeedRoom",
+    "texte": "Salle Vitesse.\n\nVeux-tu entrer ?"
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_EnterAccuracyRoom",
+    "texte": "Salle Précision.\n\nVeux-tu entrer ?"
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_EnterConfusionRoom",
+    "texte": "Salle Confusion.\n\nVeux-tu entrer ?"
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_EnterDefenseRoom",
+    "texte": "Salle Défense.\n\nVeux-tu entrer ?"
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_EnterRecoveryRoom",
+    "texte": "Salle Récupération.\n\nVeux-tu entrer ?"
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_EnterStrengthRoom",
+    "texte": "Salle Force.\n\nVeux-tu entrer ?"
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_EnterOHKORoom",
+    "texte": "Salle Coup Critique.\n\nVeux-tu entrer ?"
+  },
+  {
+    "repere": "PetalburgCity_Gym_Text_EnterGymLeadersRoom",
+    "texte": "Salle du champion.\n\nVeux-tu entrer ?"
+  }
+]
