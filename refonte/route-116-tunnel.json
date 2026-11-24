@@ -9,11 +9,11 @@
   },
   {
     "repere": "Route116_Text_DiggingTunnelWhenGoonOrderedMeOut",
-    "texte": "On m'a chassé du tunnel.\n\nLes Pokémon supportent mal le bruit.\nC'est pour ça que je creuse à la main.\n\nJ'espère qu'il ne les effraiera pas."
+    "texte": "On m'a chassé du tunnel.\n\nLes Pokémon supportent mal le bruit.\nC'est pour ça que je creuse à la\n\nmain.\n\nJ'espère qu'il ne les effraiera pas."
   },
   {
     "repere": "Route116_Text_GoonHightailedItOutOfTunnel",
-    "texte": "L'homme est sorti en courant.\n\nJe vais pouvoir reprendre mon travail."
+    "texte": "L'homme est sorti en courant.\n\nJe vais pouvoir reprendre mon\ntravail."
   },
   {
     "repere": "Route116_Text_ThankYouTokenOfAppreciation",
@@ -85,7 +85,7 @@
   },
   {
     "repere": "Route116_TunnelersRestHouse_Text_TunnelHasGoneThrough",
-    "texte": "Le passage vers Vergazon est ouvert !\n\nOn a ressorti le plan du chantier.\nIl y a des traces de tasse dessus."
+    "texte": "Le passage vers Vergazon est ouvert\n!\n\nOn a ressorti le plan du chantier.\nIl y a des traces de tasse dessus."
   },
   {
     "repere": "RusturfTunnel_Text_ComeAndGetSome",
@@ -101,7 +101,7 @@
   },
   {
     "repere": "RusturfTunnel_Text_ThankYouLetsGoHomePeeko",
-    "texte": "Je m'appelle Marco. Merci, {PLAYER}.\n\nSi tu as besoin de traverser,\nviens chez moi près du Bois Clémenti.\n\nAllez, Piko. On rentre."
+    "texte": "Je m'appelle Marco. Merci, {PLAYER}.\n\nSi tu as besoin de traverser, viens\nchez moi près du Bois Clémenti.\n\nAllez, Piko. On rentre."
   },
   {
     "repere": "RusturfTunnel_Text_WhyCantTheyKeepDigging",
@@ -129,7 +129,7 @@
   },
   {
     "repere": "RusturfTunnel_Text_MikeIntro",
-    "texte": "Mes Pokémon vivent dans la roche.\n\nTu veux voir comment ils se battent ?"
+    "texte": "Mes Pokémon vivent dans la roche.\n\nTu veux voir comment ils se battent\n?"
   },
   {
     "repere": "RusturfTunnel_Text_MikeDefeat",

@@ -1,7 +1,7 @@
 [
   {
     "repere": "Route114_Text_AllMyMonDoesIsRoarTakeThis",
-    "texte": "Mon Pokémon hurle dès qu'on approche.\n\nTiens, prends cette CT.\nElle contient Hurlement."
+    "texte": "Mon Pokémon hurle dès qu'on\napproche.\n\nTiens, prends cette CT.\nElle contient Hurlement."
   },
   {
     "repere": "Route114_Text_ExplainRoar",
@@ -17,7 +17,7 @@
   },
   {
     "repere": "Route114_Text_FossilManiacsHouseSign",
-    "texte": "Maison du collectionneur de fossiles.\n\nEntrée libre."
+    "texte": "Maison du collectionneur de\nfossiles.\n\nEntrée libre."
   },
   {
     "repere": "Route114_Text_LanettesHouse",
@@ -93,7 +93,7 @@
   },
   {
     "repere": "MeteorFalls_1F_1R_Text_ArchieFarewell",
-    "texte": "Arthur. Garde un oeil sur les Trumps,\n{PLAYER}.\n\nNous partons vers le Mont Chimnée."
+    "texte": "Arthur. Garde un oeil sur les\nTrumps, {PLAYER}.\n\nNous partons vers le Mont Chimnée."
   },
   {
     "repere": "MeteorFalls_1F_1R_Text_MeetProfCozmo",

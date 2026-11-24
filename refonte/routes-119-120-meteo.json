@@ -177,11 +177,11 @@
   },
   {
     "repere": "Route119_WeatherInstitute_2F_Text_GroudonWeather",
-    "texte": "Nous relevons une sécheresse\nanormale sur :\n{STR_VAR_1}.\n\nIl faut vérifier sur place."
+    "texte": "Nous relevons une sécheresse\nanormale sur :\n\n{STR_VAR_1}.\n\nIl faut vérifier sur place."
   },
   {
     "repere": "Route119_WeatherInstitute_2F_Text_KyogreWeather",
-    "texte": "Nous relevons des pluies anormales\nsur :\n{STR_VAR_1}.\n\nIl faut vérifier sur place."
+    "texte": "Nous relevons des pluies anormales\nsur :\n\n{STR_VAR_1}.\n\nIl faut vérifier sur place."
   },
   {
     "repere": "Route119_WeatherInstitute_2F_Text_NoAbnormalWeather",

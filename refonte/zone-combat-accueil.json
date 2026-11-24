@@ -149,7 +149,7 @@
   },
   {
     "repere": "BattleFrontier_ScottsHouse_Text_ExpectingGreatThings",
-    "texte": "Je suivrai tes résultats.\n\nChoisis les épreuves qui te plaisent."
+    "texte": "Je suivrai tes résultats.\n\nChoisis les épreuves qui te\nplaisent."
   },
   {
     "repere": "BattleFrontier_ScottsHouse_Text_WhyIGoSeekingTrainers",
@@ -173,7 +173,7 @@
   },
   {
     "repere": "BattleFrontier_ScottsHouse_Text_SoGladIBroughtYouHere",
-    "texte": "Je suis content que tu sois venu.\n\nTu connais bien ces lieux maintenant."
+    "texte": "Je suis content que tu sois venu.\n\nTu connais bien ces lieux\nmaintenant."
   },
   {
     "repere": "BattleFrontier_ScottsHouse_Text_BerryPocketStuffed",
@@ -245,7 +245,7 @@
   },
   {
     "repere": "BattleFrontier_RankingHall_Text_WorkHarderIfYouSawFriendsName",
-    "texte": "Si un ami figure sur la liste,\non a envie de comparer ses résultats."
+    "texte": "Si un ami figure sur la liste, on a\nenvie de comparer ses résultats."
   },
   {
     "repere": "BattleFrontier_RankingHall_Text_MyNamesNotUpThere",

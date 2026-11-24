@@ -1,7 +1,7 @@
 [
   {
     "repere": "Route117_Text_DayCarePokemonHadNewMove",
-    "texte": "J'ai laissé mon Pokémon à la pension.\n\nÀ mon retour, il avait appris\nune nouvelle capacité."
+    "texte": "J'ai laissé mon Pokémon à la\npension.\n\nÀ mon retour, il avait appris\nune nouvelle capacité."
   },
   {
     "repere": "Route117_Text_ArentTheseFlowersPretty",
@@ -9,7 +9,7 @@
   },
   {
     "repere": "Route117_Text_AirIsTastyHere",
-    "texte": "L'air sent les fleurs.\n\nOn ne sent plus l'huile des ateliers."
+    "texte": "L'air sent les fleurs.\n\nOn ne sent plus l'huile des\nateliers."
   },
   {
     "repere": "Route117_Text_RouteSignVerdanturf",
@@ -177,7 +177,7 @@
   },
   {
     "repere": "Route111_Text_TrainerHillSign",
-    "texte": "{RIGHT_ARROW} Entrée du Mont Dresseurs.\n\nÉpreuves chronométrées."
+    "texte": "{RIGHT_ARROW} Entrée du Mont\nDresseurs.\n\nÉpreuves chronométrées."
   },
   {
     "repere": "NewMauville_Entrance_Text_DoorIsLocked",

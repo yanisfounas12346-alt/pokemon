@@ -25,7 +25,7 @@
   },
   {
     "repere": "LavaridgeTown_Gym_1F_Text_AxleDefeat",
-    "texte": "Adriane sera plus difficile à battre."
+    "texte": "Adriane sera plus difficile à\nbattre."
   },
   {
     "repere": "LavaridgeTown_Gym_1F_Text_AxlePostBattle",
@@ -57,7 +57,7 @@
   },
   {
     "repere": "LavaridgeTown_Gym_1F_Text_FlanneryIntro",
-    "texte": "Bienvenue. Je suis Adriane.\n\nMon grand-père m'a confié l'arène\net la quatrième pièce du registre.\n\nIl m'a laissé ses notes de combat.\nJ'essaie encore de trouver mon style.\n\nPrépare tes Pokémon."
+    "texte": "Bienvenue. Je suis Adriane.\n\nMon grand-père m'a confié l'arène\net la quatrième pièce du registre.\n\nIl m'a laissé ses notes de combat.\nJ'essaie encore de trouver mon\n\nstyle.\n\nPrépare tes Pokémon."
   },
   {
     "repere": "LavaridgeTown_Gym_1F_Text_FlanneryDefeat",
@@ -105,7 +105,7 @@
   },
   {
     "repere": "LavaridgeTown_Gym_B1F_Text_KeeganIntro",
-    "texte": "Tu as déjà traversé plusieurs salles.\n\nIl reste un combat avant le repos."
+    "texte": "Tu as déjà traversé plusieurs\nsalles.\n\nIl reste un combat avant le repos."
   },
   {
     "repere": "LavaridgeTown_Gym_B1F_Text_KeeganDefeat",
@@ -181,7 +181,7 @@
   },
   {
     "repere": "LavaridgeTown_Mart_Text_LocalSpecialtyOnMtChimney",
-    "texte": "On vend des Lava Cookies\nau sommet du Mont Chimnée.\n\nIls soignent les problèmes de statut."
+    "texte": "On vend des Lava Cookies\nau sommet du Mont Chimnée.\n\nIls soignent les problèmes de\nstatut."
   },
   {
     "repere": "LavaridgeTown_PokemonCenter_1F_Text_TrainersPokemonSpendTimeTogether",
