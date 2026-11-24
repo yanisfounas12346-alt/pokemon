@@ -1,0 +1,194 @@
+[
+  {
+    "repere": "SSTidalCorridor_Text_ScottBattleFrontierInvite",
+    "texte": "Scott. Ah, {PLAYER} !\n\nTu as terminé la Ligue.\nIl existe un autre lieu d'épreuves.\n\nLa Zone de Combat.\nJ'en ai parlé au capitaine.\n\nÀ ta prochaine traversée, tu pourras\nchoisir cette destination."
+  },
+  {
+    "repere": "SSTidalCorridor_Text_CanRestInCabin2",
+    "texte": "Nous sommes encore loin du port.\n\nTu peux te reposer dans ta cabine.\nC'est la numéro 2."
+  },
+  {
+    "repere": "SSTidalCorridor_Text_WeveArrived",
+    "texte": "Nous sommes arrivés au port."
+  },
+  {
+    "repere": "SSTidalCorridor_Text_VisitOtherCabins",
+    "texte": "Certains voyageurs souhaitent\nfaire des combats Pokémon.\n\nTu peux leur rendre visite."
+  },
+  {
+    "repere": "SSTidalCorridor_Text_EnjoyYourCruise",
+    "texte": "Bonne traversée !"
+  },
+  {
+    "repere": "SSTidalCorridor_Text_HorizonSpreadsBeyondPorthole",
+    "texte": "Par le hublot, on voit la mer\njusqu'à l'horizon."
+  },
+  {
+    "repere": "SSTidalCorridor_Text_BrineyWelcomeAboard",
+    "texte": "Marco. Bienvenue, {PLAYER} !\n\nOn m'a nommé capitaine honoraire\ndu Marina.\n\nJe pensais avoir fini de naviguer.\nMe voilà de nouveau sur le pont."
+  },
+  {
+    "repere": "SSTidalCorridor_Text_Peeko",
+    "texte": "Piko. Pihioo pihikooo..."
+  },
+  {
+    "repere": "SSTidalCorridor_Text_Cabin1",
+    "texte": "Cabine 1"
+  },
+  {
+    "repere": "SSTidalCorridor_Text_Cabin2",
+    "texte": "Cabine 2"
+  },
+  {
+    "repere": "SSTidalCorridor_Text_Cabin3",
+    "texte": "Cabine 3"
+  },
+  {
+    "repere": "SSTidalCorridor_Text_Cabin4",
+    "texte": "Cabine 4"
+  },
+  {
+    "repere": "SSTidal_Text_FastCurrentsHopeYouEnjoyVoyage",
+    "texte": "Le Marina traverse les courants\nrapides de Hoenn.\n\nVous pouvez visiter le navire."
+  },
+  {
+    "repere": "SSTidal_Text_HopeYouEnjoyVoyage",
+    "texte": "Nous vous souhaitons\nune bonne traversée."
+  },
+  {
+    "repere": "SSTidal_Text_MadeLandInSlateport",
+    "texte": "Nous sommes arrivés à Poivressel.\n\nMerci d'avoir voyagé avec nous."
+  },
+  {
+    "repere": "SSTidal_Text_MadeLandInLilycove",
+    "texte": "Nous sommes arrivés à Nénucrique.\n\nMerci d'avoir voyagé avec nous."
+  },
+  {
+    "repere": "SSTidalLowerDeck_Text_PhillipIntro",
+    "texte": "Je nettoie cette cale depuis l'aube.\n\nC'est l'heure de ma pause.\nOn fait un combat ?"
+  },
+  {
+    "repere": "SSTidalLowerDeck_Text_PhillipDefeat",
+    "texte": "Petit frère, j'ai perdu !"
+  },
+  {
+    "repere": "SSTidalLowerDeck_Text_PhillipPostBattle",
+    "texte": "Je prépare les seaux.\nMon frère passe la brosse.\n\nNous partageons le travail."
+  },
+  {
+    "repere": "SSTidalLowerDeck_Text_LeonardIntro",
+    "texte": "Il y a assez de place dans la cale\npour un combat."
+  },
+  {
+    "repere": "SSTidalLowerDeck_Text_LeonardDefeat",
+    "texte": "Grand frère, j'ai perdu !"
+  },
+  {
+    "repere": "SSTidalLowerDeck_Text_LeonardPostBattle",
+    "texte": "Mon frère prépare les seaux.\nJe passe la brosse.\n\nNous finissons ensemble."
+  },
+  {
+    "repere": "SSTidalRooms_Text_TakeRestOnBed",
+    "texte": "Un lit est disponible.\n\nJe vais me reposer."
+  },
+  {
+    "repere": "SSTidalRooms_Text_ColtonIntro",
+    "texte": "Je vais souvent aux Concours\nde Nénucrique."
+  },
+  {
+    "repere": "SSTidalRooms_Text_ColtonDefeat",
+    "texte": "J'ai appris quelque chose."
+  },
+  {
+    "repere": "SSTidalRooms_Text_ColtonPostBattle",
+    "texte": "J'espère voir de nouveaux Pokémon\nlors du prochain Concours."
+  },
+  {
+    "repere": "SSTidalRooms_Text_MicahIntro",
+    "texte": "Tes Pokémon sont-ils prêts ?"
+  },
+  {
+    "repere": "SSTidalRooms_Text_MicahDefeat",
+    "texte": "Ils connaissent bien tes gestes."
+  },
+  {
+    "repere": "SSTidalRooms_Text_MicahPostBattle",
+    "texte": "Mes Pokémon voyagent avec moi.\n\nJe ne pars jamais sans eux."
+  },
+  {
+    "repere": "SSTidalRooms_Text_ThomasIntro",
+    "texte": "As-tu frappé avant d'entrer ?"
+  },
+  {
+    "repere": "SSTidalRooms_Text_ThomasDefeat",
+    "texte": "Très bien. J'accepte ma défaite."
+  },
+  {
+    "repere": "SSTidalRooms_Text_ThomasPostBattle",
+    "texte": "Il faut savoir saluer son adversaire\naussi après une défaite."
+  },
+  {
+    "repere": "SSTidalRooms_Text_JedIntro",
+    "texte": "Ali. Nous combattons ensemble.\n\nVeux-tu nous affronter ?"
+  },
+  {
+    "repere": "SSTidalRooms_Text_JedDefeat",
+    "texte": "Ali. Nous avons perdu."
+  },
+  {
+    "repere": "SSTidalRooms_Text_JedPostBattle",
+    "texte": "Ali. Nous allons reprendre\nl'entraînement ensemble."
+  },
+  {
+    "repere": "SSTidalRooms_Text_JedNotEnoughMons",
+    "texte": "Ali. Il te faut deux Pokémon\naptes au combat."
+  },
+  {
+    "repere": "SSTidalRooms_Text_LeaIntro",
+    "texte": "Lise. Ali et moi sommes prêts\npour un Combat Duo."
+  },
+  {
+    "repere": "SSTidalRooms_Text_LeaDefeat",
+    "texte": "Lise. Quelle surprise !"
+  },
+  {
+    "repere": "SSTidalRooms_Text_LeaPostBattle",
+    "texte": "Lise. Nous avons encore des choses\nà apprendre."
+  },
+  {
+    "repere": "SSTidalRooms_Text_LeaNotEnoughMons",
+    "texte": "Lise. Reviens avec deux Pokémon\naptes au combat."
+  },
+  {
+    "repere": "SSTidalRooms_Text_GarretIntro",
+    "texte": "La traversée me paraît longue.\n\nAffronte-moi."
+  },
+  {
+    "repere": "SSTidalRooms_Text_GarretDefeat",
+    "texte": "Le temps a passé plus vite."
+  },
+  {
+    "repere": "SSTidalRooms_Text_GarretPostBattle",
+    "texte": "Je demanderai peut-être à mon père\nun bateau pour moi seul.\n\nIl faudra bien trouver un équipage."
+  },
+  {
+    "repere": "SSTidalRooms_Text_NaomiIntro",
+    "texte": "Veux-tu prendre le thé\nou faire un combat ?"
+  },
+  {
+    "repere": "SSTidalRooms_Text_NaomiDefeat",
+    "texte": "Tu as choisi le combat."
+  },
+  {
+    "repere": "SSTidalRooms_Text_NaomiPostBattle",
+    "texte": "J'ai voyagé sur des yachts.\n\nIci, je rencontre des gens\nque je n'aurais jamais croisés."
+  },
+  {
+    "repere": "SSTidalRooms_Text_NotSuspiciousTakeThis",
+    "texte": "Oh ! Tu m'as surpris.\n\nTiens, prends cette CT.\nJe ne l'ai pas volée."
+  },
+  {
+    "repere": "SSTidalRooms_Text_ExplainSnatch",
+    "texte": "Saisie permet de profiter de\ncertaines capacités bénéfiques\n\nque l'adversaire allait utiliser."
+  }
+]
