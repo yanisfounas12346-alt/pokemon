@@ -1,0 +1,198 @@
+[
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_GymGuideAdvice",
+    "texte": "Adriane utilise le type Feu.\n\nLes types Eau, Sol et Roche\npeuvent être efficaces contre elle.\n\nLes bassins relient les deux étages."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_GymGuidePostVictory",
+    "texte": "Tu as trouvé le chemin !\n\nLa quatrième pièce est à toi."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_ColeIntro",
+    "texte": "Le sable est chaud ici.\n\nOn va faire un combat avant\nque je ne sorte."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_ColeDefeat",
+    "texte": "La sueur me coulait dans les yeux."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_ColePostBattle",
+    "texte": "Je vais sortir du sable un moment.\n\nIl fait trop chaud pour y rester."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_AxleIntro",
+    "texte": "Je venais me reposer.\n\nMais je peux encore combattre."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_AxleDefeat",
+    "texte": "Adriane sera plus difficile à battre."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_AxlePostBattle",
+    "texte": "Il me faut un peu d'air frais."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_GeraldIntro",
+    "texte": "Mes Pokémon sont habitués\nà la chaleur de cette arène."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_GeraldDefeat",
+    "texte": "La chaleur ne les a pas aidés."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_GeraldPostBattle",
+    "texte": "Ne confonds pas les bassins\navec les coulées de lave.\n\nMême ici, il faut faire attention."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_DanielleIntro",
+    "texte": "Très bien. Je vais te défier."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_DanielleDefeat",
+    "texte": "Tu as bien préparé ton équipe."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_DaniellePostBattle",
+    "texte": "J'aimerais apprendre à combattre\ncomme Adriane."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_FlanneryIntro",
+    "texte": "Bienvenue. Je suis Adriane.\n\nMon grand-père m'a confié l'arène\net la quatrième pièce du registre.\n\nIl m'a laissé ses notes de combat.\nJ'essaie encore de trouver mon style.\n\nPrépare tes Pokémon."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_FlanneryDefeat",
+    "texte": "J'ai essayé de faire comme lui.\n\nMais mes Pokémon me connaissent,\nmoi, pas mon grand-père.\n\nTu as gagné. Voici ton badge."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_ReceivedHeatBadge",
+    "texte": "{PLAYER} reçoit le Badge Chaleur !"
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_ExplainOverheat",
+    "texte": "La CT50 contient Surchauffe.\n\nElle inflige de lourds dégâts,\nmais baisse l'Attaque Spéciale\n\ndu Pokémon qui l'utilise."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_RegisteredFlannery",
+    "texte": "Adriane est enregistrée\ndans le PokéNav."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_FlanneryPostBattle",
+    "texte": "Certains de tes gestes me rappellent\nNorman, à Clémenti-Ville."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_GymStatue",
+    "texte": "Arène Pokémon de Vermilava."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_GymStatueCertified",
+    "texte": "Arène Pokémon de Vermilava.\n\nDresseur reconnu par Adriane :\n{PLAYER}."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_FlanneryPreRematch",
+    "texte": "Je suis contente de te revoir.\n\nCette fois, je vais me battre\nà ma manière."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_FlanneryRematchDefeat",
+    "texte": "Tu as encore gagné !"
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_FlanneryPostRematch",
+    "texte": "J'ai perdu, mais j'ai mieux compris\nmes Pokémon cette fois.\n\nReviens quand tu voudras."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_1F_Text_FlanneryRematchNeedTwoMons",
+    "texte": "Il faut au moins deux Pokémon\naptes au combat pour cette épreuve.\n\nReviens avec ton équipe prête."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_B1F_Text_KeeganIntro",
+    "texte": "Tu as déjà traversé plusieurs salles.\n\nIl reste un combat avant le repos."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_B1F_Text_KeeganDefeat",
+    "texte": "Je n'avais pas assez d'énergie."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_B1F_Text_KeeganPostBattle",
+    "texte": "Adriane connaît bien ses Pokémon.\n\nNe sous-estime pas ses attaques."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_B1F_Text_JaceIntro",
+    "texte": "Prêt ? Alors, commençons !"
+  },
+  {
+    "repere": "LavaridgeTown_Gym_B1F_Text_JaceDefeat",
+    "texte": "Il faut que je m'entraîne encore."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_B1F_Text_JacePostBattle",
+    "texte": "Tu as tes chances contre Adriane.\n\nElle t'attend plus loin."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_B1F_Text_JeffIntro",
+    "texte": "Je suis venu pour gagner.\n\nVoyons si tu peux me battre."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_B1F_Text_JeffDefeat",
+    "texte": "Quelque chose m'a échappé."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_B1F_Text_JeffPostBattle",
+    "texte": "Le sol est chaud ici.\n\nNe reste pas trop longtemps\nau même endroit."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_B1F_Text_EliIntro",
+    "texte": "J'aime la montagne et les volcans.\n\nJe m'entraîne souvent ici."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_B1F_Text_EliDefeat",
+    "texte": "Je n'ai pas maîtrisé ce combat."
+  },
+  {
+    "repere": "LavaridgeTown_Gym_B1F_Text_EliPostBattle",
+    "texte": "Adriane a repris l'arène récemment.\n\nNous sommes venus la soutenir."
+  },
+  {
+    "repere": "LavaridgeTown_HerbShop_Text_WelcomeToHerbShop",
+    "texte": "Bienvenue à l'herboristerie.\n\nRemèdes à base de plantes."
+  },
+  {
+    "repere": "LavaridgeTown_HerbShop_Text_YouveComeToLookAtHerbalMedicine",
+    "texte": "Tu t'intéresses aux remèdes ?\n\nTiens, je te donne du Charbon."
+  },
+  {
+    "repere": "LavaridgeTown_HerbShop_Text_ExplainCharcoal",
+    "texte": "Le Charbon sert à certaines\npréparations.\n\nUn Pokémon qui le tient renforce\nses attaques de type Feu."
+  },
+  {
+    "repere": "LavaridgeTown_HerbShop_Text_HerbalMedicineWorksButMonWillDislike",
+    "texte": "Ces remèdes sont efficaces,\nmais très amers.\n\nTes Pokémon risquent de moins\nt'apprécier si tu leur en donnes."
+  },
+  {
+    "repere": "LavaridgeTown_House_Text_WifeWarmingEggInHotSprings",
+    "texte": "Ma femme a rapporté un Oeuf\nde la pension Pokémon.\n\nElle essaie de le garder au chaud\nprès des sources."
+  },
+  {
+    "repere": "LavaridgeTown_House_Text_Zigzagoon",
+    "texte": "Zigzaton. Zigzaaa !"
+  },
+  {
+    "repere": "LavaridgeTown_Mart_Text_XSpeedFirstStrike",
+    "texte": "Vitesse + augmente la Vitesse\nd'un Pokémon pendant le combat.\n\nIl peut ainsi agir plus tôt."
+  },
+  {
+    "repere": "LavaridgeTown_Mart_Text_LocalSpecialtyOnMtChimney",
+    "texte": "On vend des Lava Cookies\nau sommet du Mont Chimnée.\n\nIls soignent les problèmes de statut."
+  },
+  {
+    "repere": "LavaridgeTown_PokemonCenter_1F_Text_TrainersPokemonSpendTimeTogether",
+    "texte": "À force de voyager ensemble,\nles Pokémon et leurs Dresseurs\n\napprennent à se connaître."
+  },
+  {
+    "repere": "LavaridgeTown_PokemonCenter_1F_Text_HotSpringCanInvigorate",
+    "texte": "Je viens aux bains après le travail.\n\nJ'aimerais que mes Pokémon puissent\naussi s'y reposer."
+  },
+  {
+    "repere": "LavaridgeTown_PokemonCenter_1F_Text_TrainersShouldRestToo",
+    "texte": "On accède aux sources par ici.\n\nPendant que tes Pokémon se reposent,\ntu peux faire de même."
+  }
+]
