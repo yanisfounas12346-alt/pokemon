@@ -45,6 +45,30 @@ jobs:
           python3 refonte/audit-dialogues.py --source source-pokeemerald --rapport rapports/audit.json > rapports/audit.txt
       - name: Préparer le manifeste
         run: python3 refonte/preparer-integration.py --source source-pokeemerald --sortie rapports/manifeste.json
+      - name: Contrôler l'encodage de toutes les répliques sans ROM
+        run: |
+          python3 - <<'PY'
+          import collections, importlib.util, json
+          from pathlib import Path
+          spec = importlib.util.spec_from_file_location("injecteur", "refonte/injecter-dialogues.py")
+          mod = importlib.util.module_from_spec(spec)
+          spec.loader.exec_module(mod)
+          codec = mod.Codec(Path("source-pokeemerald/charmap.txt"))
+          manifest = json.loads(Path("rapports/manifeste.json").read_text())
+          results = []
+          stats = collections.Counter()
+          for row in manifest["repliques_secondaires"] + manifest["repliques_narratives"]:
+              for field, source in (("origine_assembleur", True), ("texte", False)):
+                  try:
+                      mod.Codec.encode(codec, row[field], source)
+                      stats[field + "_ok"] += 1
+                  except ValueError as exc:
+                      stats[field + "_a_verifier"] += 1
+                      results.append({"repere": row["repere"], "champ": field, "raison": str(exc)})
+          Path("rapports/encodage.json").write_text(json.dumps({"statistiques": dict(stats), "anomalies": results}, ensure_ascii=False, indent=2)+"\n")
+          print("ENCODAGE", json.dumps(dict(stats), ensure_ascii=False))
+          print("CAUSES", json.dumps(dict(collections.Counter((r["champ"] + ": " + r["raison"]) for r in results)), ensure_ascii=False))
+          PY
       - name: Résumer les anomalies dans le journal
         if: always()
         run: |
