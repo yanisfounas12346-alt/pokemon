@@ -1,0 +1,406 @@
+[
+  {
+    "repere": "MtChimney_Text_MaxieDefeat",
+    "texte": "Max ferme le poing sur le rebord.\n\nTu as arrêté la machine."
+  },
+  {
+    "repere": "MtChimney_Text_TabithaIntro",
+    "texte": "La météorite du Site Météore\nest déjà entre les mains de Max.\n\nTu arrives trop tard."
+  },
+  {
+    "repere": "MtChimney_Text_TabithaDefeat",
+    "texte": "J'ai perdu. Mais Max a encore\nla météorite."
+  },
+  {
+    "repere": "MtChimney_Text_TabithaPostBattle",
+    "texte": "Chef ! La machine est prête.\n\nIl ne manque que votre décision."
+  },
+  {
+    "repere": "MtChimney_Text_Grunt2Intro",
+    "texte": "Les Trumps promettent de la terre\npour ceux qui n'en ont pas.\n\nJ'ai signé pour une maison."
+  },
+  {
+    "repere": "MtChimney_Text_Grunt2Defeat",
+    "texte": "Je n'ai plus de Pokémon en état."
+  },
+  {
+    "repere": "MtChimney_Text_Grunt2PostBattle",
+    "texte": "On nous a promis des logements.\n\nPourquoi tout le monde veut-il\narrêter les travaux ?"
+  },
+  {
+    "repere": "MtChimney_Text_Grunt1Intro",
+    "texte": "Je voudrais une maison à moi.\n\nOn m'a montré un plan de lotissement\nsur les terres nouvelles."
+  },
+  {
+    "repere": "MtChimney_Text_Grunt1Defeat",
+    "texte": "Je n'aurai pas cette maison..."
+  },
+  {
+    "repere": "MtChimney_Text_Grunt1PostBattle",
+    "texte": "Je n'ai jamais vu le terrain.\n\nJ'ai seulement le numéro du lot."
+  },
+  {
+    "repere": "MtChimney_Text_TeamAquaAlwaysMessingWithPlans",
+    "texte": "Les Marks ont encore interrompu\nle chantier."
+  },
+  {
+    "repere": "MtChimney_Text_MeteoritesPackAmazingPower",
+    "texte": "La météorite fournit l'énergie\nque la machine doit amplifier."
+  },
+  {
+    "repere": "MtChimney_Text_YouBetterNotMessWithUs",
+    "texte": "Reste en dehors du chantier.\n\nOn nous a promis que cette machine\nrendrait des terres habitables."
+  },
+  {
+    "repere": "MtChimney_Text_AquasNameSimilar",
+    "texte": "Les Marks et les Trumps recrutent\nparfois dans les mêmes rues.\n\nMon frère porte leur uniforme."
+  },
+  {
+    "repere": "MtChimney_Text_DouseThemInFire",
+    "texte": "On tient encore le passage !"
+  },
+  {
+    "repere": "MtChimney_Text_KeepMakingMoreLand",
+    "texte": "Il faut de nouveaux terrains !"
+  },
+  {
+    "repere": "MtChimney_Text_Bufoh",
+    "texte": "Hé ! Par ici !"
+  },
+  {
+    "repere": "MtChimney_Text_ArchieIHaveMyHandsFull",
+    "texte": "Arthur. Max est près du cratère.\n\nJe suis retenu par trois adversaires.\nVa jusqu'à lui !"
+  },
+  {
+    "repere": "MtChimney_Text_MagmaOutnumbersUs",
+    "texte": "Les Trumps sont trop nombreux.\n\nOn ne tiendra pas ce passage seuls."
+  },
+  {
+    "repere": "MtChimney_Text_LessHabitatForWaterPokemon",
+    "texte": "S'ils gagnent du terrain sur la mer,\n\nles Pokémon Eau auront moins\nd'espace pour vivre."
+  },
+  {
+    "repere": "MtChimney_Text_MagmasNameSimilar",
+    "texte": "Mon voisin travaille pour les Trumps.\n\nNous attendons tous les deux\nle même logement."
+  },
+  {
+    "repere": "MtChimney_Text_Bushaa",
+    "texte": "Attention, derrière toi !"
+  },
+  {
+    "repere": "MtChimney_Text_LavaCookiesJust200",
+    "texte": "Des Lava Cookies, tout chauds.\n\n200¥ le biscuit. Tu en veux un ?"
+  },
+  {
+    "repere": "MtChimney_Text_ThankYouDear",
+    "texte": "Merci, mon petit.\nAttention, il est encore chaud."
+  },
+  {
+    "repere": "MtChimney_Text_YouveNotGotTheMoney",
+    "texte": "Il te manque de l'argent."
+  },
+  {
+    "repere": "MtChimney_Text_OhFineThen",
+    "texte": "Très bien. Bonne route."
+  },
+  {
+    "repere": "MtChimney_Text_MetoriteFittedOnMachine",
+    "texte": "Une météorite est fixée à la machine.\n\nLes câbles vibrent encore."
+  },
+  {
+    "repere": "MtChimney_Text_RemoveTheMeteorite",
+    "texte": "Une météorite est fixée à la machine.\n\nVeux-tu la retirer ?"
+  },
+  {
+    "repere": "MtChimney_Text_PlayerRemovedMeteorite",
+    "texte": "{PLAYER} retire la météorite\nde la machine."
+  },
+  {
+    "repere": "MtChimney_Text_PlayerLeftMeteorite",
+    "texte": "{PLAYER} laisse la météorite\nen place."
+  },
+  {
+    "repere": "MtChimney_Text_MachineMakesNoResponse",
+    "texte": "La machine ne répond plus.\n\nLes câbles sont immobiles."
+  },
+  {
+    "repere": "MtChimney_Text_RouteSign",
+    "texte": "{DOWN_ARROW} Sentier Sinuroc\nVermilava tout droit."
+  },
+  {
+    "repere": "MtChimney_Text_ShelbyIntro",
+    "texte": "Les sources chaudes m'ont fait\ndu bien aux jambes.\n\nJe peux encore faire un combat."
+  },
+  {
+    "repere": "MtChimney_Text_ShelbyDefeat",
+    "texte": "Oh ! Tu sais bien te battre."
+  },
+  {
+    "repere": "MtChimney_Text_ShelbyPostBattle",
+    "texte": "J'ai perdu. Il me reste pourtant\ndes choses à apprendre."
+  },
+  {
+    "repere": "MtChimney_Text_ShelbyRegister",
+    "texte": "Ce combat m'a rappelé mes enfants.\n\nÉchangeons nos numéros.\nTu reviendras peut-être."
+  },
+  {
+    "repere": "MtChimney_Text_ShelbyRematchIntro",
+    "texte": "Voyons si tes Pokémon te font\nencore confiance."
+  },
+  {
+    "repere": "MtChimney_Text_ShelbyRematchDefeat",
+    "texte": "Tu as encore gagné, mon petit."
+  },
+  {
+    "repere": "MtChimney_Text_ShelbyPostRematch",
+    "texte": "Ils reconnaissent tes gestes.\n\nC'est agréable à voir."
+  },
+  {
+    "repere": "MtChimney_Text_MelissaIntro",
+    "texte": "J'ai monté tout ce chemin.\n\nIl me reste assez de force\npour un combat !"
+  },
+  {
+    "repere": "MtChimney_Text_MelissaDefeat",
+    "texte": "Tu m'as coupé le souffle."
+  },
+  {
+    "repere": "MtChimney_Text_MelissaPostBattle",
+    "texte": "Il fait chaud ici, même quand\nle vent souffle."
+  },
+  {
+    "repere": "MtChimney_Text_SheilaIntro",
+    "texte": "Je suis enfin arrivée au sommet.\n\nJe voudrais faire un combat ici."
+  },
+  {
+    "repere": "MtChimney_Text_SheilaDefeat",
+    "texte": "Tu as gagné !\nJe vais m'asseoir un instant."
+  },
+  {
+    "repere": "MtChimney_Text_SheilaPostBattle",
+    "texte": "Je ramènerai quelques Cookies\npour ceux qui sont restés en bas."
+  },
+  {
+    "repere": "MtChimney_Text_ShirleyIntro",
+    "texte": "Je reviens des sources chaudes.\n\nJe me sens prête à combattre."
+  },
+  {
+    "repere": "MtChimney_Text_ShirleyDefeat",
+    "texte": "Atchoum ! Le vent est froid ici."
+  },
+  {
+    "repere": "MtChimney_Text_ShirleyPostBattle",
+    "texte": "Je vais retourner aux sources.\n\nJ'ai laissé ma serviette en bas."
+  },
+  {
+    "repere": "MtChimney_Text_SawyerIntro",
+    "texte": "Il y a du monde sur cette montagne.\n\nOn trouve toujours un adversaire."
+  },
+  {
+    "repere": "MtChimney_Text_SawyerDefeat",
+    "texte": "Tu as de l'énergie, toi !"
+  },
+  {
+    "repere": "MtChimney_Text_SawyerPostBattle",
+    "texte": "Je vais descendre vers les sources\navec les autres."
+  },
+  {
+    "repere": "MtChimney_Text_SawyerRegister",
+    "texte": "Échangeons nos numéros de PokéNav.\n\nOn pourra refaire un combat."
+  },
+  {
+    "repere": "MtChimney_Text_SawyerRematchIntro",
+    "texte": "Je suis revenu pour un combat.\n\nVoyons si je peux te battre."
+  },
+  {
+    "repere": "MtChimney_Text_SawyerRematchDefeat",
+    "texte": "Tu n'as rien perdu de ta force."
+  },
+  {
+    "repere": "MtChimney_Text_SawyerPostRematch",
+    "texte": "J'aurais dû laisser mon manteau\nen bas."
+  },
+  {
+    "repere": "JaggedPass_Text_EricIntro",
+    "texte": "J'aime les chemins de montagne.\n\nIci, il faut choisir chaque appui."
+  },
+  {
+    "repere": "JaggedPass_Text_EricDefeat",
+    "texte": "Je n'ai pas trouvé le bon appui."
+  },
+  {
+    "repere": "JaggedPass_Text_EricPostBattle",
+    "texte": "Je connais mieux les sentiers\nque les combats, apparemment."
+  },
+  {
+    "repere": "JaggedPass_Text_DianaIntro",
+    "texte": "Tu descends vers Vermilava ?\n\nFaisons un combat en chemin."
+  },
+  {
+    "repere": "JaggedPass_Text_DianaDefeat",
+    "texte": "J'ai perdu l'équilibre."
+  },
+  {
+    "repere": "JaggedPass_Text_DianaPostBattle",
+    "texte": "Le Vélo Cross permet de franchir\ncertains rebords rocheux."
+  },
+  {
+    "repere": "JaggedPass_Text_DianaRegister",
+    "texte": "Tu reviendras sur ce sentier ?\n\nÉchangeons nos numéros."
+  },
+  {
+    "repere": "JaggedPass_Text_DianaRematchIntro",
+    "texte": "J'ai apporté de quoi pique-niquer.\n\nMais d'abord, un combat !"
+  },
+  {
+    "repere": "JaggedPass_Text_DianaRematchDefeat",
+    "texte": "J'ai encore perdu sur ces bosses."
+  },
+  {
+    "repere": "JaggedPass_Text_DianaPostRematch",
+    "texte": "Je vais manger avant de descendre."
+  },
+  {
+    "repere": "JaggedPass_Text_EthanIntro",
+    "texte": "Le sentier Sinuroc est difficile.\n\nC'est un bon endroit pour s'entraîner."
+  },
+  {
+    "repere": "JaggedPass_Text_EthanDefeat",
+    "texte": "Je cherchais encore mes appuis."
+  },
+  {
+    "repere": "JaggedPass_Text_EthanPostBattle",
+    "texte": "Avec un Vélo Cross, je pourrais\nsauter sur ces rebords."
+  },
+  {
+    "repere": "JaggedPass_Text_EthanRegister",
+    "texte": "Je veux apprendre à me battre ici.\n\nEnregistre mon numéro de PokéNav."
+  },
+  {
+    "repere": "JaggedPass_Text_EthanRematchIntro",
+    "texte": "Je connais mieux le terrain.\n\nEssayons un autre combat."
+  },
+  {
+    "repere": "JaggedPass_Text_EthanRematchDefeat",
+    "texte": "Les bosses me gênent encore."
+  },
+  {
+    "repere": "JaggedPass_Text_EthanPostRematch",
+    "texte": "Je vais voir Rodolphe à Lavandia\npour essayer le Vélo Cross."
+  },
+  {
+    "repere": "JaggedPass_Text_GruntIntro",
+    "texte": "Tu n'as rien à faire près de ce mur.\n\nContinue ton chemin."
+  },
+  {
+    "repere": "JaggedPass_Text_GruntDefeat",
+    "texte": "J'aurais dû rester à la planque."
+  },
+  {
+    "repere": "JaggedPass_Text_GoWhereverYouWant",
+    "texte": "Tu as gagné. Je ne te retiens plus.\n\nVa où tu veux."
+  },
+  {
+    "repere": "JaggedPass_Text_BoulderShakingInResponseToEmblem",
+    "texte": "Le rocher tremble au contact\ndu Sceau Magma."
+  },
+  {
+    "repere": "JaggedPass_Text_JulioIntro",
+    "texte": "La descente est rude à vélo.\n\nJe vais m'arrêter pour un combat."
+  },
+  {
+    "repere": "JaggedPass_Text_JulioDefeat",
+    "texte": "Je crois que j'ai besoin de repos."
+  },
+  {
+    "repere": "JaggedPass_Text_JulioPostBattle",
+    "texte": "Mon vélo a pris toutes les bosses.\n\nJe ne sens plus mes épaules."
+  },
+  {
+    "repere": "JaggedPass_Text_AutumnIntro",
+    "texte": "Je monte ici chaque jour.\n\nVoyons ce que ça m'a appris."
+  },
+  {
+    "repere": "JaggedPass_Text_AutumnDefeat",
+    "texte": "Je n'avais pas prévu ça."
+  },
+  {
+    "repere": "JaggedPass_Text_AutumnPostBattle",
+    "texte": "Tu as remarqué cette avancée\nrocheuse un peu plus loin ?"
+  },
+  {
+    "repere": "LavaridgeTown_Text_MayNiceBadgesTakeThis",
+    "texte": "Flora. Ah, {PLAYER} !\n\nTu as obtenu le badge de Vermilava.\nTiens, j'ai quelque chose pour toi."
+  },
+  {
+    "repere": "LavaridgeTown_Text_MayExplainGoGogglesChallengeDad",
+    "texte": "Avec les Lunet. Sable, tu peux\ntraverser le désert de la Route 111.\n\nJe pense aller voir Norman\nà l'arène de Clémenti-Ville.\n\nÀ bientôt, {PLAYER}."
+  },
+  {
+    "repere": "LavaridgeTown_Text_BrendanNiceBadgesTakeThis",
+    "texte": "Brice. Ça faisait longtemps !\n\nTu as déjà quatre badges.\nTiens, prends aussi ça."
+  },
+  {
+    "repere": "LavaridgeTown_Text_BrendanExplainGoGogglesChallengeDad",
+    "texte": "Ces lunettes te protègent du sable\nsur la Route 111.\n\nTu trouveras d'autres Pokémon\ndans le désert.\n\nMoi, je vais défier Norman\nà Clémenti-Ville."
+  },
+  {
+    "repere": "LavaridgeTown_Text_HaveEggWillYouTakeIt",
+    "texte": "J'ai gardé cet Oeuf près des sources.\n\nMais il n'a pas éclos.\nIl lui faut une équipe de Pokémon\n\net un peu de chemin à parcourir.\nVeux-tu t'en occuper ?"
+  },
+  {
+    "repere": "LavaridgeTown_Text_HopeYoullWalkPlentyWithEgg",
+    "texte": "Merci. Marche bien avec cet Oeuf."
+  },
+  {
+    "repere": "LavaridgeTown_Text_ReceivedTheEgg",
+    "texte": "{PLAYER} reçoit l'Oeuf !"
+  },
+  {
+    "repere": "LavaridgeTown_Text_NoRoomForThisEgg",
+    "texte": "Ton équipe est pleine.\n\nIl faut une place pour cet Oeuf."
+  },
+  {
+    "repere": "LavaridgeTown_Text_AsYouWishThen",
+    "texte": "Très bien. Je garde l'Oeuf ici\nsi tu changes d'avis."
+  },
+  {
+    "repere": "LavaridgeTown_Text_EverySoOftenEggFoundAtDayCare",
+    "texte": "On trouve parfois des Oeufs\nà la pension Pokémon."
+  },
+  {
+    "repere": "LavaridgeTown_Text_HotSpringsNeverRunDry",
+    "texte": "L'eau des sources est chauffée\npar la chaleur du sous-sol.\n\nOn surveille leur débit chaque jour.\nLa conduite est encore chaude."
+  },
+  {
+    "repere": "LavaridgeTown_Text_PokemonNippedBackside",
+    "texte": "Le sable est chaud...\n\nAïe ! Un Pokémon m'a pincé le dos !"
+  },
+  {
+    "repere": "LavaridgeTown_Text_OhYouLikeHotSprings",
+    "texte": "Tu viens aussi pour les sources ?\n\nIl y a peu de jeunes à cette heure."
+  },
+  {
+    "repere": "LavaridgeTown_Text_BatheInHotSpringsEveryDay",
+    "texte": "Je viens aux bains chaque jour.\n\nJ'aimerais être Dresseur comme\nAdriane, à l'arène."
+  },
+  {
+    "repere": "LavaridgeTown_Text_IfPokemonInHotSprings",
+    "texte": "Si les Pokémon venaient aux bains,\n\nil faudrait prévoir des bassins\npour chaque type."
+  },
+  {
+    "repere": "LavaridgeTown_Text_HotSpringsClaims",
+    "texte": "On raconte bien des choses\nsur les vertus de ces sources.\n\nMoi, je viens pour soulager\nmes jambes après le travail."
+  },
+  {
+    "repere": "LavaridgeTown_Text_TownSign",
+    "texte": "Vermilava. Quartier des sources.\n\nCentre Pokémon et bains."
+  },
+  {
+    "repere": "LavaridgeTown_Text_GymSign",
+    "texte": "Arène de Vermilava.\nChampionne : Adriane.\n\nRegistre des eaux, quatrième pièce."
+  },
+  {
+    "repere": "LavaridgeTown_Text_HerbShopSign",
+    "texte": "Herboristerie Pokémon.\n\nRemèdes à base de plantes."
+  }
+]
