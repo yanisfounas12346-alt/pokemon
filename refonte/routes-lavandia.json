@@ -1,0 +1,206 @@
+[
+  {
+    "repere": "Route117_Text_DayCarePokemonHadNewMove",
+    "texte": "J'ai laissé mon Pokémon à la pension.\n\nÀ mon retour, il avait appris\nune nouvelle capacité."
+  },
+  {
+    "repere": "Route117_Text_ArentTheseFlowersPretty",
+    "texte": "J'ai planté ces fleurs moi-même.\n\nLes premières viennent du jardin\nde ma mère."
+  },
+  {
+    "repere": "Route117_Text_AirIsTastyHere",
+    "texte": "L'air sent les fleurs.\n\nOn ne sent plus l'huile des ateliers."
+  },
+  {
+    "repere": "Route117_Text_RouteSignVerdanturf",
+    "texte": "Route 117\n{LEFT_ARROW} Vergazon"
+  },
+  {
+    "repere": "Route117_Text_RouteSignMauville",
+    "texte": "Route 117\n{RIGHT_ARROW} Lavandia"
+  },
+  {
+    "repere": "Route117_Text_DayCareSign",
+    "texte": "Pension Pokémon.\n\nNous gardons vos Pokémon."
+  },
+  {
+    "repere": "Route118_Text_StevenQuestions",
+    "texte": "Pierre. Ah, {PLAYER} !\n\nDepuis Myokara, as-tu rencontré\nd'autres espèces de Pokémon ?\n\nCertains Dresseurs se spécialisent,\nd'autres élèvent plusieurs types.\n\nJe me demande ce que tes voyages\nt'ont appris. À bientôt."
+  },
+  {
+    "repere": "Route118_Text_YouAgreeGoodRodIsGood",
+    "texte": "Tu connais la Super Canne ?\n\nTu aimerais en avoir une ?"
+  },
+  {
+    "repere": "Route118_Text_IdenticalMindsTakeThis",
+    "texte": "Alors tiens, prends celle-ci.\n\nC'est une Super Canne."
+  },
+  {
+    "repere": "Route118_Text_TryYourLuckFishing",
+    "texte": "Essaie de pêcher dans différentes\neaux.\n\nLes espèces ne sont pas les mêmes."
+  },
+  {
+    "repere": "Route118_Text_DontYouLikeToFish",
+    "texte": "Tu n'aimes pas pêcher ?\nReviens si tu changes d'avis."
+  },
+  {
+    "repere": "Route118_Text_TryCatchingMonWithGoodRod",
+    "texte": "Avec la Super Canne, tu peux\nrencontrer d'autres Pokémon."
+  },
+  {
+    "repere": "Route118_Text_CanCrossRiversWithSurf",
+    "texte": "Avec Surf, un Pokémon peut te\nfaire traverser l'eau sans bateau.\n\nIl faut avoir le badge nécessaire."
+  },
+  {
+    "repere": "Route118_Text_RouteSignMauville",
+    "texte": "Route 118\n{LEFT_ARROW} Lavandia"
+  },
+  {
+    "repere": "Route118_Text_RouteSign119",
+    "texte": "Route 118\n{UP_ARROW} Route 119"
+  },
+  {
+    "repere": "Route111_Text_BattleOurFamily",
+    "texte": "Bonjour, voyageur.\n\nDans notre famille, on s'entraîne\nensemble après le travail.\n\nVeux-tu enchaîner quatre combats\ncontre nous ?"
+  },
+  {
+    "repere": "Route111_Text_IsThatSo",
+    "texte": "Pas maintenant ?\nReviens si tu changes d'avis."
+  },
+  {
+    "repere": "Route111_Text_VictorIntro",
+    "texte": "Très bien, je commence !"
+  },
+  {
+    "repere": "Route111_Text_VictorDefeat",
+    "texte": "Tu as plus de ressources\nque je ne pensais."
+  },
+  {
+    "repere": "Route111_Text_VictorPostBattle",
+    "texte": "Venez ! J'ai trouvé un adversaire\nqui sait se battre."
+  },
+  {
+    "repere": "Route111_Text_VictoriaIntro",
+    "texte": "Tu as battu mon mari ?\n\nAlors, c'est à mon tour."
+  },
+  {
+    "repere": "Route111_Text_VictoriaDefeat",
+    "texte": "Je n'ai pas réussi à te retenir."
+  },
+  {
+    "repere": "Route111_Text_VictoriaPostBattle",
+    "texte": "Les enfants, c'est à vous !"
+  },
+  {
+    "repere": "Route111_Text_ViviIntro",
+    "texte": "Tu as gagné contre maman ?\n\nMoi aussi, je sais me battre !"
+  },
+  {
+    "repere": "Route111_Text_ViviDefeat",
+    "texte": "Oh... J'ai perdu ?"
+  },
+  {
+    "repere": "Route111_Text_ViviPostBattle",
+    "texte": "Mémé ! Viens voir !"
+  },
+  {
+    "repere": "Route111_Text_VickyIntro",
+    "texte": "Ma petite-fille m'a appelée.\n\nC'est à mon tour de combattre."
+  },
+  {
+    "repere": "Route111_Text_VickyDefeat",
+    "texte": "Elle avait raison.\nTu te bats vraiment bien."
+  },
+  {
+    "repere": "Route111_Text_VickyPostBattle",
+    "texte": "Si tu as un moment, entre.\n\nOn a préparé assez de soupe."
+  },
+  {
+    "repere": "Route111_Text_ToughToKeepWinningUpTheRanks",
+    "texte": "Entraîne bien tes Pokémon.\n\nÀ la Ligue, le Conseil 4 est plus\nredoutable que les champions."
+  },
+  {
+    "repere": "Route111_Text_WinstrateFamilyDestroyedMe",
+    "texte": "Quatre combats à la suite...\n\nJe n'avais plus de Potions\nau troisième."
+  },
+  {
+    "repere": "Route111_Text_RouteSignMauville",
+    "texte": "Route 111\n{DOWN_ARROW} Lavandia"
+  },
+  {
+    "repere": "Route111_Text_WinstrateHouseSign",
+    "texte": "Maison de la famille Stratège.\n\nFrappez avant d'entrer."
+  },
+  {
+    "repere": "Route111_Text_RouteSign112",
+    "texte": "Route 111\n{LEFT_ARROW} Route 112"
+  },
+  {
+    "repere": "Route111_Text_RouteSign113",
+    "texte": "Route 111\n{LEFT_ARROW} Route 113"
+  },
+  {
+    "repere": "Route111_Text_OldLadysRestStopSign",
+    "texte": "Gîte de la vieille dame.\n\nUne place pour les voyageurs."
+  },
+  {
+    "repere": "Route111_Text_TrainerTipsSpAtkSpDef",
+    "texte": "Conseil aux Dresseurs.\n\nAtq. Spé. : Attaque Spéciale.\nDéf. Spé. : Défense Spéciale."
+  },
+  {
+    "repere": "Route111_Text_ShouldBeMirageTowerAroundHere",
+    "texte": "Une tour de sable apparaît parfois\nprès d'ici.\n\nOn l'appelle la Tour Mirage."
+  },
+  {
+    "repere": "Route111_Text_MirageTowerClearlyVisible",
+    "texte": "La Tour Mirage est visible !\n\nLes parois semblent fragiles.\nJe n'ose pas entrer."
+  },
+  {
+    "repere": "Route111_Text_ThatWasShockingSandRainedDown",
+    "texte": "La tour s'est effondrée.\n\nLe sable a recouvert les traces.\nQu'y avait-il à l'intérieur ?"
+  },
+  {
+    "repere": "Route111_Text_MirageTowerHasntBeenSeenSince",
+    "texte": "La tour n'est pas réapparue.\n\nJ'ai attendu plusieurs jours."
+  },
+  {
+    "repere": "Route111_Text_ClawFossilDisappeared",
+    "texte": "Le Foss. Griffe disparaît\nsous le sable."
+  },
+  {
+    "repere": "Route111_Text_RootFossilDisappeared",
+    "texte": "Le Foss. Racine disparaît\nsous le sable."
+  },
+  {
+    "repere": "Route111_Text_MauvilleUncleToldMeToTakeRockSmash",
+    "texte": "Mon oncle m'avait dit de prendre\nÉclate-Roc avant de venir ici.\n\nIl habite près du magasin de vélos\nà Lavandia."
+  },
+  {
+    "repere": "Route111_Text_TrainerHillSign",
+    "texte": "{RIGHT_ARROW} Entrée du Mont Dresseurs.\n\nÉpreuves chronométrées."
+  },
+  {
+    "repere": "NewMauville_Entrance_Text_DoorIsLocked",
+    "texte": "La porte est verrouillée."
+  },
+  {
+    "repere": "NewMauville_Entrance_Text_UseBasementKey",
+    "texte": "Utiliser la Clé Sous-Sol ?"
+  },
+  {
+    "repere": "NewMauville_Entrance_Text_UsedBasementKey",
+    "texte": "{PLAYER} utilise la Clé Sous-Sol.\n\nLa porte s'ouvre."
+  },
+  {
+    "repere": "NewMauville_Inside_Text_GeneratorRadiatingHeat",
+    "texte": "Le générateur dégage une forte\nchaleur.\n\nIl faut couper le courant."
+  },
+  {
+    "repere": "NewMauville_Inside_Text_GeneratorQuietedDown",
+    "texte": "Le générateur ne fait plus\nle même bruit."
+  },
+  {
+    "repere": "NewMauville_Inside_Text_SteppedOnSwitchGeneratorStopped",
+    "texte": "{PLAYER} actionne l'interrupteur.\n\nClic...\nLe générateur s'arrête."
+  }
+]
