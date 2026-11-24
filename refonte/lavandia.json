@@ -1,0 +1,386 @@
+[
+  {
+    "repere": "MauvilleCity_Text_UncleHesTooPeppy",
+    "texte": "Depuis qu'il a son Pokémon,\nTimmy ne tient plus en place.\n\nIl oublie parfois de se reposer."
+  },
+  {
+    "repere": "MauvilleCity_Text_WallyWantToChallengeGym",
+    "texte": "Timmy. Tonton, laisse-moi essayer\ncette arène, juste une fois.\n\nJe veux voir si j'ai progressé."
+  },
+  {
+    "repere": "MauvilleCity_Text_UncleYourePushingIt",
+    "texte": "Tu as repris des forces, Timmy.\n\nMais une arène, c'est peut-être\nencore un peu tôt."
+  },
+  {
+    "repere": "MauvilleCity_Text_WallyWeCanBeatAnyone",
+    "texte": "Avec mon Tarsal, je peux gagner.\n\nOn s'est entraînés tous les jours."
+  },
+  {
+    "repere": "MauvilleCity_Text_WallyWillYouBattleMe",
+    "texte": "Ah, {PLAYER} !\n\nJe veux montrer à mon oncle\nce que j'ai appris.\n\nVeux-tu te battre contre moi ?"
+  },
+  {
+    "repere": "MauvilleCity_Text_WallyMyUncleWontKnowImStrong",
+    "texte": "Si tu refuses, mon oncle ne saura\npas ce que je sais faire."
+  },
+  {
+    "repere": "MauvilleCity_Text_UncleCanYouBattleWally",
+    "texte": "{PLAYER}, pourrais-tu l'affronter\nune fois ?\n\nIl tient beaucoup à ce combat."
+  },
+  {
+    "repere": "MauvilleCity_Text_WallyPleaseBattleMe",
+    "texte": "{PLAYER}, accepte ce combat,\nje t'en prie."
+  },
+  {
+    "repere": "MauvilleCity_Text_WallyHereICome",
+    "texte": "Merci, {PLAYER}.\n\nTarsal, on y va !"
+  },
+  {
+    "repere": "MauvilleCity_Text_WallyDefeat",
+    "texte": "Timmy regarde sa Poké Ball.\n\nJ'ai perdu..."
+  },
+  {
+    "repere": "MauvilleCity_Text_WallyIllGoBackToVerdanturf",
+    "texte": "Tonton, je vais rentrer\nà Vergazon."
+  },
+  {
+    "repere": "MauvilleCity_Text_ThankYouNotEnoughToBattle",
+    "texte": "Merci, {PLAYER}.\n\nIl ne suffit pas de posséder\nun Pokémon pour savoir le diriger."
+  },
+  {
+    "repere": "MauvilleCity_Text_UncleNoNeedToBeDown",
+    "texte": "Timmy, tu as le temps d'apprendre.\n\nRentrons. On nous attend pour dîner."
+  },
+  {
+    "repere": "MauvilleCity_Text_UncleVisitUsSometime",
+    "texte": "C'est toi qui as accompagné Timmy\npour sa première capture ?\n\nViens nous voir à Vergazon.\nIl sera content de te retrouver."
+  },
+  {
+    "repere": "MauvilleCity_Text_WallyPokenavCall",
+    "texte": "Bip ! C'est Timmy, {PLAYER} !\n\nMon oncle m'a acheté un PokéNav.\nJe pourrai t'appeler maintenant.\n\nÀ bientôt ! Clic !"
+  },
+  {
+    "repere": "MauvilleCity_Text_RegisteredWally",
+    "texte": "Timmy est enregistré\ndans le PokéNav."
+  },
+  {
+    "repere": "MauvilleCity_Text_ScottYouDidntHoldBack",
+    "texte": "Scott. J'ai vu votre combat.\n\nTu n'as pas retenu tes coups\nparce que Timmy est ton ami.\n\nJe vais suivre vos progrès."
+  },
+  {
+    "repere": "MauvilleCity_Text_WattsonNeedFavorTakeKey",
+    "texte": "Voltère. Ah, {PLAYER} !\n\nSous Lavandia se trouve une usine,\nNew Lavandia.\n\nSon générateur fonctionne mal.\nIl faut l'arrêter avant un accident.\n\nPrends cette clef pour y entrer."
+  },
+  {
+    "repere": "MauvilleCity_Text_WattsonWontBeChallenge",
+    "texte": "Utilise Surf au bout de la Route 110\npour atteindre New Lavandia.\n\nLe générateur est à l'intérieur.\nJe compte sur toi."
+  },
+  {
+    "repere": "MauvilleCity_Text_WattsonThanksTakeTM",
+    "texte": "Tu as arrêté le générateur !\n\nLes ouvriers pourront reprendre\nles vérifications.\n\nTiens, la CT contenant Tonnerre."
+  },
+  {
+    "repere": "MauvilleCity_Text_WattsonYoungTakeCharge",
+    "texte": "Je suis content que quelqu'un\nait pensé à couper le courant\n\navant de remettre la machine\naux ouvriers."
+  },
+  {
+    "repere": "MauvilleCity_Text_NurseHurtMonBackToHealth",
+    "texte": "Après un combat, fais soigner\nles Pokémon blessés."
+  },
+  {
+    "repere": "MauvilleCity_Text_AllSortsOfPeopleComeThrough",
+    "texte": "Quatre routes se croisent ici.\n\nLes équipes changent de quart\nau milieu des voyageurs."
+  },
+  {
+    "repere": "MauvilleCity_Text_RydelVeryGenerous",
+    "texte": "Rodolphe tient le magasin de vélos.\n\nIl aide souvent ceux qui viennent\nde loin à pied."
+  },
+  {
+    "repere": "MauvilleCity_Text_PokemonCanJumpYouOnBike",
+    "texte": "Même à vélo, tu peux rencontrer\ndes Pokémon sauvages dans l'herbe."
+  },
+  {
+    "repere": "MauvilleCity_Text_CitySign",
+    "texte": "Lavandia. Quartier des compteurs.\n\nLes quatre routes se rejoignent."
+  },
+  {
+    "repere": "MauvilleCity_Text_GymSign",
+    "texte": "Arène de Lavandia.\nChampion : Voltère.\n\nRegistre des eaux, troisième pièce."
+  },
+  {
+    "repere": "MauvilleCity_Text_BikeShopSign",
+    "texte": "Cycles Rodolphe.\n\nRéglage et entretien des vélos."
+  },
+  {
+    "repere": "MauvilleCity_Text_GameCornerSign",
+    "texte": "Casino de Lavandia.\n\nLes mises sont affichées à l'entrée."
+  },
+  {
+    "repere": "MauvilleCity_Text_ExplainTV",
+    "texte": "Tu regardes parfois la télévision ?\n\nOn y passe des reportages sur\nles Dresseurs et leurs voyages.\n\nIl arrive qu'on y reconnaisse\nquelqu'un du quartier."
+  },
+  {
+    "repere": "MauvilleCity_Text_BeenCheckingOutTV",
+    "texte": "As-tu vu les nouvelles\nà la télévision ?"
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_GymGuideAdvice",
+    "texte": "Voltère utilise le type Électrik.\n\nAttention aux Pokémon Eau.\nLe type Sol est un bon choix.\n\nLes interrupteurs commandent\nles barrières de cette arène."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_GymGuidePostVictory",
+    "texte": "Tu as franchi les barrières !\n\nLa troisième pièce est à toi."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_KirkIntro",
+    "texte": "J'ai branché mon ampli ici.\n\nÉcoute bien le rythme du combat !"
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_KirkDefeat",
+    "texte": "On va baisser le volume."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_KirkPostBattle",
+    "texte": "La musique comme le combat,\nc'est une question de rythme."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_ShawnIntro",
+    "texte": "Voltère m'a appris à combattre.\n\nVoyons ce que tu sais faire."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_ShawnDefeat",
+    "texte": "Mes Pokémon sont épuisés."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_ShawnPostBattle",
+    "texte": "Voltère connaît chaque conduite\nde Lavandia.\n\nIl travaillait déjà ici avant\nla naissance de ton père."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_BenIntro",
+    "texte": "Il y a des interrupteurs partout.\n\nTu vas devoir choisir les bons."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_BenDefeat",
+    "texte": "Je n'avais pas prévu cette attaque."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_BenPostBattle",
+    "texte": "Voltère construit lui-même\nles circuits de cette arène."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_VivianIntro",
+    "texte": "Mes Pokémon vont te surprendre."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_VivianDefeat",
+    "texte": "C'est moi qui suis surprise !"
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_VivianPostBattle",
+    "texte": "Voltère a participé à la naissance\nde cette ville.\n\nIl garde encore ses premiers plans."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_AngeloIntro",
+    "texte": "J'aime regarder les étincelles\nquand on ferme un circuit."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_AngeloDefeat",
+    "texte": "J'en ai plein les yeux."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_AngeloPostBattle",
+    "texte": "J'espère que Voltère restera ici.\n\nIl connaît le nom des ouvriers."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_WattsonIntro",
+    "texte": "Je suis Voltère, le champion.\n\nLes barrières fonctionnent encore.\nJ'ai refait les circuits moi-même.\n\nTu viens pour la troisième pièce ?\nAlors, commençons le combat."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_WattsonDefeat",
+    "texte": "Voltère éclate de rire.\n\nTu as gagné ! Voici le Badge Dynamo.\nJe vais ouvrir le registre."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_ReceivedDynamoBadge",
+    "texte": "{PLAYER} reçoit le Badge Dynamo !"
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_ExplainShockWave",
+    "texte": "La CT34 contient Onde de Choc.\n\nCette attaque ne rate normalement\njamais sa cible."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_RegisteredWattson",
+    "texte": "Voltère est enregistré\ndans le PokéNav."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_WattsonPostBattle",
+    "texte": "Tu as encore du chemin devant toi.\n\nGarde les pièces du registre."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_WattsonGoForthAndEndeavor",
+    "texte": "Continue, mon petit !\n\nLes autres cercles t'attendent."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_GymStatue",
+    "texte": "Arène Pokémon de Lavandia."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_GymStatueCertified",
+    "texte": "Arène Pokémon de Lavandia.\n\nDresseur reconnu par Voltère :\n{PLAYER}."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_WattsonPreRematch",
+    "texte": "Ah, tu es de retour !\n\nJ'ai repris l'entraînement.\nVoyons ce que tu as appris."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_WattsonRematchDefeat",
+    "texte": "Mes batteries sont à plat !"
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_WattsonPostRematch",
+    "texte": "Il faudra que je recharge tout ça.\n\nReviens pour un autre combat."
+  },
+  {
+    "repere": "MauvilleCity_Gym_Text_WattsonRematchNeedTwoMons",
+    "texte": "Tu veux un autre combat ?\n\nIl faut au moins deux Pokémon\naptes au combat pour cette épreuve."
+  },
+  {
+    "repere": "MauvilleCity_BikeShop_Text_RydelGreeting",
+    "texte": "Bonjour ! Je suis Rodolphe.\n\nJe tiens cet atelier de vélos."
+  },
+  {
+    "repere": "MauvilleCity_BikeShop_Text_DidYouComeFromFarAway",
+    "texte": "Tes semelles sont bien usées.\n\nTu viens de loin ?"
+  },
+  {
+    "repere": "MauvilleCity_BikeShop_Text_GuessYouDontNeedBike",
+    "texte": "Alors, tu n'as peut-être pas\nbesoin d'un vélo pour le moment."
+  },
+  {
+    "repere": "MauvilleCity_BikeShop_Text_ExplainBikesChooseWhichOne",
+    "texte": "Depuis Bourg-en-Vol, à pied ?\n\nJe vais te donner un vélo.\nJ'en ai deux modèles.\n\nLe Vélo Course est rapide.\nLe Vélo Cross permet des figures.\n\nChoisis celui qui te convient."
+  },
+  {
+    "repere": "MauvilleCity_BikeShop_Text_ChoseMachBike",
+    "texte": "{PLAYER} choisit le Vélo Course."
+  },
+  {
+    "repere": "MauvilleCity_BikeShop_Text_ChoseAcroBike",
+    "texte": "{PLAYER} choisit le Vélo Cross."
+  },
+  {
+    "repere": "MauvilleCity_BikeShop_Text_ComeBackToSwitchBikes",
+    "texte": "Tu peux revenir échanger ton vélo\nquand tu le souhaites."
+  },
+  {
+    "repere": "MauvilleCity_BikeShop_Text_WantToSwitchBikes",
+    "texte": "Veux-tu changer de vélo ?"
+  },
+  {
+    "repere": "MauvilleCity_BikeShop_Text_IllSwitchBikes",
+    "texte": "D'accord. Je prends celui-ci\net te donne l'autre."
+  },
+  {
+    "repere": "MauvilleCity_BikeShop_Text_ExchangedMachForAcro",
+    "texte": "{PLAYER} reçoit le Vélo Cross\nen échange du Vélo Course."
+  },
+  {
+    "repere": "MauvilleCity_BikeShop_Text_ExchangedAcroForMach",
+    "texte": "{PLAYER} reçoit le Vélo Course\nen échange du Vélo Cross."
+  },
+  {
+    "repere": "MauvilleCity_BikeShop_Text_HappyYouLikeIt",
+    "texte": "Bien. Il te convient, alors."
+  },
+  {
+    "repere": "MauvilleCity_BikeShop_Text_OhYourBikeIsInPC",
+    "texte": "Ton vélo est dans le PC ?\n\nVa le chercher et je pourrai\nte l'échanger."
+  },
+  {
+    "repere": "MauvilleCity_BikeShop_Text_HandbooksAreInBack",
+    "texte": "Les manuels sont au fond.\n\nTu peux les consulter si tu as\nbesoin de conseils."
+  },
+  {
+    "repere": "MauvilleCity_BikeShop_Text_MachHandbookWhichPage",
+    "texte": "Manuel du Vélo Course.\nQuelle page veux-tu lire ?"
+  },
+  {
+    "repere": "MauvilleCity_BikeShop_Text_HowToRideMachBike",
+    "texte": "Dirige-toi avec la manette +.\nLe vélo accélère en roulant.\n\nRelâche la manette pour ralentir\net t'arrêter.\n\nLire une autre page ?"
+  },
+  {
+    "repere": "MauvilleCity_BikeShop_Text_HowToTurnMachBike",
+    "texte": "Le Vélo Course prend de la vitesse.\n\nRelâche la manette + et ralentis\navant de tourner.\n\nLire une autre page ?"
+  },
+  {
+    "repere": "MauvilleCity_BikeShop_Text_SandySlopes",
+    "texte": "Le Vélo Course permet de monter\nles pentes de sable avec de l'élan.\n\nLire une autre page ?"
+  },
+  {
+    "repere": "MauvilleCity_BikeShop_Text_AcroHandbookWhichPage",
+    "texte": "Manuel du Vélo Cross.\nQuelle page veux-tu lire ?"
+  },
+  {
+    "repere": "MauvilleCity_BikeShop_Text_Wheelies",
+    "texte": "Appuie sur B pour lever la roue\navant en roulant.\n\nDirige-toi avec la manette +.\n\nLire une autre page ?"
+  },
+  {
+    "repere": "MauvilleCity_BikeShop_Text_BunnyHops",
+    "texte": "Maintiens B pour faire des bonds.\n\nTu peux aussi avancer en sautant\nsur certains rebords.\n\nLire une autre page ?"
+  },
+  {
+    "repere": "MauvilleCity_BikeShop_Text_Jumps",
+    "texte": "Appuie sur B et une direction\npour sauter.\n\nGauche ou droite : saut latéral.\nHaut : changement de direction.\n\nLire une autre page ?"
+  },
+  {
+    "repere": "MauvilleCity_House1_Text_ImRockSmashDudeTakeThis",
+    "texte": "On m'appelle le type Éclate-Roc.\n\nJe dégage les chemins quand\nles pierres tombent.\n\nTiens, je te donne cette CS."
+  },
+  {
+    "repere": "MauvilleCity_House1_Text_ExplainRockSmash",
+    "texte": "Cette CS contient Éclate-Roc.\n\nAvec le Badge Dynamo, un Pokémon\npeut briser les rochers fissurés."
+  },
+  {
+    "repere": "MauvilleCity_House1_Text_MonCanFlyOutOfSmashedRock",
+    "texte": "Attention. Un Pokémon peut surgir\nd'un rocher que tu viens de briser."
+  },
+  {
+    "repere": "MauvilleCity_House2_Text_BuyHarborMailAtSlateport",
+    "texte": "J'aimerais acheter une Lettre Port\nà la boutique de Poivressel.\n\nAvec un vélo, le trajet serait court."
+  },
+  {
+    "repere": "MauvilleCity_House2_Text_TradeHarborMailForCoinCase",
+    "texte": "Tu as une Lettre Port ?\n\nVeux-tu l'échanger contre\nune Boîte Jetons ?"
+  },
+  {
+    "repere": "MauvilleCity_House2_Text_IllTradeYouCoinCase",
+    "texte": "Merci ! Je vais pouvoir écrire.\n\nVoici la Boîte Jetons."
+  },
+  {
+    "repere": "MauvilleCity_House2_Text_UseCoinCaseAtGameCorner",
+    "texte": "La Boîte Jetons sert à ranger\nles jetons du casino."
+  },
+  {
+    "repere": "MauvilleCity_House2_Text_ThatsDisappointing",
+    "texte": "D'accord. Je garde la boîte.\n\nReviens si tu changes d'avis."
+  },
+  {
+    "repere": "MauvilleCity_Mart_Text_ItemsToTemporarilyElevateStats",
+    "texte": "L'Attaque + et la Défense +\naugmentent les stats en combat.\n\nLeur effet est temporaire."
+  },
+  {
+    "repere": "MauvilleCity_Mart_Text_DecisionsDetermineBattle",
+    "texte": "Une capacité ou un objet ?\n\nChaque décision change la suite\ndu combat."
+  },
+  {
+    "repere": "MauvilleCity_PokemonCenter_1F_Text_ManOverThereSaysWeirdThings",
+    "texte": "Cet homme raconte des histoires\nétranges.\n\nJe n'oublierai pas sa façon\nde parler."
+  },
+  {
+    "repere": "MauvilleCity_PokemonCenter_1F_Text_MyDataUpdatedFromRecordCorner",
+    "texte": "J'ai échangé des données à l'étage.\n\nLes expressions à la mode à Myokara\nsont maintenant les mêmes\n\nque celles de mes amis."
+  },
+  {
+    "repere": "MauvilleCity_PokemonCenter_1F_Text_RecordCornerSoundsFun",
+    "texte": "Le Centre de données est ouvert\nà l'étage.\n\nOn peut y échanger des informations\navec d'autres joueurs."
+  }
+]
