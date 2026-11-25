@@ -1,0 +1,98 @@
+{
+  "version": "V52",
+  "crc32_source": "75204B25",
+  "crc32_v51": "C129D462",
+  "crc32_cible": "CC07FD4A",
+  "sha256_patch": "f62f2bc974adf31e327f8e4ec8470859b9f086d07e807ad07b79c08d1f0dc1d2",
+  "compositions": [
+    {
+      "id": 610,
+      "titre": "Le merle de Manille",
+      "bpm": 104,
+      "cartes": [
+        [
+          0,
+          9
+        ]
+      ]
+    },
+    {
+      "id": 611,
+      "titre": "Les pierres et les noms",
+      "bpm": 78,
+      "cartes": [
+        [
+          1,
+          10
+        ],
+        [
+          1,
+          11
+        ]
+      ]
+    },
+    {
+      "id": 612,
+      "titre": "La baie des départs",
+      "bpm": 112,
+      "cartes": [
+        [
+          1,
+          14
+        ],
+        [
+          1,
+          15
+        ]
+      ]
+    },
+    {
+      "id": 613,
+      "titre": "Le seuil des ascendants",
+      "bpm": 88,
+      "cartes": [
+        [
+          1,
+          18
+        ]
+      ]
+    },
+    {
+      "id": 614,
+      "titre": "Les trois sceaux",
+      "bpm": 70,
+      "cartes": [
+        [
+          1,
+          21
+        ],
+        [
+          1,
+          22
+        ]
+      ]
+    }
+  ],
+  "mesures_par_composition": 16,
+  "pistes_par_composition": 5,
+  "boucles_verifiees": 25,
+  "cartes_reaffectees": 8,
+  "entrees_originales_preservees": 610,
+  "references_table": [
+    3051820,
+    3051872,
+    3051948,
+    3052032,
+    3052084
+  ],
+  "nouvelle_table": "0x1ca993c",
+  "octets_nouveaux": 11380,
+  "aller_retour": true,
+  "test_audio_emulateur": false,
+  "limites": [
+    "Theme exterieur commun aux trois secteurs.",
+    "Rendu audio M4A non valide en emulation.",
+    "Aucun changement aux musiques de combat et fanfares.",
+    "Generateur local."
+  ]
+}
