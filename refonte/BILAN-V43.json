@@ -1,0 +1,42 @@
+{
+  "version": "V43",
+  "crc32_source": "75204B25",
+  "crc32_cible": "75723974",
+  "sha256_patch": "e91af6ada15f07ba046ae8e5bb245600168b45ccbfa0bccb961fdcf961bd7fc1",
+  "palettes_personnalisees": 3,
+  "metatiles_ajoutes": 52,
+  "tiles_graphiques_ajoutes": 12,
+  "cases_modifiees": 74,
+  "ornements": [
+    {
+      "type": "lanterne",
+      "coord": [
+        101,
+        6
+      ]
+    },
+    {
+      "type": "ancre",
+      "coord": [
+        131,
+        6
+      ]
+    },
+    {
+      "type": "emblème",
+      "coord": [
+        209,
+        5
+      ]
+    }
+  ],
+  "collisions_et_attributs_preserves": true,
+  "evenements_preserves": true,
+  "aller_retour": true,
+  "test_emulateur": false,
+  "limites": [
+    "Aperçu statique, sans animation ni sprites.",
+    "Trois façades seulement; architecture complète non personnalisée.",
+    "Aucune validation de la palette ou des transitions en émulateur."
+  ]
+}
