@@ -1,0 +1,49 @@
+{
+  "version": "V51",
+  "crc32_source": "75204B25",
+  "crc32_v50": "FBA03359",
+  "crc32_cible": "C129D462",
+  "sha256_patch": "f39768e998c2cc5a13bba97f43d32306df0c68156e28ded63f43671630b8e26b",
+  "dimensions": [
+    96,
+    66
+  ],
+  "nouveaux_metatiles": 51,
+  "nouveaux_tiles_8x8": 44,
+  "types_metatiles": {
+    "sol": 10,
+    "rempart": 5,
+    "toiture": 27,
+    "medaillon": 3,
+    "lampadaire": 6
+  },
+  "cases_modifiees": 1250,
+  "modifications": {
+    "sol_quartier": 238,
+    "sol_historique": 209,
+    "sol_binondo": 121,
+    "sol_port": 166,
+    "sol_ascension": 300,
+    "remparts": 114,
+    "toit_jardins": 15,
+    "toit_voyageurs": 15,
+    "toit_archives": 15,
+    "toit_fort": 15,
+    "toit_logements": 15,
+    "toit_familles": 15,
+    "medaillons": 3,
+    "lampadaires": 12
+  },
+  "comportements_et_collisions_preserves": true,
+  "portes_preservees": 17,
+  "evenements_preserves": 117,
+  "allocation": "0x1ca1000",
+  "octets_nouveaux": 24888,
+  "aller_retour": true,
+  "test_emulateur": false,
+  "limites": [
+    "Aperçu statique sans animation, sprites ni simulation GBA.",
+    "Architecture des bâtiments encore dérivée des façades natives ; nouveaux sols, remparts et ornements dessinés en 4bpp.",
+    "Les palettes et le callback natif sont conservés."
+  ]
+}
