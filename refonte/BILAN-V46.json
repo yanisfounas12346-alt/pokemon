@@ -1,0 +1,71 @@
+{
+  "version": "V46",
+  "crc32_source": "75204B25",
+  "crc32_v45": "037EB5C9",
+  "crc32_cible": "0D8B5D7D",
+  "sha256_patch": "acd34db200f07bba8b45c8524481eb044297a484c2a8f6ef65d2e5e3f184bc69",
+  "dimensions_avant": [
+    244,
+    20
+  ],
+  "dimensions_apres": [
+    96,
+    66
+  ],
+  "tampon_carte": 8880,
+  "tampon_limite_reference": 10240,
+  "secteurs": [
+    [
+      0,
+      96,
+      0
+    ],
+    [
+      96,
+      176,
+      23
+    ],
+    [
+      176,
+      244,
+      46
+    ]
+  ],
+  "liaisons": [
+    [
+      24,
+      18,
+      24
+    ],
+    [
+      72,
+      18,
+      24
+    ],
+    [
+      8,
+      41,
+      47
+    ],
+    [
+      37,
+      41,
+      47
+    ]
+  ],
+  "liaisons_alternatives_verifiees": 4,
+  "evenements_controles": 103,
+  "panneaux_directionnels": 4,
+  "cases_accessibles_avant_approx": 2977,
+  "cases_accessibles_apres_approx": 3017,
+  "herbes_accessibles_avant_pokedex": 0,
+  "herbes_accessibles_apres_pokedex": 64,
+  "scripts_et_warps_preserves": true,
+  "aller_retour": true,
+  "test_emulateur": false,
+  "limites": [
+    "Nouvelle partie recommandée : coordonnées de sauvegarde extérieure changées.",
+    "Contrôle statique seulement.",
+    "Générateur local."
+  ]
+}
