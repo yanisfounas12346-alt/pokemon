@@ -1,0 +1,46 @@
+{
+  "version": "V59",
+  "crc32_source": "75204B25",
+  "crc32_v58": "CB66F68E",
+  "crc32_cible": "505970E4",
+  "sha256_patch": "f2d9d0de34d0ffd54af691b31a12d4ef8555384db0183152ca386d62449767cb",
+  "nouvelles_cartes": [
+    23,
+    24,
+    25,
+    26,
+    27,
+    28,
+    29,
+    30,
+    31,
+    32
+  ],
+  "portes": 9,
+  "pnj_exterieurs_nouveaux": 18,
+  "pnj_interieurs_nouveaux": 18,
+  "facades_decoratives_nouvelles": 8,
+  "transitions_reciproques_verifiees": 29,
+  "panneaux_nouveaux": 9,
+  "cases_accessibles": 3354,
+  "stock_boutique": [
+    4,
+    3,
+    13,
+    14,
+    17,
+    18,
+    22
+  ],
+  "allocation": "0x1f93000",
+  "octets_nouveaux": 15472,
+  "aller_retour": true,
+  "test_emulateur": false,
+  "limites": [
+    "Intérieurs et sprites natifs réutilisés.",
+    "Huit façades supplémentaires décoratives.",
+    "Point de retour après défaite non personnalisé.",
+    "Lave, vannes et épreuve de Ferran non activées.",
+    "Validation statique uniquement."
+  ]
+}
