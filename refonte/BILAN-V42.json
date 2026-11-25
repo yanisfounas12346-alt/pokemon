@@ -1,0 +1,100 @@
+{
+  "version": "V42",
+  "crc32_source": "75204B25",
+  "crc32_cible": "7F5B2395",
+  "sha256_patch": "768954a5231bc5e0e1d00551d8bf3f54a84b8b87fd50212929debd2d6dab007c",
+  "secrets": [
+    {
+      "nom": "Le parterre oublié",
+      "coord": [
+        21,
+        13
+      ],
+      "flag": 627,
+      "objet": 13,
+      "quantite": 1
+    },
+    {
+      "nom": "La pierre des noms",
+      "coord": [
+        55,
+        12
+      ],
+      "flag": 628,
+      "objet": 0,
+      "quantite": 0
+    },
+    {
+      "nom": "La réserve du fort",
+      "coord": [
+        79,
+        15
+      ],
+      "flag": 629,
+      "objet": 14,
+      "quantite": 2
+    },
+    {
+      "nom": "Le cadeau de Binondo",
+      "coord": [
+        105,
+        4
+      ],
+      "flag": 630,
+      "objet": 4,
+      "quantite": 2
+    },
+    {
+      "nom": "Le registre des quais",
+      "coord": [
+        130,
+        7
+      ],
+      "flag": 631,
+      "objet": 0,
+      "quantite": 0
+    },
+    {
+      "nom": "La caisse du port",
+      "coord": [
+        153,
+        6
+      ],
+      "flag": 632,
+      "objet": 26,
+      "quantite": 2
+    },
+    {
+      "nom": "La promesse du voyage",
+      "coord": [
+        181,
+        12
+      ],
+      "flag": 633,
+      "objet": 0,
+      "quantite": 0
+    },
+    {
+      "nom": "La réserve des apprentis",
+      "coord": [
+        224,
+        15
+      ],
+      "flag": 634,
+      "objet": 18,
+      "quantite": 1
+    }
+  ],
+  "tests_interpreteur_statique": 29,
+  "indices_ajoutes": 8,
+  "recompenses_uniques": 5,
+  "decouvertes_narratives": 3,
+  "aller_retour": true,
+  "test_emulateur": false,
+  "limites": [
+    "Accès statique selon collisions et PNJ fixes, pas une validation du moteur.",
+    "Interaction par A sur décor existant; aucun nouveau passage.",
+    "Pas de test de sauvegarde ni de largeur pixel.",
+    "Générateur local."
+  ]
+}
