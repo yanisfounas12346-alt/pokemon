@@ -1,0 +1,132 @@
+{
+  "version": "V49",
+  "crc32_source": "75204B25",
+  "crc32_v48": "FA736EC9",
+  "crc32_cible": "78AE3855",
+  "sha256_patch": "9813d5079dc3764633ba88ccfd5cba665b8ccc01a371f3560713fc6616b815e5",
+  "nouveaux_dresseurs": [
+    {
+      "id": 857,
+      "nom": "NINO",
+      "position": [
+        50,
+        50
+      ],
+      "equipe": [
+        [
+          286,
+          5
+        ],
+        [
+          288,
+          6
+        ]
+      ]
+    },
+    {
+      "id": 858,
+      "nom": "ADA",
+      "position": [
+        60,
+        51
+      ],
+      "equipe": [
+        [
+          290,
+          6
+        ],
+        [
+          304,
+          7
+        ]
+      ]
+    },
+    {
+      "id": 859,
+      "nom": "LUZ",
+      "position": [
+        51,
+        61
+      ],
+      "equipe": [
+        [
+          309,
+          7
+        ],
+        [
+          183,
+          8
+        ]
+      ]
+    },
+    {
+      "id": 860,
+      "nom": "SAMI",
+      "position": [
+        60,
+        60
+      ],
+      "equipe": [
+        [
+          295,
+          7
+        ],
+        [
+          298,
+          8
+        ],
+        [
+          306,
+          8
+        ]
+      ]
+    },
+    {
+      "id": 861,
+      "nom": "IRIS",
+      "position": [
+        64,
+        56
+      ],
+      "equipe": [
+        [
+          392,
+          8
+        ],
+        [
+          306,
+          9
+        ],
+        [
+          304,
+          9
+        ]
+      ]
+    }
+  ],
+  "dresseurs_jardin_total": 7,
+  "nouveaux_pnj": 6,
+  "recompense": [
+    13,
+    5
+  ],
+  "flag_recompense": "0x291",
+  "references_table": 37,
+  "identifiants_restants": [
+    862,
+    863
+  ],
+  "tests_script_recompense": 1024,
+  "herbes_avant_pokedex": 0,
+  "herbes_apres_pokedex": 64,
+  "allocation": "0x1c28000",
+  "octets_nouveaux": 36844,
+  "aller_retour": true,
+  "test_emulateur": false,
+  "limites": [
+    "Combats indépendants et facultatifs, non testés en émulateur.",
+    "Sprites natifs, difficulté à mesurer en jeu.",
+    "Deux identifiants disponibles selon le moteur de référence.",
+    "Générateur local."
+  ]
+}
