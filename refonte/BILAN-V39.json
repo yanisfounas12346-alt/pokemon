@@ -1,0 +1,43 @@
+{
+  "version": "V39",
+  "crc32_source": "75204B25",
+  "crc32_cible": "1CDB17DE",
+  "sha256_patch": "4767ffecf0e5395e0ce27820cb08821d97a4a0e1a9b44bb66e5d9ad67b17c46d",
+  "dimensions_manille": [
+    220,
+    20
+  ],
+  "buffer_carte_cases": 7990,
+  "buffer_limite_reference": 10240,
+  "nouvelles_cartes": [
+    [
+      1,
+      19
+    ],
+    [
+      1,
+      20
+    ]
+  ],
+  "dimensions_passage": [
+    35,
+    38
+  ],
+  "dimensions_naples_provisoire": [
+    20,
+    20
+  ],
+  "nouveaux_pnj": 6,
+  "nouveaux_panneaux": 2,
+  "cases_accessibles_extension_manille": 256,
+  "cases_accessibles_passage": 257,
+  "cases_accessibles_naples": 160,
+  "flag_garde": "0x74",
+  "aller_retour": true,
+  "test_emulateur": false,
+  "limites": [
+    "Passage volcanique provisoire, géométrie et tilesets natifs partagés",
+    "Naples provisoire sans combat ni services",
+    "Contrôle statique uniquement, condition du garde et transitions à tester en jeu"
+  ]
+}
