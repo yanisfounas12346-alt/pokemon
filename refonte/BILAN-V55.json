@@ -1,0 +1,36 @@
+{
+  "version": "V55",
+  "crc32_source": "75204B25",
+  "crc32_v54": "AAB41C42",
+  "crc32_cible": "2E7DFF8E",
+  "sha256_patch": "96321b7e934a1157d18162e76703a14f8c7f817e3d35c8476ba8032e8e59d288",
+  "panneaux_modifies": 10,
+  "pnj_orientation": 8,
+  "guide_progression": true,
+  "kit_depart": [
+    [
+      4,
+      5
+    ],
+    [
+      13,
+      3
+    ]
+  ],
+  "flags": [
+    "0x29e",
+    "0x29f"
+  ],
+  "tests_kit": 64,
+  "tests_guide": 32,
+  "allocation": "0x1cb4000",
+  "octets_nouveaux": 2632,
+  "aller_retour": true,
+  "test_emulateur": false,
+  "limites": [
+    "Aucune modification de difficulté des combats sans essais réels.",
+    "Instructions en dialogue et panneaux, pas de menu de carte personnalisé.",
+    "Kit après Pokédex, distribué par le PNJ 33 près du centre des ascendants.",
+    "Tests de sous-ensemble bytecode, pas de simulation GBA."
+  ]
+}
