@@ -1,0 +1,48 @@
+{
+  "version": "V44",
+  "crc32_source": "75204B25",
+  "crc32_v43": "75723974",
+  "crc32_cible": "EA2EFD9B",
+  "sha256_patch": "0ad3be527ba9ca689414a34a0d50a4b62977888a7c9dc268947a0cfc645a2546",
+  "scenes": [
+    {
+      "carte": [
+        1,
+        18
+      ],
+      "titre": "Inscription au centre",
+      "variable": "0x40a8",
+      "pages": 5
+    },
+    {
+      "carte": [
+        1,
+        19
+      ],
+      "titre": "Souvenir du lavoir",
+      "variable": "0x409b",
+      "pages": 5
+    },
+    {
+      "carte": [
+        1,
+        20
+      ],
+      "titre": "Arrivée à Naples",
+      "variable": "0x409d",
+      "pages": 5
+    }
+  ],
+  "dialogues_modifies": 9,
+  "tests_statiques": 18,
+  "allocation": "0x1b57000",
+  "octets_nouveaux": 1661,
+  "prologue_natif_preserve": true,
+  "aller_retour": true,
+  "test_emulateur": false,
+  "limites": [
+    "Scènes textuelles sans animation.",
+    "Variables inutilisées dans le moteur de référence, sauvegardes réelles non vérifiées.",
+    "Générateur local."
+  ]
+}
