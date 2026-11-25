@@ -1,0 +1,24 @@
+{
+  "version": "V45",
+  "crc32_source": "75204B25",
+  "crc32_v44": "EA2EFD9B",
+  "crc32_cible": "037EB5C9",
+  "sha256_patch": "080d2b689a6b1a4743ca178c7cb09070fb235a0a91558e4b063b5d8990bf61bd",
+  "total_cartes": 17,
+  "total_transitions": 48,
+  "total_pnj": 68,
+  "total_panneaux": 35,
+  "tests_quetes": 50,
+  "tests_secrets": 24,
+  "scenes_structure_verifiee": 3,
+  "tests_garde_soins": 7,
+  "correction": "Protection de l’infirmière si équipe vide; script natif préservé",
+  "aller_retour": true,
+  "test_emulateur": false,
+  "limites": [
+    "Accessibilité approximative (collisions et comportement eau/comptoir), pas de simulation GBA.",
+    "Point de réapparition du Centre Pokémon non personnalisé.",
+    "Naples provisoire; aucune validation depuis une nouvelle partie.",
+    "Aucun équilibrage de combat mesuré en jeu."
+  ]
+}
