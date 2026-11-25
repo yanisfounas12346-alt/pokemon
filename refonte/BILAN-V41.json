@@ -1,0 +1,108 @@
+{
+  "version": "V41",
+  "crc32_source": "75204B25",
+  "crc32_cible": "9C9A7CC5",
+  "sha256_patch": "8a3253f980b355b3a9cc97306601892f2e7075de1a39e082faf784c5fb4c469d",
+  "quetes": [
+    {
+      "nom": "Le dernier départ",
+      "flags": [
+        612,
+        613,
+        614
+      ],
+      "donneur": [
+        14,
+        1
+      ],
+      "contact": [
+        0,
+        27
+      ],
+      "objet": 26,
+      "quantite": 2
+    },
+    {
+      "nom": "Le compagnon perdu",
+      "flags": [
+        615,
+        616,
+        617
+      ],
+      "donneur": [
+        5,
+        1
+      ],
+      "contact": [
+        0,
+        10
+      ],
+      "objet": 4,
+      "quantite": 3
+    },
+    {
+      "nom": "Une place dans la file",
+      "flags": [
+        618,
+        619,
+        620
+      ],
+      "donneur": [
+        18,
+        1
+      ],
+      "contact": [
+        0,
+        35
+      ],
+      "objet": 13,
+      "quantite": 2
+    },
+    {
+      "nom": "Les lettres du port",
+      "flags": [
+        621,
+        622,
+        623
+      ],
+      "donneur": [
+        10,
+        1
+      ],
+      "contact": [
+        14,
+        2
+      ],
+      "objet": 14,
+      "quantite": 2
+    },
+    {
+      "nom": "Le marchand sans héritier",
+      "flags": [
+        624,
+        625,
+        626
+      ],
+      "donneur": [
+        13,
+        2
+      ],
+      "contact": [
+        12,
+        2
+      ],
+      "objet": 18,
+      "quantite": 2
+    }
+  ],
+  "pnj_scripts_modifies": 11,
+  "suivi_centre_ascendants": true,
+  "tests_interpreteur_statique": 50,
+  "aller_retour": true,
+  "test_emulateur": false,
+  "limites": [
+    "Flags inutilisés selon la source BPEF de référence, pas de validation sur sauvegarde réelle.",
+    "Suivi via un PNJ, pas de menu Journal intégré.",
+    "Générateur encore local."
+  ]
+}
