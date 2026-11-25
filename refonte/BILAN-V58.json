@@ -1,0 +1,37 @@
+{
+  "version": "V58",
+  "crc32_source": "75204B25",
+  "crc32_v57u": "A6D19118",
+  "crc32_cible": "CB66F68E",
+  "sha256_patch": "ae1c6157df9f595b567e458580e4126e0715272974c9b0bb7735984dafb1b6df",
+  "dimensions": [
+    80,
+    64
+  ],
+  "cases": 5120,
+  "buffer": 7410,
+  "layout_id": 442,
+  "layouts_natifs_preserves": 441,
+  "references_table": [
+    "0x849dc",
+    "0x1a9da8"
+  ],
+  "facades": 20,
+  "motifs_8x8": 262,
+  "metatiles": 202,
+  "cases_accessibles": 3500,
+  "panneaux": 9,
+  "pnj_preserves": 2,
+  "transitions_preservees": 1,
+  "pontages": 3,
+  "allocation": "0x1e41000",
+  "octets_nouveaux": 40868,
+  "aller_retour": true,
+  "test_emulateur": false,
+  "limites": [
+    "Façades décoratives, intérieurs et services à créer.",
+    "Lave statique bloquée, vannes et boss non intégrés.",
+    "Aperçu statique.",
+    "Sauvegarder à Manille plutôt qu'à Naples avant mise à jour."
+  ]
+}
