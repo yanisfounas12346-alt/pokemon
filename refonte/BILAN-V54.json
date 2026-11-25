@@ -1,0 +1,49 @@
+{
+  "version": "V54",
+  "crc32_source": "75204B25",
+  "crc32_v53": "C6151563",
+  "crc32_cible": "AAB41C42",
+  "sha256_patch": "722b4f8a99d17a79d68ce50d63e771ca26ed2bd5a65c2a10c4a64a075f38bce1",
+  "scenes": [
+    {
+      "carte": [
+        1,
+        18
+      ],
+      "titre": "Le registre",
+      "variable": "0x40a8",
+      "script": "0x1cb31a8"
+    },
+    {
+      "carte": [
+        1,
+        19
+      ],
+      "titre": "Le lavoir",
+      "variable": "0x409b",
+      "script": "0x1cb32c4"
+    },
+    {
+      "carte": [
+        1,
+        20
+      ],
+      "titre": "Les forges",
+      "variable": "0x409d",
+      "script": "0x1cb3478"
+    }
+  ],
+  "variable_choix": "0x40f7",
+  "tests_statiques": 14,
+  "allocation": "0x1cb3000",
+  "octets_nouveaux": 1206,
+  "aller_retour": true,
+  "test_emulateur": false,
+  "limites": [
+    "Orientations animées sans déplacement ni travelling.",
+    "Fondu et sons non testés en émulateur.",
+    "Choix narratif, sans modification des récompenses ni des quêtes.",
+    "Anciennes sauvegardes ayant déjà vu le centre conservent un état neutre.",
+    "Générateur local."
+  ]
+}
