@@ -1,0 +1,38 @@
+{
+  "version": "V47",
+  "crc32_source": "75204B25",
+  "crc32_v46": "0D8B5D7D",
+  "crc32_cible": "94C981B1",
+  "sha256_patch": "32a00f9df085e3e94c3fc465616cd72c8b25d1bbf0964908cf15def6c18f5631",
+  "pnj_scripts_modifies": 16,
+  "nouveaux_temoins": 5,
+  "issues": 10,
+  "flags_reference_inutilises": [
+    "0x27b",
+    "0x27c",
+    "0x27d",
+    "0x27e",
+    "0x27f",
+    "0x280",
+    "0x281",
+    "0x282",
+    "0x283",
+    "0x284",
+    "0x285",
+    "0x286",
+    "0x287",
+    "0x288",
+    "0x289"
+  ],
+  "tests_interpreteur_statique": 115,
+  "allocation": "0x1b76000",
+  "octets_nouveaux": 10065,
+  "aller_retour": true,
+  "test_emulateur": false,
+  "limites": [
+    "Choix narratifs persistants et réactions textuelles, pas de modification physique des quartiers.",
+    "Pas de nouveau combat ni de récompense exclusive.",
+    "Pas de validation en émulateur ni de migration réelle de sauvegarde.",
+    "Générateur local."
+  ]
+}
