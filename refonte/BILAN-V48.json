@@ -1,0 +1,116 @@
+{
+  "version": "V48",
+  "crc32_source": "75204B25",
+  "crc32_v47": "94C981B1",
+  "crc32_cible": "FA736EC9",
+  "sha256_patch": "6821bbbbbcee241a1620b01482084c36ef62379fb7cf0ba6f780f3872704e9cd",
+  "nouvelles_cartes": [
+    [
+      1,
+      21
+    ],
+    [
+      1,
+      22
+    ]
+  ],
+  "interieurs_dimensions": [
+    [
+      10,
+      9
+    ],
+    [
+      11,
+      8
+    ]
+  ],
+  "interactions_ajoutees": [
+    [
+      11,
+      4,
+      1
+    ],
+    [
+      14,
+      4,
+      1
+    ],
+    [
+      14,
+      7,
+      1
+    ],
+    [
+      10,
+      2,
+      1
+    ],
+    [
+      21,
+      0,
+      1
+    ],
+    [
+      21,
+      2,
+      1
+    ],
+    [
+      21,
+      4,
+      1
+    ],
+    [
+      21,
+      7,
+      1
+    ],
+    [
+      21,
+      6,
+      1
+    ],
+    [
+      22,
+      4,
+      1
+    ],
+    [
+      22,
+      7,
+      1
+    ]
+  ],
+  "indices": 2,
+  "sceaux": 3,
+  "recompenses": [
+    [
+      13,
+      3
+    ],
+    [
+      4,
+      5
+    ]
+  ],
+  "flags": [
+    650,
+    651,
+    652,
+    653,
+    654,
+    655,
+    656
+  ],
+  "tests_interpreteur_statique": 27,
+  "allocation": "0x1bef000",
+  "octets_nouveaux": 1936,
+  "aller_retour": true,
+  "test_emulateur": false,
+  "limites": [
+    "Graphismes intérieurs natifs réutilisés.",
+    "Accès par interaction et téléportation scriptée; sortie physique vers Manille.",
+    "Les indices sont des interactions de décor, sans animation.",
+    "Transitions, sauvegarde et affichage à vérifier en émulateur."
+  ]
+}
