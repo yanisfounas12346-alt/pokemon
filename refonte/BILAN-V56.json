@@ -1,0 +1,30 @@
+{
+  "version": "V56",
+  "crc32_source": "75204B25",
+  "crc32_v55": "2E7DFF8E",
+  "crc32_cible": "DE4D12F5",
+  "sha256_patch": "55fdcdfa25c9564930c931175f29f2589647c4d1deb2e40283c09bb8534fc0ef",
+  "taille_rom": 33554432,
+  "total_cartes": 24,
+  "total_transitions": 62,
+  "total_objets_evenement": 140,
+  "total_panneaux": 73,
+  "total_evenements_coord": 17,
+  "corrections": [
+    "Neuf équipes réencodées en structures natives de six octets; 22 Pokémon.",
+    "Kit: chaque catégorie peut être récupérée indépendamment et confirmation complète uniquement après les deux."
+  ],
+  "tests_kit": 96,
+  "boucles_musicales": 25,
+  "especes_sauvages_distinctes": 21,
+  "portes_natives_non_animees": 4,
+  "aller_retour": true,
+  "test_emulateur": false,
+  "limites": [
+    "Audit statique, pas de parcours réel depuis une nouvelle partie.",
+    "Respawn personnalisé du centre non implémenté.",
+    "Naples encore provisoire.",
+    "Aucun identifiant de dresseur natif restant; extension nécessaire.",
+    "Le rapport détaillé et générateur restent locaux."
+  ]
+}
