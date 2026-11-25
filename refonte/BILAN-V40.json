@@ -1,0 +1,117 @@
+{
+  "version": "V40",
+  "crc32_source": "75204B25",
+  "crc32_cible": "221BD7D8",
+  "sha256_patch": "9be82381742b2ad3d50a67c5f9d436e30f021fdd927c52385f7cf5e06fccbd8d",
+  "dimensions_manille": [
+    244,
+    20
+  ],
+  "cases_herbes": 64,
+  "especes": 10,
+  "slots_rencontres": [
+    [
+      2,
+      3,
+      288
+    ],
+    [
+      2,
+      3,
+      286
+    ],
+    [
+      3,
+      4,
+      290
+    ],
+    [
+      3,
+      4,
+      304
+    ],
+    [
+      3,
+      4,
+      295
+    ],
+    [
+      3,
+      4,
+      298
+    ],
+    [
+      4,
+      5,
+      309
+    ],
+    [
+      4,
+      5,
+      306
+    ],
+    [
+      4,
+      5,
+      183
+    ],
+    [
+      4,
+      5,
+      304
+    ],
+    [
+      5,
+      6,
+      392
+    ],
+    [
+      5,
+      6,
+      306
+    ]
+  ],
+  "dresseurs": [
+    {
+      "id": 855,
+      "nom": "MILO",
+      "equipe": [
+        [
+          290,
+          5
+        ],
+        [
+          288,
+          6
+        ]
+      ]
+    },
+    {
+      "id": 856,
+      "nom": "LINA",
+      "equipe": [
+        [
+          295,
+          6
+        ],
+        [
+          304,
+          7
+        ]
+      ]
+    }
+  ],
+  "nouveaux_pnj": 3,
+  "references_table_sauvages": 13,
+  "references_table_dresseurs": 37,
+  "tampon_carte": 8806,
+  "herbes_accessibles_avant_pokedex": 0,
+  "herbes_accessibles_apres_pokedex": 64,
+  "aller_retour": true,
+  "test_emulateur": false,
+  "limites": [
+    "Deux identifiants réservés utilisés sur neuf disponibles dans le moteur d'origine.",
+    "Tables déplacées et références contrôlées statiquement, sans validation d'exécution.",
+    "Générateur local, pas encore enregistré dans cette branche."
+  ]
+}
