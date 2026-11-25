@@ -1,0 +1,22 @@
+{
+  "version": "V53",
+  "crc32_source": "75204B25",
+  "crc32_v52": "CC07FD4A",
+  "crc32_cible": "C6151563",
+  "sha256_patch": "a3f7a8c450b7e0fb095c384b36ffc30e37695113ef943409ae9599613ba0b304",
+  "evenements_exterieurs": 62,
+  "variantes": 10,
+  "maximum_visibles": 5,
+  "tests_etats": 2048,
+  "tests_connectivite": 243,
+  "allocation": "0x1cab000",
+  "octets_nouveaux": 2476,
+  "aller_retour": true,
+  "test_emulateur": false,
+  "limites": [
+    "Variantes visibles au retour sur la carte extérieure, pas de simulation GBA.",
+    "Sprites natifs, changements de présence et de position uniquement.",
+    "Deux places restantes dans les 64 modèles d’objets de cette carte.",
+    "Générateur local."
+  ]
+}
