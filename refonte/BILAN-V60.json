@@ -1,0 +1,56 @@
+{
+  "version": "V60",
+  "crc32_source": "75204B25",
+  "crc32_v59": "505970E4",
+  "crc32_cible": "5DB1BAA3",
+  "sha256_patch": "fbb80c55118f904675795ae59c5e4ef91c7920a4d2b0ab77be800c8d446698b7",
+  "monuments": 5,
+  "interieurs": [
+    {
+      "carte": 26,
+      "nom": "Tribunal des griefs",
+      "layout": 443,
+      "cases": 169
+    },
+    {
+      "carte": 28,
+      "nom": "Archives du Castel",
+      "layout": 444,
+      "cases": 88
+    },
+    {
+      "carte": 29,
+      "nom": "Forge des ouvriers",
+      "layout": 445,
+      "cases": 88
+    },
+    {
+      "carte": 30,
+      "nom": "Atelier des soupapes",
+      "layout": 446,
+      "cases": 88
+    },
+    {
+      "carte": 31,
+      "nom": "Capitainerie des cendres",
+      "layout": 447,
+      "cases": 88
+    }
+  ],
+  "nouveaux_motifs": 68,
+  "nouveaux_metatiles": 59,
+  "cases_exterieures_modifiees": 160,
+  "tests_connectivite": 6,
+  "layouts_preserves": 442,
+  "allocation": "0x18d1000",
+  "octets_nouveaux": 40908,
+  "aller_retour": true,
+  "test_emulateur": false,
+  "limites": [
+    "Décor statique; lave et vannes non interactives.",
+    "Comportements décoratifs natifs retirés dans les cinq salles, collisions et sorties conservées.",
+    "Sauvegarder hors des cinq salles avant mise à jour.",
+    "Allocation dans une zone vide sans cible de pointeur alignée détectée, pas de garantie d'exécution.",
+    "Générateur local."
+  ]
+}
