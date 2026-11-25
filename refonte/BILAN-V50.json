@@ -1,0 +1,159 @@
+{
+  "version": "V50",
+  "crc32_source": "75204B25",
+  "crc32_v49": "78AE3855",
+  "crc32_cible": "FBA03359",
+  "sha256_patch": "0a27044db700f967eb56dfc21d282db586f7af9c79d72665cf1debda38ff94af",
+  "nouveaux_maitres": [
+    {
+      "id": 862,
+      "nom": "TOMAS",
+      "position": [
+        62,
+        49
+      ],
+      "equipe": [
+        [
+          66,
+          10
+        ],
+        [
+          335,
+          11
+        ],
+        [
+          74,
+          12
+        ]
+      ],
+      "script": 29880536
+    },
+    {
+      "id": 863,
+      "nom": "MAYA",
+      "position": [
+        62,
+        62
+      ],
+      "equipe": [
+        [
+          309,
+          10
+        ],
+        [
+          183,
+          11
+        ],
+        [
+          393,
+          12
+        ]
+      ],
+      "script": 29880752
+    }
+  ],
+  "nouveaux_pnj": 4,
+  "recompense": [
+    3,
+    3
+  ],
+  "canne_objet": 262,
+  "canne_flag": "0x101",
+  "slots_surf": [
+    [
+      5,
+      7,
+      309
+    ],
+    [
+      5,
+      7,
+      72
+    ],
+    [
+      6,
+      8,
+      183
+    ],
+    [
+      7,
+      9,
+      170
+    ],
+    [
+      8,
+      10,
+      310
+    ]
+  ],
+  "slots_peche": [
+    [
+      5,
+      6,
+      129
+    ],
+    [
+      5,
+      7,
+      72
+    ],
+    [
+      6,
+      8,
+      118
+    ],
+    [
+      6,
+      9,
+      326
+    ],
+    [
+      8,
+      10,
+      323
+    ],
+    [
+      10,
+      14,
+      313
+    ],
+    [
+      10,
+      14,
+      330
+    ],
+    [
+      11,
+      15,
+      116
+    ],
+    [
+      12,
+      15,
+      120
+    ],
+    [
+      12,
+      16,
+      170
+    ]
+  ],
+  "especes_aquatiques_distinctes": 13,
+  "cases_eau": 90,
+  "bordures_peche_accessibles_approx": 43,
+  "references_table_dresseurs": 37,
+  "identifiants_restants": [],
+  "tests_scripts": 64,
+  "herbes_avant_pokedex": 0,
+  "herbes_apres_pokedex": 64,
+  "allocation": "0x1c7f000",
+  "octets_nouveaux": 37076,
+  "aller_retour": true,
+  "test_emulateur": false,
+  "limites": [
+    "Surf non distribué, rencontres Surf utilisables lorsque le joueur dispose de la capacité et du badge natifs.",
+    "Canne simple: seuls les deux premiers slots de pêche sont accessibles immédiatement; autres cannes non distribuées.",
+    "Pêche et combats non exécutés en émulateur.",
+    "Les 864 identifiants natifs sont désormais occupés; extension du moteur nécessaire avant ajout de nouveaux identifiants."
+  ]
+}
